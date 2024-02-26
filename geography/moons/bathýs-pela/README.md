@@ -2,7 +2,7 @@
 
 **Bathýs** and **Pela** form a binary moon system, sharing a double-helix orbit around Mote. The two moons orbit between [Kiva](../kiva) and [Dreg](../dreg).
 
-## Geography
+## Attributes
 
 - Orbital period: 1 week
 
