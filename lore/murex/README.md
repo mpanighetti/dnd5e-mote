@@ -1,12 +1,12 @@
 # Murex
 
-**Murex** is a material extracted from plants, animals, and minerals native to the [Murexian Grove](../../geography/continents/esterfell/lenya/murexian-grove). It is used to create a [dye of a vibrant purple hue](murexian-dye) and is considered one of the more prized substances in [Esterfell](../../geography/continents/esterfell).
+**Murex** is a material extracted from plants, animals, and minerals native to the [Murexian Grove](../../mote/esterfell/lenya/murexian-grove). It is used to create a [dye of a vibrant purple hue](murexian-dye) and is considered one of the more prized substances in [Esterfell](../../mote/esterfell).
 
 ## Properties
 
-### Geology and geography
+### Geology
 
-Murex is formed from volcanic compounds found only in the soil of the [Ashen Scape](../../geography/continents/esterfell/lenya/ashen-scape). These compounds solidify into an ore called mexite miles below the soil that would theoretically be able to maintain murex in a pure form for long periods of time after extraction, but the toxic environment and dangerous animals of the Murexian Grove make any mining operations unfeasible.
+Murex is formed from volcanic compounds found only in the soil of the [Ashen Scape](../../mote/esterfell/lenya/ashen-scape). These compounds solidify into an ore called [mexite](mexite) miles below the soil that would theoretically be able to maintain murex in a pure form for long periods of time after extraction, but the toxic environment and dangerous animals of the Murexian Grove make any mining operations unfeasible.
 
 ### Life and expiration
 
@@ -26,7 +26,7 @@ A vial of pure murex can be processed with alchemist's supplies into 5 vials of 
 
 ### Trade and market
 
-Murexian-dyed materials are available on the open market but generally are only sold by merchants in northern [Lenya](../../geography/continents/esterfell/lenya) due to proximity to the continent's only known source of murex. [Cape Bec](../../societies/esterfell-accord/cape-bec) tightly controls access to murexian dyes, and pure murex is kept out of the supply chain entirely due to its inability to be stored.
+Murexian-dyed materials are available on the open market but generally are only sold by merchants in northern [Lenya](../../mote/esterfell/lenya) due to proximity to the continent's only known source of murex. [Cape Bec](../../societies/esterfell-accord/cape-bec) tightly controls access to murexian dyes, and pure murex is kept out of the supply chain entirely due to its inability to be stored.
 
 ### Storage
 

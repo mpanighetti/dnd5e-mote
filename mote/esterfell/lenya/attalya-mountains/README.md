@@ -2,7 +2,7 @@
 
 The **Attalya Mountains** are a mountain range stretching across the western region of Lenya. They are grouped into northern and southern ranges separated by the [Cliffshear Canyons](../cliffshear-canyons).
 
-## Geography
+## Geology
 
 This expanse contains some of the tallest mountain peaks in [Esterfell](../../).
 
