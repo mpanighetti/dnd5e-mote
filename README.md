@@ -37,6 +37,12 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 - [Cetean](species/cetean)
 
+### [Lore](lore)
+
+- [Dreg](lore/dreg-ore)
+- [Murex](lore/murex)
+- [Starstuff](lore/starstuff)
+
 ### [Technology](technology)
 
 - [Starstuff Ships](technology/starstuff-ships)
