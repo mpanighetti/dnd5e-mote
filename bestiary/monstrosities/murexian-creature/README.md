@@ -1,4 +1,4 @@
-# Creatures of the Murexian Grove
+# Murexian Creature
 
 The peaks of the [Ashen Scape](../../../geography/continents/esterfell/lenya/ashen-scape) loom large on the horizon, towering over the plains to the west and separating them from the seas. This mountain range was formed from now-dormant volcanoes as the continent drifted across shifting plates deep beneath the ocean. Though these mountains no longer rain down fiery death upon the lands, the soil was infused with vast deposits of a material known as [murex](../../../lore/murex), from which the [Murexian Grove](../../../geography/continents/esterfell/lenya/murexian-grove) sources both its name and its purplish hue.
 
