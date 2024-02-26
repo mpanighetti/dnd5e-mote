@@ -38,6 +38,10 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 [Mario Panighetti](https://mario.panighetti.net)
 
+### Artists
+
+- [Nikki Lacey](https://linktr.ee/hollycircling)
+
 ## Compatibility
 
 This content was written to be compatible with Dungeons & Dragons 5th Edition.  This document uses "species" in place of "race" where used in the _Systems Reference Document_.
