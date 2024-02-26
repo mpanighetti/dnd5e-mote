@@ -6,7 +6,9 @@
 
 - Orbital period: 1.5 months
 
-## Etymology
+## History
+
+### Etymology
 
 The moon's name comes from the Common word "dregs" meaning "remnants". This title refers to Dreg's function as a last line of defense keeping larger starstuff asteroids from colliding with Mote, and is also used to describe [the material](../../../lore/dreg-ore) that primarily composes the moon's surface.
 
