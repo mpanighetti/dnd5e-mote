@@ -30,7 +30,3 @@ _**Keen Smell.**_ The seal has advantage on Wisdom (Perception) checks that rely
 #### Actions
 
 _**Bite.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) piercing damage.
-
----
-
-_Source: [Selkies](https://github.com/mpanighetti/dnd5e-selkies)_

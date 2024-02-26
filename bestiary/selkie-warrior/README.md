@@ -43,7 +43,3 @@ _**Club (Person Form Only).**_ _Melee Weapon Attack:_ +4 to hit, reach 5 ft., on
 _**Selkie Skin.**_ The selkie warrior dons their [selkie skin](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/selkie-skin.md) to polymorph into their seal form, or doffs it to polymorph into their person form. Their statistics are the same in their seal form form, except where differentiated in this stat block, and they are considered to be in their true form in either form. Any equipment they are wearing or carrying in their person form merges into their seal form.
 
 While the selkie warrior's skin is not merged into their form, it is a wondrous magic item with AC 11 and 3 hit points. The skin is destroyed if on a separate plane of existence from the selkie. If another creature attunes to the selkie's skin, the selkie is charmed by that creature until the attunement ends, and no spell or other effect can remove this charm. If the skin is destroyed, the selkie grows a replacement after they complete a long rest.
-
----
-
-_Source: [Selkies](https://github.com/mpanighetti/dnd5e-selkies)_

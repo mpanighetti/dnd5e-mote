@@ -9,7 +9,3 @@ To the casual observer, this item looks identical to the pelt of a [Malagwan sea
 #### Description
 
 A selkie transforms into their person form by literally shedding the skin of their seal form, and likewise dons the skin again to become a seal. When another creature comes into possession of such a skin, they become the sole fixation of the selkie through a magical charming effect.
-
----
-
-_Source: [Selkies](https://github.com/mpanighetti/dnd5e-selkies)_
