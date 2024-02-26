@@ -22,9 +22,13 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
   - [Subros](societies/subros)
   - [Verdancy](societies/verdancy)
   - [Xiahulia](societies/xiahulia)
+- [Organizations](organizations)
+  - [Antipelan Society](organizations/antipelan-society)
+  - [The Chosen](organizations/the-chosen)
+- [Technology](technology)
+  - [Starstuff Ships](technology/starstuff-ships)
 - [Bestiary](bestiary)
-  - [Monstrosities](bestiary/monstrosities)
-    - [Murexian Creature](bestiary/monstrosities/murexian-creature)
+  - [Murexian Creature](bestiary/murexian-creature)
 
 ## Credits
 
