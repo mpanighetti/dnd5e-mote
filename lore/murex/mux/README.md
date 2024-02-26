@@ -6,7 +6,7 @@
 
 ### Geology and geography
 
-Mux can be found in marshes, streams, and other bodies of water throughout the [Ashen Scape](../../../geography/continents/esterfell/ashen-scape).
+Mux can be found in marshes, streams, and other bodies of water throughout the [Ashen Scape](../../../geography/continents/esterfell/lenya/ashen-scape).
 
 ### Origin and source
 
