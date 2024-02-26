@@ -48,9 +48,15 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 - [Starstuff Ships](technology/starstuff-ships)
 
+### [Artifacts](artifacts)
+
+- [Selkie Skin](artifacts/selkie-skin)
+
 ### [Bestiary](bestiary)
 
+- [Malagwan Seal](bestiary/malagwan-seal)
 - [Murexian Creature](bestiary/murexian-creature)
+- [Selkie Warrior](bestiary/selkie-warrior)
 
 ## Credits
 
