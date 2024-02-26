@@ -4,7 +4,8 @@ The **Verdancy** is broadly defined as any region of land not considered to be u
 
 This "unincorporated" territory is technically occupied by many geopolitical groups and tribes flying different banners and organized under various nations, but the governance of these smaller groups is not consistently recognized by either larger nation, especially any nomadic societies or any small towns and settlements that explicitly defy oversight by larger governments. The only thing that even loosely unites the Verdancy as a singular entity is a defiance to fly the banners of the Accord or Subros, instead preferring self-governance and independence, but it is very rare for multiple groups within these territories to unite under any greater cause unless a need arises to defend their land and livelihoods.
 
-> [!TIP] Large societies on the scale of nations (whether recognized by the Accord or not) will be listed in [Societies](../), whereas independent smaller townships will be grouped within the Verdancy.
+> [!TIP]
+> Large societies on the scale of nations (whether recognized by the Accord or not) will be listed in [Societies](../), whereas independent smaller townships will be grouped within the Verdancy.
 
 ## Attributes
 
