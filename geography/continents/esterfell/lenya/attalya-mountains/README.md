@@ -8,4 +8,6 @@ This expanse contains some of the tallest mountain peaks in [Esterfell](../../).
 
 ## History
 
+### Etymology
+
 The name is Elvish for "two-footed", referring to [Tillë Peak](tillë-peak) and [Taltol Peak](taltol-peak), twin mountains that stand high above the surrounding terrain and which are among the tallest points of elevation in Esterfell.
