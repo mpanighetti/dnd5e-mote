@@ -1,4 +1,4 @@
-# Cetean
+# [Cetean](https://github.com/mpanighetti/dnd5e-species/blob/main/humanoids/cetean.md)
 
 ### Description
 

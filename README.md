@@ -10,27 +10,40 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ## Resources
 
-- [Mote](mote)
-  - [Esterfell](mote/esterfell)
-- [Astronomy](astronomy)
-  - [Fellspace](astronomy/fellspace)
-  - [Moons](astronomy/moons)
-- [Societies](societies)
-  - [Esterfell Accord](societies/esterfell-accord)
-  - [Mawlin](societies/mawlin)
-  - [Ramila](societies/ramila)
-  - [Subros](societies/subros)
-  - [Verdancy](societies/verdancy)
-  - [Xiahulia](societies/xiahulia)
-- [Organizations](organizations)
-  - [Antipelan Society](organizations/antipelan-society)
-  - [The Chosen](organizations/the-chosen)
-- [Species](species)
-  - [Cetean](species/cetean)
-- [Technology](technology)
-  - [Starstuff Ships](technology/starstuff-ships)
-- [Bestiary](bestiary)
-  - [Murexian Creature](bestiary/murexian-creature)
+### [Mote](mote)
+
+- [Esterfell](mote/esterfell)
+
+### [Astronomy](astronomy)
+
+- [Fellspace](astronomy/fellspace)
+- [Moons](astronomy/moons)
+
+### [Societies](societies)
+
+- [Esterfell Accord](societies/esterfell-accord)
+- [Mawlin](societies/mawlin)
+- [Ramila](societies/ramila)
+- [Subros](societies/subros)
+- [Verdancy](societies/verdancy)
+- [Xiahulia](societies/xiahulia)
+
+### [Organizations](organizations)
+
+- [Antipelan Society](organizations/antipelan-society)
+- [The Chosen](organizations/the-chosen)
+
+### [Species](species)
+
+- [Cetean](species/cetean)
+
+### [Technology](technology)
+
+- [Starstuff Ships](technology/starstuff-ships)
+
+### [Bestiary](bestiary)
+
+- [Murexian Creature](bestiary/murexian-creature)
 
 ## Credits
 
