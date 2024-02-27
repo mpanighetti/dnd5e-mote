@@ -2,7 +2,7 @@
 
 The **Floral Divide** is a mountain range dividing the northern and southern portions of [Lenya](../). The mountains mark a natural boundary and border between the [Esterfell Accord](../../../../societies/esterfell-accord) and [Subros](../../../../societies/subros).
 
-## Geology
+## Geography
 
 The mountain range stretches from Lenya's central west coast to the center of the [Great Seam](../great-seam) to the east. The Divide consists of seven mountain peaks: 1, 2, 3, [Rokincier](rokincier), 5, 6, and 7.
 
