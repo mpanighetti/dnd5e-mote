@@ -58,6 +58,10 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 - [Selkie Skin](artifacts/selkie-skin)
 
+### [Supernatural Gifts](supernatural-gifts)
+
+- [Blessing of Foresight](supernatural-gifts/blessing-of-foresight)
+
 ### [Bestiary](bestiary)
 
 - [Malagwan Seal](bestiary/malagwan-seal)
