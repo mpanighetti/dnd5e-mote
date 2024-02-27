@@ -1,6 +1,6 @@
 # Waypoints
 
-A **waypoint** is a location in the Material Plane where the barriers to other planes are weakened, allowing interplanar travel without the use of spells. In [Fellspace](../../astronomy/fellspace), waypoints are typically created by the forceful impact of a comet or meteorite with a planetary body and the associated pulverization of [starstuff](../starstuff).
+A **waypoint** is a location in the Material Plane where the barriers to other planes are weakened, allowing interplanar travel without the use of spells. In [Fellspace](../../astronomy/fellspace), waypoints are typically created by the forceful impact of a comet or meteorite with a planetary body and the associated pulverization of [starstuff](../../artifacts/starstuff).
 
 Waypoints can theoretically be made between the Material Plane and any other plane, but it is more common for cosmologically "closer" planes to intersect in this manner, such as the Feywild or Shadowfell.
 

@@ -1,6 +1,6 @@
 # Dreg
 
-**Dreg** is the smallest moon of Mote and is also its closest orbiting natural satellite. The moon acts as a final layer of protection from freefalling [starstuff](../../../lore/starstuff) that gets past [Kiva](../kiva) and [Bathýs-Pela](bathýs-pela) on its way to Mote. Dreg has a dark nonreflective surface that can sometimes make it difficult to see from Mote's surface, although it briefly emits erratic flashes of light during larger starstuff collisions.
+**Dreg** is the smallest moon of Mote and is also its closest orbiting natural satellite. The moon acts as a final layer of protection from freefalling [starstuff](../../../artifacts/starstuff) that gets past [Kiva](../kiva) and [Bathýs-Pela](bathýs-pela) on its way to Mote. Dreg has a dark nonreflective surface that can sometimes make it difficult to see from Mote's surface, although it briefly emits erratic flashes of light during larger starstuff collisions.
 
 ## Attributes
 
@@ -10,7 +10,7 @@
 
 ### Etymology
 
-The moon's name comes from the Common word "dregs" meaning "remnants". This title refers to Dreg's function as a last line of defense keeping larger starstuff asteroids from colliding with Mote, and is also used to describe [the material](../../../lore/dreg-ore) that primarily composes the moon's surface.
+The moon's name comes from the Common word "dregs" meaning "remnants". This title refers to Dreg's function as a last line of defense keeping larger starstuff asteroids from colliding with Mote, and is also used to describe [the material](../../../artifacts/dreg-ore) that primarily composes the moon's surface.
 
 ## Materials
 

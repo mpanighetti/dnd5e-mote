@@ -8,7 +8,7 @@
 
 ## Description
 
-Kiva's mass acts as a beacon for incoming [starstuff](../../../lore/starstuff), drawing the material to its surface before much of it can reach Mote. The moon glows faintly but constantly with starstuff energy, causing it to be visible most nights and preventing it from having visible moon phases, although it disappears from view when the smaller [Dreg](../dreg) eclipses it and negates its glow with antimagic.
+Kiva's mass acts as a beacon for incoming [starstuff](../../../artifacts/starstuff), drawing the material to its surface before much of it can reach Mote. The moon glows faintly but constantly with starstuff energy, causing it to be visible most nights and preventing it from having visible moon phases, although it disappears from view when the smaller [Dreg](../dreg) eclipses it and negates its glow with antimagic.
 
 ## History
 
