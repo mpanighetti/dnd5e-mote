@@ -6,7 +6,7 @@
 
 - pronouns: he/him
 - species: lightfoot halfling
-- known languages: Halfling, Common, Elvish
+- languages: Halfling, Common, Elvish
 
 ## Name
 
