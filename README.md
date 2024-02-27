@@ -38,6 +38,8 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 - [Antipelan Society](organizations/antipelan-society)
 - [The Chosen](organizations/the-chosen)
+- [Order of Istus](organizations/order-of-istus)
+- [Tealeaf Estate](organizations/tealeaf-estate)
 
 ### [Species](species)
 
