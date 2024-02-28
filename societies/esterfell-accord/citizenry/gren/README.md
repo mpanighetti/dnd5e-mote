@@ -11,4 +11,4 @@ Gren is an _acolyte_ of the [Order of Istus](../../../../organizations/order-of-
 
 ## History
 
-Gren stole a _wand of secrets_ from the Temple of Istus, intending to use it to transfer the [blessing of foresight](../../../../supernatural-gifts/blessing-of-foresight) from [Adelia](../adelia) to [Kadak the Ravager](../../../verdancy/citizenry/kadak-the-ravager).
+Gren stole a _wand of secrets_ from the Temple of Istus, intending to use it to transfer the [blessing of foresight](../../../../supernatural-gifts/blessing-of-foresight) from [Adelia](../adelia) to [Kadak the Ravager](../kadak-the-ravager).
