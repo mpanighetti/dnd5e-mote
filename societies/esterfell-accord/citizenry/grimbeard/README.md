@@ -9,4 +9,4 @@
 - languages: Common, Dwarvish
 
 > [!TIP]
-> Grimbeard is named after Grimbard the Badger from Reynard the Fox.
+> Grimbeard is named after Grimbard the Badger from [Reynard the Fox](https://en.wikipedia.org/wiki/Reynard_the_Fox).
