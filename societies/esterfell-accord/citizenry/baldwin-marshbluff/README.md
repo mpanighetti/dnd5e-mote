@@ -1,6 +1,6 @@
 # Baldwin Marshbluff
 
-**Baldwin Marshbluff** is the head of the [Leving](../../leving) chapter of [Reynard's Den](../../../../organizations/reynard's-den), who simultaneously operates the [Gilded Purse](../../../../organizations/gilded-purse) gang.
+**Baldwin Marshbluff** is the head of the [Leving](../../leving) chapter of [Reynard's Den](../../../../organizations/reynards-den), who simultaneously operates the [Gilded Purse](../../../../organizations/gilded-purse) gang.
 
 ## Attributes
 
