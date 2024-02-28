@@ -7,6 +7,7 @@
 - pronouns: he/him
 - species: kobold
 - languages: Draconic, Common
+- title: First Knight of Sanctus Salimandus
 
 ## History
 

@@ -1,6 +1,6 @@
 # Dreg
 
-**Dreg** is an exotic material found primarily on [the moon of the same name](../../astronomy/moons/dreg) orbiting Mote. It naturally emits a field of antimagic powerful enough to neutralize the power of [starstuff](../starstuff).
+**Dreg** is an exotic material found primarily on [the moon of the same name](../../astronomy/moons/dreg) orbiting [Mote](../../mote). It naturally emits a field of antimagic powerful enough to neutralize the power of [starstuff](../starstuff).
 
 ## Properties
 
@@ -16,10 +16,10 @@ Dreg does not degrade into other forms and can endure wide ranges of temperature
 
 ### Everyday use
 
-Dreg naturally emits an area of antimagic (as in the _antimagic field_ spell) and thus can serve as a means of suppressing spells and magical effects within close proximity. The antimagic area's radius scales with the amount ofaccumulated dreg: a tiny chunk of dreg emits a 5-ft. antimagic field, and this field's radius extends by 5 feet for each size category above Tiny. The [Esterfell Accord](../../societies/esterfell-accord) has been trying to acquire dreg to study the practical application of these effects, but the ore's extreme rarity in [Esterfell](../../mote/esterfell) has slowed any such research.
+Dreg naturally emits an area of antimagic (as in the _antimagic field_ spell) and thus can serve as a means of suppressing spells and magical effects within close proximity. The antimagic area's radius scales with the amount of accumulated dreg: a tiny chunk of dreg emits a 5-ft. antimagic field, and this field's radius extends by 5 feet for each size category above Tiny. The [Esterfell Accord](../../societies/esterfell-accord) has been trying to acquire dreg to study the practical application of these effects, but the ore's extreme rarity in [Esterfell](../../mote/esterfell) has slowed any such research.
 
 Dreg's antimagic effect has a unique property when interacting with starstuff: any such material left within the sphere of antimagic of dreg will permanently convert into more dreg after 1d4 hours. This effect only occurs if the volume of dreg is equal to or greater than the volume of starstuff; for example, a medium chuck of starstuff can only be affected in this manner by a medium or larger chunk of dreg. The high value of starstuff and the permanency of the conversion generally discourages this use.
 
 ### Storage
 
-Dreg is a stable substance with an indefinite shelf life, but precautions must be taken to prevent its antimagic field from depowering other magical objects within proximity.
+Dreg is a stable substance with an indefinite shelf life, but precautions must be taken to prevent its antimagic field from nullifying other magical objects within proximity.
