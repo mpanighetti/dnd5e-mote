@@ -5,6 +5,8 @@
 ## Attributes
 
 - pronouns: she/her
+- species: wood elf
+- languages: Common, Elvish
 
 ## Description
 

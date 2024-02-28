@@ -5,3 +5,5 @@
 ## Attributes
 
 - pronouns: she/her
+- species: high elf
+- languages: Common, Elvish, Druidic, Sylvan, Dwarvish
