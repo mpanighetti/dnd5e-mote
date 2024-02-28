@@ -7,7 +7,7 @@
 - pronouns: she/her
 - species: tiefling
 - languages: Common, Infernal, Thieves' Cant
-- aliases: The Raven
+- aliases: Raven
 
 ## Appearance
 
