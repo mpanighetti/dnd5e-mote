@@ -1,6 +1,6 @@
 # Kari Outskirts
 
-The **Kari Outskirts** are combrised of broad prairie lands and tundra south of the [Floral Divide](../floral-divide).
+The **Kari Outskirts** are comprised of broad prairie lands and tundra south of the [Floral Divide](../floral-divide).
 
 ## Settlements
 
