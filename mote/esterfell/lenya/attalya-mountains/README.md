@@ -1,6 +1,6 @@
 # Attalya Mountains
 
-The **Attalya Mountains** are a mountain range stretching across the western region of Lenya. They are grouped into northern and southern ranges separated by the [Cliffshear Canyons](../cliffshear-canyons).
+The **Attalya Mountains** are a mountain range stretching across the western region of [Lenya](../). They are grouped into northern and southern ranges separated by the [Cliffshear Canyons](../cliffshear-canyons).
 
 ## Geography
 
