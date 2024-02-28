@@ -1,4 +1,4 @@
-# [Blessing of Foresight](https://github.com/mpanighetti/dnd5e-feats/blob/main/featssupernatural-gifts/blessings/blessing-of-foresight.md)
+# [Blessing of Foresight](https://github.com/mpanighetti/dnd5e-feats/blob/main/supernatural-gifts/blessings/blessing-of-foresight.md)
 
 [Istus](../../pantheon/istus) has blessed you with the ability to tap into the weavings of fate and glimpse future events. This foreknowledge allows you to bend fate slightly, potentially changing the outcome of your personal destiny.
 
