@@ -1,6 +1,6 @@
 # Kalista
 
-**Kalista** is a field operative for [Reynard's Den](../../../../organizations/reynard's-den). She utilizes a raven named Poe to send and receive messages with other Den members.
+**Kalista** is a field operative for [Reynard's Den](../../../../organizations/reynards-den). She utilizes a raven named Poe to send and receive messages with other Den members.
 
 ## Attributes
 
