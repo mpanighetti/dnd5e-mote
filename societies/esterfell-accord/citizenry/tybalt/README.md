@@ -1,6 +1,6 @@
 # Tybalt
 
-**Tybalt** runs the [Ëaruilë](../../earuile) chapter of [Reynard's Den](../../../../organizations/reynard's-den). She primarily recruits tieflings as a means of providing them with work and protections.
+**Tybalt** runs the [Ëaruilë](../../earuile) chapter of [Reynard's Den](../../../../organizations/reynards-den). She primarily recruits tieflings as a means of providing them with work and protections.
 
 ## Attributes
 
