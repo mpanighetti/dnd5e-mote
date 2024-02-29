@@ -13,6 +13,11 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 ### [Mote](mote)
 
 - [Esterfell](mote/esterfell)
+  - [Ashen Archipelago](mote/esterfell/ashen-archipelago)
+  - [Barria](mote/esterfell/barria)
+  - [Lenya](mote/esterfell/lenya)
+  - [Malagwa](mote/esterfell/malagwa)
+  - [Yggru](mote/esterfell/yggru)
 
 ### [Astronomy](astronomy)
 
