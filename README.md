@@ -18,6 +18,9 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 - [Fellspace](astronomy/fellspace)
 - [Moons](astronomy/moons)
+  - [Kiva](astronomy/moons/kiva)
+  - [Bathýs-Pela](astronomy/moons/bathys-pela)
+  - [Dreg](astronomy/moons/dreg)
 
 ### [Societies](societies)
 
