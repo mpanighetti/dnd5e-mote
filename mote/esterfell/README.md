@@ -3,7 +3,7 @@
 **Esterfell** is a continent consisting of multiple islands.
 
 <figure>
-  <img src="esterfell-continent-map-mario=panighetti.jpg" alt="Drawing of a map of Esterfell. The islands are labeled with their names and are listed here from largest to smallest: Lenya, the roughly trapezoidal central land mass with a circular sea in its top-center, mountains to the west and south, canyons to the northwest and east, purple forests to the northeast, and green regions across its center; Yggru, a heart-shaped island to the southwest covered in icy mountains; Barria, a rhombus-shaped island to the west marked as mostly flat desert land with some small peaks in the lower-left corner; Malagwa, a triangle-shaped cay with a deep lake in its center; and the Ashen Archipelago, some tiny island mountains off the east coast of Lenya near the purple forests." />
+  <img src="esterfell-continent-map-mario-panighetti.jpg" alt="Drawing of a map of Esterfell. The islands are labeled with their names and are listed here from largest to smallest: Lenya, the roughly trapezoidal central land mass with a circular sea in its top-center, mountains to the west and south, canyons to the northwest and east, purple forests to the northeast, and green regions across its center; Yggru, a heart-shaped island to the southwest covered in icy mountains; Barria, a rhombus-shaped island to the west marked as mostly flat desert land with some small peaks in the lower-left corner; Malagwa, a triangle-shaped cay with a deep lake in its center; and the Ashen Archipelago, some tiny island mountains off the east coast of Lenya near the purple forests." />
   <figcaption>Esterfell Continent Map by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
 
