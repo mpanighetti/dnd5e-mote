@@ -9,20 +9,20 @@ The **Sanguine Starcatcher** is the first [starfire ship](../../../technology/st
 
 ## Officers
 
-- [Aliana Cargonia](aliana-cargonia): captain
-- [Mayim Marim](mayim-marim): first mate
-- [Moobles](moobles): spelljammer
-- [Ooeeoo](ooeeoo): quartermaster
-- [Tenns](tenns): engineer
-- [Fibula](fibula): arcangineer (assistant engineer)
-- [E.A.S.T.W.O.O.D.](eastwood): arcane core security
-- [Veronica Marth](veronica-marth): assistant spelljammer
-- [Jahndra](jahndra): medic
+- [Aliana Cargonia](../members/aliana-cargonia): captain
+- [Mayim Marim](../members/mayim-marim): quartermaster
+- [Moobles](../members/moobles): spelljammer
+- [Ooeeoo](../members/ooeeoo): navigator
+- [Tenns](../members/tenns): engineer
+- [Fibula](../members/fibula): arcangineer (assistant engineer)
+- [E.A.S.T.W.O.O.D.](../members/eastwood): arcane core security
+- [Veronica Marth](../members/veronica-marth): assistant spelljammer
 
 ## Crew
 
-- [Fionn](fionn)
-- [Gina](gina)
-- [Globule](globule)
-- [Yira Halian](yira-halian)
-- [Tamori](tamori)
+- [Fionn](../members/fionn): cook
+- [Gina](../members/gina): munitions
+- [Globule](../members/globule)
+- [Jahndra](../members/jahndra): medic
+- [Yira Halian](../members/yira-halian)
+- [Tamori](../members/tamori)

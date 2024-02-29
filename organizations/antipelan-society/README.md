@@ -2,9 +2,35 @@
 
 The **Antipelan Society** is a secretive organization operating off of the northern coast of [Lenya](../../mote/esterfell/lenya) dedicated to the acquisition of [starstuff](../../artifacts/starstuff) found floating freely in [Fellspace](../../astronomy/fellspace). The Antipelans are currently the only group on [Mote](../../mote) who have developed spelljamming technology, and they hope to use this advantage to gain political and military control over Fellspace ahead of any other societies on the planet, and before any outside spacefaring powers encroach on the territory.
 
-## Fleet
+## Members
 
-- [Sanguine Starcatcher](sanguine-starcatcher)
+### Base officers
+
+- [Remington Enoch](members/remington-enoch): admiral
+- [Jelik](members/jelik): research and development
+- [Dmitri Vlasov](members/dmitri-vlasov): petty officer
+
+### Ship crews
+
+#### [Sanguine Starcatcher](sanguine-starcatcher)
+
+- [Aliana Cargonia](members/aliana-cargonia)
+- [E.A.S.T.W.O.O.D.](members/eastwood)
+- [Fibula](members/fibula)
+- [Fionn](members/fionn)
+- [Globule](members/globule)
+- [Jahndra](members/jahndra)
+- [Mayim Marim](members/mayim-marim)
+- [Moobles](members/moobles)
+- [Ooeeoo](members/ooeeoo)
+- [Tamori](members/tamori)
+- [Tenns](members/tenns)
+- [Veronica Marth](members/veronica-marth)
+- [Yira Halian](members/yira-halian)
+
+#### AP-SF-02
+
+- [Qinran Zandeyr](members/qinran-zandeyr): captain
 
 ## History
 
