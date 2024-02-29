@@ -5,7 +5,11 @@
 ## Attributes
 
 - type: inn
-- owner: Garlec Deg
+
+## Staff
+
+- Garlec Deg (proprieter)
+- [Damon Shask](../../citizenry/damon-shask) (bartender)
 
 ## Expenses
 

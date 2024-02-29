@@ -1,6 +1,6 @@
 # Kiva
 
-**Kiva** is the largest moon of Mote.
+**Kiva** is the largest moon of [Mote](../../../mote).
 
 ## Attributes
 
