@@ -1,6 +1,6 @@
 # [Aliana Cargonia](https://www.dndbeyond.com/characters/81155373/UMolr4)
 
-**Aliana Cargonia** is the heir apparent of Ithilia, who ran away from home to avoid an arranged marriage in favor of bonding with her beloved maidservant. Her travels through [Fellspace](../../../../astronomy/fellspace) eventually led to her working with the [Antipelan Society](../../) and becoming the captain of the [Sanguine Starcatcher](../../sanguine-starcatcher).
+**Aliana Cargonia** is the heir apparent of Ithilia, who ran away from home to avoid an arranged marriage in favor of bonding with her beloved maidservant. Her travels through [Fellspace](../../../../astronomy/fellspace) eventually led to her working with the [Antipelan Society](../../) and becoming the captain of the [Sanguine Starcatcher](../../fleet/sanguine-starcatcher).
 
 ## Attributes
 

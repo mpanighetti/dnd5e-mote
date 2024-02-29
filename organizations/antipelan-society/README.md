@@ -12,7 +12,7 @@ The **Antipelan Society** is a secretive organization operating off of the north
 
 ### Ship crews
 
-#### [Sanguine Starcatcher](sanguine-starcatcher)
+#### [Sanguine Starcatcher](fleet/sanguine-starcatcher)
 
 - [Aliana Cargonia](members/aliana-cargonia)
 - [E.A.S.T.W.O.O.D.](members/eastwood)
@@ -28,7 +28,7 @@ The **Antipelan Society** is a secretive organization operating off of the north
 - [Veronica Marth](members/veronica-marth)
 - [Yira Halian](members/yira-halian)
 
-#### AP-SF-02
+#### [AP-SF-02](fleet/ap-sf-02)
 
 - [Qinran Zandeyr](members/qinran-zandeyr): captain
 
