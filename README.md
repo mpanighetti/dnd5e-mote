@@ -93,6 +93,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 ### Artists
 
 - [Nikki Lacey](https://linktr.ee/hollycircling)
+- Mario Panighetti
 
 ## Compatibility
 
