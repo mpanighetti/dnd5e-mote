@@ -32,7 +32,11 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 - [Antipelan Society](organizations/antipelan-society)
 - [The Chosen](organizations/the-chosen)
+- [Edgewood Construction](organizations/edgewood-construction)
+- [Gilded Purse](organizations/gilded-purse)
 - [Order of Istus](organizations/order-of-istus)
+- [Overseers of the Eager](organizations/overseers-of-the-eager)
+- [Reynard's Den](organizations/reynards-den)
 - [Tealeaf Estate](organizations/tealeaf-estate)
 
 ### [Species](species)
