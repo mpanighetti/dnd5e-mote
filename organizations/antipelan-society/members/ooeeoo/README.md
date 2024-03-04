@@ -15,4 +15,4 @@
 
 ## History
 
-Ooeeoo took the Oath of the Open Sea, pledging fealty to Fellspace itself and to his cetean pod in their shared goal of amassing and furthering knowledge of the stars.
+Ooeeoo took the Oath of the Open Sea, pledging fealty to Fellspace itself and to his cetean pod in their shared goal of amassing and furthering their communal knowledge of the stars.

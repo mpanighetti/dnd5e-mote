@@ -14,23 +14,26 @@ The **Antipelan Society** is a secretive organization operating off of the north
 
 #### [Sanguine Starcatcher](fleet/sanguine-starcatcher)
 
-- [Aliana Cargonia](members/aliana-cargonia)
-- [E.A.S.T.W.O.O.D.](members/eastwood)
-- [Fibula](members/fibula)
-- [Fionn](members/fionn)
+- [Aliana Cargonia](members/aliana-cargonia): captain
+- [E.A.S.T.W.O.O.D.](members/eastwood): arcane core security
+- [Fibula](members/fibula): arcangineer (assistant engineer)
+- [Fionn](members/fionn): cook
+- [Gina](members/gina): munitions
 - [Globule](members/globule)
-- [Jahndra](members/jahndra)
-- [Mayim Marim](members/mayim-marim)
-- [Moobles](members/moobles)
-- [Ooeeoo](members/ooeeoo)
+- [Jahndra](members/jahndra): medic
+- [Mayim Marim](members/mayim-marim): quartermaster
+- [Moobles](members/moobles): spelljammer
+- [Ooeeoo](members/ooeeoo): navigator
 - [Tamori](members/tamori)
-- [Tenns](members/tenns)
-- [Veronica Marth](members/veronica-marth)
+- [Tenns](members/tenns): engineer
+- [Veronica Marth](members/veronica-marth): assistant spelljammer
 - [Yira Halian](members/yira-halian)
 
 #### [AP-SF-02](fleet/ap-sf-02)
 
 - [Qinran Zandeyr](members/qinran-zandeyr): captain
+- [Gribbly](members/gribbly)
+- [Plupp](members/plupp)
 
 ## History
 
