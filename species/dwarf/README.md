@@ -6,7 +6,7 @@
 
 ## Dwarven ancestries
 
-### Deep dwarves
+### Deep dwarf
 
 #### Description
 
@@ -16,7 +16,7 @@
 
 Deep dwarves established large settlements in the lava tubes shaped over millennia by [Mount Hora](../../mote/esterfell/lenya/mount-hora), eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../../mote/esterfell/oceans/lorunian-strait).
 
-### Desert dwarves
+### [Desert dwarf](https://github.com/mpanighetti/dnd5e-species/tree/main/humanoids/desert-dwarf.md)
 
 #### Description
 
@@ -43,7 +43,7 @@ _**Dwarven Resilience.**_ You have Resistance to Poison Damage. You also have Ad
 
 _**Sandhopping.**_ You move normally in nonmagical difficult terrain.
 
-### Hill dwarves
+### Hill dwarf
 
 #### Description
 
@@ -53,7 +53,7 @@ _**Sandhopping.**_ You move normally in nonmagical difficult terrain.
 
 The original hill dwarf settlers of Esterfell were said to step off their sailing ships and never stop walking. This quickly distributed them across the flatter regions of the continent, such that they can be found in most environments at sea level. The largest population of hill dwarves resides within the [Bailen Plains](../../mote/esterfell/lenya/bailen-plains), but any landlocked settlement in Lenya can reliably be expected to include some members of this ancestry.
 
-### Mountain dwarves
+### Mountain dwarf
 
 #### Description
 
