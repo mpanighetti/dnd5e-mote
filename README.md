@@ -50,6 +50,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 ### [Species](species)
 
 - [Cetean](species/cetean)
+- [Dwarf](species/dwarf)
 - [Selkie](species/selkie)
 
 ### [Lore](lore)
