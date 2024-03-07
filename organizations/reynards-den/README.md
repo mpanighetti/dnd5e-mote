@@ -12,14 +12,14 @@
 - [Grimbeard](../../societies/esterfell-accord/citizenry/grimbeard) ([Needledale](../../societies/esterfell-accord/needledale))
 - [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff) ([Leving](../../societies/esterfell-accord/leving))
 - [Krueger](../../societies/esterfell-accord/citizenry/krueger) ([Redgrave](../../societies/esterfell-accord/redgrave))
-- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer) ([Bridgeport](../../societies/esterfell-accord/bridgeport)
+- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer) ([Bridgeport](../../societies/esterfell-accord/bridgeport))
 - [Bellin](../../societies/esterfell-accord/citizenry/bellin) ([Hewpass](../../societies/esterfell-accord/hewpass))
 
 ### Agents
 
-- [Kalista](../../societies/esterfell-accord/citizenry/kalista)
-- [Olivash](../../societies/esterfell-accord/citizenry/olivash)
-- [S'akmezzi](../../societies/esterfell-accord/citizenry/sakmezzi)
+- [Kalista](../../societies/esterfell-accord/citizenry/kalista) (field operative)
+- [Olivash](../../societies/esterfell-accord/citizenry/olivash) (Ëaruilë)
+- [S'akmezzi](../../societies/esterfell-accord/citizenry/sakmezzi) (Leving and [Overseam](../../societies/esterfell-accord/overseam))
 
 ## Communication
 
