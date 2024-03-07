@@ -1,19 +1,19 @@
 # Reynard's Den
 
-**Reynard's Den** is a cartel operating out of several cities in the [Esterfell Accord](../../societies/esterfell-accord). Its main business comes from smuggling stolen teas out of [Brier Glen](../../societies/esterfell-accord/brier-glen) to sell on the black market in [Leving](../../societies/esterfell-accord/leving) and [Overseam](../../societies/esterfell-accord/overseam), but the organization has agents secretly furthering its financial and political efforts throughout the Accord.
+**Reynard's Den** is a cartel operating out of several cities across the [Esterfell Accord](../../societies/esterfell-accord). Its main business comes from smuggling stolen teas out of [Brier Glen](../../societies/esterfell-accord/brier-glen) to sell on the black market in [Leving](../../societies/esterfell-accord/leving) and [Overseam](../../societies/esterfell-accord/overseam), but the organization has agents secretly furthering its financial and political efforts throughout the Accord.
 
 ## Known members
 
 ### Leadership
 
-- [Reynard](../../societies/esterfell-accord/citizenry/reynard)
-- [Ichika](../../societies/esterfell-accord/citizenry/ichika)
-- [Tybalt](../../societies/esterfell-accord/citizenry/tybalt)
-- [Grimbeard](../../societies/esterfell-accord/citizenry/grimbeard)
-- [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff)
-- [Krueger](../../societies/esterfell-accord/citizenry/krueger)
-- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer)
-- [Bellin](../../societies/esterfell-accord/citizenry/bellin)
+- [Reynard](../../societies/esterfell-accord/citizenry/reynard) - [Cape Bec](../../societies/esterfell-accord/cape-bec)
+- [Ichika](../../societies/esterfell-accord/citizenry/ichika) - [Suizenloch](../../societies/esterfell-accord/suizenloch)
+- [Tybalt](../../societies/esterfell-accord/citizenry/tybalt) - [Ëaruilë](../../societies/esterfell-accord/earuile)
+- [Grimbeard](../../societies/esterfell-accord/citizenry/grimbeard) - [Needledale](../../societies/esterfell-accord/needledale)
+- [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff) - [Leving](../../societies/esterfell-accord/leving)
+- [Krueger](../../societies/esterfell-accord/citizenry/krueger) - [Redgrave](../../societies/esterfell-accord/redgrave)
+- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer) - [Bridgeport](../../societies/esterfell-accord/bridgeport)
+- [Bellin](../../societies/esterfell-accord/citizenry/bellin) - [Hewpass](../../societies/esterfell-accord/hewpass)
 
 ### Agents
 
