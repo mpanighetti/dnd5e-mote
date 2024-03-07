@@ -10,7 +10,7 @@
 - [Ichika](../../societies/esterfell-accord/citizenry/ichika) ([Suizenloch](../../societies/esterfell-accord/suizenloch))
 - [Tybalt](../../societies/esterfell-accord/citizenry/tybalt) ([Ëaruilë](../../societies/esterfell-accord/earuile))
 - [Grimbeard](../../societies/esterfell-accord/citizenry/grimbeard) ([Needledale](../../societies/esterfell-accord/needledale))
-- [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff) ([Leving](../../societies/esterfell-accord/leving))
+- [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff) (Leving)
 - [Krueger](../../societies/esterfell-accord/citizenry/krueger) ([Redgrave](../../societies/esterfell-accord/redgrave))
 - [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer) ([Bridgeport](../../societies/esterfell-accord/bridgeport))
 - [Bellin](../../societies/esterfell-accord/citizenry/bellin) ([Hewpass](../../societies/esterfell-accord/hewpass))
@@ -19,7 +19,7 @@
 
 - [Kalista](../../societies/esterfell-accord/citizenry/kalista) (field operative)
 - [Olivash](../../societies/esterfell-accord/citizenry/olivash) (Ëaruilë)
-- [S'akmezzi](../../societies/esterfell-accord/citizenry/sakmezzi) (Leving and [Overseam](../../societies/esterfell-accord/overseam))
+- [S'akmezzi](../../societies/esterfell-accord/citizenry/sakmezzi) (Leving and Overseam)
 
 ## Communication
 
