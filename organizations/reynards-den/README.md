@@ -12,7 +12,7 @@
 - [Grimbeard](../../societies/esterfell-accord/citizenry/grimbeard) ([Needledale](../../societies/esterfell-accord/needledale))
 - [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff) ([Leving](../../societies/esterfell-accord/leving))
 - [Krueger](../../societies/esterfell-accord/citizenry/krueger) ([Redgrave](../../societies/esterfell-accord/redgrave))
-- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer) ([Bridgeport])(../../societies/esterfell-accord/bridgeport)
+- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer) ([Bridgeport](../../societies/esterfell-accord/bridgeport)
 - [Bellin](../../societies/esterfell-accord/citizenry/bellin) ([Hewpass](../../societies/esterfell-accord/hewpass))
 
 ### Agents
