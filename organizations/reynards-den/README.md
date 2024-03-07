@@ -6,14 +6,14 @@
 
 ### Leadership
 
-- [Reynard](../../societies/esterfell-accord/citizenry/reynard) - [Cape Bec](../../societies/esterfell-accord/cape-bec)
-- [Ichika](../../societies/esterfell-accord/citizenry/ichika) - [Suizenloch](../../societies/esterfell-accord/suizenloch)
-- [Tybalt](../../societies/esterfell-accord/citizenry/tybalt) - [Ëaruilë](../../societies/esterfell-accord/earuile)
-- [Grimbeard](../../societies/esterfell-accord/citizenry/grimbeard) - [Needledale](../../societies/esterfell-accord/needledale)
-- [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff) - [Leving](../../societies/esterfell-accord/leving)
-- [Krueger](../../societies/esterfell-accord/citizenry/krueger) - [Redgrave](../../societies/esterfell-accord/redgrave)
-- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer) - [Bridgeport](../../societies/esterfell-accord/bridgeport)
-- [Bellin](../../societies/esterfell-accord/citizenry/bellin) - [Hewpass](../../societies/esterfell-accord/hewpass)
+- [Reynard](../../societies/esterfell-accord/citizenry/reynard) ([Cape Bec](../../societies/esterfell-accord/cape-bec))
+- [Ichika](../../societies/esterfell-accord/citizenry/ichika) ([Suizenloch](../../societies/esterfell-accord/suizenloch))
+- [Tybalt](../../societies/esterfell-accord/citizenry/tybalt) ([Ëaruilë](../../societies/esterfell-accord/earuile))
+- [Grimbeard](../../societies/esterfell-accord/citizenry/grimbeard) ([Needledale](../../societies/esterfell-accord/needledale))
+- [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff) ([Leving](../../societies/esterfell-accord/leving))
+- [Krueger](../../societies/esterfell-accord/citizenry/krueger) ([Redgrave](../../societies/esterfell-accord/redgrave))
+- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer) ([Bridgeport])(../../societies/esterfell-accord/bridgeport)
+- [Bellin](../../societies/esterfell-accord/citizenry/bellin) ([Hewpass](../../societies/esterfell-accord/hewpass))
 
 ### Agents
 
