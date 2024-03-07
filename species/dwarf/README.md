@@ -41,7 +41,7 @@ _**Desert Born.**_ You have Proficiency in the Survival Skill, and you are natur
 
 _**Dwarven Resilience.**_ You have Resistance to Poison Damage. You also have Advantage on saving throws you make to avoid or end the Poisoned Condition on yourself.
 
-_**Sandhopping.**_ You move normally in nonmagical difficult terrain. Additionally, while moving through such terrain, you can Dash as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
+_**Walk Without Rhythm.**_ You move normally in nonmagical difficult terrain. Additionally, while moving through such terrain, you can Dash as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 
 ### Hill dwarf
 
