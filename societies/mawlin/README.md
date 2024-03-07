@@ -4,4 +4,15 @@
 
 ## Demographics
 
-The Mawlin tribes consist largely of species adapted to persist or thrive within the hot arid climate of Barria, including blue and red dragonborn, lizardfolk, loxodons, thri-kreen, and tieflings. But this is not a hard requirement of living with the Mawlin, and many wanderers from across [Esterfell](../../mote/esterfell) might find themselves adopted into the tribes, including humans banished by Ramila and left to fend for themselves in the harsh stretches of deserts.
+The Mawlin tribes consist largely of species adapted to persist or thrive within the hot arid climate of Barria, including the following:
+
+- Dragonborn (red and blue)
+- [Desert dwarf](../../species/dwarf)
+- Genasi (fire and earth)
+- [Sand gnome](../../species/gnome)
+- Lizardfolk
+- Loxodon
+- Thri-kreen
+- Tiefling
+
+But prior ancestry is not a strict requirement of living with the Mawlin, and many wanderers from across [Esterfell](../../mote/esterfell) might find themselves adopted into the tribes, including humans banished by Ramila and left to fend for themselves in the harsh stretches of deserts.
