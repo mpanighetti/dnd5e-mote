@@ -12,7 +12,7 @@ Dwarves possess a profound connection to the minerals that constitute [Mote](../
 
 #### Description
 
-**Desert dwarves** developed many distinct traits that make them comfortable within arid environments. Their wider feet allow them to distribute their weight across the desert sands without sinking, allowing them to dart quickly about. Their impressive beards grow thick and shaggy to insulate them from the unrelenting sun while also trapping body heat at night, and this growth of hair extends around their chests to their backs, providing ample coverage.
+**Desert dwarves** developed many distinct traits that make them comfortable within arid environments. Their wider feet allow them to distribute their weight across the desert sands without sinking, allowing them to not only dart quickly about the surface, but to even act as rudimentary flippers to burrow underground. Their impressive beards grow thick and shaggy to insulate them from the unrelenting sun while also trapping body heat at night, and this growth of hair extends around their chests to their backs, providing ample coverage.
 
 #### Distribution
 
@@ -29,11 +29,21 @@ As a desert dwarf, you have the following special traits.
 
 _**Darkvision.**_ You have Darkvision with a range of 60 feet.
 
-_**Desert Born.**_ You have Proficiency in the Survival Skill, and you are naturally adapted to hot climates. When you are in a hot climate, you have Advantage on Wisdom (Survival) checks to forage or navigate within the environment.
+_**Desert Born.**_ You are naturally adapted to hot climates, granting you Resistance to Fire Damage. In addition, you do not need to drink water, as your body is able to survive on the small amounts of moisture found in your normal food intake.
 
 _**Dwarven Resilience.**_ You have Resistance to Poison Damage. You also have Advantage on saving throws you make to avoid or end the Poisoned Condition on yourself.
 
-_**Walk Without Rhythm.**_ You move normally in nonmagical difficult terrain. Additionally, while moving through such terrain, you can Dash as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
+_**Walk Without Rhythm.**_ You have a Burrow Speed equal to your Speed. Additionally, while moving through nonmagical difficult terrain, you can Dash as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
+
+### Duergar
+
+#### Description
+
+**Duergar**, also sometimes known as **grey dwarves**, hail originally from the Underdark. This has granted them a finely honed darkvision making them well-suited to a subterranean lifestyle, as well as a latent psionic prowess common to beings sourced from that magical realm.
+
+#### Distribution
+
+Being naturally drawn to Esterfell's deep connections to the Underdark, duergar established large settlements in the lava tubes shaped over millennia by [Mount Hora](../../mote/esterfell/lenya/mount-hora)'s eruptions, eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../../mote/esterfell/oceans/lorunian-strait).
 
 ### Hill dwarf
 
@@ -54,13 +64,3 @@ The original hill dwarf settlers of Esterfell were said to step off their sailin
 #### Distribution
 
 Generally able climbers, mountain dwarves can firmly plant themselves on terrain many other folk might find difficult to traverse. As a result, the early immigrants often settled in colder mountainous terrain, including the [Floral Divide](../../mote/esterfell/lenya/floral-divide) in Lenya and the [Lithbirk Range](../../mote/esterfell/yggru/lithbirk-range) of Yggru.
-
-### Sublithic dwarf
-
-#### Description
-
-**Sublithic dwarves**, also sometimes known as **duergar** or **grey dwarves**, hail originally from the Underdark. This has granted them a finely honed darkvision making them well-suited to a subterranean lifestyle, as well as a latent psionic prowess common to beings sourced from that magical realm.
-
-#### Distribution
-
-Being naturally drawn underground, sublithic dwarves established large settlements in the lava tubes shaped over millennia by [Mount Hora](../../mote/esterfell/lenya/mount-hora)'s eruptions, eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../../mote/esterfell/oceans/lorunian-strait).
