@@ -51,6 +51,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 - [Cetean](species/cetean)
 - [Dwarf](species/dwarf)
+- [Gnome](species/gnome)
 - [Selkie](species/selkie)
 
 ### [Lore](lore)
@@ -109,6 +110,8 @@ Certain materials are included under fair use exemption of the U.S. Copyright La
 ## Third-Party Content References
 
 _Player's Handbook_ © 2014 Wizards of the Coast LLC.
+
+_Elemental Evil Player's Companion_ © 2015 Wizards of the Coast LLC.
 
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 

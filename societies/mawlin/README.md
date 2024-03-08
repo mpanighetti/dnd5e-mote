@@ -9,7 +9,7 @@ The Mawlin tribes consist largely of species adapted to persist or thrive within
 - Dragonborn (red and blue)
 - [Desert dwarf](../../species/dwarf#desert-dwarf)
 - Genasi (fire and earth)
-- [Sand gnome](../../species/gnome#sand-gnome)
+- [Dust gnome](../../species/gnome#dust-gnome)
 - Lizardfolk
 - Loxodon
 - Thri-kreen
