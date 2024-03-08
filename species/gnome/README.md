@@ -39,28 +39,28 @@ _**Waterdowsers.**_ You have Proficiency in the Survival Skill, and you are natu
 
 #### Description
 
-**Forest gnomes**
+**Forest gnomes** are arboreal people with a connection to the plants, animals, and spirits of the natural world. This magical bond even grants them a limited means of communication with tiny beasts.
 
 #### Distribution
 
-
+The temperate forests of Lenya, particularly the [Eastern Forests](../../mote/esterfell/lenya/eastern-forests), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../../societies/verdancy/balsam) and [Eldwin](../../societies/verdancy/eldwin).
 
 ### Rock gnome
 
 #### Description
 
-**Rock gnomes**
+**Rock gnomes** originated from deep underneath the largest mountains of Mote. In some corners of the world, the existence of rock gnomes only became common knowledge on the surface when [mountain dwarves](../dwarf#mountain-dwarf) unearthed them during deep mining expeditions. Their magical connection to stone makes them natural masons, and their desire to know everything about how minerals interact leads many of them to tinkering.
 
 #### Distribution
 
-
+Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../../societies/esterfell-accord)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as a the artificial island on which [Cape Bec](../../societies/esterfell-accord/cape-bec) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.
 
 ### Svirfneblin
 
 #### Description
 
-**Svirfneblin** are an Underdark lineage of gnome, leading to them sometimes being referred to as **deep gnomes**.
+**Svirfneblin** are an Underdark lineage of gnome, leading to them sometimes being referred to as **deep gnomes**. They evolved larger eyes to take in more light in pitch black subterranean environments, and innate psionic abilities common to other creatures of the Underdark.
 
 #### Distribution
 
-
+Like other Underdark beings, svirfneblin found the dark catacombs of lava tubes under [Mount Hora](../../mote/esterfell/lenya/mount-hora) to be a welcoming space to build and expand their underground settlements.
