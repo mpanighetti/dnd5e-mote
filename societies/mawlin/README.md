@@ -15,4 +15,4 @@ The Mawlin tribes consist largely of species adapted to persist or thrive within
 - Thri-kreen
 - Tiefling
 
-But prior ancestry is not a strict requirement of living with the Mawlin, and many wanderers from across [Esterfell](../../mote/esterfell) might find themselves adopted into the tribes, including humans banished by Ramila and left to fend for themselves in the harsh stretches of deserts.
+But prior ancestry is not a strict requirement of living with the Mawlin, and many wanderers from across [Esterfell](../../mote/esterfell) might find themselves adopted into the tribes, including humans banished by [The Chosen](../../organizations/the-chosen) and left to fend for themselves in the harsh stretches of deserts.
