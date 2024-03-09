@@ -8,7 +8,9 @@
 - species: tiefling
 - languages: Common, Infernal, Thieves' Cant
 - aliases: Raven
+- height: 6'6"
+- weight: 248 lbs.
 
 ## Appearance
 
-Kalista has purple skin, black hair, and gold eyes. She stands 6'6" and weighs 248 lbs.
+Kalista has purple skin, black hair, and gold eyes.
