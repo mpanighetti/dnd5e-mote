@@ -1,6 +1,6 @@
 # Mux
 
-**Mux** is a corrupted form of [murex](murex.md) occurring after removal from a [murexian creature](../../bestiary/murexian-creature). It loses most of its previous value, turning into a highly toxic substance.
+**Mux** is a corrupted form of [murex](murex.md) occurring after removal from a [murexian creature](../../bestiary/murexian-creature.md). It loses most of its previous value, turning into a highly toxic substance.
 
 ## Properties
 
