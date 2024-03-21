@@ -72,9 +72,9 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Pantheon](pantheon)
 
-- [Istus](pantheon/istus)
-- [Phygius](pantheon/phygius)
-- [Ramil](pantheon/ramil)
+- [Istus](pantheon/istus.md)
+- [Phygius](pantheon/phygius.md)
+- [Ramil](pantheon/ramil.md)
 
 ### [Supernatural Gifts](supernatural-gifts)
 

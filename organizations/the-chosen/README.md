@@ -1,6 +1,6 @@
 # The Chosen
 
-**The Chosen** are a religious cult which worship the deva [Ramil](../../pantheon/ramil) as a deity. They are the only religious group officially observed by [Ramila](../../societies/ramila).
+**The Chosen** are a religious cult which worship the deva [Ramil](../../pantheon/ramil.md) as a deity. They are the only religious group officially observed by [Ramila](../../societies/ramila).
 
 ## History
 

@@ -28,7 +28,7 @@
 >
 > Fall down and die?
 >
-> May the [Stag](../pantheon/phygius) will that Remi be found
+> May the [Stag](../pantheon/phygius.md) will that Remi be found
 >
 > ~
 >
