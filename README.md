@@ -78,7 +78,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Supernatural Gifts](supernatural-gifts)
 
-- [Blessing of Foresight](supernatural-gifts/blessing-of-foresight)
+- [Blessing of Foresight](supernatural-gifts/blessing-of-foresight.md)
 
 ### [Bestiary](bestiary)
 
