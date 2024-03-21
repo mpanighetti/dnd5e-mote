@@ -10,4 +10,4 @@
 
 ## Cultural references
 
-The Middlestag is mentioned in the song "[Remi O](../../lore/remi-o)".
+The Middlestag is mentioned in the song "[Remi O](../../lore/remi-o.md)".

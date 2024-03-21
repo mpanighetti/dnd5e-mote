@@ -22,7 +22,7 @@ The primary current use of starstuff by the Antipelans is to power arcane techno
 
 ### Byproducts
 
-In some cases, the stellar impacts that brought starstuff to a planet can create [waypoints](../lore/waypoints) between planes.
+In some cases, the stellar impacts that brought starstuff to a planet can create [waypoints](../lore/waypoints.md) between planes.
 
 ### Life and expiration
 
