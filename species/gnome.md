@@ -2,7 +2,7 @@
 
 ## Description
 
-**Gnomes** are diminutive humanoids who came to [Esterfell](../mote/esterfell) in the first few waves of immigrations. They spread across all corners of the continent, with larger populations in [Lenya](../mote/esterfell/lenya) and the [Ashen Archipelago](../mote/esterfell/ashen-archipelago) and a few families settling in [Barria](../mote/esterfell/barria) and [Yggru](../mote/esterfell/yggru).
+**Gnomes** are diminutive humanoids who came to [Esterfell](../mote/esterfell/esterfell.md) in the first few waves of immigrations. They spread across all corners of the continent, with larger populations in [Lenya](../mote/esterfell/lenya/lenya.md) and the [Ashen Archipelago](../mote/esterfell/ashen-archipelago.md) and a few families settling in [Barria](../mote/esterfell/barria.md) and [Yggru](../mote/esterfell/yggru/yggru.md).
 
 ## Gnomish ancestries
 
@@ -43,7 +43,7 @@ _**Waterdowsers.**_ You have Proficiency in the Survival and Perception Skills, 
 
 #### Distribution
 
-The temperate forests of Lenya, particularly the [Eastern Forests](../mote/esterfell/lenya/eastern-forests), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../societies/verdancy/balsam.md) and [Eldwin](../societies/verdancy/eldwin.md).
+The temperate forests of Lenya, particularly the [Eastern Forests](../mote/esterfell/lenya/eastern-forests.md), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../societies/verdancy/balsam.md) and [Eldwin](../societies/verdancy/eldwin.md).
 
 ### Rock gnome
 
@@ -63,4 +63,4 @@ Though some rock gnomes gravitated toward the mountains of Yggru, many opted ins
 
 #### Distribution
 
-Like other Underdark beings, svirfneblin found the dark catacombs of lava tubes under [Mount Hora](../mote/esterfell/lenya/mount-hora) to be a welcoming space to build and expand their underground settlements.
+Like other Underdark beings, svirfneblin found the dark catacombs of lava tubes under [Mount Hora](../mote/esterfell/lenya/mount-hora.md) to be a welcoming space to build and expand their underground settlements.

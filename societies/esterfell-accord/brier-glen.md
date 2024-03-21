@@ -1,6 +1,6 @@
 # Brier Glen
 
-**Brier Glen** is a village to the south of [Middlestag Forest](../../mote/esterfell/lenya/middlestag-forest). The town is famous as a destination for the finest teas in [Lenya](../../mote/esterfell/lenya).
+**Brier Glen** is a village to the south of [Middlestag Forest](../../mote/esterfell/lenya/middlestag-forest.md). The town is famous as a destination for the finest teas in [Lenya](../../mote/esterfell/lenya/lenya.md).
 
 ## History
 

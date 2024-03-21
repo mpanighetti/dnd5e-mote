@@ -1,6 +1,6 @@
 # Starstuff
 
-**Starstuff** is an exotic material found exclusively in [Fellspace](../astronomy/fellspace.md), having been a foundational component in the formation of [Mote](../mote/mote.md) and other startouched worlds, and with rare deposits found in free-flying asteroids. It is best known on the world of Mote as the source of comet and meteorite impacts, with all the destructive power that can bring. The continent of [Esterfell](../mote/esterfell) contains rich veins of starstuff deep underground from an ancient meteorite impact that reshaped the lands. Most starstuff in the continent is found in [Lenya](../mote/esterfell/lenya) but would require deep mining operations to access.
+**Starstuff** is an exotic material found exclusively in [Fellspace](../astronomy/fellspace.md), having been a foundational component in the formation of [Mote](../mote/mote.md) and other startouched worlds, and with rare deposits found in free-flying asteroids. It is best known on the world of Mote as the source of comet and meteorite impacts, with all the destructive power that can bring. The continent of [Esterfell](../mote/esterfell/esterfell.md) contains rich veins of starstuff deep underground from an ancient meteorite impact that reshaped the lands. Most starstuff in the continent is found in [Lenya](../mote/esterfell/lenya/lenya.md) but would require deep mining operations to access.
 
 For the enterprising individual with a propensity for risk-taking, starstuff is a tempting resource to collect within the stretches of Fellspace. The high danger of gathering such a potent material, along with the inherent dangers of the monsters and bad actors found between the stars, is potentially offset by starstuff's great value not only as a fuel source, but as a commodity to be exchanged within the broader market of the multiverse.
 
@@ -8,7 +8,7 @@ For the enterprising individual with a propensity for risk-taking, starstuff is 
 
 ### Geology
 
-Starstuff can be found wherever a comet or meteorite has impacted a world in Fellspace. The largest such historical impact in Esterfell was in the center of Lenya, at a site which became the [Esterfell Sea](../mote/esterfell/lenya/esterfell-sea).
+Starstuff can be found wherever a comet or meteorite has impacted a world in Fellspace. The largest such historical impact in Esterfell was in the center of Lenya, at a site which became the [Esterfell Sea](../mote/esterfell/lenya/esterfell-sea/esterfell-sea.md).
 
 Though starstuff was instrumental in forming the world of Mote and other rocky bodies in Fellspace, over time the material was buried by erosion and sediment and is difficult to obtain in large quantities on Mote's surface today, making a study of its physical and magical properties difficult. Starstuff is not plentiful in the stars of Fellspace, but larger deposits have been discovered by the [Antipelan Society](../organizations/antipelan-society/antipelan-society.md), which continues to explore the full capabilities of the valuable mineral.
 

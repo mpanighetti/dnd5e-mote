@@ -16,4 +16,4 @@ The two moons are less spherical than Mote's other satellites, as the centrifuga
 
 ### Etymology
 
-"Bathýs" and "Pela" both source their names from a pre-[Esterfell](../../mote/esterfell) human language; the former means "deep", and the latter is from "pélagos" meaning "open sea".
+"Bathýs" and "Pela" both source their names from a pre-[Esterfell](../../mote/esterfell/esterfell.md) human language; the former means "deep", and the latter is from "pélagos" meaning "open sea".

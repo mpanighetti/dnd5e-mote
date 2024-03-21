@@ -1,6 +1,6 @@
 # Antipelan Society
 
-The **Antipelan Society** is a secretive organization operating off of the northern coast of [Lenya](../../mote/esterfell/lenya) dedicated to the acquisition of [starstuff](../../artifacts/starstuff.md) found floating freely in [Fellspace](../../astronomy/fellspace.md). The Antipelans are currently the only group on [Mote](../../mote/mote.md) who have developed spelljamming technology, and they hope to use this advantage to gain political and military control over Fellspace ahead of any other societies on the planet, and before any outside spacefaring powers encroach on the territory.
+The **Antipelan Society** is a secretive organization operating off of the northern coast of [Lenya](../../mote/esterfell/lenya/lenya.md) dedicated to the acquisition of [starstuff](../../artifacts/starstuff.md) found floating freely in [Fellspace](../../astronomy/fellspace.md). The Antipelans are currently the only group on [Mote](../../mote/mote.md) who have developed spelljamming technology, and they hope to use this advantage to gain political and military control over Fellspace ahead of any other societies on the planet, and before any outside spacefaring powers encroach on the territory.
 
 ## Members
 
@@ -37,7 +37,7 @@ The **Antipelan Society** is a secretive organization operating off of the north
 
 ## History
 
-The Antipelans were formed as a secretive cabal of wealthy individuals seeking to increase their own power and influence by taking to the stars as the next frontier of exploration. Employing the brightest technical and arcane minds they could find on [Esterfell](../../mote/esterfell), they used their outsized wealth and access to precious starstuff to jumpstart the development of spelljamming technology. The result was the [starfire ship](../../technology/starstuff-ships/starfire-ship.md), an experimental technology that used starstuff as an exotic magical fuel to allow great bursts of speed and powerful arcane weaponry.
+The Antipelans were formed as a secretive cabal of wealthy individuals seeking to increase their own power and influence by taking to the stars as the next frontier of exploration. Employing the brightest technical and arcane minds they could find on [Esterfell](../../mote/esterfell/esterfell.md), they used their outsized wealth and access to precious starstuff to jumpstart the development of spelljamming technology. The result was the [starfire ship](../../technology/starstuff-ships/starfire-ship.md), an experimental technology that used starstuff as an exotic magical fuel to allow great bursts of speed and powerful arcane weaponry.
 
 To ensure the secrecy of their efforts, a base of operations was established beyond Lenya's continental shelf, on a small rocky outcropping in the middle of the ocean. Powerful illusion magic conceals the Antipelan base from divination or perception, making it appear to be open ocean. Any outsider on a direct course to the island is subtly redirected around it through the manipulation of local currents and wind.
 

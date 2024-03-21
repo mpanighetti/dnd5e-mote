@@ -10,4 +10,4 @@
 
 ## History
 
-Bergen is currently employed as a carpenter by Edgewood Construction. Beyond this temporary job, he lives off the land in the vicinity of [Middlestag Forest](../../../mote/esterfell/lenya/middlestag-forest), coming to Edgewood to sell animal skins and trade wares.
+Bergen is currently employed as a carpenter by Edgewood Construction. Beyond this temporary job, he lives off the land in the vicinity of [Middlestag Forest](../../../mote/esterfell/lenya/middlestag-forest.md), coming to Edgewood to sell animal skins and trade wares.

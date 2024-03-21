@@ -1,6 +1,6 @@
 # Mawlin
 
-**Mawlin** is a territory covering most of the island of [Barria](../mote/esterfell/barria). It has few standing settlements, instead consisting of multiple nomadic tribes that traverse the desert. These tribes maintain an uneasy coexistence with the territory of [Ramila](ramila.md).
+**Mawlin** is a territory covering most of the island of [Barria](../mote/esterfell/barria.md). It has few standing settlements, instead consisting of multiple nomadic tribes that traverse the desert. These tribes maintain an uneasy coexistence with the territory of [Ramila](ramila.md).
 
 ## Demographics
 
@@ -15,4 +15,4 @@ The Mawlin tribes consist largely of species adapted to persist or thrive within
 - Thri-kreen
 - Tiefling
 
-But prior ancestry is not a strict requirement of living with the Mawlin, and many wanderers from across [Esterfell](../mote/esterfell) might find themselves adopted into the tribes, including humans banished by [The Chosen](../organizations/the-chosen.md) and left to fend for themselves in the harsh stretches of deserts.
+But prior ancestry is not a strict requirement of living with the Mawlin, and many wanderers from across [Esterfell](../mote/esterfell/esterfell.md) might find themselves adopted into the tribes, including humans banished by [The Chosen](../organizations/the-chosen.md) and left to fend for themselves in the harsh stretches of deserts.

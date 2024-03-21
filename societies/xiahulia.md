@@ -1,6 +1,6 @@
 # Xiahulia
 
-**Xiahulia** is an ocean nation occupying the island of [Malagwa](../mote/esterfell/malagwa) and the continental shelf along the northern shore of [Lenya](../mote/esterfell/lenya). It is populated entirely by water-breathing people, including merfolk, triton, and [selkies](../species/selkie.md).
+**Xiahulia** is an ocean nation occupying the island of [Malagwa](../mote/esterfell/malagwa.md) and the continental shelf along the northern shore of [Lenya](../mote/esterfell/lenya/lenya.md). It is populated entirely by water-breathing people, including merfolk, triton, and [selkies](../species/selkie.md).
 
 ## Etymology
 

@@ -2,7 +2,7 @@
 
 ## Description
 
-**Dwarves** are short but broad humanoids who immigrated to [Esterfell](../mote/esterfell) in the first few waves of ships. Various groups of dwarves settled across [Lenya](../mote/esterfell/lenya), [Yggru](../mote/esterfell/yggru), and [Barria](../mote/esterfell/barria), distributing themselves based on traditional trades and environmental preferences carried over from their ancestral lands.
+**Dwarves** are short but broad humanoids who immigrated to [Esterfell](../mote/esterfell/esterfell.md) in the first few waves of ships. Various groups of dwarves settled across [Lenya](../mote/esterfell/lenya/lenya.md), [Yggru](../mote/esterfell/yggru/yggru.md), and [Barria](../mote/esterfell/barria.md), distributing themselves based on traditional trades and environmental preferences carried over from their ancestral lands.
 
 Dwarves possess a profound connection to the minerals that constitute [Mote](../mote/mote.md). This has led dwarven communities to be some of the first to perfect the process of mining precious stones, refining them, and crafting them into tools and works of art, and they in turn spread this knowledge to other societies across the world. Their dense stocky bodies can be ill-suited for swimming, but their surefootedness makes them comfortable in many earthy terrains such as mountain ranges and canyons.
 
@@ -43,7 +43,7 @@ _**Walk Without Rhythm.**_ You have a Burrow Speed equal to your Speed. Addition
 
 #### Distribution
 
-Being naturally drawn to Esterfell's deep connections to the Underdark, duergar established large settlements in the lava tubes shaped over millennia by [Mount Hora](../mote/esterfell/lenya/mount-hora)'s eruptions, eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../mote/esterfell/oceans/lorunian-strait).
+Being naturally drawn to Esterfell's deep connections to the Underdark, duergar established large settlements in the lava tubes shaped over millennia by [Mount Hora](../mote/esterfell/lenya/mount-hora.md)'s eruptions, eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../mote/esterfell/oceans/lorunian-strait.md).
 
 ### Hill dwarf
 
@@ -53,7 +53,7 @@ Being naturally drawn to Esterfell's deep connections to the Underdark, duergar 
 
 #### Distribution
 
-The original hill dwarf settlers of Esterfell were said to step off their sailing ships and never stop walking. This quickly distributed them across the flatter regions of the continent, such that they can be found in most environments at sea level. The largest population of hill dwarves resides within the [Bailen Plains](../mote/esterfell/lenya/bailen-plains), but any landlocked settlement in Lenya can reliably be expected to include some members of this ancestry.
+The original hill dwarf settlers of Esterfell were said to step off their sailing ships and never stop walking. This quickly distributed them across the flatter regions of the continent, such that they can be found in most environments at sea level. The largest population of hill dwarves resides within the [Bailen Plains](../mote/esterfell/lenya/bailen-plains.md), but any landlocked settlement in Lenya can reliably be expected to include some members of this ancestry.
 
 ### Mountain dwarf
 
@@ -63,4 +63,4 @@ The original hill dwarf settlers of Esterfell were said to step off their sailin
 
 #### Distribution
 
-Generally able climbers, mountain dwarves can firmly plant themselves on terrain many other folk might find difficult to traverse. As a result, the early immigrants often settled in colder mountainous terrain, including the [Floral Divide](../mote/esterfell/lenya/floral-divide) in Lenya and the [Lithbirk Range](../mote/esterfell/yggru/lithbirk-range) of Yggru.
+Generally able climbers, mountain dwarves can firmly plant themselves on terrain many other folk might find difficult to traverse. As a result, the early immigrants often settled in colder mountainous terrain, including the [Floral Divide](../mote/esterfell/lenya/floral-divide/floral-divide.md) in Lenya and the [Lithbirk Range](../mote/esterfell/yggru/lithbirk-range.md) of Yggru.

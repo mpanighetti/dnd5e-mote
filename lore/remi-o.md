@@ -1,6 +1,6 @@
 # Remi O
 
-"**Remi O**" is a song written by [Joras Ploughbough](../societies/esterfell-accord/citizenry/joras-ploughbough.md) in dedication to a lost love. Remi disappeared in [Middlestag Forest](../mote/esterfell/lenya/middlestag-forest) a year ago and has not been seen since.
+"**Remi O**" is a song written by [Joras Ploughbough](../societies/esterfell-accord/citizenry/joras-ploughbough.md) in dedication to a lost love. Remi disappeared in [Middlestag Forest](../mote/esterfell/lenya/middlestag-forest.md) a year ago and has not been seen since.
 
 ## Lyrics
 
