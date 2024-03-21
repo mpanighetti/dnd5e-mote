@@ -1,6 +1,6 @@
 # Mote
 
-Most worlds are built from [starstuff](artifacts/starstuff) — loose particles older than time coalescing through either happenstance or design — eventually supporting life capable of asking questions about its own provenance. These worlds tend to require an eventual calming of bombardment, without which life might be snuffed out before it has a chance to grow. Some worlds, however, flourish within the chaos, settling into a tenuous rhythm and dancing amongst the cavalcade of shooting stars. Such worlds are emboldened by their near misses, but are also empowered by their interactions. Newly fallen starstuff, a raw and chaotic but foundational material, can carry enough energy to wipe out entire civilizations, snuff out all god-fearing races — or it can herald a rejuvenation, bringing power to all who might seek it.
+Most worlds are built from [starstuff](artifacts/starstuff) — loose particles older than time coalescing through either happenstance or design — eventually supporting life capable of asking questions about its own provenance. These worlds tend to require an eventual calming of bombardment, without which life might be snuffed out before it has a chance to grow. Some worlds, however, flourish within the chaos, settling into a tenuous rhythm and dancing amongst the cavalcade of shooting stars. Such worlds are emboldened by their near misses, but are also empowered by their interactions. Newly fallen starstuff, a raw and chaotic but foundational material, can carry enough energy to wipe out entire civilizations, snuff out all god-fearing peoples — or it can herald a rejuvenation, bringing power to all who might seek it.
 
 The world of [Mote](mote) is one such shining beacon, the beneficiary of the magical essence of a cataclysmic impact thousands of years ago upon a remote continent. People from far across the seas came to this promised land which they called [Esterfell](mote/esterfell), slowly building new civilizations in a landscape untouched by awakened creatures and imbued with strange stellar energies. Even now, the children of Esterfell struggle to push against a powerful wilderness, eking out a relatively meager existence while building their empires in safer territories.
 
@@ -99,7 +99,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ## Compatibility
 
-This content was written to be compatible with Dungeons & Dragons 5th Edition.  This document uses "species" in place of "race" where used in the _Systems Reference Document_.
+This content was written to be compatible with Dungeons & Dragons 5th Edition.  This document uses "species" in place of "race" and "ancestry" or "variant" in place of "subrace" where used in the _Systems Reference Document_.
 
 ## License
 
