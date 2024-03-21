@@ -68,7 +68,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Technology](technology)
 
-- [Starstuff Ships](technology/starstuff-ships)
+- [Starstuff Ships](technology/starstuff-ships/starstuff-ships.md)
 
 ### [Pantheon](pantheon)
 
