@@ -1,6 +1,6 @@
 # Floral Divide
 
-The **Floral Divide** is a mountain range dividing the northern and southern portions of [Lenya](../). The mountains mark a natural boundary and border between the [Esterfell Accord](../../../../societies/esterfell-accord) and [Subros](../../../../societies/subros.md).
+The **Floral Divide** is a mountain range dividing the northern and southern portions of [Lenya](../). The mountains mark a natural boundary and border between the [Esterfell Accord](../../../../societies/esterfell-accord/esterfell-accord.md) and [Subros](../../../../societies/subros.md).
 
 ## Geography
 

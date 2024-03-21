@@ -1,6 +1,6 @@
 # Middlestag Forest
 
-**Middlestag Forest** is a wooded region along the southern coast of the [Esterfell Sea](../esterfell-sea). Several settlements of varying sizes surround the wood, but the forest itself has been left undeveloped by the [Esterfell Accord](../../../../societies/esterfell-accord).
+**Middlestag Forest** is a wooded region along the southern coast of the [Esterfell Sea](../esterfell-sea). Several settlements of varying sizes surround the wood, but the forest itself has been left undeveloped by the [Esterfell Accord](../../../../societies/esterfell-accord/esterfell-accord.md).
 
 ## Geography
 

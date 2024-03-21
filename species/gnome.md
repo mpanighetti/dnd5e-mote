@@ -53,7 +53,7 @@ The temperate forests of Lenya, particularly the [Eastern Forests](../mote/ester
 
 #### Distribution
 
-Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../societies/esterfell-accord)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as a the artificial island on which [Cape Bec](../societies/esterfell-accord/cape-bec) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.
+Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as a the artificial island on which [Cape Bec](../societies/esterfell-accord/cape-bec/cape-bec.md) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.
 
 ### Svirfneblin
 

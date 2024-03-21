@@ -1,25 +1,25 @@
 # Reynard's Den
 
-**Reynard's Den** is a cartel operating out of several cities across the [Esterfell Accord](../../societies/esterfell-accord). Its main business comes from smuggling stolen teas out of [Brier Glen](../../societies/esterfell-accord/brier-glen) to sell on the black market in [Leving](../../societies/esterfell-accord/leving) and [Overseam](../../societies/esterfell-accord/overseam), but the organization has agents secretly furthering its financial and political efforts throughout the Accord.
+**Reynard's Den** is a cartel operating out of several cities across the [Esterfell Accord](../../societies/esterfell-accord/esterfell-accord.md). Its main business comes from smuggling stolen teas out of [Brier Glen](../../societies/esterfell-accord/brier-glen.md) to sell on the black market in [Leving](../../societies/esterfell-accord/leving/leving.md) and [Overseam](../../societies/esterfell-accord/overseam.md), but the organization has agents secretly furthering its financial and political efforts throughout the Accord.
 
 ## Known members
 
 ### Leadership
 
-- [Reynard](../../societies/esterfell-accord/citizenry/reynard) ([Cape Bec](../../societies/esterfell-accord/cape-bec))
-- [Ichika](../../societies/esterfell-accord/citizenry/ichika) ([Suizenloch](../../societies/esterfell-accord/suizenloch))
-- [Tybalt](../../societies/esterfell-accord/citizenry/tybalt) ([Ëaruilë](../../societies/esterfell-accord/earuile))
-- [Grimbeard](../../societies/esterfell-accord/citizenry/grimbeard) ([Needledale](../../societies/esterfell-accord/needledale))
-- [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff) (Leving)
-- [Krueger](../../societies/esterfell-accord/citizenry/krueger) ([Redgrave](../../societies/esterfell-accord/redgrave))
-- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer) ([Bridgeport](../../societies/esterfell-accord/bridgeport))
-- [Bellin](../../societies/esterfell-accord/citizenry/bellin) ([Hewpass](../../societies/esterfell-accord/hewpass))
+- [Reynard](../../societies/esterfell-accord/citizenry/reynard.md) ([Cape Bec](../../societies/esterfell-accord/cape-bec/cape-bec.md))
+- [Ichika](../../societies/esterfell-accord/citizenry/ichika.md) ([Suizenloch](../../societies/esterfell-accord/suizenloch.md))
+- [Tybalt](../../societies/esterfell-accord/citizenry/tybalt.md) ([Ëaruilë](../../societies/esterfell-accord/earuile.md))
+- [Grimbeard](../../societies/esterfell-accord/citizenry/grimbeard.md) ([Needledale](../../societies/esterfell-accord/needledale.md))
+- [Baldwin Marshbluff](../../societies/esterfell-accord/citizenry/baldwin-marshbluff.md) (Leving)
+- [Krueger](../../societies/esterfell-accord/citizenry/krueger.md) ([Redgrave](../../societies/esterfell-accord/redgrave.md))
+- [Chanticleer](../../societies/esterfell-accord/citizenry/chanticleer.md) ([Bridgeport](../../societies/esterfell-accord/bridgeport.md))
+- [Bellin](../../societies/esterfell-accord/citizenry/bellin.md) ([Hewpass](../../societies/esterfell-accord/hewpass.md))
 
 ### Agents
 
-- [Kalista](../../societies/esterfell-accord/citizenry/kalista) (field operative)
-- [Olivash](../../societies/esterfell-accord/citizenry/olivash) (Ëaruilë)
-- [S'akmezzi](../../societies/esterfell-accord/citizenry/sakmezzi) (Leving and Overseam)
+- [Kalista](../../societies/esterfell-accord/citizenry/kalista.md) (field operative)
+- [Olivash](../../societies/esterfell-accord/citizenry/olivash.md) (Ëaruilë)
+- [S'akmezzi](../../societies/esterfell-accord/citizenry/sakmezzi.md) (Leving and Overseam)
 
 ## Communication
 
@@ -27,4 +27,4 @@ Den agents use a variety of channels for communication to allow quick conveyance
 
 - Leving: "Lyre"
 - Needledale: "Dodo's Nest"
-- 
+-

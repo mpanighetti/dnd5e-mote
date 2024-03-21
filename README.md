@@ -2,15 +2,15 @@
 
 Most worlds are built from [starstuff](artifacts/starstuff.md) — loose particles older than time coalescing through either happenstance or design — eventually supporting life capable of asking questions about its own provenance. These worlds tend to require an eventual calming of bombardment, without which life might be snuffed out before it has a chance to grow. Some worlds, however, flourish within the chaos, settling into a tenuous rhythm and dancing amongst the cavalcade of shooting stars. Such worlds are emboldened by their near misses, but are also empowered by their interactions. Newly fallen starstuff, a raw and chaotic but foundational material, can carry enough energy to wipe out entire civilizations, snuff out all god-fearing peoples — or it can herald a rejuvenation, bringing power to all who might seek it.
 
-The world of Mote is one such shining beacon, the beneficiary of the magical essence of a cataclysmic impact thousands of years ago upon a remote continent. People from far across the seas came to this promised land which they called [Esterfell](mote/esterfell), slowly building new civilizations in a landscape untouched by awakened creatures and imbued with strange stellar energies. Even now, the children of Esterfell struggle to push against a powerful wilderness, eking out a relatively meager existence while building their empires in safer territories.
+The world of [Mote](mote/mote.md) is one such shining beacon, the beneficiary of the magical essence of a cataclysmic impact thousands of years ago upon a remote continent. People from far across the seas came to this promised land which they called [Esterfell](mote/esterfell), slowly building new civilizations in a landscape untouched by awakened creatures and imbued with strange stellar energies. Even now, the children of Esterfell struggle to push against a powerful wilderness, eking out a relatively meager existence while building their empires in safer territories.
 
-One nation, the [Esterfell Accord](societies/esterfell-accord), controls the central [sea](mote/esterfell/lenya/esterfell-sea) from which springs an energy that furthers their continuing development and growth. Another, [Subros](societies/subros.md), grows wary and covetous of the Accord’s power. While these two countries clash, smaller groups on the fringe attempt to maintain their territories and independence. The [Verdancy](societies/verdancy/verdancy.md) — a vast stretch of untamed wildlands surrounding and bisecting the nations — looms as a potential conquest, but defies such efforts as a seemingly insurmountable challenge.
+One nation, the [Esterfell Accord](societies/esterfell-accord/esterfell-accord.md), controls the central [sea](mote/esterfell/lenya/esterfell-sea) from which springs an energy that furthers their continuing development and growth. Another, [Subros](societies/subros.md), grows wary and covetous of the Accord’s power. While these two countries clash, smaller groups on the fringe attempt to maintain their territories and independence. The [Verdancy](societies/verdancy/verdancy.md) — a vast stretch of untamed wildlands surrounding and bisecting the nations — looms as a potential conquest, but defies such efforts as a seemingly insurmountable challenge.
 
 And through it all, the heart of a star pulses beneath the continent, its arcane power waiting to be challenged and conquered — or to strike down any foolish enough to seek it out.
 
 ## Resources
 
-### [Mote](mote.md)
+### [Mote](mote/mote.md)
 
 - [Esterfell](mote/esterfell)
   - [Ashen Archipelago](mote/esterfell/ashen-archipelago)
@@ -29,7 +29,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Societies](societies)
 
-- [Esterfell Accord](societies/esterfell-accord)
+- [Esterfell Accord](societies/esterfell-accord/esterfell-accord.md)
 - [Mawlin](societies/mawlin.md)
 - [Ramila](societies/ramila.md)
 - [Subros](societies/subros.md)
