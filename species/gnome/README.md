@@ -39,7 +39,7 @@ _**Waterdowsers.**_ You have Proficiency in the Survival and Perception Skills, 
 
 #### Description
 
-**Forest gnomes** are arboreal people with a connection to the plants, animals, and spirits of the natural world. This magical bond even grants them a limited means of communication with tiny beasts.
+**Forest gnomes** are arboreal people with a connection to the plants, animals, and spirits of the natural world. This magical bond even grants them a limited means of communication with Tiny beasts.
 
 #### Distribution
 

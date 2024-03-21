@@ -1,6 +1,6 @@
 # Murex
 
-**Murex** is a material extracted from plants, animals, and minerals native to the [Murexian Grove](../../mote/esterfell/lenya/murexian-grove). It is used to create a [dye of a vibrant purple hue](murexian-dye) and is considered one of the more prized substances in [Esterfell](../../mote/esterfell).
+**Murex** is a material extracted from plants, animals, and minerals native to the [Murexian Grove](../../mote/esterfell/lenya/murexian-grove). It is used to create a [dye of a vibrant purple hue](murexian-dye.md) and is considered one of the more prized substances in [Esterfell](../../mote/esterfell).
 
 ## Properties
 
@@ -10,7 +10,7 @@ Murex is formed from volcanic compounds found only in the soil of the [Ashen Sca
 
 ### Life and expiration
 
-Murex in its raw extracted form only lasts a few hours, dissolving into a sludge called [mux](mux) that is toxic to the touch and unsuitable for use as a dye. [Murexian creatures](../../bestiary/murexian-creature) removed from the Murexian Grove  revert to their normal coloration and physiology within 1d4 days as the murex leaves their systems, and since murexian traits are not genetic, their offspring are identical to normal flora and fauna until they undergo their transformations.
+Murex in its raw extracted form only lasts a few hours, dissolving into a sludge called [mux](mux.md) that is toxic to the touch and unsuitable for use as a dye. [Murexian creatures](../../bestiary/murexian-creature) removed from the Murexian Grove  revert to their normal coloration and physiology within 1d4 days as the murex leaves their systems, and since murexian traits are not genetic, their offspring are identical to normal flora and fauna until they undergo their transformations.
 
 ## History and usage
 

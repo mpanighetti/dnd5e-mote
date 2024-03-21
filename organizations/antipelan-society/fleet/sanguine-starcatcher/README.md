@@ -1,6 +1,6 @@
 # Sanguine Starcatcher
 
-The **Sanguine Starcatcher** is the first [starfire ship](../../../../technology/starstuff-ships/starfire-ship) built and launched by the [Antipelan Society](../../) to prove the efficacy of using [starstuff](../../../../artifacts/starstuff) as a fuel source for [spelljamming ships](../../../../technology/starstuff-ships).
+The **Sanguine Starcatcher** is the first [starfire ship](../../../../technology/starstuff-ships/starfire-ship) built and launched by the [Antipelan Society](../../) to prove the efficacy of using [starstuff](../../../../artifacts/starstuff.md) as a fuel source for [spelljamming ships](../../../../technology/starstuff-ships).
 
 ## Attributes
 

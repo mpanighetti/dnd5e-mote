@@ -2,7 +2,7 @@
 
 #### Lore
 
-**Starfire ships** are an experimental ship design conceived by the [Antipelan Society](../../../organizations/antipelan-society) to both collect and run on [starstuff](../../../artifacts/starstuff) energy. The first such [starstuff ship](../) in the Antipelan fleet was given the callsign **AP-SF-01** and later designated the "[Sanguine Starcatcher](../../../organizations/antipelan-society/fleet/sanguine-starcatcher)" by its crew. This ship was sent on its maiden voyage to prove the efficacy of the starfire ship design and to scout out new starstuff reserves, eventually allowing future ships to be built.
+**Starfire ships** are an experimental ship design conceived by the [Antipelan Society](../../../organizations/antipelan-society) to both collect and run on [starstuff](../../../artifacts/starstuff.md) energy. The first such [starstuff ship](../) in the Antipelan fleet was given the callsign **AP-SF-01** and later designated the "[Sanguine Starcatcher](../../../organizations/antipelan-society/fleet/sanguine-starcatcher)" by its crew. This ship was sent on its maiden voyage to prove the efficacy of the starfire ship design and to scout out new starstuff reserves, eventually allowing future ships to be built.
 
 The stern of a starfire ship contains its signature feature, a spherical latticed metal chamber housing a ball of starstuff. This starstuff engine provides the ship with a powerful source of energy, allowing it faster travel through [Fellspace](../../../astronomy/fellspace) compared to typical spelljamming vessels. The ship's pilot can trigger the chamber to ignite any starstuff inside, achieving great bursts of speed as the energy is rapidly depleted.
 
