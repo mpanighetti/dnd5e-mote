@@ -1,6 +1,6 @@
 # Starstuff Ships
 
-Though the [Antipelan Society](../../organizations/antipelan-society) can potentially possess any number of typical spelljamming ships obtained on the open market, they have also begun development on their own ships utilizing experimental arcane technology powered by [starstuff](../../artifacts/starstuff.md). Their hope is to gain an upper edge in the wildspacerace as they seek to secure their newfound stellar borders around [Mote](../../mote).
+Though the [Antipelan Society](../../organizations/antipelan-society) can potentially possess any number of typical spelljamming ships obtained on the open market, they have also begun development on their own ships utilizing experimental arcane technology powered by [starstuff](../../artifacts/starstuff.md). Their hope is to gain an upper edge in the wildspacerace as they seek to secure their newfound stellar borders around [Mote](../../mote/mote.md).
 
 ### Ship Components
 

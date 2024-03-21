@@ -1,6 +1,6 @@
 # Antipelan Society
 
-The **Antipelan Society** is a secretive organization operating off of the northern coast of [Lenya](../../mote/esterfell/lenya) dedicated to the acquisition of [starstuff](../../artifacts/starstuff.md) found floating freely in [Fellspace](../../astronomy/fellspace). The Antipelans are currently the only group on [Mote](../../mote) who have developed spelljamming technology, and they hope to use this advantage to gain political and military control over Fellspace ahead of any other societies on the planet, and before any outside spacefaring powers encroach on the territory.
+The **Antipelan Society** is a secretive organization operating off of the northern coast of [Lenya](../../mote/esterfell/lenya) dedicated to the acquisition of [starstuff](../../artifacts/starstuff.md) found floating freely in [Fellspace](../../astronomy/fellspace.md). The Antipelans are currently the only group on [Mote](../../mote/mote.md) who have developed spelljamming technology, and they hope to use this advantage to gain political and military control over Fellspace ahead of any other societies on the planet, and before any outside spacefaring powers encroach on the territory.
 
 ## Members
 

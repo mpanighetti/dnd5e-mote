@@ -4,7 +4,7 @@
 
 **Dwarves** are short but broad humanoids who immigrated to [Esterfell](../../mote/esterfell) in the first few waves of ships. Various groups of dwarves settled across [Lenya](../../mote/esterfell/lenya), [Yggru](../../mote/esterfell/yggru), and [Barria](../../mote/esterfell/barria), distributing themselves based on traditional trades and environmental preferences carried over from their ancestral lands.
 
-Dwarves possess a profound connection to the minerals that constitute [Mote](../../mote). This has led dwarven communities to be some of the first to perfect the process of mining precious stones, refining them, and crafting them into tools and works of art, and they in turn spread this knowledge to other societies across the world. Their dense stocky bodies can be ill-suited for swimming, but their surefootedness makes them comfortable in many earthy terrains such as mountain ranges and canyons.
+Dwarves possess a profound connection to the minerals that constitute [Mote](../../mote/mote.md). This has led dwarven communities to be some of the first to perfect the process of mining precious stones, refining them, and crafting them into tools and works of art, and they in turn spread this knowledge to other societies across the world. Their dense stocky bodies can be ill-suited for swimming, but their surefootedness makes them comfortable in many earthy terrains such as mountain ranges and canyons.
 
 ## Dwarven ancestries
 
