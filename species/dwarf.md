@@ -16,7 +16,7 @@ Dwarves possess a profound connection to the minerals that constitute [Mote](../
 
 #### Distribution
 
-The sands of Barria immediately appealed to the desert dwarves who arrived in Esterfell's early waves of immigration. These dwarves can be found among the populations of [Mawlin](../societies/mawlin) tribes who wander the wind-blasted terrain.
+The sands of Barria immediately appealed to the desert dwarves who arrived in Esterfell's early waves of immigration. These dwarves can be found among the populations of [Mawlin](../societies/mawlin.md) tribes who wander the wind-blasted terrain.
 
 #### Traits
 

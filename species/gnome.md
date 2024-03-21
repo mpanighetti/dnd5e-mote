@@ -14,7 +14,7 @@
 
 #### Distribution
 
-The hot stretches of Barrian desert drew in the dust gnomes, who helped establish some of the early populations that founded [Mawlin](../societies/mawlin). These folk can be found in other regions of Esterfell, but they tend to avoid overly humid environments.
+The hot stretches of Barrian desert drew in the dust gnomes, who helped establish some of the early populations that founded [Mawlin](../societies/mawlin.md). These folk can be found in other regions of Esterfell, but they tend to avoid overly humid environments.
 
 #### Traits
 
@@ -43,7 +43,7 @@ _**Waterdowsers.**_ You have Proficiency in the Survival and Perception Skills, 
 
 #### Distribution
 
-The temperate forests of Lenya, particularly the [Eastern Forests](../mote/esterfell/lenya/eastern-forests), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../societies/verdancy/balsam) and [Eldwin](../societies/verdancy/eldwin).
+The temperate forests of Lenya, particularly the [Eastern Forests](../mote/esterfell/lenya/eastern-forests), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../societies/verdancy/balsam.md) and [Eldwin](../societies/verdancy/eldwin.md).
 
 ### Rock gnome
 

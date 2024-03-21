@@ -4,7 +4,7 @@ Most worlds are built from [starstuff](artifacts/starstuff.md) — loose particl
 
 The world of Mote is one such shining beacon, the beneficiary of the magical essence of a cataclysmic impact thousands of years ago upon a remote continent. People from far across the seas came to this promised land which they called [Esterfell](mote/esterfell), slowly building new civilizations in a landscape untouched by awakened creatures and imbued with strange stellar energies. Even now, the children of Esterfell struggle to push against a powerful wilderness, eking out a relatively meager existence while building their empires in safer territories.
 
-One nation, the [Esterfell Accord](societies/esterfell-accord), controls the central [sea](mote/esterfell/lenya/esterfell-sea) from which springs an energy that furthers their continuing development and growth. Another, [Subros](societies/subros), grows wary and covetous of the Accord’s power. While these two countries clash, smaller groups on the fringe attempt to maintain their territories and independence. The [Verdancy](societies/verdancy) — a vast stretch of untamed wildlands surrounding and bisecting the nations — looms as a potential conquest, but defies such efforts as a seemingly insurmountable challenge.
+One nation, the [Esterfell Accord](societies/esterfell-accord), controls the central [sea](mote/esterfell/lenya/esterfell-sea) from which springs an energy that furthers their continuing development and growth. Another, [Subros](societies/subros.md), grows wary and covetous of the Accord’s power. While these two countries clash, smaller groups on the fringe attempt to maintain their territories and independence. The [Verdancy](societies/verdancy/verdancy.md) — a vast stretch of untamed wildlands surrounding and bisecting the nations — looms as a potential conquest, but defies such efforts as a seemingly insurmountable challenge.
 
 And through it all, the heart of a star pulses beneath the continent, its arcane power waiting to be challenged and conquered — or to strike down any foolish enough to seek it out.
 
@@ -30,11 +30,11 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 ### [Societies](societies)
 
 - [Esterfell Accord](societies/esterfell-accord)
-- [Mawlin](societies/mawlin)
-- [Ramila](societies/ramila)
-- [Subros](societies/subros)
-- [Verdancy](societies/verdancy)
-- [Xiahulia](societies/xiahulia)
+- [Mawlin](societies/mawlin.md)
+- [Ramila](societies/ramila.md)
+- [Subros](societies/subros.md)
+- [Verdancy](societies/verdancy/verdancy.md)
+- [Xiahulia](societies/xiahulia.md)
 
 ### [Organizations](organizations)
 
