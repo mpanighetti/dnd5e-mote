@@ -2,7 +2,7 @@
 
 #### Lore
 
-[Selkie](../species/selkie) pods fiercely defend themselves from hostile intrusions, with warriors acting as a protective barrier to shelter the community's pups.
+[Selkie](../species/selkie.md) pods fiercely defend themselves from hostile intrusions, with warriors acting as a protective barrier to shelter the community's pups.
 
 #### Attributes
 

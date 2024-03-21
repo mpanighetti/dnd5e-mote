@@ -2,7 +2,7 @@
 
 ## Description
 
-**Gnomes** are diminutive humanoids who came to [Esterfell](../../mote/esterfell) in the first few waves of immigrations. They spread across all corners of the continent, with larger populations in [Lenya](../../mote/esterfell/lenya) and the [Ashen Archipelago](../../mote/esterfell/ashen-archipelago) and a few families settling in [Barria](../../mote/esterfell/barria) and [Yggru](../../mote/esterfell/yggru).
+**Gnomes** are diminutive humanoids who came to [Esterfell](../mote/esterfell) in the first few waves of immigrations. They spread across all corners of the continent, with larger populations in [Lenya](../mote/esterfell/lenya) and the [Ashen Archipelago](../mote/esterfell/ashen-archipelago) and a few families settling in [Barria](../mote/esterfell/barria) and [Yggru](../mote/esterfell/yggru).
 
 ## Gnomish ancestries
 
@@ -14,7 +14,7 @@
 
 #### Distribution
 
-The hot stretches of Barrian desert drew in the dust gnomes, who helped establish some of the early populations that founded [Mawlin](../../societies/mawlin). These folk can be found in other regions of Esterfell, but they tend to avoid overly humid environments.
+The hot stretches of Barrian desert drew in the dust gnomes, who helped establish some of the early populations that founded [Mawlin](../societies/mawlin). These folk can be found in other regions of Esterfell, but they tend to avoid overly humid environments.
 
 #### Traits
 
@@ -43,17 +43,17 @@ _**Waterdowsers.**_ You have Proficiency in the Survival and Perception Skills, 
 
 #### Distribution
 
-The temperate forests of Lenya, particularly the [Eastern Forests](../../mote/esterfell/lenya/eastern-forests), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../../societies/verdancy/balsam) and [Eldwin](../../societies/verdancy/eldwin).
+The temperate forests of Lenya, particularly the [Eastern Forests](../mote/esterfell/lenya/eastern-forests), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../societies/verdancy/balsam) and [Eldwin](../societies/verdancy/eldwin).
 
 ### Rock gnome
 
 #### Description
 
-**Rock gnomes** originated from deep underneath the largest mountains of Mote. In some corners of the world, the existence of rock gnomes only became common knowledge on the surface when [mountain dwarves](../dwarf#mountain-dwarf) unearthed them during deep mining expeditions. Their magical connection to stone makes them natural masons, and their desire to know everything about how minerals interact leads many of them to tinkering.
+**Rock gnomes** originated from deep underneath the largest mountains of Mote. In some corners of the world, the existence of rock gnomes only became common knowledge on the surface when [mountain dwarves](../dwarf.md#mountain-dwarf) unearthed them during deep mining expeditions. Their magical connection to stone makes them natural masons, and their desire to know everything about how minerals interact leads many of them to tinkering.
 
 #### Distribution
 
-Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../../societies/esterfell-accord)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as a the artificial island on which [Cape Bec](../../societies/esterfell-accord/cape-bec) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.
+Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../societies/esterfell-accord)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as a the artificial island on which [Cape Bec](../societies/esterfell-accord/cape-bec) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.
 
 ### Svirfneblin
 
@@ -63,4 +63,4 @@ Though some rock gnomes gravitated toward the mountains of Yggru, many opted ins
 
 #### Distribution
 
-Like other Underdark beings, svirfneblin found the dark catacombs of lava tubes under [Mount Hora](../../mote/esterfell/lenya/mount-hora) to be a welcoming space to build and expand their underground settlements.
+Like other Underdark beings, svirfneblin found the dark catacombs of lava tubes under [Mount Hora](../mote/esterfell/lenya/mount-hora) to be a welcoming space to build and expand their underground settlements.

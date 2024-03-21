@@ -49,10 +49,10 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Species](species)
 
-- [Cetean](species/cetean)
-- [Dwarf](species/dwarf)
-- [Gnome](species/gnome)
-- [Selkie](species/selkie)
+- [Cetean](species/cetean/cetean.md)
+- [Dwarf](species/dwarf.md)
+- [Gnome](species/gnome.md)
+- [Selkie](species/selkie.md)
 
 ### [Lore](lore)
 
