@@ -38,14 +38,14 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Organizations](organizations)
 
-- [Antipelan Society](organizations/antipelan-society)
-- [The Chosen](organizations/the-chosen)
-- [Edgewood Construction](organizations/edgewood-construction)
-- [Gilded Purse](organizations/gilded-purse)
-- [Order of Istus](organizations/order-of-istus)
-- [Overseers of the Eager](organizations/overseers-of-the-eager)
-- [Reynard's Den](organizations/reynards-den)
-- [Tealeaf Estate](organizations/tealeaf-estate)
+- [Antipelan Society](organizations/antipelan-society/antipelan-society.md)
+- [The Chosen](organizations/the-chosen.md)
+- [Edgewood Construction](organizations/edgewood-construction.md)
+- [Gilded Purse](organizations/gilded-purse.md)
+- [Order of Istus](organizations/order-of-istus.md)
+- [Overseers of the Eager](organizations/overseers-of-the-eager.md)
+- [Reynard's Den](organizations/reynards-den.md)
+- [Tealeaf Estate](organizations/tealeaf-estate.md)
 
 ### [Species](species)
 

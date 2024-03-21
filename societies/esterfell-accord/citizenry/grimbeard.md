@@ -1,6 +1,6 @@
 # Grimbeard
 
-**Grimbeard** runs the [Needledale](../needledale.md) chapter of [Reynard's Den](../../../organizations/reynards-den).
+**Grimbeard** runs the [Needledale](../needledale.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
 
 ## Attributes
 

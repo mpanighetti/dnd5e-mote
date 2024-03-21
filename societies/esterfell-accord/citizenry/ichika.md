@@ -1,6 +1,6 @@
 # Ichika
 
-**Ichika** runs the [Suizenloch](../suizenloch.md) chapter of [Reynard's Den](../../../organizations/reynards-den).
+**Ichika** runs the [Suizenloch](../suizenloch.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
 
 ## Attributes
 

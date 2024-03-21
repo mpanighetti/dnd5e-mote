@@ -6,34 +6,34 @@ The **Antipelan Society** is a secretive organization operating off of the north
 
 ### Base officers
 
-- [Remington Enoch](members/remington-enoch): admiral
-- [Jelik](members/jelik): research and development
-- [Dmitri Vlasov](members/dmitri-vlasov): petty officer
+- [Remington Enoch](members/remington-enoch.md): admiral
+- [Jelik](members/jelik.md): research and development
+- [Dmitri Vlasov](members/dmitri-vlasov.md): petty officer
 
 ### Ship crews
 
-#### [Sanguine Starcatcher](fleet/sanguine-starcatcher)
+#### [Sanguine Starcatcher](fleet/sanguine-starcatcher.md)
 
-- [Aliana Cargonia](members/aliana-cargonia): captain
-- [E.A.S.T.W.O.O.D.](members/eastwood): arcane core security
-- [Fibula](members/fibula): arcangineer (assistant engineer)
-- [Fionn](members/fionn): cook
-- [Gina](members/gina): munitions
-- [Globule](members/globule)
-- [Jahndra](members/jahndra): medic
-- [Mayim Marim](members/mayim-marim): quartermaster
-- [Moobles](members/moobles): spelljammer
-- [Ooeeoo](members/ooeeoo): navigator
-- [Tamori](members/tamori)
-- [Tenns](members/tenns): engineer
-- [Veronica Marth](members/veronica-marth): assistant spelljammer
-- [Yira Halian](members/yira-halian)
+- [Aliana Cargonia](members/aliana-cargonia.md): captain
+- [E.A.S.T.W.O.O.D.](members/eastwood.md): arcane core security
+- [Fibula](members/fibula.md): arcangineer (assistant engineer)
+- [Fionn](members/fionn.md): cook
+- [Gina](members/gina.md): munitions
+- [Globule](members/globule.md)
+- [Jahndra](members/jahndra.md): medic
+- [Mayim Marim](members/mayim-marim.md): quartermaster
+- [Moobles](members/moobles.md): spelljammer
+- [Ooeeoo](members/ooeeoo.md): navigator
+- [Tamori](members/tamori.md)
+- [Tenns](members/tenns.md): engineer
+- [Veronica Marth](members/veronica-marth.md): assistant spelljammer
+- [Yira Halian](members/yira-halian.md)
 
-#### [AP-SF-02](fleet/ap-sf-02)
+#### [AP-SF-02](fleet/ap-sf-02.md)
 
-- [Qinran Zandeyr](members/qinran-zandeyr): captain
-- [Gribbly](members/gribbly)
-- [Plupp](members/plupp)
+- [Qinran Zandeyr](members/qinran-zandeyr.md): captain
+- [Gribbly](members/gribbly.md)
+- [Plupp](members/plupp.md)
 
 ## History
 

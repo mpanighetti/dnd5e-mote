@@ -1,6 +1,6 @@
 # Qinran Zandeyr
 
-**Qinran Zandeyr** is the captain of the [AP-SF-02](../../fleet/ap-sf-02).
+**Qinran Zandeyr** is the captain of the [AP-SF-02](../fleet/ap-sf-02.md).
 
 ## Attributes
 

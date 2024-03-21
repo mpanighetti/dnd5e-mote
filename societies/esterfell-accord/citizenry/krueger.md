@@ -1,6 +1,6 @@
 # Krueger
 
-**Krueger** heads the [Redgrave](../redgrave.md) chapter of [Reynard's Den](../../../organizations/reynards-den).
+**Krueger** heads the [Redgrave](../redgrave.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
 
 ## Attributes
 

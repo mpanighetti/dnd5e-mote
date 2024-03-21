@@ -1,6 +1,6 @@
 # Reynard
 
-**Reynard** is the leader of [Reynard's Den](../../../organizations/reynards-den). She lives and operates out of [Cape Bec](../cape-bec/cape-bec.md).
+**Reynard** is the leader of [Reynard's Den](../../../organizations/reynards-den.md). She lives and operates out of [Cape Bec](../cape-bec/cape-bec.md).
 
 ## Attributes
 

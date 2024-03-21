@@ -1,6 +1,6 @@
 # Bellin
 
-**Bellin** heads the [Hewpass](../hewpass.md) chapter of [Reynard's Den](../../../organizations/reynards-den).
+**Bellin** heads the [Hewpass](../hewpass.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
 
 ## Attributes
 

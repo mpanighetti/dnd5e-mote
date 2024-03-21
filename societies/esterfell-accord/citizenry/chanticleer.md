@@ -1,6 +1,6 @@
 # Chanticleer
 
-**Chanticleer** runs the [Bridgeport](../bridgeport.md) chapter of [Reynard's Den](../../../organizations/reynards-den).
+**Chanticleer** runs the [Bridgeport](../bridgeport.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
 
 ## Attributes
 

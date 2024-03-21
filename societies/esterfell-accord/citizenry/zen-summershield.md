@@ -1,6 +1,6 @@
 # Zen Summershield
 
-**Zen Summershield** is the head of the [Overseers of the Eager](../../../organizations/overseers-of-the-eager).
+**Zen Summershield** is the head of the [Overseers of the Eager](../../../organizations/overseers-of-the-eager.md).
 
 ## Attributes
 

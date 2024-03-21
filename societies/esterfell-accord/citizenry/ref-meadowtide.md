@@ -1,6 +1,6 @@
 # Ref Meadowtide
 
-**Ref Meadowtide** is the foreperson overseeing [construction](../../../organizations/edgewood-construction) jobs in [Edgewood](../edgewood/edgewood.md).
+**Ref Meadowtide** is the foreperson overseeing [construction](../../../organizations/edgewood-construction.md) jobs in [Edgewood](../edgewood/edgewood.md).
 
 ## Attributes
 
