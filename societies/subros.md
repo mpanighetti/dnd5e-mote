@@ -1,6 +1,6 @@
 # Subros
 
-**Subros** is a nation occupying [Yggru](../mote/esterfell/yggru.md) and the southern region of [Lenya](../mote/esterfell/lenya/lenya.md) surrounding [Mount Hora](../mote/esterfell/lenya/mount-hora.md).
+**Subros** is a nation occupying [Yggru](../mote/esterfell/yggru/yggru.md) and the southern region of [Lenya](../mote/esterfell/lenya/lenya.md) surrounding [Mount Hora](../mote/esterfell/lenya/mount-hora.md).
 
 ## Etymology
 
