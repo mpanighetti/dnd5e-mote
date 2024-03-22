@@ -12,7 +12,7 @@ Dwarves possess a profound connection to the minerals that constitute [Mote](../
 
 #### Description
 
-**Desert dwarves** developed many distinct traits that make them comfortable within arid environments. Their wider feet allow them to distribute their weight across the desert sands without sinking, allowing them to not only dart quickly about the surface, but to even act as rudimentary flippers to burrow underground. Their impressive beards grow thick and shaggy to insulate them from the unrelenting sun while also trapping body heat at night, and this growth of hair extends around their chests to their backs, providing ample coverage.
+**Desert dwarves** developed many distinct traits that make them comfortable within arid environments. Their wider feet allow them to distribute their weight across the desert sands without sinking. This adaptation not only lets them dart quickly about the surface, but they can even use their feet as rudimentary flippers while burrowing underground. Their impressive beards grow thick and shaggy to insulate them from the unrelenting sun while also trapping body heat at night, and this growth of hair extends around their chests to their backs, providing ample coverage.
 
 #### Distribution
 
