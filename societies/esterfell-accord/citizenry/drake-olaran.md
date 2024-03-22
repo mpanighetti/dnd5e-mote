@@ -12,7 +12,7 @@
 
 ### Childhood
 
-Drake was born in [Tillë](../tille.md) to [Líria Kente](liria-kente.md) and [Rufus Olaran](rufus-olaran.md). He was raised by Rufus, as his mother's family disapproved of the relationship. Rufus brought up Drake under the teachings of [Deneir](../../../pantheon/deneir.md).
+Drake was born in [Tillë](../tille.md) to [Líria Kente](liria-kente.md) and [Rufus Olaran](rufus-olaran.md). He was raised by Rufus, as his mother's family disapproved of the relationship. Rufus brought up Drake under the teachings of [Deneir](../../../pantheon/mote-pantheon.md).
 
 ### Adulthood
 
