@@ -63,4 +63,4 @@ The original hill dwarf settlers of Esterfell were said to step off their sailin
 
 #### Distribution
 
-Generally able climbers, mountain dwarves can firmly plant themselves on terrain many other folk might find difficult to traverse. As a result, the early immigrants often settled in colder mountainous terrain, including the [Floral Divide](../mote/esterfell/lenya/floral-divide/floral-divide.md) in Lenya and the [Lithbirk Range](../mote/esterfell/yggru/lithbirk-range.md) of Yggru.
+Generally able climbers, mountain dwarves can firmly plant themselves on terrain many other folk might find difficult to traverse. As a result, the early immigrants often settled in colder mountainous terrain, including the [Floral Divide](../mote/esterfell/lenya/floral-divide.md) in Lenya and the [Lithbirk Range](../mote/esterfell/yggru/lithbirk-range.md) of Yggru.
