@@ -4,7 +4,7 @@ The **Floral Divide** is a mountain range dividing the northern and southern por
 
 ## Geography
 
-The mountain range stretches from Lenya's central west coast to the center of the [Great Seam](../great-seam.md) to the east. The Divide consists of seven mountain peaks: 1, 2, 3, [Rokincier](rokincier.md), 5, 6, and 7.
+The mountain range stretches from Lenya's central west coast to the center of the [Great Seam](../great-seam.md) to the east. The Divide consists of seven mountain peaks: [Temier](temier.md), [Eschier](eschier.md), [Opuntier](opuntier.md), [Rokincier](rokincier.md), [Nopalier](nopalier.md), [Cyanier](cyanier.md), and [Linnaeier](linnaeier.md).
 
 ## Demographics
 
