@@ -16,6 +16,6 @@ In addition, a large region of [Lenya](../mote/esterfell/lenya/lenya.md) is not 
 </figure>
 
 <figure>
-  <img src="map-esterfell-political-mario-panighetti.jpg" alt="Drawing of a map of Esterfell with colors identifying each major nation's region of control: Esterfell Accord (orange), Subros (red), Verdancy (green), Xiahulia (teal), Mawlin (yellow), and Ramila (purple). Some Verdancy territory is marked with stripes of Accord or Subros colors, indicating disupted territory." />
+  <img src="map-esterfell-political-mario-panighetti.jpg" alt="Drawing of a map of Esterfell with colors identifying each major nation's region of control: Esterfell Accord (orange), Subros (red), Verdancy (green), Xiahulia (teal), Mawlin (yellow), and Ramila (purple). Some Verdancy territory is marked with stripes of Accord or Subros colors, indicating disputed territory." />
   <figcaption>Esterfell Political Map by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
