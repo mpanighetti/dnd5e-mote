@@ -7,10 +7,10 @@ The term "god" is often used interchangeably on Mote with beings of "lesser" pow
 The following is not an exhaustive list of beings with power and influence over Mote, but represents some specific entities that have been granted full or partial deification by various groups.
 
 ##### Deities of Mote
-|  Deity | Alignment | Domains | Symbol | Pantheon |
-|:-------|:---------:|:--------|:-------|:-|
-| Deneir | NG | Knowledge, Writing | Lit candle above an open eye | The Forgotten Realms |
-| [Istus](istus.md) | N | Knowledge, Fate, Destiny | Weaver’s spindle with three strands | Greyhawk |
-| [Phygius](phygius.md) | N | Nature, Feywild | Antlers with teardrops | Mote |
-| [Ramil](ramil.md) | N | | Crescent with radial triangles | Mote |
-| Silvanus | N | Nature, the Wild | Oak leaf | The Forgotten Realms |
+|  Deity | Classification | Alignment | Domains | Symbol | Pantheon |
+|:-------|:-|:---------:|:--------|:-------|:-|
+| Deneir | deity | NG | Knowledge, Writing | Lit candle above an open eye | The Forgotten Realms |
+| [Istus](istus.md) | deity | N | Knowledge, Fate, Destiny | Weaver’s spindle with three strands | Greyhawk |
+| [Phygius](phygius.md) | archfey | N | Nature, Feywild | Antlers with teardrops | Mote |
+| [Ramil](ramil.md) | deva | N | | Crescent with radial triangles | Mote |
+| Silvanus | deity | N | Nature, the Wild | Oak leaf | The Forgotten Realms |
