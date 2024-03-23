@@ -2,7 +2,7 @@
 
 **Allen** is the latest in a long family line of arcanists hailing from the [Eastern Forests](../../../mote/esterfell/lenya/eastern-forests.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: forest gnome

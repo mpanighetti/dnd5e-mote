@@ -2,7 +2,7 @@
 
 The **Sanguine Starcatcher** (callsign AP-SF-01) is the first [starfire ship](../../../technology/starstuff-ships/starfire-ship.md) built and launched by the [Antipelan Society](../antipelan-society) to prove the efficacy of using [starstuff](../../../artifacts/starstuff.md) as a fuel source for [spelljamming ships](../../../technology/starstuff-ships/starstuff-ships.md).
 
-## Attributes
+## Information
 
 - class: Starfire
 - callsign: **AP-SF-01**

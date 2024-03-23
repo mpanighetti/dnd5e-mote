@@ -2,7 +2,7 @@
 
 **Gus Hatchet** is a fertilizer salesperson in [Cape Bec](../cape-bec/cape-bec.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: mountain dwarf

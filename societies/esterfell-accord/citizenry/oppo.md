@@ -2,7 +2,7 @@
 
 **Oppo** is a kobold residing in [Sanctus Salimandus](../cape-bec/sanctus-salimandus.md). He was recently appointed First Knight of Sanctus Salimandus by Dragon Queen [Cindra](cindra.md) and acts as their appointed ruler in her absence.
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: kobold

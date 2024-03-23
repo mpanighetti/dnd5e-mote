@@ -2,7 +2,7 @@
 
 **Liana Goldflow** is the receptionist at [Jessi's Place](../leving/jessis-place.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: human

@@ -2,7 +2,7 @@
 
 **Qinran Zandeyr** is the captain of the [AP-SF-02](../fleet/ap-sf-02.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: high elf

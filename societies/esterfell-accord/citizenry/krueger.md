@@ -2,7 +2,7 @@
 
 **Krueger** heads the [Redgrave](../redgrave.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: bugbear

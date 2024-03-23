@@ -2,7 +2,7 @@
 
 **Remington Enoch** is an admiral of the [Antipelan Society](../antipelan-society.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

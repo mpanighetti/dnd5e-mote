@@ -2,7 +2,7 @@
 
 **Chanticleer** runs the [Bridgeport](../bridgeport.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: aarakocra

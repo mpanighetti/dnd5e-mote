@@ -2,7 +2,7 @@
 
 **Drake Olaran** is a private investigator operating out of [Cape Bec](../cape-bec/cape-bec.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human / elf

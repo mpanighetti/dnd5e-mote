@@ -2,7 +2,7 @@
 
 **Delmae** is a bandit employed by the [Gilded Purse](../../../organizations/gilded-purse.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: elf / human

@@ -2,7 +2,7 @@
 
 The **Glittering Seaview Inn** is an inn and tavern located in [Cape Bec](cape-bec.md).
 
-## Attributes
+## Information
 
 - type: inn
 - owner: [Osovar Townsend](../citizenry/osovar-townsend.md)

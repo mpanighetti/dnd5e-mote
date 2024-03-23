@@ -7,7 +7,7 @@ The **Esterfell Accord** is a nation in [Lenya](../../mote/esterfell/lenya/lenya
   <figcaption>Esterfell Accord Map by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
 
-## Attributes
+## Information
 
 - **Capital:** [Cape Bec](cape-bec/cape-bec.md)
 - **Demonyms:** Esterfolk

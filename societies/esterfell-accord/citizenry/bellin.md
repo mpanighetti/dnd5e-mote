@@ -2,7 +2,7 @@
 
 **Bellin** heads the [Hewpass](../hewpass.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
 
-## Attributes
+## Information
 
 - pronouns: zie/zir
 - species: satyr

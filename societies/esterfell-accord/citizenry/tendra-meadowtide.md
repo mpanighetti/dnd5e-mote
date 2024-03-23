@@ -2,7 +2,7 @@
 
 **Tendra Meadowtide** is a child living in [Edgewood](../edgewood/edgewood.md) with her father [Ref](ref-meadowtide.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: human

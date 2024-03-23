@@ -2,7 +2,7 @@
 
 **Grisham Fallow** is the doorman for [The Monterey](../cape-bec/the-monterey.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: aasimar

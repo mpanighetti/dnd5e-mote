@@ -2,7 +2,7 @@
 
 **Bergen Hillcut** is a carpenter in [Edgewood](../edgewood/edgewood.md). He works in [Edgewood Construction](../../../organizations/edgewood-construction.md) under [Ref Meadowtide](ref-meadowtide.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

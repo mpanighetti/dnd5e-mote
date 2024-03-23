@@ -2,7 +2,7 @@
 
 **Kadak the Ravager** is a warlord spearheading a campaign of terror in [Attalya Mountains](../../../mote/esterfell/lenya/attalya-mountains/attalya-mountains.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: hobgoblin

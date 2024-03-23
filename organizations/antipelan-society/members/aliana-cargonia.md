@@ -2,7 +2,7 @@
 
 **Aliana Cargonia** is the heir apparent of Ithilia, who ran away from home to avoid an arranged marriage in favor of bonding with her beloved maidservant. Her travels through [Fellspace](../../../astronomy/fellspace.md) eventually led to her working with the [Antipelan Society](../antipelan-society.md) and becoming the captain of the [Sanguine Starcatcher](../fleet/ap-sf-01-sanguine-starcatcher.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - title: Princess of Ithilia

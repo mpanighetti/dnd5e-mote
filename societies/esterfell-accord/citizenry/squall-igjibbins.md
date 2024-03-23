@@ -2,7 +2,7 @@
 
 **Squall Igjibbins** is a seamstress in [Leving](../leving/leving.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: air genasi

@@ -2,7 +2,7 @@
 
 **Dordithas** is an alchemist residing in [Leving](../leving/leving.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

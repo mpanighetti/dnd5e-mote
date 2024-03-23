@@ -2,7 +2,7 @@
 
 **Damon Shask** is the barkeep at the [Cooked Goose](../edgewood/cooked-goose.md) in [Edgewood](../edgewood/edgewood.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: human

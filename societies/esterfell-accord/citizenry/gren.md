@@ -2,7 +2,7 @@
 
 Gren is an _acolyte_ of the [Order of Istus](../../../organizations/order-of-istus.md) assigned to the [Middlestag Temple of Istus](../edgewood/middlestag-temple-of-istus.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

@@ -2,7 +2,7 @@
 
 **Yexif Igjibbins** is the bartender of [Jessi's Place](../leving/jessis-place.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: forest gnome

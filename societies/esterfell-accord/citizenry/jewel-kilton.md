@@ -2,7 +2,7 @@
 
 **Jewel Kilton** is a florist in [Cape Bec](../cape-bec/cape-bec.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: human / elf

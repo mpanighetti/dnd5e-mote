@@ -2,7 +2,7 @@
 
 **Jessi Mossbrook** is the proprietor of [Jessi's Place](../leving/jessis-place.md) in [Leving](../leving/leving.md). She was raised by her mother.
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: human / orc

@@ -7,7 +7,7 @@ This "unincorporated" territory is technically occupied by many geopolitical gro
 > [!TIP]
 > Large societies on the scale of nations (whether recognized by the Accord or not) will be listed in [Societies](../), whereas independent smaller townships will be grouped within the Verdancy.
 
-## Attributes
+## Information
 
 - **Alternate names:** The Wildlands, The Wilds
 - **Demonyms:** Wildling, Green

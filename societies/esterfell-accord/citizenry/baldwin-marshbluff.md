@@ -2,7 +2,7 @@
 
 **Baldwin Marshbluff** is the head of the [Leving](../leving/leving.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md), who simultaneously operates the [Gilded Purse](../../../organizations/gilded-purse.md) gang.
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

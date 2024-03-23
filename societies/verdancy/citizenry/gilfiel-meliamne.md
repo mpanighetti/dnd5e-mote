@@ -2,7 +2,7 @@
 
 **Gilfiel Meliamne** is a wood elf archer of the [Balsam](../balsam.md) tribe.
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: wood elf

@@ -2,7 +2,7 @@
 
 **Joras Ploughbough** is a traveling minstrel. He frequents taverns across the southern stretch of the [Road of Commerce](../road-of-commerce.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: lightfoot halfling

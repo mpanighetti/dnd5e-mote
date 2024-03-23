@@ -2,7 +2,7 @@
 
 **Bivdak the Crusher** is a _thug_ employed by the [Gilded Purse](../../../organizations/gilded-purse.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: orc

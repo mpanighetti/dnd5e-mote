@@ -2,7 +2,7 @@
 
 **Zen Summershield** is the head of the [Overseers of the Eager](../../../organizations/overseers-of-the-eager.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

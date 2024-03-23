@@ -2,7 +2,7 @@
 
 **Kratos Hammerhand** is a dwarven armor smith from [Kolheim](../kolheim.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: mountain dwarf

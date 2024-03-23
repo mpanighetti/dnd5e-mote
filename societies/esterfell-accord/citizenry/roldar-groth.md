@@ -2,7 +2,7 @@
 
 **Roldar Groth** is the shopkeeper at [Edgewood Mercantile](../edgewood/edgewood-mercantile.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: hill dwarf

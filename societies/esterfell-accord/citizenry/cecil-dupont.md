@@ -2,7 +2,7 @@
 
 **Cecil duPont** is the proprietor of [The Monterey](../cape-bec/the-monterey.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

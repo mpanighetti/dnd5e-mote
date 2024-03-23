@@ -2,7 +2,7 @@
 
 **Günther Igjibbins** is a geologist in [Leving](../leving/leving.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: rock gnome

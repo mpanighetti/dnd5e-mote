@@ -2,7 +2,7 @@
 
 **The Monterey** is an upscale hotel located in central [Cape Bec](cape-bec.md).
 
-## Attributes
+## Information
 
 - proprieter: [Cecil duPont](../citizenry/cecil-dupont.md)
 

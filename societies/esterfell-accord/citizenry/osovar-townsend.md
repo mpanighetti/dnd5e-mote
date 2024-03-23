@@ -2,7 +2,7 @@
 
 **Osovar Townsend** is the proprietor of the [Glittering Seaview Inn](../cape-bec/glittering-seaview-inn.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

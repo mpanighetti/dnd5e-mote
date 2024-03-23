@@ -2,7 +2,7 @@
 
 **Garlec Deg** is the proprietor of the [Cooked Goose](../edgewood/cooked-goose.md) in [Edgewood](../edgewood/edgewood.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

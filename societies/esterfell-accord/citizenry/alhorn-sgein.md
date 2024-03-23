@@ -2,7 +2,7 @@
 
 **Alhorn Sgèin** is the proprietor of the [Tipsy Doves Tavern](../cape-bec/tipsy-doves-tavern.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: sea elf

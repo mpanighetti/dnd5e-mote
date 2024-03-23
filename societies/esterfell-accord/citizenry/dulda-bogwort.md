@@ -2,7 +2,7 @@
 
 **Dulda Bogwort** is a wandering trader.
 
-## Attributes
+## Information
 
 - pronouns: he/she
 - species: kalashtar

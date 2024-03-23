@@ -2,7 +2,7 @@
 
 **Ref Meadowtide** is the foreperson overseeing [construction](../../../organizations/edgewood-construction.md) jobs in [Edgewood](../edgewood/edgewood.md).
 
-## Attributes
+## Information
 
 - pronouns: he/they
 - species: human

@@ -2,7 +2,7 @@
 
 **Grimbeard** runs the [Needledale](../needledale.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: duergar

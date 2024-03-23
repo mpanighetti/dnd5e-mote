@@ -2,7 +2,7 @@
 
 **Veronica Marth** is an officer serving the [Antipelan Society](../antipelan-society.md). She currently acts as the assistant spelljammer of the [Sanguine Starcatcher](../fleet/ap-sf-01-sanguine-starcatcher.md).
 
-## Attributes
+## Information
 
 - pronouns: she/her
 - species: human

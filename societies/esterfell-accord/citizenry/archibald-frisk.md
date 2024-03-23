@@ -2,7 +2,7 @@
 
 **Archibald Frisk** is an independent merchant (use the _noble_ stat block) with a hand in small business ventures across the [Esterfell Accord](../esterfell-accord.md). He often acts as a wandering clothier offering fine articles of clothing colored with [murexian dye](../../../artifacts/murex/murexian-dye.md).
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: human

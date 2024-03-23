@@ -2,7 +2,7 @@
 
 The **Tipsy Doves Tavern** is a bar and inn located in [Cape Bec](cape-bec.md).
 
-## Attributes
+## Information
 
 - prorieter: [Alhorn Sgèin](../citizenry/alhorn-sgein.md)
 

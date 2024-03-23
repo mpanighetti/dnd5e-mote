@@ -7,7 +7,7 @@
   <figcaption>Ooeeoo by <a href="https://linktr.ee/hollycircling">Nikki Lacey</a></figcaption>
 </figure>
 
-## Attributes
+## Information
 
 - pronouns: he/him
 - species: cetean

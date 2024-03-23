@@ -2,7 +2,7 @@
 
 **Dreg** is the smallest [moon](moons-of-mote.md) of [Mote](../../mote/mote.md) and is also its closest orbiting natural satellite. The moon acts as a final layer of protection from freefalling [starstuff](../../artifacts/starstuff.md) that gets past [Kiva](kiva.md) and [Bathýs-Pela](bathys-pela.md) on its way to Mote. Dreg has a dark nonreflective surface that can sometimes make it difficult to see from Mote's surface, although it briefly emits erratic flashes of light during larger starstuff collisions.
 
-## Attributes
+## Information
 
 - Orbital period: 1.5 months
 

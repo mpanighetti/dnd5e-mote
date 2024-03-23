@@ -6,17 +6,17 @@
 
 **Istus** is a deity of divination and fate originating from the world of Oerth. Though she is generally seen as a less-trafficked deity on [Mote](../mote/mote.md), she has some followers within the [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md) known collectively as the [Order of Istus](../organizations/order-of-istus.md).
 
-## Attributes
+#### Information
 
-- pronouns: she/her
-- divine classification: deity
-- domains: destiny, divination, fate, future events, knowledge
-- alignment: neutral
-- symbol: a weaver's spindle with three strands
-- religions: Order of Istus
+- Pronouns: she/her
+- Classification: deity
+- Alignment: True Neutral
+- Domains: Knowledge, Fate, Destiny, Divination, Future Events
+- Symbol: a weaver's spindle with three strands
+- Religions: Order of Istus
 
-## Boons
+#### Boons
 
-### [Blessing of Foresight](../supernatural-gifts/blessing-of-foresight.md)
+##### [Blessing of Foresight](../supernatural-gifts/blessing-of-foresight.md)
 
 To a select few, Istus grants a portion of her power, allowing them the ability to briefly glimpse future events. The most recent direct recipient of this ability was [Adelia](../societies/esterfell-accord/citizenry/adelia.md). Most seers who receive this gift are members of the Order of Istus, but during certain stellar confluences, a _wand of secrets_ can be used as part of a special ceremony to transfer this ability between individuals (as was done to grant this gift to [Mírial Windstar](../societies/verdancy/citizenry/mirial-windstar.md) in Adelia's place). Otherwise, the seer retains this gift until death.

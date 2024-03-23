@@ -2,7 +2,7 @@
 
 **Kiva** is the largest [moon](moons-of-mote.md) of [Mote](../../mote/mote.md).
 
-## Attributes
+## Information
 
 - Orbital period: 1 month
 
