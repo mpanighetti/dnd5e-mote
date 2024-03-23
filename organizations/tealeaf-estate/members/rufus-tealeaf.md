@@ -11,4 +11,4 @@
 - [Milo Tealeaf](milo-tealeaf.md): son
 - [Rob Tealeaf](../../gilded-purse/members/rob-tealeaf.md): son
 - [Myrtle Tealeaf](myrtle-tealeaf.md): daughter
-- [Barnard Bibblin](barnard-bibblin.md): nephew
+- [Barnard Tealeaf-Bibblin](barnard-tealeaf-bibblin.md): nephew
