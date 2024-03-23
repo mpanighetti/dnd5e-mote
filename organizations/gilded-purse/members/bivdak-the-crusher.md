@@ -1,6 +1,6 @@
 # Bivdak the Crusher
 
-**Bivdak the Crusher** is a _thug_ employed by the [Gilded Purse](../../../organizations/gilded-purse.md).
+**Bivdak the Crusher** is a _thug_ employed by the [Gilded Purse](../gilded-purse.md).
 
 ## Information
 
