@@ -42,10 +42,10 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [The Chosen](organizations/the-chosen.md)
 - [Edgewood Construction](organizations/edgewood-construction.md)
 - [Gilded Purse](organizations/gilded-purse.md)
-- [Order of Istus](organizations/order-of-istus.md)
+- [Order of Istus](organizations/order-of-istus/order-of-istus.md)
 - [Overseers of the Eager](organizations/overseers-of-the-eager.md)
 - [Reynard's Den](organizations/reynards-den.md)
-- [Tealeaf Estate](organizations/tealeaf-estate.md)
+- [Tealeaf Estate](organizations/tealeaf-estate/tealeaf-estate.md)
 
 ### [Species](species)
 
