@@ -8,4 +8,5 @@ The **Gilded Purse** is a gang headed by [Baldwin Marshbluff](members/baldwin-ma
 - [Bivdak the Crusher](members/bivdak-the-crusher.md)
 - [Delmae](members/delmae.md)
 - [Griff Masterson](members/griff-masterson.md)
+- [Rob Tealeaf](members/rob-tealeaf.md)
 - [Zared Driftbirch](members/zared-driftbirch.md)

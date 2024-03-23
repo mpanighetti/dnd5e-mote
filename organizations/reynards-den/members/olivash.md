@@ -1,6 +1,6 @@
 # Olivash
 
-**Olivash** is an agent of [Reynard's Den](../../../organizations/reynards-den.md) operating out of [Ëaruilë](../earuile.md). She is a communications officer responsible for handling messaging between various Den members throughout the [Esterfell Accord](../esterfell-accord.md).
+**Olivash** is an agent of [Reynard's Den](../reynards-den.md) operating out of [Ëaruilë](../../../societies/esterfell-accord/earuile.md). She is a communications officer responsible for handling messaging between various Den members throughout the [Esterfell Accord](../../../societies/esterfell-accord/esterfell-accord.md).
 
 ## Information
 

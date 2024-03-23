@@ -1,6 +1,6 @@
 # Grimbeard
 
-**Grimbeard** runs the [Needledale](../needledale.md) chapter of [Reynard's Den](../../../organizations/reynards-den.md).
+**Grimbeard** runs the [Needledale](../../../societies/esterfell-accord/needledale.md) chapter of [Reynard's Den](../reynards-den.md).
 
 ## Information
 
