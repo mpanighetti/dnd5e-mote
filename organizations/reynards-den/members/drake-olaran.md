@@ -8,11 +8,16 @@
 - species: human / elf
 - languages: Common, Elvish, Celestial, Undercommon, Infernal
 
+## Relationships
+
+- [Rufus Olaran](../../the-chosen/members/rufus-olaran.md): father
+- [Líria Kente](../../../societies/esterfell-accord/citizenry/liria-kente.md): mother
+
 ## History
 
 ### Childhood
 
-Drake was born in [Tillë](../../../societies/esterfell-accord/tille.md) to [Líria Kente](../../../societies/esterfell-accord/citizenry/liria-kente.md) and [Rufus Olaran](../../../societies/esterfell-accord/citizenry/rufus-olaran.md). He was raised by Rufus, as his mother's family disapproved of the relationship. Rufus brought up Drake under the teachings of [Deneir](../../../pantheon/mote-pantheon.md).
+Drake was born in [Tillë](../../../societies/esterfell-accord/tille.md) to Líria Kente and Rufus Olaran. He was raised by Rufus, as his mother's family disapproved of the relationship. Rufus brought up Drake under the teachings of [Deneir](../../../pantheon/mote-pantheon.md).
 
 ### Adulthood
 
