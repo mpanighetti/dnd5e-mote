@@ -1,0 +1,13 @@
+# Ref Meadowtide
+
+**Ref Meadowtide** is the foreperson overseeing [construction](../edgewood-construction.md) jobs in [Edgewood](../../../societies/esterfell-accord/edgewood/edgewood.md).
+
+## Information
+
+- pronouns: he/they
+- species: human
+- languages: Common
+
+## Relationships
+
+- [Tendra Meadowtide](../../../societies/esterfell-accord/citizenry/tendra-meadowtide.md) (daughter)

@@ -1,6 +1,6 @@
 # Tendra Meadowtide
 
-**Tendra Meadowtide** is a child living in [Edgewood](../edgewood/edgewood.md) with her father [Ref](ref-meadowtide.md).
+**Tendra Meadowtide** is a child living in [Edgewood](../edgewood/edgewood.md) with her father [Ref](../../../organizations/edgewood-construction/members/ref-meadowtide.md).
 
 ## Information
 

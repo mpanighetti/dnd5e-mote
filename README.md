@@ -40,7 +40,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 - [Antipelan Society](organizations/antipelan-society/antipelan-society.md)
 - [The Chosen](organizations/the-chosen.md)
-- [Edgewood Construction](organizations/edgewood-construction.md)
+- [Edgewood Construction](organizations/edgewood-construction/edgewood-construction.md)
 - [Gilded Purse](organizations/gilded-purse.md)
 - [Order of Istus](organizations/order-of-istus/order-of-istus.md)
 - [Overseers of the Eager](organizations/overseers-of-the-eager.md)
