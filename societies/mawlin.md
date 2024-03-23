@@ -2,6 +2,10 @@
 
 **Mawlin** is a territory covering most of the island of [Barria](../mote/esterfell/barria.md). It has few standing settlements, instead consisting of multiple nomadic tribes that traverse the desert. These tribes maintain an uneasy coexistence with the territory of [Ramila](ramila.md).
 
+## Information
+
+- **Demonyms:** Mawlin
+
 ## Demographics
 
 The Mawlin tribes consist largely of species adapted to persist or thrive within the hot arid climate of Barria, including the following:

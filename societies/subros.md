@@ -2,6 +2,10 @@
 
 **Subros** is a nation occupying [Yggru](../mote/esterfell/yggru/yggru.md) and the southern region of [Lenya](../mote/esterfell/lenya/lenya.md) surrounding [Mount Hora](../mote/esterfell/lenya/mount-hora.md).
 
+## Information
+
+- **Demonyms:** Subrosians
+
 ## Etymology
 
 The nation's name comes from a pre-Esterfell human language phrase "sub rosa" meaning "under the rose", referring to the red glow from Mount Hora's crater that is said to conceal the shadows of southern [Esterfell](../mote/esterfell/esterfell.md) in secrecy.
