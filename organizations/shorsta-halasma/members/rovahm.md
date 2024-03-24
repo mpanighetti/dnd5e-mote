@@ -23,4 +23,4 @@
 
 Rovahm taught his students advanced stealth tactics and how to tap into the planar power of the Shadowfell. He spent some time personally instructing Dex to eventually succeed him as the Master of Shadow. One day he learned that the Shorsta-Halasma had sinister plans for the student and had given him the task to capture Dex for eventual indoctrination. Distraught at the prospect of seeing his favored student come to harm, Rovahm staged an elaborate ruse: he told Dex that he had been kicked out of the Shorsta-Halasma and to never return, then made it appear to the headmaster as if Dex had fought back and was killed in the process.
 
-Shortly after this incident, Rovahm left the Shorsta-Halasma, feeling that the institute was no longer worthy of respect. His position was later filled by [Master of Silence Leaping Frog](leaping-frog.md).
+Shortly after this incident, Rovahm left the Shorsta-Halasma, feeling that the institute no longer exemplified its original ideals. His position was later filled by [Master of Silence Leaping Frog](leaping-frog.md).
