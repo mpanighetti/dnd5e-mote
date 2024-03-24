@@ -3,7 +3,7 @@
 **Dex** is a former student of the [Shorsta-Halasma](../shorsta-halasma).
 
 <figure>
-  <img src="dex-dylan-berman.png" alt="Hero Forge 3D model of a male-presenting elf with tan skin, slicked-back red-brown hair, and blue eyes. His facial expression is one of stern determination. He wears leather armor with accents of green and magenta fabric, a yellow cloack, and green trousers. His feet are exposed, and his hands have basic padded wraps for protection. He wields a wooden staff in one hand while raising one foot in a kicking motion." />
+  <img src="dex-dylan-berman.png" alt="Hero Forge 3D model of a male-presenting elf with tan skin, slicked-back red-brown hair, and blue eyes. His facial expression is one of stern determination. He wears leather armor with accents of green and magenta fabric, a yellow cloak, and green trousers. His feet are exposed, and his hands have basic padded wraps for protection. He wields a wooden staff in one hand while raising one foot in a kicking motion." />
   <figcaption>Dex by Dylan Berman</figcaption>
 </figure>
 
