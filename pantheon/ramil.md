@@ -6,7 +6,7 @@
 
 - pronouns: he/his
 - classification: deva
-- alignment: Neutral
+- alignment: Lawful Good
 - religions: The Chosen
 
 <details>
