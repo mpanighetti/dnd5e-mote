@@ -8,12 +8,12 @@
 
 #### Information
 
-- Pronouns: she/her
-- Classification: deity
-- Alignment: True Neutral
-- Domains: Knowledge, Fate, Destiny, Divination, Future Events
-- Symbol: a weaver's spindle with three strands
-- Religions: Order of Istus
+- pronouns: she/her
+- classification: deity
+- alignment: True Neutral
+- domains: Knowledge, Fate, Destiny, Divination, Future Events
+- symbol: a weaver's spindle with three strands
+- religions: Order of Istus
 
 #### Boons
 

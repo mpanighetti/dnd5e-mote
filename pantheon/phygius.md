@@ -27,11 +27,11 @@ The Middlestag is mentioned in the song "[Remi O](../lore/remi-o.md)".
 
 #### Information
 
-- Pronouns: it/its
-- Classification: archfey
-- Alignment: Chaotic Neutral
-- Domains: Nature, Feywild
-- Aliases: Middlestag
+- pronouns: it/its
+- classification: archfey
+- alignment: Chaotic Neutral
+- domains: Nature, Feywild
+- aliases: Middlestag
 
 #### Attributes
 

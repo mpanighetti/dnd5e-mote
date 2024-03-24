@@ -4,17 +4,17 @@
 
 #### Information
 
-- Pronouns: he/his
-- Classification: deva
-- Alignment: Neutral
-- Religions: The Chosen
+- pronouns: he/his
+- classification: deva
+- alignment: Neutral
+- religions: The Chosen
 
 <details>
   <summary>SPOILER WARNING</summary>
 
-  - Pronouns: it/its
-  - Classification: corrupted deva / great old one
-  - Alignment: Chaotic Evil
+  - pronouns: it/its
+  - classification: corrupted deva / great old one
+  - alignment: Chaotic Evil
   - aliases: Pyr'xhalz
 
 </details>
