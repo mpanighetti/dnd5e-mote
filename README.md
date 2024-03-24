@@ -95,6 +95,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### Artists
 
+- Dylan Berman
 - [Haru](https://twitter.com/200dollarHaru)
 - [Nikki Lacey](https://linktr.ee/hollycircling)
 - Mario Panighetti
