@@ -1,6 +1,6 @@
-# Shorsta Halasma
+# Shorsta-Halasma
 
-**Shorsta Halasma** is an order of monks endeavoring to unlock the secrets of planar psionics. Each teacher and student learns to connect to a specific realm, then channels that planar energy through their ki using a [Staff of Shorsta](../../artifacts/staff-of-shorsta.md).
+The **Shorsta-Halasma** are an order of monks endeavoring to unlock the secrets of planar psionics. Each teacher and student learns to connect to a specific realm, then channels that planar energy through their ki using a [Staff of Shorsta](../../artifacts/staff-of-shorsta.md).
 
 ## Members
 
