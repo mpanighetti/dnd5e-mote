@@ -47,7 +47,9 @@ The following creatures are all based on existing creatures and modified with mu
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-monsters/raw/main/monstrosities/murexian-squirrel-tigerlilynoh.png" alt="Drawing of murexian squirrel, depicting a squirrel with fangs, claws, and purple coloration in its eyes and on its neon-striped fur, sitting atop a human skull." />
   <figcaption>Murexian Squirrel by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
-</figure>[^🎃]
+</figure>
+
+[^🎃]
 
 #### Attributes
 
@@ -187,7 +189,9 @@ _**Tail.**_ _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-monsters/raw/main/monstrosities/murexian-hellwasp-tigerlilynoh.png" alt="Drawing of murexian hellwasp, depicting a wasp with purple coloration on its body and wings." />
   <figcaption>Murexian Hellwasp by <a href="https://tigerlilynoh.tumblr.com">TigerLilyNoh</a></figcaption>
-</figure>[^🎃]
+</figure>
+
+[^🎃]
 
 #### Attributes
 
@@ -238,7 +242,9 @@ Murexian beholders will happily make their new surroundings into a lair, tending
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-monsters/raw/main/monstrosities/murexian-beholder-mario-panighetti.png" alt="Drawing of murexian beholder, depicting a beholder with purple stripes across its indigo body, with its eyes all shaded purple, and viscous purple liquid oozing from its mouth and numerous eyeballs, framed by a backdrop of purple and black trees." />
   <figcaption>Murexian Beholder by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
-</figure>[^🎃]
+</figure>
+
+[^🎃]
 
 #### Attributes
 
