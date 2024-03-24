@@ -12,5 +12,5 @@ The following is not an exhaustive list of beings with power and influence over 
 | Deneir | deity | NG | Knowledge, Writing | Lit candle above an open eye | The Forgotten Realms |
 | [Istus](istus.md) | deity | N | Knowledge, Fate, Destiny, Divination, Future Events | Weaver’s spindle with three strands | Greyhawk |
 | [Phygius](phygius.md) | archfey | CN | Nature, Feywild | Antlers with teardrops | Mote |
-| [Ramil](ramil.md) | deva | NE | | Crescent with radial triangles | Mote |
+| [Ramil](ramil.md) | deva | CE | | Crescent with radial triangles | Mote |
 | Silvanus | deity | N | Nature, Wilderness | Oak leaf | The Forgotten Realms |
