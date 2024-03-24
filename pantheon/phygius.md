@@ -18,10 +18,10 @@ Farmers and hunters in the region might revere the Stag as a minor deity, but th
 
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-monsters/raw/main/fey/phygius-haru.png" alt="Drawing of Phygius, depicting a stag with three antlers draped in vines and flowers, its forehead emblazoned with an arcane mark, surrounded by ethereal sparkling lights." />
-  <figcaption>Phygius by <a href="https://twitter.com/200dollarHaru">Haru</a>[^🎃]</figcaption>
+  <figcaption>Phygius by <a href="https://twitter.com/200dollarHaru">Haru</a>[^🎨]</figcaption>
 </figure>
 
-[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc).
+[^🎨]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc).
 
 ##### Cultural references
 
