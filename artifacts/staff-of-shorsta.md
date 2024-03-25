@@ -21,7 +21,7 @@ While attuned to a staff of Shorsta, you gain the following benefits:
   - **Warrior of the Long Death (Negative Plane).** Each time you regain Hit Points, gain Temporary Hit Points, or deal necrotic damage using a monk feature, you can spend 1-3 Discipline Points to increase the amount of hit points gained or damage dealt by a number equal to two rolls of your Martial Arts die per point spent.
   - **Warror of Mercy (Arborea).** Each time you use your Hand of Healing or Hand of Harm feature, you can spend 1-3 Discipline Points to apply the feature's effect to an additional creature within 30 feet you can see per point spent.
   - **Warrior of Shadow (Shadowfell).** While you are shrouded in darkness, your melee attacks deal additional damage equal to a roll of your Martial Arts die.
-  - **Warrior of the Sun Soul (Positive Plane).** Each time you deal fire or radiant damage with an attack, spell, or Magic Action, you can spend 1 Discipline Point to make that attack ignore damage resistance.
+  - **Warrior of the Sun Soul (Positive Plane).** Each time you deal fire or radiant damage with an attack, spell, or Magic Action, you can spend 1 Discipline Point to make that effect ignore damage resistance.
 
 - While on the plane of existence corresponding to your monk subclass in the above list, you are considered a native being of that plane, you can choose to be immune to any optional rule that affects creatures visiting that plane, and each time you finish a Long Rest on that plane of existence, you gain a number of Temporary Hit Points equal to your monk level.
 
