@@ -93,13 +93,6 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 [Mario Panighetti](https://mario.panighetti.net)
 
-### Artists
-
-- Dylan Berman
-- [Haru](https://twitter.com/200dollarHaru)
-- [Nikki Lacey](https://linktr.ee/hollycircling)
-- Mario Panighetti
-
 ## Compatibility
 
 This content was written to be compatible with Dungeons & Dragons 5th Edition.  This document uses "species" in place of "race" and "ancestry" or "variant" in place of "subrace" where used in the _Systems Reference Document_.
