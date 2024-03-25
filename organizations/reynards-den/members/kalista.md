@@ -10,7 +10,6 @@
 - aliases: Raven
 - height: 6'6"
 - weight: 248 lbs.
-
-## Appearance
-
-Kalista has purple skin, black hair, and gold eyes.
+- skin: purple
+- hair: black
+- eyes: gold
