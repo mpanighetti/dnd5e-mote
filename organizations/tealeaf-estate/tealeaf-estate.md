@@ -4,9 +4,15 @@ The **Tealeaf Estate** is a highly successful family-run business operating out 
 
 ## Members
 
+### Current
+
 - [Rufus Tealeaf](members/rufus-tealeaf.md)
 - [Oswald Tealeaf](members/oswald-tealeaf.md)
 - [Jillian Tealeaf-Bibblin](members/jillian-tealeaf-bibblin.md)
+
+### Former
+
+- [Rob Tealeaf](../gilded-purse/members/rob-tealeaf.md)
 
 ## History
 
