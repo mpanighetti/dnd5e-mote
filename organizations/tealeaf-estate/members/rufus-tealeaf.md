@@ -4,7 +4,7 @@
 
 ## Relationships
 
-- [Lilly Tealeaf](lilly-tealeaf.md): spouse
+- [Lilly Tealeaf](lilly-tealeaf.md): spouse (deceased)
 - [Oswald Tealeaf](oswald-tealeaf.md): brother, business partner
 - [Jillian Tealeaf-Bibblin](jillian-tealeaf-bibblin.md): sister-in-law, business partner
 - [Anderson Tealeaf](anderson-tealeaf.md): son
