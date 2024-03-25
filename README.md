@@ -65,6 +65,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Dreg](artifacts/dreg-ore.md)
 - [Murex](artifacts/murex.md)
 - [Selkie Skin](artifacts/selkie-skin.md)
+- [Staff of Shorsta](artifacts/staff-of-shorsta.md)
 - [Starstuff](artifacts/starstuff.md)
 
 ### [Technology](technology)
