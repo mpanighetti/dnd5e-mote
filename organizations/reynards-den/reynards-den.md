@@ -5,12 +5,12 @@
 ## Members
 
 - [Reynard](members/reynard.md): Den leader, [Cape Bec](../../societies/esterfell-accord/cape-bec/cape-bec.md) chapter leader
-- [Baldwin Marshbluff](../gilded-purse/members/baldwin-marshbluff.md) (Leving chapter leader
-- [Bellin](members/bellin.md) [Hewpass](../../societies/esterfell-accord/hewpass.md) chapter leader
-- [Chanticleer](members/chanticleer.md) [Bridgeport](../../societies/esterfell-accord/bridgeport.md) chapter leader
-- [Grimbeard](members/grimbeard.md) [Needledale](../../societies/esterfell-accord/needledale.md) chapter leader
+- [Baldwin Marshbluff](../gilded-purse/members/baldwin-marshbluff.md): Leving chapter leader
+- [Bellin](members/bellin.md): [Hewpass](../../societies/esterfell-accord/hewpass.md) chapter leader
+- [Chanticleer](members/chanticleer.md): [Bridgeport](../../societies/esterfell-accord/bridgeport.md) chapter leader
+- [Grimbeard](members/grimbeard.md): [Needledale](../../societies/esterfell-accord/needledale.md) chapter leader
 - [Ichika](members/ichika.md): [Suizenloch](../../societies/esterfell-accord/suizenloch.md) chapter leader
-- [Krueger](members/krueger.md) [Redgrave](../../societies/esterfell-accord/redgrave.md) chapter leader
+- [Krueger](members/krueger.md): [Redgrave](../../societies/esterfell-accord/redgrave.md) chapter leader
 - [Tybalt](members/tybalt.md): [Ëaruilë](../../societies/esterfell-accord/earuile.md) chapter leader
 - [Drake Olaran](members/drake-olaran.md): scribe operating out of [Cape Bec](../../societies/esterfell-accord/cape-luz.md) and Suizenloch
 - [Kalista](members/kalista.md): field operative
