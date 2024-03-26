@@ -12,7 +12,7 @@
 - [Ichika](members/ichika.md): [Suizenloch](../../societies/esterfell-accord/suizenloch.md) chapter leader
 - [Krueger](members/krueger.md): [Redgrave](../../societies/esterfell-accord/redgrave.md) chapter leader
 - [Tybalt](members/tybalt.md): [Ëaruilë](../../societies/esterfell-accord/earuile.md) chapter leader
-- [Drake Olaran](members/drake-olaran.md): scribe operating out of [Cape Bec](../../societies/esterfell-accord/cape-luz.md) and Suizenloch
+- [Drake Olaran](members/drake-olaran.md): scribe ([Cape Bec](../../societies/esterfell-accord/cape-luz.md) and Suizenloch)
 - [Kalista](members/kalista.md): field operative
 - [Olivash](members/olivash.md): communications officer (Ëaruilë)
 - [S'akmezzi](members/sakmezzi.md): field operations (Leving and Overseam)
