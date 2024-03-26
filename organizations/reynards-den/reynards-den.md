@@ -2,25 +2,20 @@
 
 **Reynard's Den** is a cartel operating out of several cities across the [Esterfell Accord](../../societies/esterfell-accord/esterfell-accord.md). Its main business comes from smuggling stolen teas out of [Brier Glen](../../societies/esterfell-accord/brier-glen.md) to sell on the black market in [Leving](../../societies/esterfell-accord/leving/leving.md) and [Overseam](../../societies/esterfell-accord/overseam.md), but the organization has agents secretly furthering its financial and political efforts throughout the Accord.
 
-## Known members
+## Members
 
-### Leadership
-
-- [Reynard](members/reynard.md) ([Cape Bec](../../societies/esterfell-accord/cape-bec/cape-bec.md))
-- [Ichika](members/ichika.md) ([Suizenloch](../../societies/esterfell-accord/suizenloch.md))
-- [Tybalt](members/tybalt.md) ([Ëaruilë](../../societies/esterfell-accord/earuile.md))
-- [Grimbeard](members/grimbeard.md) ([Needledale](../../societies/esterfell-accord/needledale.md))
-- [Baldwin Marshbluff](../gilded-purse/members/baldwin-marshbluff.md) (Leving)
-- [Krueger](members/krueger.md) ([Redgrave](../../societies/esterfell-accord/redgrave.md))
-- [Chanticleer](members/chanticleer.md) ([Bridgeport](../../societies/esterfell-accord/bridgeport.md))
-- [Bellin](members/bellin.md) ([Hewpass](../../societies/esterfell-accord/hewpass.md))
-
-### Agents
-
-- [Drake Olaran](members/drake-olaran.md) ([Cape Bec](../../societies/esterfell-accord/cape-luz.md) and Suizenloch)
-- [Kalista](members/kalista.md) (field operative)
-- [Olivash](members/olivash.md) (Ëaruilë)
-- [S'akmezzi](members/sakmezzi.md) (Leving and Overseam)
+- [Reynard](members/reynard.md): Den leader, [Cape Bec](../../societies/esterfell-accord/cape-bec/cape-bec.md) chapter leader
+- [Baldwin Marshbluff](../gilded-purse/members/baldwin-marshbluff.md) (Leving chapter leader
+- [Bellin](members/bellin.md) [Hewpass](../../societies/esterfell-accord/hewpass.md) chapter leader
+- [Chanticleer](members/chanticleer.md) [Bridgeport](../../societies/esterfell-accord/bridgeport.md) chapter leader
+- [Grimbeard](members/grimbeard.md) [Needledale](../../societies/esterfell-accord/needledale.md) chapter leader
+- [Ichika](members/ichika.md): [Suizenloch](../../societies/esterfell-accord/suizenloch.md) chapter leader
+- [Krueger](members/krueger.md) [Redgrave](../../societies/esterfell-accord/redgrave.md) chapter leader
+- [Tybalt](members/tybalt.md): [Ëaruilë](../../societies/esterfell-accord/earuile.md) chapter leader
+- [Drake Olaran](members/drake-olaran.md): scribe operating out of [Cape Bec](../../societies/esterfell-accord/cape-luz.md) and Suizenloch
+- [Kalista](members/kalista.md): field operative
+- [Olivash](members/olivash.md): communications officer (Ëaruilë)
+- [S'akmezzi](members/sakmezzi.md): field operations (Leving and Overseam)
 
 ## Communication
 
