@@ -9,4 +9,4 @@
 
 ## History
 
-Sentry and its counterpart [Protector](protector.md) were built as commissions of the [Shorsta-Halasma](../shorsta-halasma.md) to act as constant bodyguards for the monastery's headmaster. It swore the Oath of the Crown to magically bind its service to any who sleep within the walls of the monastery.
+Sentry and its counterpart [Protector](protector.md) were commissioned by the [Shorsta-Halasma](../shorsta-halasma.md) to act as constant bodyguards for the monastery's headmaster. It swore the Oath of the Crown to magically bind its service to any who sleep within the walls of the monastery.
