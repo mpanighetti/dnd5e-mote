@@ -19,8 +19,9 @@ The hot stretches of Barrian desert drew in the dust gnomes, who helped establis
 #### Traits
 
 - _**Creature Type:**_ Humanoid
-- _**Size**_ Small (3-4 feet tall)
+- _**Size:**_ Small (2-3 feet tall)
 - _**Speed:**_ 30 feet
+- _**Skills:**_ Perception, Survival
 - _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 350 years on average
 
@@ -32,7 +33,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells yo
 
 _**Gnomish Cunning.**_ You have Advantage on Intelligence, Wisdom, and Charisma Saving Throws.
 
-_**Waterdowsers.**_ You have Proficiency in the Survival and Perception Skills, and you are naturally adapted to hot climates. Additionally, when you are in a hot climate, you have Advantage on Wisdom (Survival) and Wisdom (Perception) checks to forage or navigate within the environment.
+_**Waterdowsers.**_ You are naturally adapted to hot climates. When you are in such an environment, you have Advantage on Wisdom (Survival) and Wisdom (Perception) checks to forage or navigate within the environment.
 
 ### Forest gnome
 
