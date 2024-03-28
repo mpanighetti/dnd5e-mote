@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: satyr
 - title: Master of Body
+
+### Physical
+
+- species: satyr

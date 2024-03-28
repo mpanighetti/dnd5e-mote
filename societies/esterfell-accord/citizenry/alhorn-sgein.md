@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: sea elf
 - languages: Elvish, Common, Dwarvish
+
+### Physical
+
+- species: sea elf
 
 ## Social
 

@@ -4,13 +4,16 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: air genasi
 - languages: Common, Auran, Gnomish
 
-## Description
+### Physical
 
-Squall has sky blue skin and dark blue hair tied into a long braid.
+- species: air genasi
+- skin: sky blue
+- hair: dark blue tied into a long braid
 
 ## Relationships
 

@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: human
 - languages: Common, Elvish
+
+### Physical
+
+- species: human
 
 ## History
 

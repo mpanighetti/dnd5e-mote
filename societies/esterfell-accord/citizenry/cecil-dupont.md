@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: human
 - languages: Common, Elvish
+
+### Physical
+
+- species: human

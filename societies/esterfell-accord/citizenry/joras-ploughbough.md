@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: lightfoot halfling
 - languages: Halfling, Common, Elvish
+
+### Physical
+
+- species: lightfoot halfling
 
 ## Name
 

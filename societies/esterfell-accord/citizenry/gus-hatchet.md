@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: mountain dwarf
 - languages: Common, Dwarvish, Goblin
+
+### Physical
+
+- species: [mountain dwarf](../../../species/dwarf.md#mountain-dwarf)

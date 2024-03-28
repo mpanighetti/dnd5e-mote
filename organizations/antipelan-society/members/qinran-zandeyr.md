@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: high elf
 - languages: Common, Elvish, Kuo
+
+### Physical
+
+- species: high elf

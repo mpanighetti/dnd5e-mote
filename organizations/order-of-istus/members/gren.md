@@ -4,10 +4,14 @@ Gren is an _acolyte_ of the [Order of Istus](../order-of-istus.md) assigned to t
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: human
 - languages: Common, Goblin
 
+### Physical
+
+- species: human
 
 ## History
 

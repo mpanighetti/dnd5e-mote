@@ -4,10 +4,15 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: tiefling
 - languages: Common, Infernal, Thieves' Cant
 - aliases: Raven
+
+### Physical
+
+- species: tiefling
 - height: 6'6"
 - weight: 248 lbs.
 - skin: purple

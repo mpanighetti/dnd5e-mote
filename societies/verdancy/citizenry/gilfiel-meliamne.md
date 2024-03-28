@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: wood elf
 - languages: Common, Elvish
+
+### Physical
+
+- species: wood elf
 
 ## Description
 

@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: they/them
-- species: tabaxi
 - title: Master of Silence
+
+### Physical
+
+- species: tabaxi

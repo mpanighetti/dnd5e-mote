@@ -4,8 +4,13 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: kenku
-- age: 47
 - languages: Auran, Common
 - aliases: Cobbler
+
+### Physical
+
+- species: kenku
+- age: 47

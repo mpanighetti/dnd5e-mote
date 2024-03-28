@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: githyanki
 - title: Master of Steel
+
+### Physical
+
+- species: githyanki

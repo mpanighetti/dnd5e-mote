@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: hill dwarf
 - languages: Dwarvish, Common
+
+### Physical
+
+- species: [hill dwarf](../../../species/dwarf.md#hill-dwarf)
 
 ## Description
 

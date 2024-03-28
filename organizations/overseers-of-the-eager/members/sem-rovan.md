@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: forest gnome
 - languages: Common, Gnomish, Elvish
+
+### Physical
+
+- species: [forest gnome](../../../species/gnome.md#forest-gnome)

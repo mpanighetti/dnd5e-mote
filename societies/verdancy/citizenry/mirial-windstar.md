@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: high elf
 - languages: Common, Elvish, Druidic, Sylvan, Dwarvish
+
+### Physical
+
+- species: high elf
 
 ## History
 

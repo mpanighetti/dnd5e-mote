@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: human
 - title: Master of Shadow
+
+### Physical
+
+- species: human
 
 ## History
 

@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: human / elf
 - languages: Common
+
+### Physical
+
+- species: human / elf

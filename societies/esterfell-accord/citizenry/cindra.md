@@ -4,10 +4,15 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: dragonborn
 - languages: Common, Draconic
 - title: Dragon Queen of Sanctus Salimandus
+
+### Physical
+
+- species: dragonborn
 
 ## History
 

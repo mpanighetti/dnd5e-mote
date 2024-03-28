@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: human
 - languages: Common, Orc, Gnomish
+
+### Physical
+
+- species: human

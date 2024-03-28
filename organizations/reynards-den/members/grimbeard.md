@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: duergar
 - languages: Common, Dwarvish
+
+### Physical
+
+- species: [duergar](../../../species/dwarf.md#duergar)
 
 > [!TIP]
 > Grimbeard is inspired by Grimbard the Badger from [Reynard the Fox](https://en.wikipedia.org/wiki/Reynard_the_Fox).

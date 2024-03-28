@@ -4,7 +4,12 @@
 
 ## Information
 
+### Mental
+
 - pronouns: they/them
+
+### Physical
+
 - species: warforged
 
 ## History

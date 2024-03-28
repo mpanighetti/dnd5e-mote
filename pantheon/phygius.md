@@ -31,11 +31,16 @@ The Middlestag is mentioned in the song "[Remi O](../lore/remi-o.md)".
 
 #### Information
 
+##### Mental
+
 - pronouns: it/its
+- aliases: Middlestag
+
+##### Physical
+
 - classification: archfey
 - alignment: Chaotic Neutral
 - domains: Nature, Feywild
-- aliases: Middlestag
 
 #### Attributes
 

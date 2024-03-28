@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: githzerai
 - title: Master of Fire
+
+### Physical
+
+- species: githzerai

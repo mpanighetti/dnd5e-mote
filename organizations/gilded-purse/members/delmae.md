@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: elf / human
 - languages: Common, Elvish
+
+### Physical
+
+- species: elf / human
 
 ## Stat block
 

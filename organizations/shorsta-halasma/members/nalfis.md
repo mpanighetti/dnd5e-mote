@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: eladrin
 - title: Headmaster
+
+### Physical
+
+- species: eladrin

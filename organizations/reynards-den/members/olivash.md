@@ -4,10 +4,15 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: Glasya tiefling / elf / kalashtar
 - languages: Common, Infernal, Elvish
 - aliases: Starling
+
+### Physical
+
+- species: Glasya tiefling / elf / kalashtar
 
 ## Appearance
 

@@ -4,8 +4,13 @@
 
 ## Information
 
+### Mental
+
 - pronouns: they/them
-- species: kenku
-- age: 50
 - languages: Auran, Common, Elvish
 - aliases: Tinker
+
+### Physical
+
+- species: kenku
+- age: 50

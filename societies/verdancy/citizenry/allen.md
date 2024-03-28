@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: forest gnome
 - languages: Common, Gnomish, Goblin
+
+### Physical
+
+- species: [forest gnome](../../../species/gnome.md#forest-gnome)
 
 ## History
 

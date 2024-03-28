@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: aasimar
 - languages: Common, Celestial
+
+### Physical
+
+- species: aasimar
 
 ## History
 

@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: aarakocra
 - languages: Common, Auran, Elvish
+
+### Physical
+
+- species: aarakocra
 
 > [!TIP]
 > Chanticleer is inspired by and named after Chanticleer the Cock from [Reynard the Fox](https://en.wikipedia.org/wiki/Reynard_the_Fox).

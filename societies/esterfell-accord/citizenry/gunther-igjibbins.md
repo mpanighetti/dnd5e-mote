@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: rock gnome
 - languages: Gnomish, Common, Dwarvish
+
+### Physical
+
+- species: [rock gnome](../../../species/gnome.md#rock-gnome)
 
 ## Relationships
 

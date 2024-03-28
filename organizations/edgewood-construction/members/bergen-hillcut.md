@@ -4,9 +4,14 @@
 
 ## Information
 
-- pronouns: he/him
+### Mental
+
 - species: human
 - languages: Common
+
+### Physical
+
+- pronouns: he/him
 
 ## History
 

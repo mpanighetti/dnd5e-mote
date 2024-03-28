@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: they/them
-- species: lightfoot halfling
 - languages: Common, Halfling
+
+### Physical
+
+- species: lightfoot halfling

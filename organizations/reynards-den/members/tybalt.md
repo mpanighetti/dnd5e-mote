@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: tiefling
 - languages: Common, Infernal
+
+### Physical
+
+- species: tiefling
 
 
 > [!TIP]

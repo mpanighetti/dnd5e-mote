@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: human / elf
 - languages: Common, Elvish, Celestial, Undercommon, Infernal
+
+### Physical
+
+- species: human / elf
 
 ## Relationships
 

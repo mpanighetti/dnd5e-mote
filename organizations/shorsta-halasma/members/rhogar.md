@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: blue dragonborn
 - title: Master of Lightning
+
+### Physical
+
+- species: blue dragonborn

@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: orc
 - languages: Orc, Common
+
+### Physical
+
+- species: orc
 
 ## Stat block
 

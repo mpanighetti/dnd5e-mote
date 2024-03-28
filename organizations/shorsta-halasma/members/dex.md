@@ -9,7 +9,12 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
+
+### Physical
+
 - species: wood elf
 
 ## History

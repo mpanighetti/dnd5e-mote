@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: water genasi
 - title: Master of Water
+
+### Physical
+
+- species: water genasi

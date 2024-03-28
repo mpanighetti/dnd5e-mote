@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: minotaur
 - title: Master of Dust
+
+### Physical
+
+- species: minotaur

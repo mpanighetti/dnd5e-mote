@@ -4,13 +4,17 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
+- languages: Halfling, Common
+
+### Physical
+
 - species: lightfoot halfling
 - hair: black
 - skin: pale
 - eyes: black (missing right eye)
-- languages: Halfling, Common
-- alignment: Lawful Evil
 
 ## Relationships
 

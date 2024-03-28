@@ -4,6 +4,11 @@ Serri is an _acolyte_ of the [Order of Istus](../order-of-istus.md). They are st
 
 ## Information
 
+### Mental
+
 - pronouns: she/they
-- species: kalashtar
 - languages: Common
+
+### Physical
+
+- species: kalashtar

@@ -4,9 +4,14 @@
 
 ## Information
 
-- pronouns: he/they
+### Mental
+
 - species: human
 - languages: Common
+
+### Physical
+
+- pronouns: he/they
 
 ## Relationships
 

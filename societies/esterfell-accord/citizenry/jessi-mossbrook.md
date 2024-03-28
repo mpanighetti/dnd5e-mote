@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: human / orc
 - languages: Common, Dwarvish
+
+### Physical
+
+- species: human / orc
 
 ## History
 

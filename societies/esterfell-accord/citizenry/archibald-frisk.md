@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: human
 - languages: Common
+
+### Physical
+
+- species: human
 
 ## Business ventures
 

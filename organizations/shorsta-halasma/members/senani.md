@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: orc / human
 - title: Master of Aether
+
+### Physical
+
+- species: orc / human

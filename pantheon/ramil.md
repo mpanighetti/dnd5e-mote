@@ -4,18 +4,27 @@
 
 #### Information
 
+### Mental
+
 - pronouns: he/his
+
+### Physical
+
 - classification: deva
 - alignment: Lawful Good
-- religions: The Chosen
 
 <details>
   <summary>SPOILER WARNING</summary>
 
+  ### Mental
+
   - pronouns: it/its
+  - aliases: Pyr'xhalz
+
+  ### Physical
+
   - classification: corrupted deva / great old one
   - alignment: Chaotic Evil
-  - aliases: Pyr'xhalz
 
 </details>
 

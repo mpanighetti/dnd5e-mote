@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/she
-- species: kalashtar
 - languages: Common
+
+### Physical
+
+- species: kalashtar
 
 ## History
 

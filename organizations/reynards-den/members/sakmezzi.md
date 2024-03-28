@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: drow
 - languages: Common, Elvish
+
+### Physical
+
+- species: drow

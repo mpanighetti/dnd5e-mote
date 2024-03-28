@@ -4,10 +4,15 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: bugbear
 - languages: Common, Goblin
 - aliases: The Hare
+
+### Physical
+
+- species: bugbear
 
 > [!TIP]
 > Krueger is inspired by Kyward the Hare from [Reynard the Fox](https://en.wikipedia.org/wiki/Reynard_the_Fox).

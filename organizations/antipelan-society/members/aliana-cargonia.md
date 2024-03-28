@@ -4,10 +4,15 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
 - title: Princess of Ithilia
-- species: [ithilian](https://www.dndbeyond.com/races/1122421-ithilian)
 - languages: Sylvan, Common
+
+### Physical
+
+- species: [ithilian](https://www.dndbeyond.com/races/1122421-ithilian)
 - age: 27
 - height: 7 in.
 - weight: 1 lb.

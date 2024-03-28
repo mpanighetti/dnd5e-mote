@@ -8,12 +8,16 @@
 
 #### Information
 
+### Mental
+
 - pronouns: she/her
+- symbol: a weaver's spindle with three strands
+
+### Physical
+
 - classification: deity
 - alignment: True Neutral
 - domains: Knowledge, Fate, Destiny, Divination, Future Events
-- symbol: a weaver's spindle with three strands
-- religions: Order of Istus
 
 #### Boons
 

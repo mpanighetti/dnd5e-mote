@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: hobgoblin
 - languages: Goblin, Common
+
+### Physical
+
+- species: hobgoblin
 
 ## History
 

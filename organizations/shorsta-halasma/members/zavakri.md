@@ -4,6 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: kalashtar
 - title: Master of Wind
+
+### Physical
+
+- species: kalashtar

@@ -9,9 +9,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: cetean
 - languages: Echospeak (telepathy), Common, Celestial, Primordial
+
+### Physical
+
+- species: cetean
 
 ## History
 

@@ -4,7 +4,11 @@
 
 ## Information
 
+### Mental
+
 - pronouns: she/her
-- species: human
 - languages: Common
-- allied organizations: Order of Istus
+
+### Physical
+
+- species: human

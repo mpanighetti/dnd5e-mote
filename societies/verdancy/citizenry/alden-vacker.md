@@ -4,7 +4,12 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
+
+### Physical
+
 - species: stout halfling
 - age: 35
 - height: 2'11"

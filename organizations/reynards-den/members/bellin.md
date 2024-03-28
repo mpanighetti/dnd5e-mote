@@ -4,9 +4,14 @@
 
 ## Information
 
+### Mental
+
 - pronouns: zie/zir
-- species: satyr
 - languages: Common, Dwarvish
+
+### Physical
+
+- species: satyr
 
 > [!TIP]
 > Bellin is inspired by and named after Bellin the Ram from [Reynard the Fox](https://en.wikipedia.org/wiki/Reynard_the_Fox).

@@ -4,16 +4,20 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: [rock gnome](../../../species/gnome.md#rock-gnome)
 - languages: Common, Gnomish
+
+### Physical
+
+- species: [rock gnome](../../../species/gnome.md#rock-gnome)
 
 ## Stat block
 
 Whifflefizz uses a _commoner_ stat block with the following changes:
 
 - He has 3d6 hit dice.
-- He has the species traits of a rock gnome.
 - He has the **Sneak Attack** and **Cunning Action** features of a 3rd-level rogue.
 - He wields a dagger.
 

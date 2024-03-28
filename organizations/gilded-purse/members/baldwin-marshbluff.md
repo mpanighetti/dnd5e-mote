@@ -4,10 +4,15 @@
 
 ## Information
 
+### Mental
+
 - pronouns: he/him
-- species: human
 - languages: Common
 - aliases: The Mule, Horton Braymare
+
+### Physical
+
+- species: human
 
 > [!TIP]
 > Baldwin is named after Baldwin the Ass from [Reynard the Fox](https://en.wikipedia.org/wiki/Reynard_the_Fox).
