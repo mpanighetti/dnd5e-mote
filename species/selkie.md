@@ -13,13 +13,12 @@ In fact, the act of this transformation involves a literal shedding of skin akin
 - _**Creature Type:**_ Fey
 - _**Size:**_ Medium (5-6 feet tall)
 - _**Speed:**_ 30 feet, swim 20 feet
+- _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 70-80 years on average
 
 As a selkie, you have the following traits.
 
 _**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has allowed you to thrive in cold environments. You have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment. Additionally, while you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
-
-_**Darkvision.**_ You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray.
 
 _**Friend of the Sea.**_ You can communicate simple ideas to any beast that has a swimming speed using sounds and gestures, and you can understand it in kind.
 
