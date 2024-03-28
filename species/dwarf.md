@@ -41,7 +41,7 @@ _**Walk Without Rhythm.**_ While moving through nonmagical difficult terrain, yo
 
 #### Distribution
 
-Being naturally drawn to Esterfell's deep connections to the Underdark, duergar established large settlements in the lava tubes shaped over millennia by [Mount Hora](../mote/esterfell/lenya/mount-hora.md)'s eruptions, eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../mote/esterfell/oceans/lorunian-strait.md).
+Being naturally drawn to Esterfell's deep connections to the Underdark, duergar established large settlements in the lava tubes shaped over millennia by [Mount Hora](../mote/esterfell/lenya/mount-hora.md)'s eruptions, eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../mote/esterfell/waters/lorunian-strait.md).
 
 ### Hill dwarf
 
