@@ -17,11 +17,21 @@
 
 - species: wood elf
 
+## Relationships
+
+- [Gilvaris Rainfall](../../../societies/verdancy/citizenry/gilvaris-rainfall.md): mother
+- [Yelpetor Ruser](../../../societies/verdancy/citizenry/yelpetor-ruser.md): father
+- [Arn](../../../societies/verdancy/citizenry/arn.md): brother
+- [Loemi](../../../societies/verdancy/citizenry/loemi.md): sister
+- [Rara](../../../societies/verdancy/citizenry/rara.md): sister
+- [Tharis](../../../societies/verdancy/citizenry/tharis.md): brother
+- [Ving](../../../societies/verdancy/citizenry/ving.md): brother
+
 ## History
 
 ### Childhood
 
-From an early age, Dex showed an aptitude for hand-to-hand combat. His family desired to help him hone his skills through mental discipline, so they enrolled him in the Shorsta-Halasma monastery. Dex excelled in his studies in the ways of shadow and stealth, but his rebellious streak often got him in trouble with his teachers. He believed that this ultimately led to him being kicked out of the monastery, though the true nature of his departure was not revealed to him at that time. Because of this apparent expulsion, Dex has not yet completed the construction of his [staff of Shorsta](../../../artifacts/staff-of-shorsta.md).
+Dex was born to Gilvaris Rainfall and Yelpetor Ruser in the Eastern Forests. From an early age, Dex showed an aptitude for hand-to-hand combat. His family desired to help him hone his skills through mental discipline, so they enrolled him in the Shorsta-Halasma monastery. Dex excelled in his studies in the ways of shadow and stealth, but his rebellious streak often got him in trouble with his teachers. He believed that this ultimately led to him being kicked out of the monastery, though the true nature of his departure was not revealed to him at that time. Because of this apparent expulsion, Dex has not yet completed the construction of his [staff of Shorsta](../../../artifacts/staff-of-shorsta.md).
 
 ### Adulthood
 
