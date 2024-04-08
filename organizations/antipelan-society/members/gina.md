@@ -58,7 +58,7 @@ _**Spellcasting (Psionics).**_ Gina can cast the following spells, requiring no 
 
 #### Actions
 
-_**Multiattack.**_ Gina makes two trident attacks. If she has her chromatic pistol drawn, she can replace one trident attack with a chromatic pistol attack.
+_**Multiattack.**_ Gina makes two attacks, one of which can be with her chromatic pistol.
 
 _**Trident.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 
