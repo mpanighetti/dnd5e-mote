@@ -70,6 +70,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Technology](technology)
 
+- [Chromatic Pistol](technology/chromatic-pistol.md)
 - [Starstuff Ships](technology/starstuff-ships/starstuff-ships.md)
 
 ### [Pantheon](pantheon)
