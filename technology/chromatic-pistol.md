@@ -1,4 +1,4 @@
-# Chromatic Pistol
+# [Chromatic Pistol](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/weapons/chromatic-pistol.md)
 
 #### Attributes
 
