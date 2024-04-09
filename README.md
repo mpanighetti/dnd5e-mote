@@ -85,6 +85,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Bestiary](bestiary)
 
+- [Dire Clam](bestiary/dire-clam.md)
 - [Malagwan Seal](bestiary/malagwan-seal.md)
 - [Murexian Creature](bestiary/murexian-creature.md)
 - [Selkie Warrior](bestiary/selkie-warrior.md)
