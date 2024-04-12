@@ -64,7 +64,7 @@ _Large fey (archfey), chaotic neutral_
 
 #### Special Traits
 
-_**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (spell save DC 24). It can innately cast the following spells, requiring no components:
+_**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (Spell Save DC 24). It can innately cast the following spells, requiring no components:
 
 - At will: _dispel magic_, _druidcraft_, _faerie fire_
 - 3/day each: _bless_, _charm monster_, _conjure animals_, _greater invisibility_, _moonbeam_, _plant growth_, _spike growth_, _suggestion_, _transport via plants_
@@ -74,13 +74,13 @@ Spells under 5th level are cast at 5th level.
 
 _**Interplanar Nature.**_ While in the Ethereal Plane, the Feywild, or the Material Plane, Phygius is aware of the location and alignment of all creatures within 30 feet of Phygius' corresponding location on each plane. Additionally, Phygius is immune to _banishment_ or similar spells or effects when it is on any of these planes. If Phygius dies on any plane other than the Feywild, its body is destroyed but its essence travels back to the Feywild, and it is unable to take physical form or planeshift for a time.
 
-_**Legendary Resistance (3/Day).**_ If Phygius fails a saving throw, it can choose to succeed instead.
+_**Legendary Resistance (3/Day).**_ If Phygius fails a Saving Throw, it can choose to succeed instead.
 
-_**Limited Magic Immunity.**_ Unless it wishes to be affected, Phygius is immune to spells of 5th level or lower. It has advantage on saving throws against all other spells and magical effects.
+_**Limited Magic Immunity.**_ Unless it wishes to be affected, Phygius is immune to spells of 5th level or lower. It has advantage on Saving Throws against all other spells and magical effects.
 
 _**Magic Weapons.**_ Phygius' weapon attacks are magical.
 
-_**Regeneration.**_ Phygius regains 20 hit points at the start of its turn. If it takes necrotic damage, this trait doesn’t function at the start of its next turn. Phygius dies only if it starts its turn with 0 hit points and doesn’t regenerate.
+_**Regeneration.**_ Phygius regains 20 hit points at the start of its turn. If it takes necrotic damage, this trait doesn't function at the start of its next turn. Phygius dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
 #### Actions
 
@@ -88,20 +88,20 @@ _**Multiattack.**_ Phygius makes up to two attacks, one with its horns and one w
 
 _**Horns.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 40 (6d10 + 7) piercing damage plus 18 (4d8) force damage.
 
-_**Hooves.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 34 (6d8 + 7) bludgeoning damage plus 14 (4d6) thunder damage, and if it is a creature, it must succeed on a DC 22 Strength saving throw or be knocked prone.
+_**Hooves.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 34 (6d8 + 7) bludgeoning damage plus 14 (4d6) thunder damage, and if it is a creature, it must succeed on a DC 22 Strength Saving Throw or be knocked prone.
 
 #### Bonus Actions
 
-_**Fear Gaze.**_ Phygius stares at a creature within 30 feet of it and fills its mind with fear. The creature must make a DC 24 Wisdom saving throw. Unless the save succeeds, the creature is frightened until the start of its next turn. If a creature’s saving throw is successful, the creature is immune to Phygius’ Fear Aura for the next 24 hours.
+_**Fear Gaze.**_ Phygius stares at a creature within 30 feet of it and fills its mind with fear. The creature must make a DC 24 Wisdom Saving Throw. Unless the save succeeds, the creature is frightened until the start of its next turn. If a creature's Saving Throw is successful, the creature is immune to Phygius' Fear Aura for the next 24 hours.
 
-_**Teleport.**_ Phygius magically teleports, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, up to 120 feet to an unoccupied space it can see. Unwilling creatures must succeed on a DC 18 Wisdom saving throw or they are teleported along with Phygius.
+_**Teleport.**_ Phygius magically teleports, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, up to 120 feet to an unoccupied space it can see. Unwilling creatures must succeed on a DC 18 Wisdom Saving Throw or they are teleported along with Phygius.
 
 #### Legendary Actions
 
-Phygius can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Phygius regains spent legendary actions at the start of its turn.
+Phygius can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Phygius regains spent legendary actions at the start of its turn.
 
 **Arcane Disruption.** Phygius casts _dispel magic_.
 
-**Shift (Costs 2 Actions).** Phygius magically planeshifts, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, to its corresponding location on the Ethereal Plane, the Feywild, or the Material Plane. Unwilling creatures must succeed on a DC 20 Wisdom saving throw or they are teleported along with Phygius. If a creature or object is present at the target location, it must succeed on a DC 23 Dexterity saving throw or take 13 (3d8) force damage and be knocked prone. Whether the creature or object succeeds or fails on the save, it is pushed to an unoccupied space of Phygius' choice within 10 feet.
+**Shift (Costs 2 Actions).** Phygius magically planeshifts, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, to its corresponding location on the Ethereal Plane, the Feywild, or the Material Plane. Unwilling creatures must succeed on a DC 20 Wisdom Saving Throw or they are teleported along with Phygius. If a creature or object is present at the target location, it must succeed on a DC 23 Dexterity Saving Throw or take 13 (3d8) force damage and be knocked prone. Whether the creature or object succeeds or fails on the save, it is pushed to an unoccupied space of Phygius' choice within 10 feet.
 
 **Teleport.** Phygius uses its Teleport action.

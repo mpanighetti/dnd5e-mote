@@ -16,7 +16,7 @@ Due to the delicacy and importance of the astral core for ship operations, the a
 
 This large beam weapon can theoretically lay waste to enemy vessels or monstrous Fellspace creatures, given sufficient supplies of starstuff for power. In the absence of such resources, the spelljammer can use it as an arcane focus to channel and direct their own spells over great distances, effectively providing magical ammunition or remote support.
 
-When the spelljammer is using the spelljamming helm and they cast one of their own spells with a casting time of less than 1 minute, they can choose to do so through the astral cannon. Any spell cast in this manner uses the cannon as a spellcasting focus, it uses the spelljammer's spell save DC, spellcasting ability, and concentration, and it has its range increased to 10 times its normal distance. A spell must have a range other than self or touch when cast through the astral cannon or it fails to cast.
+When the spelljammer is using the spelljamming helm and they cast one of their own spells with a casting time of less than 1 minute, they can choose to do so through the astral cannon. Any spell cast in this manner uses the cannon as a spellcasting focus, it uses the spelljammer's Spell Save DC, spellcasting ability, and Concentration, and it has its range increased to 10 times its normal distance. A spell must have a range other than self or touch when cast through the astral cannon or it fails to cast.
 
 #### Solar Scoop
 
@@ -30,24 +30,24 @@ If multiple types of starstuff deposits are in the engine (such as normal, unsta
 
 ##### Mishap
 
-If the starstuff engine is destroyed, any starstuff inside immediately explodes. Unless all starstuff was previously depleted or removed, all creatures and objects within 120 feet of the engine must make a Constitution saving throw, taking 66 (12d10) radiant damage for each destroyed starstuff deposit on a failed save, or half as much damage on a successful one.
+If the starstuff engine is destroyed, any starstuff inside immediately explodes. Unless all starstuff was previously depleted or removed, all creatures and objects within 120 feet of the engine must make a Constitution Saving Throw, taking 66 (12d10) radiant damage for each destroyed starstuff deposit on a failed save, or half as much damage on a successful one.
 
 ## Officer roles
 
 The available positions on an Antipelan starstuff ship are a combination of the roles in _Astral Adventurer's Guide_ (see _Chapter 2: Astral Adventuring_) and _Ghosts of Saltmarsh_ (see _Appendix A: Of Ships and the Sea_).
 
-**Captain.** The captain issues orders. The best captains have high Intelligence and Charisma scores, as well as proficiency with space vehicles and the Intimidation and Persuasion skills.
+**Captain.** The captain issues orders. The best captains have high Intelligence and Charisma scores, as well as Proficiency with space vehicles and the Intimidation and Persuasion skills.
 
-**First Mate.** This specialist keeps the crew’s morale high by providing supervision, encouragement, and discipline. A first mate benefits from a high Charisma score, as well as proficiency with the Intimidation and Persuasion skills.
+**First Mate.** This specialist keeps the crew's morale high by providing supervision, encouragement, and discipline. A first mate benefits from a high Charisma score, as well as Proficiency with the Intimidation and Persuasion skills.
 
-**Spelljammer.** The spelljammer is a spellcaster dedicated to operating the ship's movement and some of its arcane implements. Without a spelljammer operating the helm, the ship is unable to move. Note that any spellcaster can operate the helm by attuning to it or by transferring attunement to another caster, but it's beneficial to have a primary spelljammer role designated. Effective spelljammers tend to have a high spellcasting ability score and decent Constitution to maintain concentration and control over the helm, as well as proficiency with space vehicles and the Arcana skill.
+**Spelljammer.** The spelljammer is a spellcaster dedicated to operating the ship's movement and some of its arcane implements. Without a spelljammer operating the helm, the ship is unable to move. Note that any spellcaster can operate the helm by attuning to it or by transferring attunement to another caster, but it's beneficial to have a primary spelljammer role designated. Effective spelljammers tend to have a high spellcasting ability score and decent Constitution to maintain Concentration and control over the helm, as well as Proficiency with space vehicles and the Arcana skill.
 
-**Engineer.** The engineer (the equivalent of a bosun or boatswain in _Saltmarsh_) provides technical advice to the captain and crew and leads repair and maintenance efforts. They are responsible for the upkeep of the starstuff engine and other exotic arcane technology. A capable engineer has a high Dexterity score, as well as proficiency with tinker's tools and the Arcana skill.
+**Engineer.** The engineer (the equivalent of a bosun or boatswain in _Saltmarsh_) provides technical advice to the captain and crew and leads repair and maintenance efforts. They are responsible for the upkeep of the starstuff engine and other exotic arcane technology. A capable engineer has a high Dexterity score, as well as Proficiency with tinker's tools and the Arcana skill.
 
-**Quartermaster.** The quartermaster plots the ship’s course, relying on knowledge of star charts and a study of known Wildspace conditions. A reliable quartermaster tends to have a high Wisdom score, as well as proficiency with navigator's tools and the Nature and Survival skills. This role has some overlap with the spelljammer's tasks, so a firm partnership is required to keep navigation operations running smoothly. Alternatively, some crews may have their spelljammer also performing quartermaster duties.
+**Quartermaster.** The quartermaster plots the ship's course, relying on knowledge of star charts and a study of known Wildspace conditions. A reliable quartermaster tends to have a high Wisdom score, as well as Proficiency with navigator's tools and the Nature and Survival skills. This role has some overlap with the spelljammer's tasks, so a firm partnership is required to keep navigation operations running smoothly. Alternatively, some crews may have their spelljammer also performing quartermaster duties.
 
-**Medic.** The ship’s medic (the equivalent of a surgeon in _Saltmarsh_) tends to injuries, keeps illnesses from spreading throughout the ship, and oversees sanitation. A capable surgeon benefits from a high Intelligence score, as well as proficiency with herbalism kits and the Medicine skill.
+**Medic.** The ship's medic (the equivalent of a surgeon in _Saltmarsh_) tends to injuries, keeps illnesses from spreading throughout the ship, and oversees sanitation. A capable surgeon benefits from a high Intelligence score, as well as Proficiency with herbalism kits and the Medicine skill.
 
-**Cook.** A ship’s cook works with the limited ingredients aboard a ship to make meals. A skilled cook keeps the crew’s morale in top shape, while a poor one drags down the entire crew’s performance. A talented cook has a high Constitution score, as well as proficiency with brewer's supplies and cook's utensils.
+**Cook.** A ship's cook works with the limited ingredients aboard a ship to make meals. A skilled cook keeps the crew's morale in top shape, while a poor one drags down the entire crew's performance. A talented cook has a high Constitution score, as well as Proficiency with brewer's supplies and cook's utensils.
 
 Note that these roles are not hard requirements, and crew members can easily shift from one role to another for the purpose of covering for an unconscious officer or as the party's priorities shift.

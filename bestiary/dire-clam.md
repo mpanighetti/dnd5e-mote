@@ -24,7 +24,7 @@ _Large elemental, neutral_
 
 _**Freeze.**_ If the clam takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
 
-_**Shell Defense.**_ While the clam's mouth is closed, it gains a +4 bonus to AC, it has advantage on Strength and Constitution saving throws, it is prone, its speed is 0 and can’t increase, it has disadvantage on Dexterity saving throws, it can’t take reactions, and the only action it can take is its Crush action.
+_**Shell Defense.**_ While the clam's mouth is closed, it gains a +4 bonus to AC, it has advantage on Strength and Constitution Saving Throws, it is Prone, its speed is 0 and can't increase, it has disadvantage on Dexterity Saving Throws, it can't take Reactions, and the only Action it can take is its Crush.
 
 _**Water Breathing.**_ The clam can breathe only underwater.
 

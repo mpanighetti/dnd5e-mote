@@ -1,6 +1,6 @@
 # Istus
 
-> "I have one last blessing for you, my emissaries. Your fate is guiding you, not today, not tomorrow, but to a moment that will challenge you in a new and horrible way, and I cannot make the difficult decision that lies at the end of your quest for you, but I can grant you the time you need to make that decision. You’re going to be _amazing_."
+> "I have one last blessing for you, my emissaries. Your fate is guiding you, not today, not tomorrow, but to a moment that will challenge you in a new and horrible way, and I cannot make the difficult decision that lies at the end of your quest for you, but I can grant you the time you need to make that decision. You're going to be _amazing_."
 >
 > — Istus, [The Adventure Zone: Balance - The Eleventh Hour: Chapter Seven](https://maximumfun.org/episodes/adventure-zone/ep-47-eleventh-hour-chapter-seven/)
 

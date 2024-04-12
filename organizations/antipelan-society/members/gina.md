@@ -51,7 +51,7 @@ _**Hold Breath.**_ Gina can hold their breath for 1 hour.
 
 _**Special Equipment.**_ Gina wields a [chromatic pistol](../../../technology/chromatic-pistol.md).
 
-_**Spellcasting (Psionics).**_ Gina can cast the following spells, requiring no spell components and using Charisma as the spellcasting ability (spell save DC 15):
+_**Spellcasting (Psionics).**_ Gina can cast the following spells, requiring no spell components and using Charisma as the spellcasting ability (Spell Save DC 15):
 
 - At will: _light_, _mage hand_, _prestidigitation_
 - 1/day: _dimension door_

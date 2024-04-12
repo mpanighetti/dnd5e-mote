@@ -39,7 +39,7 @@ _Gargantuan vehicle (130 ft. by 30 ft.)_
 
 #### Actions
 
-On its turn, the starfire ship's spelljammer can use the helm to move and steer the ship, and the ship can take up to 3 actions, choosing from the options below.  It can take only 2 actions if it has fewer than ten crew and only 1 action if it has fewer than six. It can’t take these actions if it has fewer than three crew, and it cannot take actions dependent on a specific crew member if the individual is incapacitated.
+On its turn, the starfire ship's spelljammer can use the helm to move and steer the ship, and the ship can take up to 3 actions, choosing from the options below.  It can take only 2 actions if it has fewer than ten crew and only 1 action if it has fewer than six. It can't take these actions if it has fewer than three crew, and it cannot take actions dependent on a specific crew member if the individual is incapacitated.
 
 **Engineering.** The starfire ship's engineer can trigger a surge of the engine to move the ship in a burst of speed.
 
@@ -55,7 +55,7 @@ On its turn, the starfire ship's spelljammer can use the helm to move and steer 
 - **Hit Points** 25
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
 
-_**Absorb Scroll (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The engineer feeds a spell scroll to the arcane core through the starstuff engine, and must then succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell’s level. If the check succeeds, the arcane core successfully learns the spell. This check fails automatically if the spell has a casting time of 1 minute or longer, or a range of touch or self. Whether the check succeeds or fails, the spell scroll is destroyed.
+_**Absorb Scroll (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The engineer feeds a spell scroll to the arcane core through the starstuff engine, and must then succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the arcane core successfully learns the spell. This check fails automatically if the spell has a casting time of 1 minute or longer, or a range of touch or self. Whether the check succeeds or fails, the spell scroll is destroyed.
 
 ##### Astral Cannon
 
@@ -64,7 +64,7 @@ _**Absorb Scroll (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The 
 - **Damage Threshold** 20
 - **Crew** 1 (spelljammer)
 
-_**Astral Fire (Costs 5 Starstuff Deposits).**_ The astral cannon fires a beam of concentrated starstuff energy in a 1,000-foot line that is 10 feet wide. Each creature or vehicle in that line must make a DC 20 Dexterity saving throw. On a failed save, a creature or vehicle takes 66 (12d10) radiant damage and is on fire. On a successful save, the damage is halved. Creatures onboard vehicles in the line are not affected by this beam, as the vehicle takes the astral fire's direct effects.
+_**Astral Fire (Costs 5 Starstuff Deposits).**_ The astral cannon fires a beam of concentrated starstuff energy in a 1,000-foot line that is 10 feet wide. Each creature or vehicle in that line must make a DC 20 Dexterity Saving Throw. On a failed save, a creature or vehicle takes 66 (12d10) radiant damage and is on fire. On a successful save, the damage is halved. Creatures onboard vehicles in the line are not affected by this beam, as the vehicle takes the astral fire's direct effects.
 
 _**Spellshot (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The spelljammer casts one of the arcane core's spells with a casting time of less than 1 minute through the astral cannon. The core knows the following spells:
 
@@ -72,7 +72,7 @@ _**Spellshot (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The spel
 - 1st-level: _catapult_, _faerie fire_
 - 2nd-level: _shatter_
 
-Spells can be cast at higher levels by spending a number of starstuff deposits equal to the level, but the core cannot cast spells at a higher level than the highest-level spell it knows. Cantrips with additional effects at higher levels use the spelljammer's level to determine their effects. Any spells cast in this manner requiring concentration use the spelljammer's concentration.
+Spells can be cast at higher levels by spending a number of starstuff deposits equal to the level, but the core cannot cast spells at a higher level than the highest-level spell it knows. Cantrips with additional effects at higher levels use the spelljammer's level to determine their effects. Any spells cast in this manner requiring Concentration use the spelljammer's Concentration.
 
 ##### Ballistas (2)
 
