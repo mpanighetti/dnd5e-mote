@@ -21,12 +21,12 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** ⅛ (25 XP) **Proficiency Bonus** +2
 ___
-_**Aquatic Fortitude.**_ The seal ignores any of the drawbacks caused by a deep, underwater environment. Additionally, while not wearing armor, the seal uses Constitution to determine its Armor Class rather than Dexterity (included in the stat block).
+_**Aquatic Fortitude.**_ The seal ignores any of the drawbacks caused by a deep, underwater environment. Additionally, while not wearing armor, the seal uses Constitution to determine their Armor Class rather than Dexterity (included in the stat block).
 
-_**Hold Breath.**_ The seal can hold its breath for 30 minutes.
+_**Hold Breath.**_ The seal can hold their breath for 30 minutes.
 
 _**Keen Smell.**_ The seal has advantage on Wisdom (Perception) checks that rely on smell.
 
 #### Actions
 
-_**Bite.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) piercing damage.
+_**Bite.**_ _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) Piercing damage.

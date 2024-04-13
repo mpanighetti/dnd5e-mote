@@ -5,7 +5,7 @@
 **Ceteans** are a society of whalefolk who fly amongst the stars in the pursuit of knowledge.
 
 <figure>
-  <img src="ooeeoo-nikki-lacey.jpg" alt="Drawing of a whale-like humanoid figure with a blue body and a white underside, a long sleek flattened tail, and saurian three-toed feet. The figure is wielding a golden trident with curved outer tines, and is wearing a deep blue and purple cloak shimmering with images of stars, as well as a belt with a sword in its scabbard." />
+  <img src="ooeeoo-nikki-lacey.jpg" alt="Drawing of a whale-like humanoid figure with a blue body and a white underside, a long sleek flattened tail, and saurian three-toed feet. The figure is wielding a golden trident with curved outer tines, and is wearing a deep blue and purple cloak shimmering with images of stars, as well as a belt with a sword in their scabbard." />
   <figcaption>Ooeeoo by <a href="https://linktr.ee/hollycircling">Nikki Lacey</a></figcaption>
 </figure>
 
@@ -17,7 +17,7 @@
 
 As a cetean, you have the following special traits.
 
-_**Echospeak.**_ Without the assistance of magic, the baleen structures in your mouth make it difficult to speak the non-cetean languages you know. Instead, you primarily use a telepathic technique known as echospeak to convey your thoughts. You have the magical ability to transmit your thoughts mentally to willing creatures you can see within 120 feet of yourself. A contacted creature doesn't need to share a language with you to understand your thoughts, but it must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is incapacitated, or if either of you mentally breaks the contact (no action required).
+_**Echospeak.**_ Without the assistance of magic, the baleen structures in your mouth make it difficult to speak the non-cetean languages you know. Instead, you primarily use a telepathic technique known as echospeak to convey your thoughts. You have the magical ability to transmit your thoughts mentally to willing creatures you can see within 120 feet of yourself. A contacted creature doesn't need to share a language with you to understand your thoughts, but they must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is incapacitated, or if either of you mentally breaks the contact (no action required).
 
 _**Hold Breath.**_ You can hold your breath for up to 1 hour.
 

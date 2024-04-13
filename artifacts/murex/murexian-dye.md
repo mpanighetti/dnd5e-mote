@@ -4,7 +4,7 @@
 
 ## Manufacturing process
 
-A vial of pure murex can be processed with alchemist's supplies into 5 vials of dye with a successful DC 20 Intelligence check. On a failure, the compound explodes from the vial and deals 2d4 poison damage to the user.
+A vial of pure murex can be processed with alchemist's supplies into 5 vials of dye with a successful DC 20 Intelligence check. On a failure, the compound explodes from the vial and deals 2d4 Poison damage to the user.
 
 ## Value
 

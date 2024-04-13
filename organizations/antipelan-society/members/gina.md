@@ -60,6 +60,6 @@ _**Spellcasting (Psionics).**_ Gina can cast the following spells, requiring no 
 
 _**Multiattack.**_ Gina makes two attacks, one of which can be with her chromatic pistol.
 
-_**Trident.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+_**Trident.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) Piercing damage, or 6 (1d8 + 2) Piercing damage if used with two hands to make a melee attack.
 
-_**Chromatic Pistol.** Ranged Weapon Attack:_ +4 to hit, range 30/90 ft., one target. _Hit:_ (1d10 + 2) damage of a type chosen by Gina from the following list: cold, fire, lightning, piercing, or radiant.
+_**Chromatic Pistol.** Ranged Weapon Attack:_ +4 to hit, range 30/90 ft., one target. _Hit:_ (1d10 + 2) damage of a type chosen by Gina from the following list: Cold, Fire, Lightning, Piercing, or Radiant.

@@ -56,9 +56,8 @@ _Large fey (archfey), chaotic neutral_
 
 - **Saving Throws** DEX +16, WIS +15, CHA +16
 - **Skills** Insight +13, Intimidation +16, Perception +15, Persuasion +16
-- **Damage Immunities** force; bludgeoning, piercing, and slashing from nonmagical attacks
-- **Condition Immunities** blinded, charmed, deafened, frightened, exhausted, grappled, paralyzed, poisoned, stunned
-- **Senses** truesight 120 ft., passive Perception 25
+- **Immunities** Blinded, Charmed, Deafened, Force, Frightened, Exhausted, Grappled, Paralyzed, Poison, Stunned; Bludgeoning, Piercing, and Slashing from nonmagical attacks
+- **Senses** Truesight 120 ft., passive Perception 25
 - **Languages** Druidic, Sylvan, telepathy 120 ft.
 - **Challenge** 25 (75,000 XP) **Proficiency Bonus** +8
 
@@ -80,28 +79,28 @@ _**Limited Magic Immunity.**_ Unless it wishes to be affected, Phygius is immune
 
 _**Magic Weapons.**_ Phygius' weapon attacks are magical.
 
-_**Regeneration.**_ Phygius regains 20 hit points at the start of its turn. If it takes necrotic damage, this trait doesn't function at the start of its next turn. Phygius dies only if it starts its turn with 0 hit points and doesn't regenerate.
+_**Regeneration.**_ Phygius regains 20 Hit Points at the start of its turn. If it takes Necrotic damage, this trait doesn't function at the start of its next turn. Phygius dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
 
 #### Actions
 
 _**Multiattack.**_ Phygius makes up to two attacks, one with its horns and one with its hooves.
 
-_**Horns.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 40 (6d10 + 7) piercing damage plus 18 (4d8) force damage.
+_**Horns.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 40 (6d10 + 7) Piercing damage plus 18 (4d8) Force damage.
 
-_**Hooves.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 34 (6d8 + 7) bludgeoning damage plus 14 (4d6) thunder damage, and if it is a creature, it must succeed on a DC 22 Strength Saving Throw or be knocked prone.
+_**Hooves.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 34 (6d8 + 7) Bludgeoning damage plus 14 (4d6) Thunder damage, and if they are a creature, they must succeed on a DC 22 Strength Saving Throw or be knocked Prone.
 
 #### Bonus Actions
 
-_**Fear Gaze.**_ Phygius stares at a creature within 30 feet of it and fills its mind with fear. The creature must make a DC 24 Wisdom Saving Throw. Unless the save succeeds, the creature is frightened until the start of its next turn. If a creature's Saving Throw is successful, the creature is immune to Phygius' Fear Aura for the next 24 hours.
+_**Fear Gaze.**_ Phygius stares at a creature within 30 feet of it and fills their mind with fear. The creature must make a DC 24 Wisdom Saving Throw. Unless the save succeeds, the creature is frightened until the start of their next turn. If a creature's Saving Throw is successful, the creature is immune to Phygius' Fear Aura for the next 24 hours.
 
 _**Teleport.**_ Phygius magically teleports, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, up to 120 feet to an unoccupied space it can see. Unwilling creatures must succeed on a DC 18 Wisdom Saving Throw or they are teleported along with Phygius.
 
 #### Legendary Actions
 
-Phygius can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Phygius regains spent legendary actions at the start of its turn.
+Phygius can take 3 Legendary Actions, choosing from the options below. Only one Legendary Action option can be used at a time and only at the end of another creature's turn. Phygius regains spent Legendary Actions at the start of its turn.
 
 **Arcane Disruption.** Phygius casts _dispel magic_.
 
-**Shift (Costs 2 Actions).** Phygius magically planeshifts, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, to its corresponding location on the Ethereal Plane, the Feywild, or the Material Plane. Unwilling creatures must succeed on a DC 20 Wisdom Saving Throw or they are teleported along with Phygius. If a creature or object is present at the target location, it must succeed on a DC 23 Dexterity Saving Throw or take 13 (3d8) force damage and be knocked prone. Whether the creature or object succeeds or fails on the save, it is pushed to an unoccupied space of Phygius' choice within 10 feet.
+**Shift (Costs 2 Actions).** Phygius magically planeshifts, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, to its corresponding location on the Ethereal Plane, the Feywild, or the Material Plane. Unwilling creatures must succeed on a DC 20 Wisdom Saving Throw or they are teleported along with Phygius. If a creature or object is present at the target location, they must succeed on a DC 23 Dexterity Saving Throw or take 13 (3d8) Force damage and be knocked Prone. Whether the creature or object succeeds or fails on the save, they are pushed to an unoccupied space of Phygius' choice within 10 feet.
 
 **Teleport.** Phygius uses its Teleport action.

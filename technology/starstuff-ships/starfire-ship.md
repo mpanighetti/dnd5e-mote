@@ -28,8 +28,7 @@ _Gargantuan vehicle (130 ft. by 30 ft.)_
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |20 (+5)|8 (-1) |18 (+4)|0|0|0|
 
-- **Damage Immunities** poison, psychic
-- **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious
+- **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Incapacitated, Paralyzed, Petrified, Poison, Prone, Psychic, Stunned, Unconscious
 
 #### Hull
 
@@ -53,7 +52,7 @@ On its turn, the starfire ship's spelljammer can use the helm to move and steer 
 
 - **Armor Class** 13 (crystal)
 - **Hit Points** 25
-- **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
+- **Damage Immunities** Bludgeoning, Piercing, and Slashing from nonmagical attacks
 
 _**Absorb Scroll (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The engineer feeds a spell scroll to the arcane core through the starstuff engine, and must then succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the arcane core successfully learns the spell. This check fails automatically if the spell has a casting time of 1 minute or longer, or a range of touch or self. Whether the check succeeds or fails, the spell scroll is destroyed.
 
@@ -64,7 +63,7 @@ _**Absorb Scroll (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The 
 - **Damage Threshold** 20
 - **Crew** 1 (spelljammer)
 
-_**Astral Fire (Costs 5 Starstuff Deposits).**_ The astral cannon fires a beam of concentrated starstuff energy in a 1,000-foot line that is 10 feet wide. Each creature or vehicle in that line must make a DC 20 Dexterity Saving Throw. On a failed save, a creature or vehicle takes 66 (12d10) radiant damage and is on fire. On a successful save, the damage is halved. Creatures onboard vehicles in the line are not affected by this beam, as the vehicle takes the astral fire's direct effects.
+_**Astral Fire (Costs 5 Starstuff Deposits).**_ The astral cannon fires a beam of concentrated starstuff energy in a 1,000-foot line that is 10 feet wide. Each creature or vehicle in that line must make a DC 20 Dexterity Saving Throw. On a failed save, a creature or vehicle takes 66 (12d10) Radiant damage and is on fire. On a successful save, the damage is halved. Creatures onboard vehicles in the line are not affected by this beam, as the vehicle takes the astral fire's direct effects.
 
 _**Spellshot (Costs 1 Starstuff Deposit per Spell Level or Cantrip).**_ The spelljammer casts one of the arcane core's spells with a casting time of less than 1 minute through the astral cannon. The core knows the following spells:
 
@@ -81,14 +80,14 @@ Spells can be cast at higher levels by spending a number of starstuff deposits e
 - **Cost** 50 gp (ballista), 5 gp (bolt)
 - **Crew** 3 (each)
 
-_**Bolt.** Ranged Weapon Attack:_ +6 to hit, range 120/480 ft., one target. _Hit:_ 16 (3d10) piercing damage.
+_**Bolt.** Ranged Weapon Attack:_ +6 to hit, range 120/480 ft., one target. _Hit:_ 16 (3d10) Piercing damage.
 
 ##### Solar Scoops (2)
 
 - **Armor Class** 11 (cloth), or 15 when retracted (wood)
 - **Hit Points** 100
 - **Damage Threshold** 0 (10 when retracted)
-- **Damage Vulnerabilities** fire (when deployed)
+- **Vulnerabilities** Fire (when deployed)
 - **Crew** 2 (each)
 
 A deployed scoop can be used to harvest starstuff (see **Harvesting Starstuff**). If both solar scoops are deployed, roll twice on the corresponding harvest table to determine total yield or failure outcomes.

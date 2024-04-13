@@ -22,14 +22,14 @@ _Large elemental, neutral_
 
 #### Special traits
 
-_**Freeze.**_ If the clam takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
+_**Freeze.**_ If the clam takes Cold damage, they partially freeze; their speed is reduced by 20 feet until the end of their next turn.
 
-_**Shell Defense.**_ While the clam's mouth is closed, it gains a +4 bonus to AC, it has advantage on Strength and Constitution Saving Throws, it is Prone, its speed is 0 and can't increase, it has disadvantage on Dexterity Saving Throws, it can't take Reactions, and the only Action it can take is its Crush.
+_**Shell Defense.**_ While the clam's mouth is closed, they gain a +4 bonus to AC, they have advantage on Strength and Constitution Saving Throws, they are Prone, their speed is 0 and can't increase, they have disadvantage on Dexterity Saving Throws, they can't take Reactions, and the only Action they can take is their Crush.
 
 _**Water Breathing.**_ The clam can breathe only underwater.
 
 #### Actions
 
-_**Crush.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage, and if the target is a creature size Large or smaller, it is also grappled (escape DC 14) as the clam closes its shell around the target. Until this grapple ends, the target is restrained and trapped within the clam's dark interior.
+_**Crush.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) Bludgeoning damage, and if the target is a creature size Large or smaller, they are also Grappled (escape DC 14) as the clam closes their shell around the target. Until this Grapple ends, the target is restrained and trapped within the clam's dark interior.
 
-The clam can grapple one creature at a time. At the start of each of the clam's turns, a creature grappled by it takes 13 (2d8 + 4) bludgeoning damage. While grappling a creature, the clam can't use its Crush action without opening its shell and releasing the creature from its grapple. A creature within 5 feet of the clam can take an action to attempt to force the clam's shell open by succeeding on a DC 14 Strength check.
+The clam can Grapple one creature at a time. At the start of each of the clam's turns, a creature Grappled by the clam takes 13 (2d8 + 4) Bludgeoning damage. While Grappling a creature, the clam can't use their Crush action without opening their shell and releasing the creature from their Grapple. A creature within 5 feet of the clam can take an action to attempt to pry the clam's shell open by succeeding on a DC 14 Strength check.

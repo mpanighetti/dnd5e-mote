@@ -24,8 +24,8 @@ When raw murex breaks down into mux, it loses its potential usefulness as a [dye
 
 ### Refinement
 
-A vial of mux can be processed with a poisoner's kit into 5 vials of mux poison with a successful DC 10 Intelligence check. On a failure, the mux is rendered inert.
+A vial of mux can be processed with a _poisoner's kit_ into 5 vials of mux poison with a successful DC 10 Intelligence check. On a failure, the mux is rendered inert.
 
 ### Hazards
 
-Mux exposed to open air emits a harmful vapor within a 20 foot radius. Creatures that start their turn in the vapor must succeed on a DC 15 Constitution Saving Throw or be poisoned until they leave the area of the vapor. Sealing the mux within an airtight container also ends the effect.
+Mux exposed to open air emits a harmful vapor within a 20 foot radius. Creatures that start their turn in the vapor must succeed on a DC 15 Constitution Saving Throw or be Poisoned until they leave the area of the vapor. Sealing the mux within an airtight container also ends the effect.

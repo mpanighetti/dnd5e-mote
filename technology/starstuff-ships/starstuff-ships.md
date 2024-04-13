@@ -30,7 +30,7 @@ If multiple types of starstuff deposits are in the engine (such as normal, unsta
 
 ##### Mishap
 
-If the starstuff engine is destroyed, any starstuff inside immediately explodes. Unless all starstuff was previously depleted or removed, all creatures and objects within 120 feet of the engine must make a Constitution Saving Throw, taking 66 (12d10) radiant damage for each destroyed starstuff deposit on a failed save, or half as much damage on a successful one.
+If the starstuff engine is destroyed, any starstuff inside immediately explodes. Unless all starstuff was previously depleted or removed, all creatures and objects within 120 feet of the engine must make a Constitution Saving Throw, taking 66 (12d10) Radiant damage for each destroyed starstuff deposit on a failed save, or half as much damage on a successful one.
 
 ## Officer roles
 
@@ -40,7 +40,7 @@ The available positions on an Antipelan starstuff ship are a combination of the 
 
 **First Mate.** This specialist keeps the crew's morale high by providing supervision, encouragement, and discipline. A first mate benefits from a high Charisma score, as well as Proficiency with the Intimidation and Persuasion skills.
 
-**Spelljammer.** The spelljammer is a spellcaster dedicated to operating the ship's movement and some of its arcane implements. Without a spelljammer operating the helm, the ship is unable to move. Note that any spellcaster can operate the helm by attuning to it or by transferring attunement to another caster, but it's beneficial to have a primary spelljammer role designated. Effective spelljammers tend to have a high spellcasting ability score and decent Constitution to maintain Concentration and control over the helm, as well as Proficiency with space vehicles and the Arcana skill.
+**Spelljammer.** The spelljammer is a spellcaster dedicated to operating the ship's movement and some of its arcane implements. Without a spelljammer operating the helm, the ship is unable to move. Note that any spellcaster can operate the helm by Attuning to it or by transferring Attunement to another caster, but it's beneficial to have a primary spelljammer role designated. Effective spelljammers tend to have a high spellcasting ability score and decent Constitution to maintain Concentration and control over the helm, as well as Proficiency with space vehicles and the Arcana skill.
 
 **Engineer.** The engineer (the equivalent of a bosun or boatswain in _Saltmarsh_) provides technical advice to the captain and crew and leads repair and maintenance efforts. They are responsible for the upkeep of the starstuff engine and other exotic arcane technology. A capable engineer has a high Dexterity score, as well as Proficiency with tinker's tools and the Arcana skill.
 

@@ -35,7 +35,7 @@ A spelljammer ship capable of collecting starstuff (such as a starfire ship with
 ##### Failed Harvest
 |  d6 | Outcome |
 |:---:|:--------|
-|  1  | Micrometeorites tear through the collector, which takes 14 (4d6) force damage. |
+|  1  | Micrometeorites tear through the collector, which takes 14 (4d6) Force damage. |
 |  2  | A deposit of unstable starstuff appears in the engine. This starstuff can be used to power a starstuff engine as normal, but at the start of each day, the spelljammer ship must succeed on a DC 10 Constitution Saving Throw or its air degrades from fresh to foul, as the material randomly emits noxious radiation. The ship's engineer can attempt to eject unstable starstuff from the engine as an action by succeeding on a DC 20 Intelligence (Arcana) check; if this check fails, all starstuff deposits are ejected alongside the unstable deposit, depleting the engine. |
 | 3-4 | Roll on the **Fishing** table in the _Astral Adventurer's Guide_ (see _Chapter 2: Astral Adventuring_) to determine an accidental fish catch as something gets tangled in the solar scoop.
 | 5-6 | Roll or select from an **Astral Encounters** table in _Boo's Astral Menagerie_ (see _Introduction: Creatures A to Z_) to determine a random encounter in Wildspace or the Astral Sea. |
@@ -43,7 +43,7 @@ A spelljammer ship capable of collecting starstuff (such as a starfire ship with
 ##### Starstuff Harvest
 |  d8 | Yield |
 |:---:|:------|
-| 1-3 | A thin layer of starstuff microparticles coats the interior of the solar scoop. The starstuff is too small to collect into the engine, but any damaged ship components regain 2d6 hit points as the starstuff glitter mends random breaks and tears. |
+| 1-3 | A thin layer of starstuff microparticles coats the interior of the solar scoop. The starstuff is too small to collect into the engine, but any damaged ship components regain 2d6 Hit Points as the starstuff glitter mends random breaks and tears. |
 | 4-6 | A deposit of starstuff appears in the engine. |
 |  7  | 1d4 − 1 deposits of starstuff appear in the engine (minimum 1). |
 |  8  | A hyperdense starstuff ore deposit appears in the engine. While this deposit is in the starstuff engine, any ship actions that consume starstuff deposits cost 1 less starstuff deposit (minimum 1). If not consumed, this deposit dissipates after 1d6 days. |
