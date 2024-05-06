@@ -12,7 +12,7 @@ The **Antipelan Society** is a secretive organization operating off of the north
 
 ### Ship crews
 
-#### [Sanguine Starcatcher](fleet/sanguine-starcatcher.md)
+#### [Sanguine Starcatcher](fleet/ap-sf-01-sanguine-starcatcher.md)
 
 - [Aliana Cargonia](members/aliana-cargonia.md): captain
 - [E.A.S.T.W.O.O.D.](members/eastwood.md): arcane core security
