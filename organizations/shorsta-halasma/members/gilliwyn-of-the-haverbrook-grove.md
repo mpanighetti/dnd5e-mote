@@ -12,3 +12,4 @@
 ### Physical
 
 - species: satyr
+- monk subclass: way of mercy
