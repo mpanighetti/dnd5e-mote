@@ -26,7 +26,9 @@
 - [Rara](../../../societies/verdancy/citizenry/rara.md): sister
 - [Tharis](../../../societies/verdancy/citizenry/tharis.md): brother
 - [Ving](../../../societies/verdancy/citizenry/ving.md): brother
-
+- [Gilliwyn](gilliwyn-of-the-haverbrook-grove.md): best friend
+- [Rovahm](rovahm.md): mentor
+- [Vilas](vilas-boulderfury.md): rival
 ## History
 
 ### Childhood
