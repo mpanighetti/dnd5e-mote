@@ -26,7 +26,7 @@
 - [Arn Ruser](../../../societies/verdancy/citizenry/arn-ruser.md): younger brother
 - [Ving Ruser](../../../societies/verdancy/citizenry/ving-ruser.md): youngest brother
 - [Rara Rainfall](../../../societies/verdancy/citizenry/rara-rainfall.md): youngest sister (Not born until dex had already left)
-- [Gilliwyn (Gilly) Shadowbrook](gilliwyn-shadowbrook.md): childhood best friend
+- [Gilliwyn Shadowbrook](gilliwyn-shadowbrook.md): childhood best friend
 - [Rovahm](rovahm.md): former mentor 
 - [Vilas Bolderfury](vilas-boulderfury.md): childhood rival
 ## History
