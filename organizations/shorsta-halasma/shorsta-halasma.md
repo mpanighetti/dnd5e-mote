@@ -7,7 +7,7 @@ The **Shorsta-Halasma** are an order of monks endeavoring to unlock the secrets 
 ### Current
 
 - [Nalfis](members/nalfis.md): headmaster
-- [Gilliwyn of the Haverbrook Grove](members/gilliwyn-of-the-haverbrook-grove.md): Master of Body
+- [Gilliwyn Shadowbrook](members/gilliwyn-shadowbrook.md): Master of Body
 - [Gush](members/gush.md): Master of Water
 - [Khatar](members/khatar.md): Master of Fire
 - [Leaping Frog](members/leaping-frog.md): Master of Silence
