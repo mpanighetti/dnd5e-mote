@@ -4,6 +4,8 @@
 
 ## Members
 
+### Leaders
+
 - [Reynard](members/reynard.md): Den leader, [Cape Bec](../../societies/esterfell-accord/cape-bec/cape-bec.md) chapter leader
 - [Baldwin Marshbluff](../gilded-purse/members/baldwin-marshbluff.md): Leving chapter leader
 - [Bellin](members/bellin.md): [Hewpass](../../societies/esterfell-accord/hewpass.md) chapter leader
@@ -12,10 +14,13 @@
 - [Ichika](members/ichika.md): [Suizenloch](../../societies/esterfell-accord/suizenloch.md) chapter leader
 - [Krueger](members/krueger.md): [Redgrave](../../societies/esterfell-accord/redgrave.md) chapter leader
 - [Tybalt](members/tybalt.md): [Ëaruilë](../../societies/esterfell-accord/earuile.md) chapter leader
+
+### Agents
+
 - [Drake Olaran](members/drake-olaran.md): scribe ([Cape Bec](../../societies/esterfell-accord/cape-luz.md) and Suizenloch)
 - [Kalista](members/kalista.md): field operative
 - [Olivash](members/olivash.md): communications officer (Ëaruilë)
-- [S'akmezzi](members/sakmezzi.md): field operations (Leving and Overseam)
+- [S'akmezzi](members/sakmezzi.md): field operative (Leving and Overseam)
 
 ## Communication
 
