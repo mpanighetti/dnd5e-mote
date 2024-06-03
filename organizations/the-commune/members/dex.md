@@ -3,8 +3,8 @@
 **Dex** is a former student of the [Shorsta-Halasma](../../shorsta-halasma/shorsta-halasma,d) who has continued his monk studies independently.
 
 <figure>
-  <img src="dex-dylan-berman.png" alt="Hero Forge 3D model of a male-presenting elf with tan skin, slicked-back red-brown hair, and blue eyes. His facial expression is one of stern determination. He wears leather armor with accents of green and magenta fabric, a yellow cloak, and green trousers. His feet are exposed, and his hands have basic padded wraps for protection. He wields a wooden staff in one hand while raising one foot in a kicking motion." />
-  <figcaption>Dex by Dylan Berman</figcaption>
+  <img src="dex-monk-5-dylan-berman.png" alt="Hero Forge 3D model of a male-presenting elf with tan skin, slicked-back red-brown hair, and blue eyes. His facial expression is one of stern determination. He wears leather armor with accents of green and magenta fabric, a yellow cloak, and green trousers. His feet are exposed, and his hands have basic padded wraps for protection. He wields a wooden staff in one hand while raising one foot in a kicking motion." />
+  <figcaption>Dex - Monk 5 by Dylan Berman</figcaption>
 </figure>
 
 ## Information
@@ -38,6 +38,11 @@
 ## History
 
 ### Childhood
+
+<figure>
+  <img src="dex-monk-3-dylan-berman.png" alt="Hero Forge 3D model of a male-presenting elf with pale skin, short pale brown hair, and blue eyes. He has an open-mouthed smile and a friendly facial expression. He wears black monk robes with orange trim and an orange belt with matching hand wraps, brown-strapped lower leg wraps, and brown sandals with open toes and showing his bare feet through the gaps. He has a wooden staff strapped across his back and a sword on his right hip." />
+  <figcaption>Dex - Monk 3 by Dylan Berman</figcaption>
+</figure>
 
 Dex was born to Gilvaris Rainfall and Yelpetor Ruser in the [Eastern Forests](../../../mote/esterfell/lenya/eastern-forests.md). From an early age, Dex showed an aptitude for hand-to-hand combat. His family desired to help him hone his skills through mental discipline, so they enrolled him in the Shorsta-Halasma monastery. Dex excelled in his studies in the ways of shadow and stealth, but his rebellious streak often got him in trouble with his teachers. He believed that this ultimately led to him being kicked out of the monastery, though the true nature of his departure was not revealed to him at that time.
 
