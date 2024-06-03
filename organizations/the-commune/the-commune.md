@@ -10,5 +10,6 @@
 - [Ellie Zap](members/ellie-zap.md)
 - [Jedha](members/jedha.md)
 - [Mírial Windstar](members/mirial-windstar.md)
-- [Rob Tealeaf](members/rob-tealeaf.md)
 - [Riordan](members/riordan.md)
+- [Rob Tealeaf](members/rob-tealeaf.md)
+- [Rowan Dundragon](members/rowan-dundragon.md)
