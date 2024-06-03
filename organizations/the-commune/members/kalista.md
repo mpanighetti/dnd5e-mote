@@ -1,6 +1,6 @@
 # Kalista
 
-**Kalista** is a member of [Reynard's Den](../../../reynards-den/reynards-den.md).
+**Kalista** is a member of [Reynard's Den](../../reynards-den/reynards-den.md).
 
 ## Information
 
