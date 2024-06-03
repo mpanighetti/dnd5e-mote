@@ -26,6 +26,11 @@
 
 ### Childhood
 
+<figure>
+  <img src="alden-drawn-arrow-aeden-berman.png" alt="Hero Forge 3D model of a male-presenting halfling with tan skin and green eyes, his face otherwise concealed with a dark hood. He wears leather armor with straps and buckles across his chest, leather wraps around his forearms and palms, and leather boots. He is wielding a shortbow with an arrow nocked, and he wears a quiver on his right hip." />
+  <figcaption>Alden - Drawn Arrow by Aeden Berman</figcaption>
+</figure>
+
 Alden grew up feral among the wild creatures of the Eastern Forests, not knowing or remembering his parents or other family. He tended to stay far away from civilized settlements, opting for the beasts and plants with which he was more familiar.
 
 As a teenager, Alden came upon [Rowan Dundragon](rowan-dundragon.md), and in assisting her with navigating the forest, he found a new calling to act as a guide for wayward travelers. For many years after that he continued to guide folk through the Eastern Forests, but over time this new exposure to the people of [Lenya](../../../mote/esterfell/lenya/lenya.md) inspired him to learn more of the lands outside his familiar woods, so he set out with Rowan to explore the rest of [Esterfell](../../../mote/esterfell/esterfell.md).
@@ -33,8 +38,8 @@ As a teenager, Alden came upon [Rowan Dundragon](rowan-dundragon.md), and in ass
 ### Adulthood
 
 <figure>
-  <img src="alden-drawn-arrow-aeden-berman.png" alt="Hero Forge 3D model of a male-presenting halfling with tan skin and green eyes, his face otherwise concealed with a dark hood. He wears leather armor with straps and buckles across his chest, leather wraps around his forearms and palms, and leather boots. He is wielding a shortbow with an arrow nocked, and he wears a quiver on his right hip." />
-  <figcaption>Alden - Drawn Bow by Aeden Berman</figcaption>
+  <img src="alden-devils-sight-aeden-berman.png" alt="Hero Forge 3D model of a male-presenting halfling, a closeup on a face mostly concealed with a dark hood but revealing two eyes; his left eye is purple and his right eye is green." />
+  <figcaption>Alden - Devil's Sight by Aeden Berman</figcaption>
 </figure>
 
 The adventuring duo eventually crossed paths with [The Commune](../the-commune.md), and the groups banded together to investigate strange occurrences in [Middlestag Forest](../../../mote/esterfell/lenya/middlestag-forest.md).
