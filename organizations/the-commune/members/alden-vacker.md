@@ -33,7 +33,7 @@ As a teenager, Alden came upon [Rowan Dundragon](rowan-dundragon.md), and in ass
 ### Adulthood
 
 <figure>
-  <img src="alden-drawn-bow-aeden-berman.png" alt="Hero Forge 3D model of a male-presenting halfling with tan skin and green eyes, his face otherwise concealed with a dark hood. He wears leather armor with straps and buckles across his chest, leather wraps around his forearms and palms, and leather boots. He is wielding a shortbow with an arrow nocked, and he wears a quiver on his right hip." />
+  <img src="alden-drawn-arrow-aeden-berman.png" alt="Hero Forge 3D model of a male-presenting halfling with tan skin and green eyes, his face otherwise concealed with a dark hood. He wears leather armor with straps and buckles across his chest, leather wraps around his forearms and palms, and leather boots. He is wielding a shortbow with an arrow nocked, and he wears a quiver on his right hip." />
   <figcaption>Alden - Drawn Bow by Aeden Berman</figcaption>
 </figure>
 
