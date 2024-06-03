@@ -12,7 +12,7 @@ The **Tealeaf Estate** is a highly successful family-run business operating out 
 
 ### Former
 
-- [Rob Tealeaf](../gilded-purse/members/rob-tealeaf.md)
+- [Rob Tealeaf](../the-commune/members/rob-tealeaf.md)
 
 ## History
 

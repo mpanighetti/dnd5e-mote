@@ -14,4 +14,4 @@ The **Gilded Purse** is a gang headed by [Baldwin Marshbluff](members/baldwin-ma
 
 ### Former
 
-- [Rob Tealeaf](members/rob-tealeaf.md)
+- [Rob Tealeaf](../the-commune/members/rob-tealeaf.md)

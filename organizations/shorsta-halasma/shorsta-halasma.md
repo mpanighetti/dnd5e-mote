@@ -22,7 +22,7 @@ The **Shorsta-Halasma** are an order of monks endeavoring to unlock the secrets 
 
 ### Former
 
-- [Dex](members/dex.md): student
+- [Dex](../the-commune/members/dex.md): student
 - [Rovahm](members/rovahm.md): Master of Shadow
 
 ## History

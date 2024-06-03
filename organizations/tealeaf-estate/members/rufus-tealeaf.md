@@ -9,6 +9,6 @@
 - [Jillian Tealeaf-Bibblin](jillian-tealeaf-bibblin.md): sister-in-law, business partner
 - [Anderson Tealeaf](anderson-tealeaf.md): son
 - [Milo Tealeaf](milo-tealeaf.md): son
-- [Rob Tealeaf](../../gilded-purse/members/rob-tealeaf.md): son
+- [Rob Tealeaf](../../the-commune/members/rob-tealeaf.md): son
 - [Myrtle Tealeaf](myrtle-tealeaf.md): daughter
 - [Barnard Tealeaf-Bibblin](barnard-tealeaf-bibblin.md): nephew
