@@ -24,7 +24,7 @@ _Medium fey (shapechanger), usually neutral_
 
 #### Special Traits
 
-_**Aquatic Fortitude.**_ The selkie warrior ignores any of the drawbacks caused by a deep, underwater environment. Additionally, while not wearing armor, the selkie's Armor Class equals 12 + their Constitution modifier (included in the stat block).
+_**Aquatic Fortitude.**_ While not wearing armor, the selkie warrior's Armor Class equals 12 + their Constitution modifier (included in the stat block).
 
 _**Friend of the Sea.**_ The selkie warrior can communicate with beasts that have a swimming speed using sounds and gestures, and can understand them in kind.
 
