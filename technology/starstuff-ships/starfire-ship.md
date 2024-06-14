@@ -1,6 +1,6 @@
 # [Starfire Ship](https://github.com/mpanighetti/dnd5e-monsters/blob/main/vehicles/starfire-ship.md)
 
-#### Lore
+#### Description
 
 **Starfire ships** are an experimental ship design conceived by the [Antipelan Society](../../organizations/antipelan-society/antipelan-society.md) to both collect and run on [starstuff](../../artifacts/starstuff.md) energy. The first such [starstuff ship](starstuff-ships.md) in the Antipelan fleet was given the callsign **AP-SF-01** and later designated the "[Sanguine Starcatcher](../../organizations/antipelan-society/fleet/ap-sf-01-sanguine-starcatcher.md)" by its crew. This ship was sent on its maiden voyage to prove the efficacy of the starfire ship design and to scout out new starstuff reserves, eventually allowing future ships to be built.
 

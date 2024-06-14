@@ -1,6 +1,6 @@
 # [Phygius](https://github.com/mpanighetti/dnd5e-monsters/blob/main/fey/phygius.md)
 
-#### Lore
+#### Description
 
 Legend speaks of a giant deer with three massive horns atop its head, which appears and disappears within a forest tangled in planar energies. It is from these scarce sightings in the distant past that the [Middlestag Forest](../mote/esterfell/lenya/middlestag-forest.md) was given its name, but none of the local families have any more context on what the Middlestag is, where it comes from, and what it might want when it shows itself. Some have reported seeing this mighty creature appear to rapidly flicker in and out of existence, making it unclear whether what they saw was even real.
 
