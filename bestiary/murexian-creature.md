@@ -284,4 +284,4 @@ The beholder can take 3 Legendary Actions, using the Eye Ray option below. They 
 
 **Eye Ray.** The beholder uses one random eye ray.
 
-[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://mpanighetti.tumblr.com/tagged/030crc).
+[^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).
