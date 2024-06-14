@@ -51,6 +51,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Species](species)
 
+- [Brakko](species/brakko.md)
 - [Cetean](species/cetean/cetean.md)
 - [Dwarf](species/dwarf.md)
 - [Gnome](species/gnome.md)
