@@ -1,8 +1,10 @@
 # [Brakko](https://github.com/mpanighetti/dnd5e-species/blob/main/monstrosities/brakko.md)
 
-### Traits
+### Description
 
-As a brakko, you have the following special traits.
+**Brakko** are intelligent aquatic beings residing primarily in [Malagwa](../mote/esterfell/malagwa.md) and the [oceans](../mote/esterfell/waters) surrounding [Esterfell](../mote/esterfell/esterfell.md).
+
+### Traits
 
 - _**Creature Type:**_ Monstrosity
 - _**Size:**_ Medium (4-7 feet tall)
@@ -11,6 +13,8 @@ As a brakko, you have the following special traits.
 - _**Resistances:**_ Cold
 - _**Senses:**_ Darkvision 60 feet; Tremorsense 30 ft. when in liquid
 - _**Life Span:**_ 50-70 years on average
+
+As a brakko, you have the following special traits.
 
 _**Amphibious.**_ You can breathe air and water.
 
