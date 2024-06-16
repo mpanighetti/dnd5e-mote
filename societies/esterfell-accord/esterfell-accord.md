@@ -8,7 +8,7 @@ The **Esterfell Accord** is a nation in [Lenya](../../mote/esterfell/lenya/lenya
 </figure>
 
 <figure>
-  <img src="map-esterfell-accord-natural-mario-panighetti.jpg" alt="Drawing of a natural map of the Esterfell Accord, with an orange outline and tint distinguishing this nation from Subros (red) and the Verdancy (green). Many natural formations are labeled in bold italic text, with societies in large white serif font." />
+  <img src="map-esterfell-accord-natural-mario-panighetti.jpg" alt="Drawing of a natural map of the Esterfell Accord, with an orange outline distinguishing this nation from Subros (red) and the Verdancy (green). Many natural formations are labeled in bold italic text, with societies in large white serif font." />
   <figcaption>Esterfell Accord Natural Map by <a href="https://mario.panighetti.net">Mario Panighetti</a></figcaption>
 </figure>
 
