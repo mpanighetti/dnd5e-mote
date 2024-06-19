@@ -43,6 +43,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [The Commune](organizations/the-commune/the-commune.md)
 - [Edgewood Construction](organizations/edgewood-construction/edgewood-construction.md)
 - [Gilded Purse](organizations/gilded-purse/gilded-purse.md)
+- [Malagwan Expeditions](organizations/malagwan-expeditions/malagwan-expeditions.md)
 - [Order of Istus](organizations/order-of-istus/order-of-istus.md)
 - [Overseers of the Eager](organizations/overseers-of-the-eager/overseers-of-the-eager.md)
 - [Reynard's Den](organizations/reynards-den/reynards-den.md)
