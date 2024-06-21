@@ -4,4 +4,4 @@
 
 ## Pricing
 
-All bladed simple melee weapons from the _Player's Handbook_ are available at a 20% markup.
+All bladed simple melee weapons from the _Systems Reference Document_ are available at a 20% markup.
