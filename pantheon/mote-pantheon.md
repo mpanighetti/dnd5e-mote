@@ -9,8 +9,9 @@ The following is not an exhaustive list of beings with power and influence over 
 ##### Deities of Mote
 |  Deity | Classification | Alignment | Domains | Symbol | Pantheon |
 |:-------|:-|:---------:|:--------|:-------|:-|
-| Deneir | deity | NG | Knowledge, Writing | Lit candle above an open eye | The Forgotten Realms |
-| [Istus](istus.md) | deity | N | Knowledge, Fate, Destiny, Divination, Future Events | Weaver's spindle with three strands | Greyhawk |
-| [Phygius](phygius.md) | archfey | CN | Nature, Feywild | Antlers with teardrops | Mote |
-| [Ramil](ramil.md) | deva | LG | | Crescent with radial triangles | Mote |
-| Silvanus | deity | N | Nature, Wilderness | Oak leaf | The Forgotten Realms |
+| Deneir | deity | NG | Knowledge, Writing | lit candle above an open eye | The Forgotten Realms |
+| [Istus](istus.md) | deity | N | Knowledge, Fate, Destiny, Divination, Future Events | weaver's spindle with three strands | Greyhawk |
+| [Lilith](lilith.md) | archfey/medusa | LG | [Attalya Grove](../mote/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent | Mote |
+| [Phygius](phygius.md) | archfey | CN | [Middlestag Forest](../mote/esterfell/lenya/middlestag-forest.md), Nature, Feywild, Cervids | antlers with teardrops | Mote |
+| [Ramil](ramil.md) | deva | LG | [The Chosen](../organizations/the-chosen/the-chosen.md), Light | crescent with radial triangles | Mote |
+| Silvanus | deity | N | Nature, Wilderness | oak leaf | The Forgotten Realms |
