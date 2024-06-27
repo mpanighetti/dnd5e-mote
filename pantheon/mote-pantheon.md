@@ -13,5 +13,6 @@ The following is not an exhaustive list of beings with power and influence over 
 | [Istus](istus.md) | deity | N | Knowledge, Fate, Destiny, Divination, Future Events | weaver's spindle with three strands | Greyhawk |
 | [Lilith](lilith.md) | archfey/medusa | LG | [Attalya Grove](../mote/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent | Mote |
 | [Phygius](phygius.md) | archfey | CN | [Middlestag Forest](../mote/esterfell/lenya/middlestag-forest.md), Nature, Feywild, Cervids | antlers with teardrops | Mote |
-| [Ramil](ramil.md) | deva | LG | [The Chosen](../organizations/the-chosen/the-chosen.md), Light | crescent with radial triangles | Mote |
+| Pyr'xhalz | great old one | CE | [The Chosen](../organizations/the-chosen/the-chosen.md), Trickery, War, Mind |  | Mote |
+| [Ramil](ramil.md) | deva | LG | The Chosen, Light | crescent with radial triangles | Mote |
 | Silvanus | deity | N | Nature, Wilderness | oak leaf | The Forgotten Realms |
