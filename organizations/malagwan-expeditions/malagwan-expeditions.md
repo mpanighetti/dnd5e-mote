@@ -4,9 +4,10 @@
 
 ## Members
 
-- Cecillio
-- Dare
-- Micah
-- Rornorn Strongblood
-- Selene Ithilian
-- Tilya
+- [Cecilio White](members/cecilio-white.md)
+- [Dare](members/dare.md)
+- [Micah](members/micah.md)
+- [Rornorn Strongblood](members/rornorn-strongblood.md)
+- [Selene Ithilian](members/selene-ithilian.md)
+- [Thwindilian](members/thwindilian.md)
+- [Tilya](members/tilya.md)
