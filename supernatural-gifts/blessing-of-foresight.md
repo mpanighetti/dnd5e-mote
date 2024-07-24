@@ -1,5 +1,7 @@
 # [Blessing of Foresight](https://github.com/mpanighetti/dnd5e-feats/blob/main/supernatural-gifts/blessings/blessing-of-foresight.md)
 
+_Supernatural Gift (Blessing)_
+
 [Istus](../pantheon/istus.md) has blessed you with the ability to tap into the weavings of fate and glimpse future events. This foreknowledge allows you to bend fate slightly, potentially changing the outcome of your personal destiny.
 
 Once per week during a Long Rest, you receive a prophetic vision of future events affecting you and your party in the form of a dream. Roll on the **Clarity** and **Portent** tables to determine the nature and topic of the vision; the DM relays your vision based on these rolls.
