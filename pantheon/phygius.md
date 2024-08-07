@@ -59,7 +59,7 @@ _Large fey (archfey), chaotic neutral_
 - **Languages** Druidic, Sylvan, telepathy 120 ft.
 - **Challenge** 25 (75,000 XP) **Proficiency Bonus** +8
 
-#### Special Traits
+#### Traits
 
 _**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (Spell Save DC 24). It can innately cast the following spells, requiring no components:
 

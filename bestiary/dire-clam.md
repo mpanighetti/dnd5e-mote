@@ -20,7 +20,7 @@ _Large elemental, neutral_
 - **Challenge:** 4 (1,100 XP)
 
 
-#### Special traits
+#### Traits
 
 _**Freeze.**_ If the clam takes Cold damage, they partially freeze; their speed is reduced by 20 feet until the end of their next turn.
 

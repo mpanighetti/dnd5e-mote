@@ -43,7 +43,7 @@ _Medium celestial (reigar), chaotic neutral_
 - **Languages** Celestial, Common, Deep Speech
 - **Challenge** 3 (700 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Traits
 
 _**Glory.**_ Gina's Armor Class includes her Charisma modifier.
 

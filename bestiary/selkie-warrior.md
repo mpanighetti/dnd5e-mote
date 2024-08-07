@@ -22,7 +22,7 @@ _Medium fey (shapechanger), usually neutral_
 - **Languages** Aquan, Common (can't speak in seal form)
 - **Challenge** 1 (200 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Traits
 
 _**Aquatic Fortitude.**_ While not wearing armor, the selkie warrior's Armor Class equals 12 + their Constitution modifier (included in the stat block).
 

@@ -68,7 +68,7 @@ _Tiny beast/monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Traits
 
 _**Keen Smell.**_ The squirrel has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -100,7 +100,7 @@ _Small plant/monstrosity, neutral evil_
 - **Languages** understands Common but can't speak
 - **Challenge** ⅛ (25 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Traits
 
 _**False Appearance.**_ While the blight remains motionless, they are indistinguishable from a dead shrub.
 
@@ -130,7 +130,7 @@ _Large beast/monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 2 (450 XP) **Proficiency Bonus** +2
 
-#### Special Traits
+#### Traits
 
 _**Charge.**_ If the boar moves at least 20 feet straight toward a target and then hits them with a tusk attack on the same turn, the target takes an extra 7 (2d6) Slashing damage. If the target is a creature, they must succeed on a DC 13 Strength Saving Throw or be knocked Prone.
 
@@ -164,7 +164,7 @@ _Huge beast/monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 10 (5,000 XP) **Proficiency Bonus** +4
 
-#### Special Traits
+#### Traits
 
 _**Murexian Poison.**_ All murexian Poison damage and conditions dealt by T. rex treat Poison immunity as Poison resistance and ignore a target's normal Poison resistance, unless the target has specific resistance or immunity to murexian Poisons. Targets with Poison immunity or murexian Poison resistance have Advantage on Saving Throws against murexian Poison, and targets with murexian Poison immunity automatically succeed on such Saving Throws.
 
@@ -208,7 +208,7 @@ _Large fiend/monstrosity, lawful evil_
 - **Languages** Infernal, telepathy 300 ft. (with other hellwasps only)
 - **Challenge** 5 (1,800 XP) **Proficiency Bonus** +3
 
-#### Special Traits
+#### Traits
 
 _**Magic Weapons.**_ The hellwasp's weapon attacks are magical.
 
@@ -260,7 +260,7 @@ _Large aberration/monstrosity, lawful evil_
 - **Languages** Deep Speech, Undercommon
 - **Challenge** 13 (10,000 XP) **Proficiency Bonus** +5
 
-#### Special Traits
+#### Traits
 
 _**Antimagic Cone.**_ The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot-cone. At the start of each of their turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
 
