@@ -24,18 +24,20 @@ _**Mechanical Nature.**_ Your artificial body grants the following benefits:
 
 - You use your Constitution modifier when determining your Armor Class instead of your Dexterity modifier.
 - You don't need to eat, drink, or breathe.
-- If the _mending_ spell is cast on you, you can spend and roll one of your Hit Die to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+- If the _mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+
+_**Rebuild.**_ As a Magic action, you can consume inert nonmagical materials to undo wear and tear to your body, regaining a number of Hit Dice equal to your Proficiency Bonus. After you take this action, you regain the ability to do so when you finish a Long Rest.
 
 _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
 
-_**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but the associated skills remain innately embedded in your form. When you select this species, choose one of the specializations from the **Specialized Design** table to gain the listed traits. Constitution is your spellcasting ability for spells you learn with this trait, and you can cast them without material components.
+_**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but the associated skills remain innately embedded in your form. When you select this species, choose one of the specializations from the **Specialized Design** table to gain the listed traits. Constitution is your spellcasting ability for spells you learn with this trait, and you can cast them without material components. If this trait has an option that spends your Hit Dice, you can spend Hit Dice in this manner a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 
 #### Specialized Design
 | Specialization | Proficiencies | Spells | Additional Trait |
 |:--------------:|:-------------:|:------:|:-----------------|
-| **Acolyte**    | Insight and Religion | _guidance_ | As a Magic action, you can spend and roll one of your Hit Die to cause another creature you touch to regain a number of Hit Points equal to the roll. |
+| **Acolyte**    | Insight and Religion | _guidance_ | As a Magic action, you can spend and roll one of your Hit Dice to cause another creature you touch to regain a number of Hit Points equal to the roll. |
 | **Courtier**   | Performance and Persuasion | your choice of _dancing lights_ or _friends_ | You learn one language of your choice, and each time you finish a Long Rest, you can replace this language with another one. |
-| **Scribe**     | History and Investigation | _light_ | You can take the Research action as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
+| **Scribe**     | History and Investigation | _light_ | When you take the Research action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
 | **Soldier**    | Athletics and one weapon of your choice | your choice of _prestidigitation_ or _true strike_ | You gain a +1 bonus to your Armor Class. |
-| **Spy**        | Deception and Stealth | _minor illusion_ | You can take the Hide action as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
-| **Tinker**     | Two Artisan's Tools of your choice | _mending_ | You can take the Utilize action with an Artisan's Tool in which you are Proficient as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
+| **Spy**        | Deception and Stealth | _minor illusion_ | When you take the Hide action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
+| **Tinker**     | Two Artisan's Tools of your choice | _mending_ | When you take the Utilize action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
