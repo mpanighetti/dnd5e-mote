@@ -20,7 +20,7 @@ There are no larger societal distributions of sparks, as the nature of their cre
 
 As a spark, you have the following special traits.
 
-_**Mechanical Nature.**_ You don't need to eat, drink, or breathe. Additionally, if the _mending_ spell is cast on you, you can spend and roll a Hit Die to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+_**Mechanical Nature.**_ You don't need to eat, drink, or breathe. Additionally, if the _mending_ spell is cast on you, you can spend and roll one of your Hit Die to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
 _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
 
@@ -29,7 +29,7 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 #### Specialized Design
 | Specialization | Proficiencies | Spells | Additional |
 |:--------------:|:-------------:|:------:|:-----------|
-| **Acolyte**    | Insight and Religion | _guidance_ |  |
+| **Acolyte**    | Insight and Religion | _guidance_ | You can spend and roll one of your Hit Die to cause another creature you touch to regain a number of Hit Points equal to the roll. |
 | **Courtier**   | Performance and Persuasion | _friends_ | You learn one language of your choice, and each time you finish a Long Rest, you can replace this language with another one. |
 | **Scribe**     | History and Investigation | _dancing lights_ | You can take the Research action as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
 | **Soldier**    | Athletics and one weapon of your choice | _true strike_ | You gain a +1 bonus to your Armor Class. |
