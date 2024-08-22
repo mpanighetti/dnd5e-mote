@@ -33,7 +33,7 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 #### Specialized Design
 | Specialization | Proficiencies | Spells | Additional Trait |
 |:--------------:|:-------------:|:------:|:-----------------|
-| **Acolyte**    | Insight and Religion | _guidance_ | You can spend and roll one of your Hit Die to cause another creature you touch to regain a number of Hit Points equal to the roll. |
+| **Acolyte**    | Insight and Religion | _guidance_ | As a Magic action, you can spend and roll one of your Hit Die to cause another creature you touch to regain a number of Hit Points equal to the roll. |
 | **Courtier**   | Performance and Persuasion | your choice of _dancing lights_ or _friends_ | You learn one language of your choice, and each time you finish a Long Rest, you can replace this language with another one. |
 | **Scribe**     | History and Investigation | _light_ | You can take the Research action as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
 | **Soldier**    | Athletics and one weapon of your choice | your choice of _prestidigitation_ or _true strike_ | You gain a +1 bonus to your Armor Class. |
