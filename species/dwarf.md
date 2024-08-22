@@ -23,7 +23,7 @@ The sands of Barria immediately appealed to the desert dwarves who arrived in Es
 - _**Creature Type:**_ Humanoid
 - _**Size:**_ Medium (4-5 feet tall)
 - _**Speed:**_ 30 feet, burrow 30 feet
-- _**Resistances:**_ Fire, Poison
+- _**Resistances:**_ Fire, Poison (**Desert Born**)
 - _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 200 years on average
 

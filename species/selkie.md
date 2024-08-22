@@ -19,7 +19,7 @@ Selkie families immigrated to Esterfell alongside the early human tribes, hiding
 - _**Creature Type:**_ Fey
 - _**Size:**_ Medium (5-6 feet tall)
 - _**Speed:**_ 30 feet, swim 20 feet (20 feet, swim 40 feet in seal form)
-- _**Resistances:**_ Cold
+- _**Resistances:**_ Cold (**Aquatic Fortitude**)
 - _**Senses:**_ Darkvision 60 feet (gain Blindsight 5 feet in seal form)
 - _**Life Span:**_ 70-80 years on average
 

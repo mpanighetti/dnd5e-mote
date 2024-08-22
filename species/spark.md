@@ -15,7 +15,7 @@ There are no larger societal distributions of sparks, as the nature of their cre
 - _**Creature Type:**_ Construct
 - _**Size:**_ Tiny, Small, or Medium (1-8 feet tall)
 - _**Speed:**_ 30 feet
-- _**Resistances:**_ Paralyzed, Poison
+- _**Resistances:**_ Paralyzed, Poison (**Mechanical Nature**)
 - _**Life Span:**_ unknown (immune to magical aging effects)
 
 As a spark, you have the following special traits.
