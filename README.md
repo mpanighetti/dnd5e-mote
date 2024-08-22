@@ -57,6 +57,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Dwarf](species/dwarf.md)
 - [Gnome](species/gnome.md)
 - [Selkie](species/selkie.md)
+- [Spark](species/spark.md)
 
 ### [Lore](lore)
 
