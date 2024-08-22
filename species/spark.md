@@ -20,7 +20,11 @@ There are no larger societal distributions of sparks, as the nature of their cre
 
 As a spark, you have the following special traits.
 
-_**Mechanical Nature.**_ You don't need to eat, drink, or breathe. Additionally, if the _mending_ spell is cast on you, you can spend and roll one of your Hit Die to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+_**Mechanical Nature.**_ Your artificial body grants the following benefits:
+
+- You use your Constitution modifier when determining your Armor Class instead of your Dexterity modifier.
+- You don't need to eat, drink, or breathe.
+- If the _mending_ spell is cast on you, you can spend and roll one of your Hit Die to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
 _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
 
