@@ -44,7 +44,7 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 |:--------------:|:-------------:|:------:|:-----------------|
 | **Acolyte**    | Insight and Religion | _guidance_ | As a Magic action, you can spend and roll one of your Hit Dice to cause another creature you touch to regain a number of Hit Points equal to the roll. |
 | **Courtier**   | Performance and Persuasion | _friends_ | You learn one language of your choice, and each time you finish a Long Rest, you can replace this language with another one. |
-| **Scribe**     | History and Investigation | _light_ | When you take the Research action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
+| **Scribe**     | History and Investigation | _dancing lights_ | When you take the Research action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
 | **Soldier**    | Athletics and one weapon of your choice | _true strike_ | You gain a +1 bonus to your Armor Class. |
 | **Spy**        | Deception and Stealth | _minor illusion_ | When you take the Hide action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
 | **Tinker**     | Two Artisan's Tools of your choice | _mending_ | When you take the Utilize action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
