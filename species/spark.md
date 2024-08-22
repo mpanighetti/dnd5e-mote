@@ -1,16 +1,20 @@
 # [Spark](https://github.com/mpanighetti/dnd5e-species/blob/main/constructs/spark.md)
 
-### Description
+## Description
 
-**Sparks** are constructed beings that have been imbued with sentience through a magical infusion of [starstuff](../artifacts/starstuff.md) dust. They have a broad variety of physical builds and appearances, as they were originally purpose-built by [Esterfolk](../societies/esterfell-accord/esterfell-accord.md) tinkerers as laborers.
+**Sparks** are constructed beings that have been imbued with sentience through a magical infusion of [starstuff](../artifacts/starstuff.md) dust. They have a broad variety of physical builds and appearances, as they were originally purpose-built by Esterfolk tinkerers as laborers.
 
 A spark is distinguished from other constructed beings by the gift of sapience granted to them by starstuff, a technique that has thus far only been utilized in a limited capacity due to the rarity of starstuff on [Mote](../mote/mote.md) and the poorly understood implications of granting intelligence to artificial beings.
 
-### Distribution
+## Distribution
 
 There are no larger societal distributions of sparks, as the nature of their creation and the recency of their invention has not given sufficient time for them to propagate. Most sparks came to sentience at [Balut's Academerie for the Magistically Inclinated](../organizations/baluts-academerie/baluts-academerie.md) and many still reside at the Academerie or in [Bridgeport](../societies/esterfell-accord/bridgeport/bridgeport.md), but some who sought new destinies beyond their original constructed purposes have ventured to other areas of [Lenya](../mote/esterfell/lenya/lenya.md).
 
-### Traits
+## Constructed ancestries
+
+### Spark
+
+#### Traits
 
 - _**Creature Type:**_ Construct
 - _**Size:**_ Tiny, Small, or Medium (1-8 feet tall)
@@ -32,7 +36,7 @@ _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an
 
 _**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but the associated skills remain innately embedded in your form. When you select this species, choose one of the specializations from the **Specialized Design** table to gain the listed traits. Constitution is your spellcasting ability for spells you learn with this trait, and you can cast them without material components. If this trait has an option that spends your Hit Dice, you can spend Hit Dice in this manner a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 
-#### Specialized Design
+##### Specialized Design
 | Specialization | Proficiencies | Spells | Additional Trait |
 |:--------------:|:-------------:|:------:|:-----------------|
 | **Acolyte**    | Insight and Religion | _guidance_ | As a Magic action, you can spend and roll one of your Hit Dice to cause another creature you touch to regain a number of Hit Points equal to the roll. |
@@ -41,3 +45,15 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 | **Soldier**    | Athletics and one weapon of your choice | your choice of _prestidigitation_ or _true strike_ | You gain a +1 bonus to your Armor Class. |
 | **Spy**        | Deception and Stealth | _minor illusion_ | When you take the Hide action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
 | **Tinker**     | Two Artisan's Tools of your choice | _mending_ | When you take the Utilize action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
+
+### Autognome
+
+#### Description
+
+Some constructs were built to resemble their [gnomish](gnome.md) creators, with mechanical components comprising their stout physical bodies. The artificing techniques perfected by rock gnomes over many generations resulted in strange devices such as portable furnaces and milling machines, but it was only through the infusion of starstuff that they gained self-awareness. Autognomes often find themselves compelled to continue carrying out their original mechanical functions, but their sentience allows them to override this compulsion and seek out new fortunes.
+
+### Warforged
+
+#### Description
+
+Before the founding of the [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md), artificers were employed by various nation-states to develop humanoid constructs as weapons of war. These were mindless machines, and though they were able to carry out basic tasks in combat, their prohibitive cost and limited utility meant they were rarely utilized in most skirmishes. Once peace treaties were signed and the Accord was established, these sentries fell out of regular use and were generally scrapped for parts. Once the technique for granting sentience to constructs with starstuff were discovered, some of these older units awakened to a new unfamiliar world. These beings struggle to find their purpose in a world that has lost its need for weapons of war.
