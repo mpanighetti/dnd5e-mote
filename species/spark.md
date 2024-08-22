@@ -24,9 +24,10 @@ _**Mechanical Nature.**_ You don't need to eat, drink, or breathe. Additionally,
 
 _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
 
-_**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but that skill remains innately embedded in your form. When you select this species, choose one of the following specializations:
+_**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but the associated skills remain innately embedded in your form. When you select this species, choose one of the following specializations. Constitution is your spellcasting ability for cantrips you learn with this trait, and you can cast them without material components.
 
-- **Artisan.** You gain Proficiency with one Artisan's Tool of your choice, and you can take the Utilize action with the selected tool as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
-- **Courtier.** You gain Proficiency in your choice of Performance or Persuasion checks.
-- **Explorer.** You gain Darkvision (60 feet) and Proficiency in your choice of Perception or Survival checks.
-- **Warrior.** You gain Proficiency in Athletics checks and one weapon of your choice, and you can use your Constitution modifier instead of your Dexterity modifier when calculating your Armor Class.
+- **Arcanist.** You learn three cantrips of your choice from the Wizard spell list.
+- **Courtier.** You learn the _friends_ cantrip, and you gain Proficiency in Performance and Persuasion checks.
+- **Crafter.** You learn the _mending_ cantrip, you gain Proficiency with two Artisan's Tools of your choice, and you can take the Utilize action with the tools you chose as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+- **Scout.** You learn the _druidcraft_ cantrip, and you gain Proficiency in Stealth and Survival checks.
+- **Soldier.** You learn the _true strike_ cantrip, you gain Proficiency with one weapon of your choice, and you gain a +1 bonus to your Armor Class.
