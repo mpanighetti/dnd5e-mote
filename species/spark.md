@@ -30,8 +30,8 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 | Specialization | Proficiencies | Spells | Additional Trait |
 |:--------------:|:-------------:|:------:|:-----------------|
 | **Acolyte**    | Insight and Religion | _guidance_ | You can spend and roll one of your Hit Die to cause another creature you touch to regain a number of Hit Points equal to the roll. |
-| **Courtier**   | Performance and Persuasion | _friends_ | You learn one language of your choice, and each time you finish a Long Rest, you can replace this language with another one. |
-| **Scribe**     | History and Investigation | _dancing lights_ | You can take the Research action as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
-| **Soldier**    | Athletics and one weapon of your choice | _true strike_ | You gain a +1 bonus to your Armor Class. |
+| **Courtier**   | Performance and Persuasion | your choice of _dancing lights_ or _friends_ | You learn one language of your choice, and each time you finish a Long Rest, you can replace this language with another one. |
+| **Scribe**     | History and Investigation | _light_ | You can take the Research action as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
+| **Soldier**    | Athletics and one weapon of your choice | your choice of _prestidigitation_ or _true strike_ | You gain a +1 bonus to your Armor Class. |
 | **Spy**        | Deception and Stealth | _minor illusion_ | You can take the Hide action as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
 | **Tinker**     | Two Artisan's Tools of your choice | _mending_ | You can take the Utilize action with an Artisan's Tool in which you are Proficient as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. |
