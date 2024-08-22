@@ -30,7 +30,7 @@ _**Mechanical Nature.**_ Your artificial body grants the following benefits:
 - You don't need to eat, drink, or breathe.
 - If the _mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
-_**Rebuild.**_ As a Magic action, you can consume inert nonmagical materials to undo wear and tear to your body, regaining a number of Hit Dice equal to your Proficiency Bonus. After you take this action, you regain the ability to do so when you finish a Long Rest.
+_**Power Cycle.**_ As a Magic action, you quickly power down your systems and restart them to refresh your body, regaining a number of Hit Dice equal to your Proficiency Bonus. After you take this action, you regain the ability to do so when you finish a Long Rest.
 
 _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
 
