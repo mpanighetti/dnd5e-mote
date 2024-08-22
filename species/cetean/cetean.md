@@ -1,6 +1,6 @@
 # [Cetean](https://github.com/mpanighetti/dnd5e-species/blob/main/humanoids/cetean.md)
 
-### Description
+## Description
 
 **Ceteans** are a whalefolk species who explore [Mote](../../mote/mote.md) and [Fellspace](../../astronomy/fellspace.md) in the pursuit of knowledge and starstuff.
 
@@ -9,7 +9,7 @@
   <figcaption>Ooeeoo by <a href="https://linktr.ee/hollycircling">Nikki Lacey</a></figcaption>
 </figure>
 
-### Distribution
+## Distribution
 
 Ceteans originate from distant regions of Fellspace, where they swam through [starstuff](../../artifacts/starstuff.md) nebulas and thrived off of the material's magical nourishment. These free-flying pods were drawn to the starstuff regularly bombarding Mote, and eventually took up permanent residence in the world's bountiful oceans. The gift of Echospeak possessed by all ceteans meant that even when these groups forever left the realm of Fellspace, they continued to communicate with their stellar brethren and share knowledge with the wider cetean community.
 
@@ -17,7 +17,7 @@ After a massive starstuff asteroid impacted with Esterfell, many cetean pods cam
 
 Multiple pods of ceteans reside within the [oceans](../../mote/esterfell/waters) surrounding [Esterfell](../../mote/esterfell/esterfell.md), with the largest groups settling along the northern coasts of [Lenya](../../mote/esterfell/lenya/lenya.md). They mostly stay away from the continent's landbound societies, but occasionally can be found in port cities to engage in trade.
 
-### Traits
+## Traits
 
 - _**Creature Type:**_ Humanoid
 - _**Size:**_ Medium (6-9 feet tall)

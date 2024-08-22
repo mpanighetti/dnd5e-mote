@@ -1,6 +1,6 @@
 # [Selkie](https://github.com/mpanighetti/dnd5e-species/blob/main/fey/selkie.md)
 
-### Description
+## Description
 
 **Selkie** are intelligent sealfolk who live in the shallow waters surrounding [Esterfell](../mote/esterfell/esterfell.md). For many centuries, their true nature was unknown by landbound peoples, often being attributed to fish tales passed around by sailors.
 
@@ -8,13 +8,13 @@ Unlike some therianthropic societies, selkies do not favor one of their forms ov
 
 In fact, the act of this transformation involves a literal shedding of skin akin to modifying one's apparel. Taking a person form is as simple as removing the pelt of one's seal form, and wearing it again likewise is all that is needed to become a seal again. The skin of a selkie's seal form is an innate part of their body magically connected to their psyche, such that anyone else coming into possession of such a skin becomes the sole fixation of the selkie. Many a selkie has become wrapped up in problematic romantic entanglements founded in the theft or accidental acquiring of their skin, but these relationships tend to be short-lived or doomed, as the selkie will happily depart once they are able to get their skin back and return to the seas.
 
-### Distribution
+## Distribution
 
 Selkies occupy narrow stretches of shoreline bordering sea, and can happily thrive in either environment. They are most often found in colder climates, as the thick hides and blubber of their seal forms allow them to dive to icy depths in their search for prey.
 
 Selkie families immigrated to Esterfell alongside the early human tribes, hiding their nature by maintaining their person forms while in transit. Many took up residence in the lagoon at the center of [Malagwa](../mote/esterfell/malagwa.md), enjoying the solitude and finding kinship with the native [Malagwan seals](../bestiary/malagwan-seal.md). Most selkies stuck with familial groups outside of landfolk society, though some formed loose congregations with other selkie families via large pods. Some selkies also took to the northern [oceans](../mote/esterfell/waters) of Esterfell and helped to form the nation of [Xiahulia](../societies/xiahulia.md), though their need for air means they rarely traverse the depths of the society's underwater communities.
 
-### Traits
+## Traits
 
 - _**Creature Type:**_ Fey
 - _**Size:**_ Medium (5-6 feet tall)
