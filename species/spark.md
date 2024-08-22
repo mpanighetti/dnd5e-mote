@@ -10,11 +10,7 @@ A spark is distinguished from other constructed beings by the gift of sapience g
 
 There are no larger societal distributions of sparks, as the nature of their creation and the recency of their invention has not given sufficient time for them to propagate. Most sparks came to sentience at [Balut's Academerie for the Magistically Inclinated](../organizations/baluts-academerie/baluts-academerie.md) and many still reside at the Academerie or in [Bridgeport](../societies/esterfell-accord/bridgeport/bridgeport.md), but some who sought new destinies beyond their original constructed purposes have ventured to other areas of [Lenya](../mote/esterfell/lenya/lenya.md).
 
-## Constructed ancestries
-
-### Spark
-
-#### Traits
+## Traits
 
 - _**Creature Type:**_ Construct
 - _**Size:**_ Tiny, Small, or Medium (1-8 feet tall)
@@ -48,6 +44,8 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 | **Soldier**    | Athletics and one weapon of your choice | _true strike_ | You gain a +1 bonus to your Armor Class. |
 | **Spy**        | Deception and Stealth | _minor illusion_ | When you take the Hide action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
 | **Tinker**     | Two Artisan's Tools of your choice | _mending_ | When you take the Utilize action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
+
+## Variant sparks
 
 ### Autognome
 
