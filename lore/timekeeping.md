@@ -1,0 +1,97 @@
+# Timekeeping
+
+**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](../mote/mote.md), such as the movement of its [natural satellites](../astronomy/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
+
+## Units of Time
+
+### Second
+
+A second is an arbitrary small unit of time which divides larger timekeeping measurements.
+
+### Minute
+
+A minute is 60 seconds.
+
+### Hour
+
+An hour is 60 minutes, or 3,600 seconds.
+
+### Day
+
+A day is the time period of a full rotation of Mote with respect to its sun. On average, this is 24 hours (86,400 seconds), when not extended during a lunar day.
+
+#### Lunar Day
+
+Occasionally, when the orbits of the moons of Mote come in close proximity, the complicated interactions of their gravity and [starstuff](../artifacts/starstuff.md) energies can temporarily slow their movement across the sky. This confluence wreaks havoc on the surface of Mote, extending the length of the day as the world's rotation is temporarily disrupted and tidally locked by the amplified lunar forces. These periods are known as "lunar days".
+
+A lunar day slows the orbital speed of all involved moons for the entirety of their interaction as their gravitational and stellar forces drag against each other. This drag can vary in length from a few hours to over a day.
+
+### Month
+
+A month is the time period of a full orbit of a moon around Mote. This period varies depending on which moon is used as a reference point:
+
+- [Kivan](../astronomy/moons/kiva.md) month: 28 days
+- [Bathýs-Pelan](../astronomy/moons/bathys-pela.md) month: 8 days
+- [Dreg](../astronomy/moons/dreg.md): 42 days
+
+Note that these are average durations, as the length of a month will vary depending on whether a lunar day has occurred within the orbital period.
+
+The two common calendar systems in Esterfell use Kiva's orbit as the measure of a month, though both take different approaches to the eccentricity of this period.
+
+### Year
+
+A year is the time period of a full orbit of Mote around its sun, marking a full cycle of the seasons. This revolution takes approximately 336 days (or 29,030,400 seconds). Though the length of a Mote year is unaffected by lunar days, the perturbations of the sun and other celestial bodies can result in a slightly slower or faster revolution.
+
+## Calendar Systems
+
+The most commonly used calendar systems in [Esterfell](../mote/esterfell/esterfell.md) are the **Kivan Standard** and the **Tides of Fathoms**. Both calendars divide the year into twelve months marked roughly by the movement of Kiva, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall.
+
+### Kivan Standard
+
+- **Type:** lunisolar
+- **Introduction:** pre-Esterfell settlement
+- **Usage:** [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md), [Subros](../societies/subros.md), [Verdancy](../societies/verdancy/verdancy.md)
+
+A Kivan Standard year is divided into twelve months of twenty-eight days each. The length of a month is based on Kiva's uninterrupted orbital period, but this does not account for the presence of lunar days, which can cause the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This allows for consistent month lengths for bookkeeping purposes, but makes it difficult to account for the disruption lunar days cause when determining the day of a week or the length of a year.
+
+| Number | Name   |
+|:-------|:-------|
+| 1      | Kaishi |
+| 2      | Bría   |
+| 3      | Lexon  |
+| 4      | Bail   |
+| 5      | Sephy  |
+| 6      | Mull   |
+| 7      | Lyax   |
+| 8      | Ëuil   |
+| 9      | Kret   |
+| 10     | Bhán   |
+| 11     | Merci  |
+| 12     | Dyrth  |
+
+The Kivan Standard was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from [pre-Esterfell deities](../pantheon/mote-pantheon.md), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
+
+A week on the Kivan Standard calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not impacted by the eccentricity of lunar orbits.
+
+### Tides of Fathoms
+
+- **Type:** lunar
+- **Introduction:** pre-Esterfell settlement
+- **Usage:** [Xiahulia](../societies/xiahulia.md)
+
+The Tides of Fathoms divide the year into twelve months based directly on Kiva's orbit. The number of days in a month or in the year thus vary depending on whether a lunar day occurs during that period of time, as the Xiahuli include these days in a given month to keep their measures consistent with Kiva's varying orbital period and the resulting tidal forces.
+
+| Number | Name   |
+|:-------|:-------|
+| 1      | Pela   |
+| 2      | Aphotis|
+| 3      | Abyssi |
+| 4      | Demer  |
+| 5      | Benthis|
+| 6      | Hados  |
+| 7      | Bathýs |
+| 8      | Meso   |
+| 9      | Epiphis|
+| 10     | Photic |
+| 11     | Stratos|
+| 12     | Tropos |

@@ -61,6 +61,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 ### [Lore](lore)
 
 - [Remi O](lore/remi-o.md)
+- [Timekeeping](lore/timekeeping.md)
 - [Waypoints](lore/waypoints.md)
 
 ### [Artifacts](artifacts)
