@@ -40,7 +40,7 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 | **Scribe**     | History and Investigation | _dancing lights_ | When you take the Study action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
 | **Soldier**    | Athletics and one weapon of your choice | _true strike_ | You gain a +1 bonus to your Armor Class. |
 | **Spy**        | Deception and Stealth | _minor illusion_ | When you take the Hide action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
-| **Tinker**     | Two Artisan's Tools of your choice | _mending_ | When you take the Utilize or Use an Object action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
+| **Tinker**     | Two Artisan's Tools of your choice | _mending_ | When you take the Utilize action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
 
 ## Variant sparks
 
