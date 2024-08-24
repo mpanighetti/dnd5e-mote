@@ -30,10 +30,10 @@ _**Power Cycle.**_ As a Magic action, you quickly power down your systems and re
 
 _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
 
-_**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but the associated skills remain innately embedded in your form. When you select this species, choose one of the specializations from the **Specialized Design** table to gain the listed traits, including proficiencies and a cantrip. Constitution is your spellcasting ability for spells you learn with this trait, and you can cast them without material components. If this trait has an option that spends your Hit Dice, you can spend Hit Dice in this manner a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
+_**Specialized Design.**_ You were originally built to carry out a specific function. You may or may not continue to fulfill this function, but the associated skills remain innately embedded in your form. When you select this species, choose one of the specializations from the **Specialized Design** table to gain the listed traits, including proficiencies and a cantrip. Constitution is your spellcasting ability for cantrips you learn with this trait, and you can cast them without material components. If this trait has an option that spends your Hit Dice, you can spend Hit Dice in this manner a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 
 ##### Specialized Design
-| Specialization | Proficiencies | Spells | Additional Trait |
+| Specialization | Proficiencies | Cantrip | Additional Trait |
 |:--------------:|:-------------:|:------:|:-----------------|
 | **Acolyte**    | Insight and Religion | _guidance_ | As a Magic action, you can spend and roll one of your Hit Dice to cause another creature you touch to regain a number of Hit Points equal to the roll. |
 | **Courtier**   | Performance and Persuasion | _friends_ | You learn one language of your choice, and each time you finish a Long Rest, you can replace this language with another one. |
