@@ -79,7 +79,7 @@ A week on the Kivan Standard calendar is a period of 7 days, which is exactly on
 - **Introduction:** pre-Esterfell settlement
 - **Usage:** [Xiahulia](../societies/xiahulia.md)
 
-The Tides of Fathoms divide the year into twelve months based directly on Kiva's orbit. The number of days in a month or in the year thus vary depending on whether a lunar day occurs during that period of time, as the Xiahuli include these days in a given month to keep their measures consistent with Kiva's varying orbital period and the resulting tidal forces.
+The Tides of Fathoms divide the year into twelve months based directly on Kiva's orbit. The number of days in a Kivan month or in the lunar year thus vary depending on whether a lunar day occurs during that period of time, as the Xiahuli include these days in a given month to keep their measures consistent with Kiva's varying orbital period and the resulting tidal forces.
 
 | Number | Name   |
 |:-------|:-------|
