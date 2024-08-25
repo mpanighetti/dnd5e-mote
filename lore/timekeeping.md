@@ -44,23 +44,46 @@ A year is the time period of a full orbit of Mote around its sun, marking a full
 
 ## Calendar Systems
 
-The most commonly used calendar systems in [Esterfell](../mote/esterfell/esterfell.md) are the **Kivan Standard** and the **Tides of Fathoms**. Both calendars divide the year into twelve months marked roughly by the movement of Kiva, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall.
+The most commonly used calendar systems in [Esterfell](../mote/esterfell/esterfell.md) are the **Kivan Standard**, the **Darkharvest**, and the **Tides of Fathoms**. All three calendars divide the year into months marked roughly by the movement of a moon of Mote.
+
+### Darkharvest
+
+- **Type:** lunisolar (Dreg)
+- **Introduction:** pre-Esterfell Accord unification
+- **Usage:** agrarian groups within the [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md), [Subros](../societies/subros.md), and [Verdancy](../societies/verdancy/verdancy.md)
+
+The Darkharvest calendar is unique among the systems employed by Esterfell societies, as it uses Dreg's longer orbital period as a reference point to mark the months rather than Kiva. A Dreg month (often called a dreg for short) is 42 days long when not influenced by lunar days, meaning there are 8 dregs in a Darkharvest year.
+
+As the name suggests, this system tracks the dregs and seasons for the purpose of farming and harvesting crops. Seed and Douse mark the start of the spring season when the earliest planted crops begin to sprout and bloom, Harsh and Blight are the hot summer months, Thresh and Still are the autumn period when many crops are harvested, and Kiln and Fray bridge the coldest winter days.
+
+Although Darkharvest marks its months in dregs, the requirement to align with a season for agrarian accuracy means it must necessarily ignore random lunar days when measuring the year overall. The solution for this discrepancy varies by farmstead and by region, but when date precision is required for scheduling the planting of crops, the most typical approach is to add an extra day to a given dreg, and to force the advent of spring to the start of the year at 1 Seed, regardless of how much progress Dreg has made in its orbit.
+
+| Number | Name   |
+|:-------|:-------|
+| 1      | Seed   |
+| 2      | Douse  |
+| 3      | Harsh  |
+| 4      | Blight |
+| 5      | Thresh |
+| 6      | Still  |
+| 7      | Kiln   |
+| 8      | Fray   |
 
 ### Kivan Standard
 
-- **Type:** lunisolar
+- **Type:** solar
 - **Introduction:** pre-Esterfell settlement
 - **Usage:** [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md), [Subros](../societies/subros.md), [Verdancy](../societies/verdancy/verdancy.md)
 
-A Kivan Standard year is divided into twelve months of twenty-eight days each. The length of a month is based on Kiva's uninterrupted orbital period, but this does not account for the presence of lunar days, which can cause the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This allows for consistent month lengths for bookkeeping purposes, but makes it difficult to account for the disruption lunar days cause when determining the day of a week or the length of a year.
+A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which can cause the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit, making it difficult to account for the disruption lunar days can cause when determining the day of a week or the length of a month.
 
 | Number | Name   |
 |:-------|:-------|
 | 1      | Kaishi |
-| 2      | Bría   |
-| 3      | Lexon  |
-| 4      | Bail   |
-| 5      | Sephy  |
+| 2      | Griv   |
+| 3      | Bréa   |
+| 4      | Lexon  |
+| 5      | Bail   |
 | 6      | Mull   |
 | 7      | Lyax   |
 | 8      | Ëuil   |
@@ -75,11 +98,11 @@ A week on the Kivan Standard calendar is a period of 7 days, which is exactly on
 
 ### Tides of Fathoms
 
-- **Type:** lunar
+- **Type:** lunar (Kiva)
 - **Introduction:** pre-Esterfell settlement
 - **Usage:** [Xiahulia](../societies/xiahulia.md)
 
-The Tides of Fathoms divide the year into twelve months based directly on Kiva's orbit. The number of days in a Kivan month or in the lunar year thus vary depending on whether a lunar day occurs during that period of time, as the Xiahuli include these days in a given month to keep their measures consistent with Kiva's varying orbital period and the resulting tidal forces.
+The Tides of Fathoms divide the year into twelve months based directly and exclusively on Kiva's orbital period. The number of days in a Tidal month or Tidal year thus vary depending on whether a lunar day occurs during that period of time, as the Xiahuli include these days in a given month to keep their measures consistent with Kiva's varying orbital period and the resulting tidal forces.
 
 | Number | Name   |
 |:-------|:-------|
