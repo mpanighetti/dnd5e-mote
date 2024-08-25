@@ -46,6 +46,8 @@ A year is the time period of a full orbit of Mote around its sun, marking a full
 
 The most commonly used calendar systems in [Esterfell](../mote/esterfell/esterfell.md) are the **Kivan Standard**, the **Darkharvest**, and the **Tides of Fathoms**. All three calendars divide the year into months marked roughly by the movement of a moon of Mote.
 
+A list of significant approximate dates are included for each calendar, including events with equivalents on all calendars, such as the advent of the seasons.
+
 ### Darkharvest
 
 - **Type:** lunisolar (Dreg)
@@ -68,6 +70,13 @@ Although Darkharvest marks its months in dregs, the requirement to align with a 
 | 6      | Still  |
 | 7      | Kiln   |
 | 8      | Fray   |
+
+#### Darkharvest Dates
+
+- 1 Seed: Vernal Equinox
+- 1 Harsh: Summer Solstice
+- 1 Thresh: Autumnal Equinox
+- 1 Kiln: Winter Solstice
 
 ### Kivan Standard
 
@@ -96,6 +105,13 @@ The Kivan Standard was brought by settlers of Esterfell from prior nations that 
 
 A week on the Kivan Standard calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not impacted by the eccentricity of lunar orbits.
 
+#### Kivan Standard Dates
+
+- 14 Bréa: Vernal Equinox
+- 14 Mull: Summer Solstie
+- 14 Kret: Autumnal Equinox
+- 14 Dyrth: Winter Solstice
+
 ### Tides of Fathoms
 
 - **Type:** lunar (Kiva)
@@ -118,3 +134,10 @@ The Tides of Fathoms divide the year into twelve months based directly and exclu
 | 10     | Photic |
 | 11     | Stratos|
 | 12     | Tropos |
+
+#### Tidal Dates
+
+- 1 Pela: Vernal Equinox
+- 1 Demer: Summer Solstie
+- 1 Bathýs: Autumnal Equinox
+- 1 Photic: Winter Solstice
