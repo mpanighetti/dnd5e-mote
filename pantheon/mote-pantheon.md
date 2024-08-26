@@ -4,7 +4,7 @@ The **Mote pantheons** are multiple collections of beings of power from across t
 
 The term "god" is often used interchangeably on Mote with beings of "lesser" power, including archfey, celestial beings such as angels, and warlock patrons. The origin of such beings has little bearing on their capability to ascend to godhood, as long as they carry a sufficient volume of collective worship.
 
-## Pre-Esterfell Pantheons
+## Ancient Mote Pantheon
 
 The people of [Esterfell](../mote/esterfell/esterfell.md) are descended from immigrants who traveled to the continent from distant now-forgotten lands. These groups had their own collections of deities, and though not all of them are now worshipped to the same degree as in antiquity, they survive in Esterfell cultures through the names of months in the [Kivan Standard calendar](../lore/timekeeping.md#kivan-standard) and some smaller relicious observations.
 
@@ -24,7 +24,7 @@ The people of [Esterfell](../mote/esterfell/esterfell.md) are descended from imm
 | Mullbree | deity | LN | Death |  |
 | Rikai  | deity | CN | Nature |  |
 
-## Esterfell Pantheons
+## Esterfell Pantheon
 
 As Esterfell formed a melting pot of new alliances separated from their historical societial boundaries, new gods also came into being, either as composites of old deities or from entities rising into power through collective worship.
 
@@ -38,7 +38,7 @@ The **Deities of Esterfell** table is a non-exhaustive list of beings with power
 | Pyr'xhalz | great old one | CE | [The Chosen](../organizations/the-chosen/the-chosen.md), Trickery, War, Mind |  |
 | [Ramil](ramil.md) | deva | LG | The Chosen, Light | crescent with radial triangles |
 
-## Borrowed Deities
+## Borrowed Pantheon
 
 On occasion, deities sourced from entirely different worlds became honorary Esterfell gods, though how they entered the public consciousness to a significant enough degree to find worshippers in a new world is not always well-understood.
 
