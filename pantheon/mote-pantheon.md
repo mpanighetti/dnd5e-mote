@@ -9,20 +9,20 @@ The term "god" is often used interchangeably on Mote with beings of "lesser" pow
 The people of [Esterfell](../mote/esterfell/esterfell.md) are descended from immigrants who traveled to the continent from distant now-forgotten lands. These groups had their own collections of deities, and though not all of them are now worshipped to the same degree as in antiquity, they survive in Esterfell cultures through the names of months in the [Kivan Standard calendar](../lore/timekeeping.md#kivan-standard) and some smaller relicious observations.
 
 ##### Ancient Deities of Mote
-|  Deity | Classification | Alignment | Domains | Symbol |
-|:-------|:---------------|:---------:|:--------|:-------|
-| Baylau | deity | CG | Trickery |  |
-| Bhánta | deity | GE | Tempest |  |
-| Bréai | deity | LE | Knowledge |  |
-| Dyrth | deity | C | Nature |  |
-| Ëuilon | deity | NE | War |  |
-| Grivmac | deity | LG | Tempest |  |
-| Kretch | deity | N | Life |  |
-| Leixong | deity | NG | Light |  |
-| Lyaxen | deity | CE | Trickery |  |
-| Mercia | deity | L | Knowledge |  |
-| Mullbree | deity | LN | Death |  |
-| Rikai  | deity | CN | Nature |  |
+|  Deity | Alignment | Domains | Symbol |
+|:-------|:---------:|:--------|:-------|
+| Baylau | CG | Trickery |  |
+| Bhánta | GE | Tempest |  |
+| Bréai | LE | Knowledge |  |
+| Dyrth | C | Nature |  |
+| Ëuilon | NE | War |  |
+| Grivmak | LG | Tempest |  |
+| Kretch | N | Life |  |
+| Leixong | NG | Light |  |
+| Lyaxen | CE | Trickery |  |
+| Mercia | L | Knowledge |  |
+| Mullbree | LN | Death |  |
+| Rikai  | CN | Nature |  |
 
 ## Esterfell Pantheon
 
