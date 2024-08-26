@@ -45,8 +45,8 @@ On occasion, deities sourced from entirely different worlds became honorary Este
 The **Deities of the Multiverse** table is a non-exhaustive list of beings of power sourced from other worlds. The table calls out their origins in the **Pantheon** column.
 
 ##### Deities of the Multiverse
-|  Deity | Classification | Alignment | Domains | Symbol | Pantheon |
-|:-------|:---------------|:---------:|:--------|:-------|:---------|
-| Deneir | deity | NG | Knowledge, Writing | lit candle above an open eye | The Forgotten Realms |
-| [Istus](istus.md) | deity | N | Knowledge, Fate, Destiny, Divination, Future Events | weaver's spindle with three strands | Greyhawk |
-| Silvanus | deity | N | Nature, Wilderness | oak leaf | The Forgotten Realms |
+|  Deity | Alignment | Domains | Symbol | Pantheon |
+|:-------|:---------:|:--------|:-------|:---------|
+| Deneir | NG | Knowledge, Writing | lit candle above an open eye | The Forgotten Realms |
+| [Istus](istus.md) | N | Knowledge, Fate, Destiny, Divination, Future Events | weaver's spindle with three strands | Greyhawk |
+| Silvanus | N | Nature, Wilderness | oak leaf | The Forgotten Realms |
