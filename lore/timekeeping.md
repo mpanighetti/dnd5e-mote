@@ -135,11 +135,11 @@ The Tides of Fathoms divide the year into twelve months based directly and exclu
 | 11     | Stratos|
 | 12     | Tropos |
 
-The Xiahuli ascribe the months to specific oceanic depths, seeing the movement of Kiva as a great float bobbing up and down through the seas of Mote. The months are named after these depths and broadly describe Kiva's mythological journey to the deepest point on the ocean floor in the month of Bathýs, then back up to the surface in the month of Pela. The binary Bathýs-Pela moon system acts as an emblem of these two extremes.
+The Xiahuli ascribe the months to specific oceanic depths, seeing the movement of Kiva as a great float bobbing up and down through the seas of Mote. The months are named after these depths and broadly describe Kiva's mythological journey to the deepest point on the ocean floor in the month of Bathýs at winter time, then back up to the surface in the summer month of Pela. The binary Bathýs-Pela moon system acts as an emblem of these two extremes.
 
 #### Tidal Dates
 
-- 1 Pela: Vernal Equinox
-- 1 Demer: Summer Solstie
-- 1 Bathýs: Autumnal Equinox
-- 1 Photic: Winter Solstice
+- 1 Pela: Summer Solstice
+- 1 Demer: Autumnal Equinox
+- 1 Bathýs: Winter Solstice
+- 1 Photic: Vernal Equinox
