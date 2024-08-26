@@ -20,7 +20,7 @@ The people of [Esterfell](../mote/esterfell/esterfell.md) are descended from imm
 | Kretch | deity | N | Life |  |
 | Leixong | deity | NG | Light |  |
 | Lyaxen | deity | CE | Trickery |  |
-| Merci | deity | L | Knowledge |  |
+| Mercia | deity | L | Knowledge |  |
 | Mullbree | deity | LN | Death |  |
 | Rikai  | deity | CN | Nature |  |
 
