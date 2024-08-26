@@ -8,7 +8,7 @@ The term "god" is often used interchangeably on Mote with beings of "lesser" pow
 
 The people of [Esterfell](../mote/esterfell/esterfell.md) are descended from immigrants who traveled to the continent from distant now-forgotten lands. These groups had their own collections of deities, and though not all of them are now worshipped to the same degree as in antiquity, they survive in Esterfell cultures through the names of months in the [Kivan Standard calendar](../lore/timekeeping.md#kivan-standard) and some smaller relicious observations.
 
-##### Deities of Mote
+##### Ancient Deities of Mote
 |  Deity | Classification | Alignment | Domains | Symbol |
 |:-------|:---------------|:---------:|:--------|:-------|
 | Baylau | deity | CG | Trickery |  |
@@ -26,17 +26,27 @@ The people of [Esterfell](../mote/esterfell/esterfell.md) are descended from imm
 
 ## Esterfell Pantheons
 
-As Esterfell formed a melting pot of new alliances separated from their historical societial boundaries, new gods also came into being, either as composites of old deities or from entities rising into power through collective worship. On occasion, deities sourced from entirely different worlds became honorary Esterfell gods, though how they entered the public consciousness to a significant enough degree to find worshippers in a new world is not always well-understood.
+As Esterfell formed a melting pot of new alliances separated from their historical societial boundaries, new gods also came into being, either as composites of old deities or from entities rising into power through collective worship.
 
-The **Deities of Esterfell** table is a non-exhaustive list of beings with power and influence over Esterfell, representing some specific groups of entities that have been granted full or partial deification by various groups. The table calls out beings sourced from other worlds in the **Pantheon** column.
+The **Deities of Esterfell** table is a non-exhaustive list of beings with power and influence over Esterfell, representing some specific groups of entities that have been granted full or partial deification by various groups.
 
 ##### Deities of Esterfell
+|  Deity | Classification | Alignment | Domains | Symbol |
+|:-------|:---------------|:---------:|:--------|:-------|
+| [Lilith](lilith.md) | archfey/medusa | LG | [Attalya Grove](../mote/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent |
+| [Phygius](phygius.md) | archfey | CN | [Middlestag Forest](../mote/esterfell/lenya/middlestag-forest.md), Nature, Feywild, Cervids | antlers with teardrops |
+| Pyr'xhalz | great old one | CE | [The Chosen](../organizations/the-chosen/the-chosen.md), Trickery, War, Mind |  |
+| [Ramil](ramil.md) | deva | LG | The Chosen, Light | crescent with radial triangles |
+
+## Borrowed Deities
+
+On occasion, deities sourced from entirely different worlds became honorary Esterfell gods, though how they entered the public consciousness to a significant enough degree to find worshippers in a new world is not always well-understood.
+
+The **Deities of the Multiverse** table is a non-exhaustive list of beings of power sourced from other worlds. The table calls out their origins in the **Pantheon** column.
+
+##### Deities of the Multiverse
 |  Deity | Classification | Alignment | Domains | Symbol | Pantheon |
 |:-------|:---------------|:---------:|:--------|:-------|:---------|
 | Deneir | deity | NG | Knowledge, Writing | lit candle above an open eye | The Forgotten Realms |
 | [Istus](istus.md) | deity | N | Knowledge, Fate, Destiny, Divination, Future Events | weaver's spindle with three strands | Greyhawk |
-| [Lilith](lilith.md) | archfey/medusa | LG | [Attalya Grove](../mote/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent | Esterfell |
-| [Phygius](phygius.md) | archfey | CN | [Middlestag Forest](../mote/esterfell/lenya/middlestag-forest.md), Nature, Feywild, Cervids | antlers with teardrops | Esterfell |
-| Pyr'xhalz | great old one | CE | [The Chosen](../organizations/the-chosen/the-chosen.md), Trickery, War, Mind |  | Esterfell |
-| [Ramil](ramil.md) | deva | LG | The Chosen, Light | crescent with radial triangles | Esterfell |
 | Silvanus | deity | N | Nature, Wilderness | oak leaf | The Forgotten Realms |
