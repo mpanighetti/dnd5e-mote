@@ -48,44 +48,15 @@ The most commonly used calendar systems in [Esterfell](../mote/esterfell/esterfe
 
 A list of significant approximate dates are included for each calendar, including events with equivalents on all calendars, such as the advent of the seasons.
 
-### Darkharvest
-
-- **Type:** lunisolar (Dreg)
-- **Introduction:** pre-Esterfell Accord unification
-- **Usage:** agrarian groups within the [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md), [Subros](../societies/subros.md), and [Verdancy](../societies/verdancy/verdancy.md)
-
-The Darkharvest calendar is unique among the systems employed by Esterfell societies, as it uses Dreg's longer orbital period as a reference point to mark the months rather than Kiva. A Dreg month (often called a dreg for short) is 42 days long when not influenced by lunar days, meaning there are 8 dregs in a Darkharvest year.
-
-As the name suggests, this system tracks the dregs and seasons for the purpose of farming and harvesting crops. Seed and Douse mark the start of the spring season when the earliest planted crops begin to sprout and bloom, Harsh and Blight are the hot summer months, Thresh and Still are the autumn period when many crops are harvested, and Kiln and Fray bridge the coldest winter days.
-
-Although Darkharvest marks its months in dregs, the requirement to align with a season for agrarian accuracy means it must necessarily ignore random lunar days when measuring the year overall. The solution for this discrepancy varies by farmstead and by region, but when date precision is required for scheduling the planting of crops, the most typical approach is to add an extra day to a given dreg, and to force the advent of spring to the start of the year at 1 Seed, regardless of how much progress Dreg has made in its orbit.
-
-| Number | Name   |
-|:-------|:-------|
-| 1      | Seed   |
-| 2      | Douse  |
-| 3      | Harsh  |
-| 4      | Blight |
-| 5      | Thresh |
-| 6      | Still  |
-| 7      | Kiln   |
-| 8      | Fray   |
-
-#### Darkharvest Dates
-
-- 1 Seed: Vernal Equinox
-- 1 Harsh: Summer Solstice
-- 1 Thresh: Autumnal Equinox
-- 1 Kiln: Winter Solstice
-
 ### Kivan Standard
 
 - **Type:** solar
-- **Introduction:** pre-Esterfell settlement
+- **Introduction:** 1 KS
 - **Usage:** [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md), [Subros](../societies/subros.md), [Verdancy](../societies/verdancy/verdancy.md)
 
 A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which can cause the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit, making it difficult to account for the disruption lunar days can cause when determining the day of a week or the length of a month.
 
+##### Kivan Standard Months
 | Number | Name   |
 |:-------|:-------|
 | 1      | Kaishi |
@@ -105,21 +76,31 @@ The Kivan Standard was brought by settlers of Esterfell from prior nations that 
 
 A week on the Kivan Standard calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not impacted by the eccentricity of lunar orbits.
 
+#### Kivan Standard Year Systems
+
+As the Esterfell settlers departed their ancient shores, they kept tracking the years with the Kivan Standard, dutifully counting the passage of time since year 1. Though the significance of this epoch has long been lost to the modern people of Esterfell, the numbering has remained intact; for example, Esterfell was settled by the first waves of immigrants starting in 3128.
+
+After the Esterfell Accord formed their union, the fledgling nation created a new system of tracking the years known as **Ambulare Populi** (abbreviated as "**AP**"). The name comes from an ancient Mote language and means "walk of the people". The Kaishi following the signing of the Accord on 23 Bhán 3181—known within the Accord as "Union Day"—thus became 1 AP under the Accord's new year system.
+
+The nation of Subros, having no particular allegiance to the Accord or deference to their holidays, continued to track their years from the ancient world. Esterfolk will also occasionally refer to the old year system, either when engaging in trade with Subrosians or when referring to pre-Accord historical events. When a distinction is needed, the abbreviation "**KS**" is sometimes used. Farmers tracking [Darkharvest](#darkharvest) seasonal cycles will use whichever numbering system aligns with their home nation, and their tendency to switch between the systems means Darkharvest almanacs are common references for quick conversions.
+
 #### Kivan Standard Dates
 
 - 14 Bréa: Vernal Equinox
 - 14 Mull: Summer Solstie
 - 14 Kret: Autumnal Equinox
+- 23 Bhán 3181: Union Day (Esterfell Accord)
 - 14 Dyrth: Winter Solstice
 
 ### Tides of Fathoms
 
 - **Type:** lunar (Kiva)
-- **Introduction:** pre-Esterfell settlement
+- **Introduction:** ancient Mote
 - **Usage:** [Xiahulia](../societies/xiahulia.md)
 
 The Tides of Fathoms divide the year into twelve months based directly and exclusively on Kiva's orbital period. The number of days in a Tidal month or Tidal year thus vary depending on whether a lunar day occurs during that period of time, as the Xiahuli include these days in a given month to keep their measures consistent with Kiva's varying orbital period and the resulting tidal forces.
 
+##### Tidal Months
 | Number | Name   |
 |:-------|:-------|
 | 1      | Pela   |
@@ -143,3 +124,35 @@ The Xiahuli ascribe the months to specific oceanic depths, seeing the movement o
 - 1 Demer: Autumnal Equinox
 - 1 Bathýs: Winter Solstice
 - 1 Photic: Vernal Equinox
+
+### Darkharvest
+
+- **Type:** lunisolar (Dreg)
+- **Introduction:** ancient Mote
+- **Usage:** agrarian groups within the [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md), [Subros](../societies/subros.md), and [Verdancy](../societies/verdancy/verdancy.md)
+
+The Darkharvest calendar is unique among the systems employed by Esterfell societies, as it uses Dreg's longer orbital period as a reference point to mark the months rather than Kiva. A Dreg month (often called a dreg for short) is 42 days long when not influenced by lunar days, meaning there are 8 dregs in a Darkharvest year.
+
+As the name suggests, this system tracks the dregs and seasons for the purpose of farming and harvesting crops. Seed and Douse mark the start of the spring season when the earliest planted crops begin to sprout and bloom, Harsh and Blight are the hot summer months, Thresh and Still are the autumn period when many crops are harvested, and Kiln and Fray bridge the coldest winter days.
+
+Although Darkharvest marks its months in dregs, the requirement to align with a season for agrarian accuracy means it must necessarily ignore random lunar days when measuring the year overall. The solution for this discrepancy varies by farmstead and by region, but when date precision is required for scheduling the planting of crops, the most typical approach is to add an extra day to a given dreg, and to force the advent of spring to the start of the year at 1 Seed, regardless of how much progress Dreg has made in its orbit.
+
+##### Darkharvest Dregs
+| Number | Name   |
+|:-------|:-------|
+| 1      | Seed   |
+| 2      | Douse  |
+| 3      | Harsh  |
+| 4      | Blight |
+| 5      | Thresh |
+| 6      | Still  |
+| 7      | Kiln   |
+| 8      | Fray   |
+
+#### Darkharvest Dates
+
+- 1 Seed: Vernal Equinox
+- 1 Harsh: Summer Solstice
+- 1 Thresh: Autumnal Equinox
+- 38 Thresh 3181: Union Day (Esterfell Accord)
+- 1 Kiln: Winter Solstice
