@@ -101,7 +101,7 @@ A Kivan Standard year is divided into twelve months of twenty-eight days each, m
 | 11     | Merci  |
 | 12     | Dyrth  |
 
-The Kivan Standard was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from [ancient Mote deities](../pantheon/mote-pantheon.md#ancient-mote-pantheon), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
+The Kivan Standard was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from deities of the [ancient Mote pantheon](../pantheon/mote-pantheon.md#ancient-mote-pantheon), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
 
 A week on the Kivan Standard calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not impacted by the eccentricity of lunar orbits.
 
