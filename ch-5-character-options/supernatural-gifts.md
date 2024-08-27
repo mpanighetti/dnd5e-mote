@@ -1,4 +1,8 @@
-# [Blessing of Foresight](https://github.com/mpanighetti/dnd5e-feats/blob/main/supernatural-gifts/blessings/blessing-of-foresight.md)
+# Supernatural Gifts
+
+Some [deities of Mote](../ch-3-stories/of/mote/pantheons/mote-pantheons.md) might bestow great blessing and gifts upon their devoted followers. The following supernatural gifts are available to characters who perform great deeds of heroism in their gods' names.
+
+## [Blessing of Foresight](https://github.com/mpanighetti/dnd5e-feats/blob/main/supernatural-gifts/blessings/blessing-of-foresight.md)
 
 _Supernatural Gift (Blessing)_
 
