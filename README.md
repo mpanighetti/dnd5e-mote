@@ -87,12 +87,12 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Vehicles](ch-5-mote-treasures/vehicles)
   - [Starstuff Ships](ch-5-mote-treasures/vehicles/starstuff-ships/starstuff-ships.md)
 
-### [Chapter 7: Mote Bestiary](ch-6-mote-bestiary)
+### [Chapter 7: Mote Bestiary](ch-7-mote-bestiary)
 
-- [Dire Clam](ch-6-mote-bestiary/dire-clam.md)
-- [Malagwan Seal](ch-6-mote-bestiary/malagwan-seal.md)
-- [Murexian Creature](ch-6-mote-bestiary/murexian-creature.md)
-- [Selkie Warrior](ch-6-mote-bestiary/selkie-warrior.md)
+- [Dire Clam](ch-7-mote-bestiary/dire-clam.md)
+- [Malagwan Seal](ch-7-mote-bestiary/malagwan-seal.md)
+- [Murexian Creature](ch-7-mote-bestiary/murexian-creature.md)
+- [Selkie Warrior](ch-7-mote-bestiary/selkie-warrior.md)
 
 ## Credits
 

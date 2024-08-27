@@ -10,7 +10,7 @@ Murex is formed from volcanic compounds found only in the soil of the [Ashen Sca
 
 ### Life and expiration
 
-Murex in its raw extracted form only lasts a few hours, dissolving into a sludge called [mux](mux.md) that is toxic to the touch and unsuitable for use as a dye. [Murexian creatures](../../ch-6-mote-bestiary/murexian-creature.md) removed from the Murexian Grove  revert to their normal coloration and physiology within 1d4 days as the murex leaves their systems, and since murexian traits are not genetic, their offspring are identical to normal flora and fauna until they undergo their transformations.
+Murex in its raw extracted form only lasts a few hours, dissolving into a sludge called [mux](mux.md) that is toxic to the touch and unsuitable for use as a dye. [Murexian creatures](../../ch-7-mote-bestiary/murexian-creature.md) removed from the Murexian Grove  revert to their normal coloration and physiology within 1d4 days as the murex leaves their systems, and since murexian traits are not genetic, their offspring are identical to normal flora and fauna until they undergo their transformations.
 
 ## History and usage
 
