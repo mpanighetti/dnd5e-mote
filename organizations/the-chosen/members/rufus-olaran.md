@@ -1,6 +1,6 @@
 # Rufus Olaran
 
-**Rufus Olaran** is a former priest of [Deneir](../../../pantheon/mote-pantheon.md) who has since joined [The Chosen](../the-chosen.md) as a follower of [Ramil](../../../pantheon/ramil.md).
+**Rufus Olaran** is a former priest of [Deneir](../../../pantheon/mote-pantheon.md) who has since joined [The Chosen](../the-chosen.md) as a follower of [Ramil](../../../pantheon/esterfell-deities/ramil.md).
 
 ## Information
 
