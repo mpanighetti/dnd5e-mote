@@ -1,6 +1,6 @@
 # Timekeeping
 
-**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../ch-2-people-of-mote/societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](mote.md), such as the movement of its [natural satellites](cosmology/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
+**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../ch-2-people-of-mote/societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](cosmology/mote.md), such as the movement of its [natural satellites](cosmology/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
 
 ## Units of Time
 

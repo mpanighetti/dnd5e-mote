@@ -2,7 +2,7 @@
 
 Most worlds are built from [starstuff](ch-5-mote-treasures/starstuff.md) — loose particles older than time coalescing through either happenstance or design — eventually supporting life capable of asking questions about its own provenance. These worlds tend to require an eventual calming of bombardment, without which life might be snuffed out before it has a chance to grow. Some worlds, however, flourish within the chaos, settling into a tenuous rhythm and dancing amongst the cavalcade of shooting stars. Such worlds are emboldened by their near misses, but are also empowered by their interactions. Newly fallen starstuff, a raw and chaotic but foundational material, can carry enough energy to wipe out entire civilizations, snuff out all god-fearing peoples — or it can herald a rejuvenation, bringing power to all who might seek it.
 
-The world of [Mote](ch-1-welcome-to-mote/mote.md) is one such shining beacon, the beneficiary of the magical essence of a cataclysmic impact thousands of years ago upon a remote continent. People from far across the seas came to this promised land which they called [Esterfell](ch-1-welcome-to-mote/esterfell/esterfell.md), slowly building new civilizations in a landscape untouched by awakened creatures and imbued with strange stellar energies. Even now, the children of Esterfell struggle to push against a powerful wilderness, eking out a relatively meager existence while building their empires in safer territories.
+The world of [Mote](ch-1-welcome-to-mote/cosmology/mote.md) is one such shining beacon, the beneficiary of the magical essence of a cataclysmic impact thousands of years ago upon a remote continent. People from far across the seas came to this promised land which they called [Esterfell](ch-1-welcome-to-mote/esterfell/esterfell.md), slowly building new civilizations in a landscape untouched by awakened creatures and imbued with strange stellar energies. Even now, the children of Esterfell struggle to push against a powerful wilderness, eking out a relatively meager existence while building their empires in safer territories.
 
 One nation, the [Esterfell Accord](ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md), controls the central [sea](ch-1-welcome-to-mote/esterfell/lenya/esterfell-sea/esterfell-sea.md) from which springs an energy that furthers their continuing development and growth. Another, [Subros](ch-2-people-of-mote/societies/subros.md), grows wary and covetous of the Accord's power. While these two countries clash, smaller groups on the fringe attempt to maintain their territories and independence. The [Verdancy](ch-2-people-of-mote/societies/verdancy/verdancy.md) — a vast stretch of untamed wildlands surrounding and bisecting the nations — looms as a potential conquest, but defies such efforts as a seemingly insurmountable challenge.
 
@@ -12,13 +12,14 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Chapter 1: Welcome to Mote](ch-1-welcome-to-mote)
 
-- [Timekeeping](ch-1-welcome-to-mote/timekeeping.md)
-- [Mote Cosmology](ch-1-welcome-to-mote/cosmology)
+- [Cosmology](ch-1-welcome-to-mote/cosmology)
+  - [Mote](ch-1-welcome-to-mote/cosmology/mote.md)
   - [Moons](ch-1-welcome-to-mote/cosmology/moons/moons-of-mote.md)
     - [Kiva](ch-1-welcome-to-mote/cosmology/moons/kiva.md)
     - [Bathýs-Pela](ch-1-welcome-to-mote/cosmology/moons/bathys-pela.md)
     - [Dreg](ch-1-welcome-to-mote/cosmology/moons/dreg.md)
   - [Fellspace](ch-1-welcome-to-mote/cosmology/fellspace.md)
+- [Timekeeping](ch-1-welcome-to-mote/timekeeping.md)
 - [Esterfell](ch-1-welcome-to-mote/esterfell/esterfell.md)
   - [Ashen Archipelago](ch-1-welcome-to-mote/esterfell/ashen-archipelago.md)
   - [Barria](ch-1-welcome-to-mote/esterfell/barria.md)

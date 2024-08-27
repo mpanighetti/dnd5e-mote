@@ -4,7 +4,7 @@
 
 **Sparks** are constructed beings that have been imbued with sentience through a magical infusion of [starstuff](../../ch-5-mote-treasures/starstuff.md) dust. They have a broad variety of physical builds and appearances, as they were originally purpose-built by Esterfolk tinkerers as laborers.
 
-A spark is distinguished from other constructed beings by the gift of sapience granted to them by starstuff, a technique that has thus far only been utilized in a limited capacity due to the rarity of starstuff on [Mote](../../ch-1-welcome-to-mote/mote.md) and the poorly understood implications of granting intelligence to artificial beings.
+A spark is distinguished from other constructed beings by the gift of sapience granted to them by starstuff, a technique that has thus far only been utilized in a limited capacity due to the rarity of starstuff on [Mote](../../ch-1-welcome-to-mote/cosmology/mote.md) and the poorly understood implications of granting intelligence to artificial beings.
 
 ## Distribution
 
