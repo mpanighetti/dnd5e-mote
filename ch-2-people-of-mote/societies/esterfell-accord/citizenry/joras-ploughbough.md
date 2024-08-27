@@ -21,4 +21,4 @@ Joras' surname is pronounced "ploff-boff".
 
 Joras has written the following songs:
 
-- [Remi O](../../../ch-3-stories-of-mote/songs-of-esterfell/remi-o.md)
+- [Remi O](../../../../ch-3-stories-of-mote/songs-of-esterfell/remi-o.md)
