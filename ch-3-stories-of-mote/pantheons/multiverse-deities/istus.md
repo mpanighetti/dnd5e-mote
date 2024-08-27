@@ -21,6 +21,6 @@
 
 #### Boons
 
-##### [Blessing of Foresight](../../supernatural-gifts/blessing-of-foresight.md)
+##### [Blessing of Foresight](../../ch-4-character-options/supernatural-gifts/blessing-of-foresight.md)
 
 To a select few, Istus grants a portion of her power, allowing them the ability to briefly glimpse future events. The most recent direct recipient of this ability was [Adelia](../../organizations/order-of-istus/members/adelia.md). Most seers who receive this gift are members of the Order of Istus, but during certain stellar confluences, a _wand of secrets_ can be used as part of a special ceremony to transfer this ability between individuals (as was done to grant this gift to [Mírial Windstar](../../organizations/the-commune/members/mirial-windstar.md) in Adelia's place). Otherwise, the seer retains this gift until death.
