@@ -1,6 +1,6 @@
 # Timekeeping
 
-**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../ch-2-people-of-mote/societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](../ch-1-welcome-to-mote/mote.md), such as the movement of its [natural satellites](../ch-1-welcome-to-mote/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
+**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../ch-2-people-of-mote/societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](mote.md), such as the movement of its [natural satellites](cosmology/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
 
 ## Units of Time
 
@@ -30,9 +30,9 @@ A lunar day slows the orbital speed of all involved moons for the entirety of th
 
 A month is the time period of a full orbit of a moon around Mote. This period varies depending on which moon is used as a reference point:
 
-- [Kivan](../ch-1-welcome-to-mote/moons/kiva.md) month: 28 days
-- [Bathýs-Pelan](../ch-1-welcome-to-mote/moons/bathys-pela.md) month: 8 days
-- [Dreg](../ch-1-welcome-to-mote/moons/dreg.md): 42 days
+- [Kivan](cosmology/moons/kiva.md) month: 28 days
+- [Bathýs-Pelan](cosmology/moons/bathys-pela.md) month: 8 days
+- [Dreg](cosmology/moons/dreg.md): 42 days
 
 Note that these are average durations, as the length of a month will vary depending on whether a lunar day has occurred within the orbital period.
 
@@ -44,7 +44,7 @@ A year is the time period of a full orbit of Mote around its sun, marking a full
 
 ## Calendar Systems
 
-The most commonly used calendar systems in [Esterfell](../ch-1-welcome-to-mote/esterfell/esterfell.md) are the **Kivan Standard**, the **Darkharvest**, and the **Tides of Fathoms**. All three calendars divide the year into months marked roughly by the movement of a moon of Mote.
+The most commonly used calendar systems in [Esterfell](esterfell/esterfell.md) are the **Kivan Standard**, the **Darkharvest**, and the **Tides of Fathoms**. All three calendars divide the year into months marked roughly by the movement of a moon of Mote.
 
 A list of significant approximate dates are included for each calendar, including events with equivalents on all calendars, such as the advent of the seasons.
 

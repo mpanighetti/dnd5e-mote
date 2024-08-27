@@ -12,11 +12,13 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Chapter 1: Welcome to Mote](ch-1-welcome-to-mote)
 
-- [Fellspace](ch-1-welcome-to-mote/fellspace.md)
-- [Moons](ch-1-welcome-to-mote/moons/moons-of-mote.md)
-  - [Kiva](ch-1-welcome-to-mote/moons/kiva.md)
-  - [Bathýs-Pela](ch-1-welcome-to-mote/moons/bathys-pela.md)
-  - [Dreg](ch-1-welcome-to-mote/moons/dreg.md)
+- [Timekeeping](ch-1-welcome-to-mote/timekeeping.md)
+- [Mote Cosmology](ch-1-welcome-to-mote/cosmology)
+  - [Moons](ch-1-welcome-to-mote/cosmology/moons/moons-of-mote.md)
+    - [Kiva](ch-1-welcome-to-mote/cosmology/moons/kiva.md)
+    - [Bathýs-Pela](ch-1-welcome-to-mote/cosmology/moons/bathys-pela.md)
+    - [Dreg](ch-1-welcome-to-mote/cosmology/moons/dreg.md)
+  - [Fellspace](ch-1-welcome-to-mote/cosmology/fellspace.md)
 - [Esterfell](ch-1-welcome-to-mote/esterfell/esterfell.md)
   - [Ashen Archipelago](ch-1-welcome-to-mote/esterfell/ashen-archipelago.md)
   - [Barria](ch-1-welcome-to-mote/esterfell/barria.md)
@@ -56,7 +58,6 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
   - [Borrowed Pantheon](ch-3-stories-of-mote/pantheons/mote-pantheons.md#borrowed-pantheon)
     - [Istus](ch-3-stories-of-mote/pantheons/multiverse-deities/istus.md)
 - [Songs of Esterfell](ch-3-stories-of-mote/songs-of-esterfell)
-- [Timekeeping](ch-3-stories-of-mote/timekeeping.md)
 - [Waypoints](ch-3-stories-of-mote/waypoints.md)
 
 ### [Chapter 4: Character Options](ch-4-character-options)

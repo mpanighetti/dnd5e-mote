@@ -1,14 +1,14 @@
 # Kiva
 
-**Kiva** is the largest [moon](moons-of-mote.md) of [Mote](../mote.md).
+**Kiva** is the largest [moon of Mote](moons-of-mote.md).
 
 ## Information
 
-- Orbital period: 28 days (plus [lunar days](../../ch-3-stories-of-mote/timekeeping.md#lunar-day))
+- Orbital period: 28 days (plus [lunar days](../../../ch-3-stories-of-mote/timekeeping.md#lunar-day))
 
 ## Description
 
-Kiva's mass acts as a beacon for incoming [starstuff](../../ch-5-mote-treasures/starstuff.md), drawing the material to its surface before much of it can reach Mote. The moon glows faintly but constantly with starstuff energy, causing it to be visible most nights and preventing it from having visible moon phases, although it disappears from view when the smaller [Dreg](dreg.md) eclipses it and negates its glow with antimagic.
+Kiva's mass acts as a beacon for incoming [starstuff](../../../ch-5-mote-treasures/starstuff.md), drawing the material to its surface before much of it can reach [Mote](../../mote.md). The moon glows faintly but constantly with starstuff energy, causing it to be visible most nights and preventing it from having visible moon phases, although it disappears from view when the smaller [Dreg](dreg.md) eclipses it and negates its glow with antimagic.
 
 ## History
 
