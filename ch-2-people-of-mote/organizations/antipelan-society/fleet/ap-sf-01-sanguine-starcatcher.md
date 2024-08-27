@@ -1,6 +1,6 @@
 # Sanguine Starcatcher
 
-The **Sanguine Starcatcher** (callsign AP-SF-01) is the first [starfire ship](../../../ch-5-mote-treasures/vehicles/starstuff-ships/starfire-ship.md) built and launched by the [Antipelan Society](../antipelan-society) to prove the efficacy of using [starstuff](../../../ch-5-mote-treasures/starstuff.md) as a fuel source for [spelljamming ships](../../../ch-5-mote-treasures/vehicles/starstuff-ships/starstuff-ships.md).
+The **Sanguine Starcatcher** (callsign AP-SF-01) is the first [starfire ship](../../../ch-6-mote-treasures/vehicles/starstuff-ships/starfire-ship.md) built and launched by the [Antipelan Society](../antipelan-society) to prove the efficacy of using [starstuff](../../../ch-6-mote-treasures/starstuff.md) as a fuel source for [spelljamming ships](../../../ch-6-mote-treasures/vehicles/starstuff-ships/starstuff-ships.md).
 
 ## Information
 

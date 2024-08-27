@@ -31,7 +31,7 @@ _**Friend of the Sea.**_ You can communicate simple ideas to any Beast that has 
 
 _**Hold Breath.**_ You can hold your breath for 30 minutes.
 
-_**Selkie Skin.**_ You can use your action to don your [selkie skin](../../ch-5-mote-treasures/magic-items/selkie-skin.md) and polymorph into your seal form, or doff it to polymorph into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
+_**Selkie Skin.**_ You can use your action to don your [selkie skin](../../ch-6-mote-treasures/magic-items/selkie-skin.md) and polymorph into your seal form, or doff it to polymorph into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
 
 - You have advantage on Wisdom (Perception) checks that rely on smell.
 - You are unable to speak, and you cannot perform actions that require hands.

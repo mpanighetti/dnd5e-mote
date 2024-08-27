@@ -49,7 +49,7 @@ _**Glory.**_ Gina's Armor Class includes her Charisma modifier.
 
 _**Hold Breath.**_ Gina can hold their breath for 1 hour.
 
-_**Special Equipment.**_ Gina wields a [chromatic pistol](../../../ch-5-mote-treasures/magic-items/chromatic-pistol.md).
+_**Special Equipment.**_ Gina wields a [chromatic pistol](../../../ch-6-mote-treasures/magic-items/chromatic-pistol.md).
 
 _**Spellcasting (Psionics).**_ Gina can cast the following spells, requiring no spell components and using Charisma as the spellcasting ability (Spell Save DC 15):
 

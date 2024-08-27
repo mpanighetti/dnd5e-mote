@@ -11,7 +11,7 @@
 
 ## Distribution
 
-Ceteans originate from distant regions of Fellspace, where they swam through [starstuff](../../ch-5-mote-treasures/starstuff.md) nebulas and thrived off of the material's magical nourishment. These free-flying pods were drawn to the starstuff regularly bombarding Mote, and eventually took up permanent residence in the world's bountiful oceans. The gift of Echospeak possessed by all ceteans meant that even when these groups forever left the realm of Fellspace, they continued to communicate with their stellar brethren and share knowledge with the wider cetean community.
+Ceteans originate from distant regions of Fellspace, where they swam through [starstuff](../../ch-6-mote-treasures/starstuff.md) nebulas and thrived off of the material's magical nourishment. These free-flying pods were drawn to the starstuff regularly bombarding Mote, and eventually took up permanent residence in the world's bountiful oceans. The gift of Echospeak possessed by all ceteans meant that even when these groups forever left the realm of Fellspace, they continued to communicate with their stellar brethren and share knowledge with the wider cetean community.
 
 After a massive starstuff asteroid impacted with Esterfell, many cetean pods came to the new land, eventually becoming founding members of the nation of [Xiahulia](../../../ch-2-people-of-mote/societies/xiahulia.md).
 

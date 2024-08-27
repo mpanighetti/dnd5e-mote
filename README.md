@@ -1,6 +1,6 @@
 # Mote
 
-Most worlds are built from [starstuff](ch-5-mote-treasures/starstuff.md) — loose particles older than time coalescing through either happenstance or design — eventually supporting life capable of asking questions about its own provenance. These worlds tend to require an eventual calming of bombardment, without which life might be snuffed out before it has a chance to grow. Some worlds, however, flourish within the chaos, settling into a tenuous rhythm and dancing amongst the cavalcade of shooting stars. Such worlds are emboldened by their near misses, but are also empowered by their interactions. Newly fallen starstuff, a raw and chaotic but foundational material, can carry enough energy to wipe out entire civilizations, snuff out all god-fearing peoples — or it can herald a rejuvenation, bringing power to all who might seek it.
+Most worlds are built from [starstuff](ch-6-mote-treasures/starstuff.md) — loose particles older than time coalescing through either happenstance or design — eventually supporting life capable of asking questions about its own provenance. These worlds tend to require an eventual calming of bombardment, without which life might be snuffed out before it has a chance to grow. Some worlds, however, flourish within the chaos, settling into a tenuous rhythm and dancing amongst the cavalcade of shooting stars. Such worlds are emboldened by their near misses, but are also empowered by their interactions. Newly fallen starstuff, a raw and chaotic but foundational material, can carry enough energy to wipe out entire civilizations, snuff out all god-fearing peoples — or it can herald a rejuvenation, bringing power to all who might seek it.
 
 The world of [Mote](ch-1-welcome-to-mote/cosmology/mote.md) is one such shining beacon, the beneficiary of the magical essence of a cataclysmic impact thousands of years ago upon a remote continent. People from far across the seas came to this promised land which they called [Esterfell](ch-1-welcome-to-mote/esterfell/esterfell.md), slowly building new civilizations in a landscape untouched by awakened creatures and imbued with strange stellar energies. Even now, the children of Esterfell struggle to push against a powerful wilderness, eking out a relatively meager existence while building their empires in safer territories.
 
@@ -75,17 +75,17 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
   - [Spark](ch-4-character-options/species/spark.md)
 - [Supernatural Gifts](ch-4-character-options/supernatural-gifts)
 
-### [Chapter 6: Mote Treasures](ch-5-mote-treasures)
+### [Chapter 6: Mote Treasures](ch-6-mote-treasures)
 
-- [Dreg](ch-5-mote-treasures/dreg-ore.md)
-- [Murex](ch-5-mote-treasures/murex.md)
-- [Starstuff](ch-5-mote-treasures/starstuff.md)
-- [Magic Items](ch-5-mote-treasures/magic-items)
-  - [Chromatic Pistol](ch-5-mote-treasures/magic-items/chromatic-pistol.md)
-  - [Selkie Skin](ch-5-mote-treasures/magic-items/selkie-skin.md)
-  - [Staff of Shorsta](ch-5-mote-treasures/magic-items/staff-of-shorsta.md)
-- [Vehicles](ch-5-mote-treasures/vehicles)
-  - [Starstuff Ships](ch-5-mote-treasures/vehicles/starstuff-ships/starstuff-ships.md)
+- [Dreg](ch-6-mote-treasures/dreg-ore.md)
+- [Murex](ch-6-mote-treasures/murex.md)
+- [Starstuff](ch-6-mote-treasures/starstuff.md)
+- [Magic Items](ch-6-mote-treasures/magic-items)
+  - [Chromatic Pistol](ch-6-mote-treasures/magic-items/chromatic-pistol.md)
+  - [Selkie Skin](ch-6-mote-treasures/magic-items/selkie-skin.md)
+  - [Staff of Shorsta](ch-6-mote-treasures/magic-items/staff-of-shorsta.md)
+- [Vehicles](ch-6-mote-treasures/vehicles)
+  - [Starstuff Ships](ch-6-mote-treasures/vehicles/starstuff-ships/starstuff-ships.md)
 
 ### [Chapter 7: Mote Bestiary](ch-7-mote-bestiary)
 
