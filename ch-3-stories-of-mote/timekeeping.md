@@ -1,6 +1,6 @@
 # Timekeeping
 
-**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](../ch-1-welcome-to-mote/mote.md), such as the movement of its [natural satellites](../ch-1-welcome-to-mote/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
+**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../ch-2-people-of-mote/societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](../ch-1-welcome-to-mote/mote.md), such as the movement of its [natural satellites](../ch-1-welcome-to-mote/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
 
 ## Units of Time
 
@@ -52,7 +52,7 @@ A list of significant approximate dates are included for each calendar, includin
 
 - **Type:** solar
 - **Introduction:** 1 KS
-- **Usage:** [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md), [Subros](../societies/subros.md), [Verdancy](../societies/verdancy/verdancy.md)
+- **Usage:** [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md), [Subros](../ch-2-people-of-mote/societies/subros.md), [Verdancy](../ch-2-people-of-mote/societies/verdancy/verdancy.md)
 
 A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which can cause the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit, making it difficult to account for the disruption lunar days can cause when determining the day of a week or the length of a month.
 
@@ -96,7 +96,7 @@ The nation of Subros, having no particular allegiance to the Accord or deference
 
 - **Type:** lunar (Kiva)
 - **Introduction:** ancient Mote
-- **Usage:** [Xiahulia](../societies/xiahulia.md)
+- **Usage:** [Xiahulia](../ch-2-people-of-mote/societies/xiahulia.md)
 
 The Tides of Fathoms divide the year into twelve months based directly and exclusively on Kiva's orbital period. The number of days in a Tidal month or Tidal year thus vary depending on whether a lunar day occurs during that period of time, as the Xiahuli include these days in a given month to keep their measures consistent with Kiva's varying orbital period and the resulting tidal forces.
 
@@ -129,7 +129,7 @@ The Xiahuli ascribe the months to specific oceanic depths, seeing the movement o
 
 - **Type:** lunisolar (Dreg)
 - **Introduction:** ancient Mote
-- **Usage:** agrarian groups within the [Esterfell Accord](../societies/esterfell-accord/esterfell-accord.md), [Subros](../societies/subros.md), and [Verdancy](../societies/verdancy/verdancy.md)
+- **Usage:** agrarian groups within the [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md), [Subros](../ch-2-people-of-mote/societies/subros.md), and [Verdancy](../ch-2-people-of-mote/societies/verdancy/verdancy.md)
 
 The Darkharvest calendar is unique among the systems employed by Esterfell societies, as it uses Dreg's longer orbital period as a reference point to mark the months rather than Kiva. A Dreg month (often called a dreg for short) is 42 days long when not influenced by lunar days, meaning there are 8 dregs in a Darkharvest year.
 

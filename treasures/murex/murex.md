@@ -26,7 +26,7 @@ A vial of pure murex can be processed with alchemist's supplies into 5 vials of 
 
 ### Trade and market
 
-Murexian-dyed materials are available on the open market but generally are only sold by merchants in northern [Lenya](../../ch-1-welcome-to-mote/esterfell/lenya/lenya.md) due to proximity to the continent's only known source of murex. [Cape Bec](../../societies/esterfell-accord/cape-bec/cape-bec.md) tightly controls access to murexian dyes, and pure murex is kept out of the supply chain entirely due to its inability to be stored.
+Murexian-dyed materials are available on the open market but generally are only sold by merchants in northern [Lenya](../../ch-1-welcome-to-mote/esterfell/lenya/lenya.md) due to proximity to the continent's only known source of murex. [Cape Bec](../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/cape-bec.md) tightly controls access to murexian dyes, and pure murex is kept out of the supply chain entirely due to its inability to be stored.
 
 ### Value
 

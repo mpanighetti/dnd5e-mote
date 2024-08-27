@@ -1,6 +1,6 @@
 # Baldwin Marshbluff
 
-**Baldwin Marshbluff** is the head of the [Leving](../../../societies/esterfell-accord/leving/leving.md) chapter of [Reynard's Den](../../reynards-den.md), who simultaneously operates the [Gilded Purse](../gilded-purse.md) gang as a side operation kept secret from other Den leadership.
+**Baldwin Marshbluff** is the head of the [Leving](../../../ch-2-people-of-mote/societies/esterfell-accord/leving/leving.md) chapter of [Reynard's Den](../../reynards-den.md), who simultaneously operates the [Gilded Purse](../gilded-purse.md) gang as a side operation kept secret from other Den leadership.
 
 ## Information
 

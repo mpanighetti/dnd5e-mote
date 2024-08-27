@@ -1,6 +1,6 @@
 # Balut's Academerie for the Magistically Inclinated
 
-**Balut's Academerie for the Magistically Inclinated** is a mage college located in [Bridgeport](../../societies/esterfell-accord/bridgeport/bridgeport.md).
+**Balut's Academerie for the Magistically Inclinated** is a mage college located in [Bridgeport](../../ch-2-people-of-mote/societies/esterfell-accord/bridgeport/bridgeport.md).
 
 ## Members
 

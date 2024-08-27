@@ -4,7 +4,7 @@
 >
 > — Istus, [The Adventure Zone: Balance - The Eleventh Hour: Chapter Seven](https://maximumfun.org/episodes/adventure-zone/ep-47-eleventh-hour-chapter-seven/)
 
-**Istus** is a deity of divination and fate originating from the world of Oerth. Though she is generally seen as a less-trafficked deity on [Mote](../../ch-1-welcome-to-mote/mote.md), she has some followers within the [Esterfell Accord](../../societies/esterfell-accord/esterfell-accord.md) known collectively as the [Order of Istus](../../organizations/order-of-istus/order-of-istus.md).
+**Istus** is a deity of divination and fate originating from the world of Oerth. Though she is generally seen as a less-trafficked deity on [Mote](../../ch-1-welcome-to-mote/mote.md), she has some followers within the [Esterfell Accord](../../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md) known collectively as the [Order of Istus](../../organizations/order-of-istus/order-of-istus.md).
 
 #### Information
 
