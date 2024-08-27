@@ -8,4 +8,4 @@ The forest spans from the base of [Taltol Peak](attalya-mountains/taltol-peak/ta
 
 ## Etymology
 
-Middlestag is named after a [mythical buck](../../../pantheon/esterfell-deities/phygius.md) with three antlers that supposedly watches over the forest, acting as its protector against the encroachment of civilization.
+Middlestag is named after a [mythical buck](../../../ch-3-stories-of-mote/pantheons/esterfell-deities/phygius.md) with three antlers that supposedly watches over the forest, acting as its protector against the encroachment of civilization.

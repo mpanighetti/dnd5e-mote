@@ -28,7 +28,7 @@
 >
 > Fall down and die?
 >
-> May the [Stag](../../pantheon/esterfell-deities/phygius.md) will that Remi be found
+> May the [Stag](../../ch-3-stories-of-mote/pantheons/esterfell-deities/phygius.md) will that Remi be found
 >
 > ~
 >

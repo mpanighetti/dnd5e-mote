@@ -26,13 +26,6 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### Chapter 2: People of Mote
 
-- [Pantheons](pantheon/mote-pantheons.md)
-  - [Ancient Mote Pantheon](pantheon/mote-pantheons.md#ancient-mote-pantheon)
-  - [Esterfell Pantheon](pantheon/mote-pantheons.md#esterfell-pantheon)
-    - [Phygius](pantheon/esterfell-deities/phygius.md)
-    - [Ramil](pantheon/esterfell-deities/ramil.md)
-  - [Borrowed Pantheon](pantheon/mote-pantheons.md#borrowed-pantheon)
-    - [Istus](pantheon/multiverse-deities/istus.md)
 - [Societies](societies)
   - [Esterfell Accord](societies/esterfell-accord/esterfell-accord.md)
   - [Mawlin](societies/mawlin.md)
@@ -55,6 +48,13 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### Chapter 3: Stories of Mote
 
+- [Pantheons](ch-3-stories-of-mote/pantheons/mote-pantheons.md)
+- [Ancient Mote Pantheon](ch-3-stories-of-mote/pantheons/mote-pantheons.md#ancient-mote-pantheon)
+- [Esterfell Pantheon](ch-3-stories-of-mote/pantheons/mote-pantheons.md#esterfell-pantheon)
+  - [Phygius](ch-3-stories-of-mote/pantheons/esterfell-deities/phygius.md)
+  - [Ramil](ch-3-stories-of-mote/pantheons/esterfell-deities/ramil.md)
+- [Borrowed Pantheon](ch-3-stories-of-mote/pantheons/mote-pantheons.md#borrowed-pantheon)
+  - [Istus](ch-3-stories-of-mote/pantheons/multiverse-deities/istus.md)
 - [Songs of Esterfell](lore/songs-of-esterfell)
 - [Timekeeping](lore/timekeeping.md)
 - [Waypoints](lore/waypoints.md)
