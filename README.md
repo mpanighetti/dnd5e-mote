@@ -57,12 +57,11 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Chapter 4: Esterfell Gazetteer](ch-4-esterfell-gazetteer)
 
-- [Esterfell](ch-4-esterfell-gazetteer/esterfell.md)
-  - [Ashen Archipelago](ch-4-esterfell-gazetteer/ashen-archipelago.md)
-  - [Barria](ch-4-esterfell-gazetteer/barria.md)
-  - [Lenya](ch-4-esterfell-gazetteer/lenya/lenya.md)
-  - [Malagwa](ch-4-esterfell-gazetteer/malagwa.md)
-  - [Yggru](ch-4-esterfell-gazetteer/yggru/yggru.md)
+- [Ashen Archipelago](ch-4-esterfell-gazetteer/ashen-archipelago.md)
+- [Barria](ch-4-esterfell-gazetteer/barria.md)
+- [Lenya](ch-4-esterfell-gazetteer/lenya/lenya.md)
+- [Malagwa](ch-4-esterfell-gazetteer/malagwa.md)
+- [Yggru](ch-4-esterfell-gazetteer/yggru/yggru.md)
 - Other Lands of Mote
 
 ### [Chapter 5: Character Options](ch-5-character-options)
