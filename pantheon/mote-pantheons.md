@@ -26,7 +26,7 @@ The people of [Esterfell](../mote/esterfell/esterfell.md) are descended from imm
 
 ## Esterfell Pantheon
 
-As Esterfell formed a melting pot of new alliances separated from their historical societial boundaries, new gods also came into being, either as composites of old deities or from entities rising into power through collective worship.
+As Esterfell formed a melting pot of new alliances separated from their historical societal boundaries, new gods also came into being, either as composites of old deities or from entities rising into power through collective worship.
 
 The **Deities of Esterfell** table is a non-exhaustive list of beings with power and influence over Esterfell, representing some specific groups of entities that have been granted full or partial deification by various groups.
 
