@@ -15,4 +15,4 @@
 
 ## Description
 
-Gilfiel has copper skin contrasted by long blonde hair, which her people attribute to a blessing from [Silvanus](../../../pantheon/mote-pantheon.md). She often wears a thick green woolen robe and brown cloak.
+Gilfiel has copper skin contrasted by long blonde hair, which her people attribute to a blessing from [Silvanus](../../../pantheon/mote-pantheons.md#borrowed-pantheon). She often wears a thick green woolen robe and brown cloak.

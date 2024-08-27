@@ -78,12 +78,13 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Chromatic Pistol](technology/chromatic-pistol.md)
 - [Starstuff Ships](technology/starstuff-ships/starstuff-ships.md)
 
-### [Pantheon](pantheon/mote-pantheon.md)
+### [Pantheons](pantheon/mote-pantheons.md)
 
-- Deities of Esterfell
+- [Ancient Mote Pantheon](pantheon/mote-pantheons.md#ancient-mote-pantheon)
+- [Esterfell Pantheon](pantheon/mote-pantheons.md#esterfell-pantheon)
   - [Phygius](pantheon/esterfell-deities/phygius.md)
   - [Ramil](pantheon/esterfell-deities/ramil.md)
-- Deities of the Multiverse
+- [Borrowed Pantheon](pantheon/mote-pantheons.md#borrowed-pantheon)
   - [Istus](pantheon/multiverse-deities/istus.md)
 
 ### [Supernatural Gifts](supernatural-gifts)

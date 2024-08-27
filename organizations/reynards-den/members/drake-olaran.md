@@ -22,7 +22,7 @@
 
 ### Childhood
 
-Drake was born in [Tillë](../../../societies/esterfell-accord/tille.md) to Líria Kente and Rufus Olaran. He was raised by Rufus, as his mother's family disapproved of the relationship. Rufus brought up Drake under the teachings of [Deneir](../../../pantheon/mote-pantheon.md).
+Drake was born in [Tillë](../../../societies/esterfell-accord/tille.md) to Líria Kente and Rufus Olaran. He was raised by Rufus, as his mother's family disapproved of the relationship. Rufus brought up Drake under the teachings of [Deneir](../../../pantheon/mote-pantheons.md#borrowed-pantheon).
 
 ### Adulthood
 
