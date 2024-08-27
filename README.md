@@ -84,10 +84,10 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### Chapter 6: Mote Bestiary
 
-- [Dire Clam](bestiary/dire-clam.md)
-- [Malagwan Seal](bestiary/malagwan-seal.md)
-- [Murexian Creature](bestiary/murexian-creature.md)
-- [Selkie Warrior](bestiary/selkie-warrior.md)
+- [Dire Clam](ch-5-mote-bestiary/dire-clam.md)
+- [Malagwan Seal](ch-5-mote-bestiary/malagwan-seal.md)
+- [Murexian Creature](ch-5-mote-bestiary/murexian-creature.md)
+- [Selkie Warrior](ch-5-mote-bestiary/selkie-warrior.md)
 
 ## Credits
 
