@@ -1,6 +1,6 @@
 # Dreg
 
-**Dreg** is an exotic material found primarily on [the moon of the same name](../astronomy/moons/dreg.md) [orbiting](../astronomy/moons/moons-of-mote.md) [Mote](../mote/mote.md). It naturally emits a field of antimagic powerful enough to neutralize the power of [starstuff](../starstuff.md).
+**Dreg** is an exotic material found primarily on [the moon of the same name](../mote/moons/dreg.md) [orbiting](../mote/moons/moons-of-mote.md) [Mote](../mote/mote.md). It naturally emits a field of antimagic powerful enough to neutralize the power of [starstuff](../starstuff.md).
 
 ## Properties
 

@@ -1,6 +1,6 @@
 # Timekeeping
 
-**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](../mote/mote.md), such as the movement of its [natural satellites](../astronomy/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
+**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](../mote/mote.md), such as the movement of its [natural satellites](../mote/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
 
 ## Units of Time
 
@@ -30,9 +30,9 @@ A lunar day slows the orbital speed of all involved moons for the entirety of th
 
 A month is the time period of a full orbit of a moon around Mote. This period varies depending on which moon is used as a reference point:
 
-- [Kivan](../astronomy/moons/kiva.md) month: 28 days
-- [Bathýs-Pelan](../astronomy/moons/bathys-pela.md) month: 8 days
-- [Dreg](../astronomy/moons/dreg.md): 42 days
+- [Kivan](../mote/moons/kiva.md) month: 28 days
+- [Bathýs-Pelan](../mote/moons/bathys-pela.md) month: 8 days
+- [Dreg](../mote/moons/dreg.md): 42 days
 
 Note that these are average durations, as the length of a month will vary depending on whether a lunar day has occurred within the orbital period.
 

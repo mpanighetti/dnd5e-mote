@@ -2,7 +2,7 @@
 
 ## Description
 
-**Ceteans** are a whalefolk species who explore [Mote](../../mote/mote.md) and [Fellspace](../../astronomy/fellspace.md) in the pursuit of knowledge and starstuff.
+**Ceteans** are a whalefolk species who explore [Mote](../../mote/mote.md) and [Fellspace](../../mote/fellspace.md) in the pursuit of knowledge and starstuff.
 
 <figure>
   <img src="ooeeoo-nikki-lacey.jpg" alt="Drawing of a whale-like humanoid figure with a blue body and a white underside, a long sleek flattened tail, and saurian three-toed feet. The figure is wielding a golden trident with curved outer tines, and is wearing a deep blue and purple cloak shimmering with images of stars, as well as a belt with a sword in their scabbard." />

@@ -1,6 +1,6 @@
 # Kiva
 
-**Kiva** is the largest [moon](moons-of-mote.md) of [Mote](../../mote/mote.md).
+**Kiva** is the largest [moon](moons-of-mote.md) of [Mote](../mote.md).
 
 ## Information
 

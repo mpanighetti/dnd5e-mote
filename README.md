@@ -12,20 +12,17 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Mote](mote/mote.md)
 
+- [Fellspace](mote/fellspace.md)
+- [Moons](mote/moons/moons-of-mote.md)
+  - [Kiva](mote/moons/kiva.md)
+  - [Bathýs-Pela](mote/moons/bathys-pela.md)
+  - [Dreg](mote/moons/dreg.md)
 - [Esterfell](mote/esterfell/esterfell.md)
   - [Ashen Archipelago](mote/esterfell/ashen-archipelago.md)
   - [Barria](mote/esterfell/barria.md)
   - [Lenya](mote/esterfell/lenya/lenya.md)
   - [Malagwa](mote/esterfell/malagwa.md)
   - [Yggru](mote/esterfell/yggru/yggru.md)
-
-### [Astronomy](astronomy)
-
-- [Fellspace](astronomy/fellspace.md)
-- [Moons](astronomy/moons/moons-of-mote.md)
-  - [Kiva](astronomy/moons/kiva.md)
-  - [Bathýs-Pela](astronomy/moons/bathys-pela.md)
-  - [Dreg](astronomy/moons/dreg.md)
 
 ### [Societies](societies)
 

@@ -1,6 +1,6 @@
 # Bathýs-Pela
 
-**Bathýs** and **Pela** form a binary [moon](moons-of-mote.md) system, sharing a double-helix orbit around [Mote](../../mote/mote.md). The two moons orbit between [Kiva](kiva.md) and [Dreg](dreg.md).
+**Bathýs** and **Pela** form a binary [moon](moons-of-mote.md) system, sharing a double-helix orbit around [Mote](../mote.md). The two moons orbit between [Kiva](kiva.md) and [Dreg](dreg.md).
 
 ## Information
 
@@ -16,4 +16,4 @@ The two moons are less spherical than Mote's other satellites, as the centrifuga
 
 ### Etymology
 
-"Bathýs" and "Pela" both source their names from a pre-[Esterfell](../../mote/esterfell/esterfell.md) human language; the former means "deep", and the latter is from "pélagos" meaning "open sea".
+"Bathýs" and "Pela" both source their names from a pre-[Esterfell](../esterfell/esterfell.md) human language; the former means "deep", and the latter is from "pélagos" meaning "open sea".
