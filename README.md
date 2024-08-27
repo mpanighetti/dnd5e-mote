@@ -78,7 +78,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Chromatic Pistol](technology/chromatic-pistol.md)
 - [Starstuff Ships](technology/starstuff-ships/starstuff-ships.md)
 
-### [Pantheon](pantheon)
+### [Pantheon](pantheon/mote-pantheon.md)
 
 - [Istus](pantheon/istus.md)
 - [Phygius](pantheon/phygius.md)
