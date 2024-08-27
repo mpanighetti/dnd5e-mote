@@ -4,7 +4,7 @@
 
 ## Information
 
-- Orbital period: 28 days (plus [lunar days](../../lore/timekeeping.md#lunar-day))
+- Orbital period: 28 days (plus [lunar days](../../ch-3-stories-of-mote/timekeeping.md#lunar-day))
 
 ## Description
 

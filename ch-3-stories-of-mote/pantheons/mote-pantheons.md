@@ -6,7 +6,7 @@ The term "god" is often used interchangeably on Mote with beings of "lesser" pow
 
 ## Ancient Mote Pantheon
 
-The people of [Esterfell](../ch-1-welcome-to-mote/esterfell/esterfell.md) are descended from immigrants who traveled to the continent from distant now-forgotten lands. These groups had their own collections of deities, and though not all of them are now worshipped to the same degree as in antiquity, they survive in Esterfell cultures through the names of months in the [Kivan Standard calendar](../lore/timekeeping.md#kivan-standard) and some smaller religious observations.
+The people of [Esterfell](../ch-1-welcome-to-mote/esterfell/esterfell.md) are descended from immigrants who traveled to the continent from distant now-forgotten lands. These groups had their own collections of deities, and though not all of them are now worshipped to the same degree as in antiquity, they survive in Esterfell cultures through the names of months in the [Kivan Standard calendar](../ch-3-stories-of-mote/timekeeping.md#kivan-standard) and some smaller religious observations.
 
 ##### Ancient Deities of Mote
 |  Deity | Alignment | Domains | Symbol |

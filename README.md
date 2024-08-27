@@ -55,9 +55,9 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
   - [Ramil](ch-3-stories-of-mote/pantheons/esterfell-deities/ramil.md)
 - [Borrowed Pantheon](ch-3-stories-of-mote/pantheons/mote-pantheons.md#borrowed-pantheon)
   - [Istus](ch-3-stories-of-mote/pantheons/multiverse-deities/istus.md)
-- [Songs of Esterfell](lore/songs-of-esterfell)
-- [Timekeeping](lore/timekeeping.md)
-- [Waypoints](lore/waypoints.md)
+- [Songs of Esterfell](ch-3-stories-of-mote/pantheons/songs-of-esterfell)
+- [Timekeeping](ch-3-stories-of-mote/pantheons/timekeeping.md)
+- [Waypoints](ch-3-stories-of-mote/pantheons/waypoints.md)
 
 ### Chapter 4: Character Options
 

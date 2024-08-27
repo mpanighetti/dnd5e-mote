@@ -4,7 +4,7 @@
 
 ## Information
 
-- Orbital period: 42 days, or 1.5 Kivan months (plus [lunar days](../../lore/timekeeping.md#lunar-day))
+- Orbital period: 42 days, or 1.5 Kivan months (plus [lunar days](../../ch-3-stories-of-mote/timekeeping.md#lunar-day))
 
 ## History
 
