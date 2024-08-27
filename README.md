@@ -80,9 +80,11 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Pantheon](pantheon/mote-pantheon.md)
 
-- [Istus](pantheon/istus.md)
-- [Phygius](pantheon/phygius.md)
-- [Ramil](pantheon/ramil.md)
+- Deities of Esterfell
+  - [Phygius](pantheon/esterfell-deities/phygius.md)
+  - [Ramil](pantheon/esterfell-deities/ramil.md)
+- Deities of the Multiverse
+  - [Istus](pantheon/multiverse-deities/istus.md)
 
 ### [Supernatural Gifts](supernatural-gifts)
 
