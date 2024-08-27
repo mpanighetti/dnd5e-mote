@@ -1,6 +1,6 @@
 # The Commune
 
-**The Commune** is a band of adventurers traveling across [Esterfell](../../ch-1-welcome-to-mote/esterfell/esterfell.md).
+**The Commune** is a band of adventurers traveling across [Esterfell](../../ch-4-esterfell-gazetteer/esterfell.md).
 
 ## Members
 

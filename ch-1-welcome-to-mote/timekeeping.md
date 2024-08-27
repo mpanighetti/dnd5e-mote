@@ -44,7 +44,7 @@ A year is the time period of a full orbit of Mote around its sun, marking a full
 
 ## Calendar Systems
 
-The most commonly used calendar systems in [Esterfell](esterfell/esterfell.md) are the **Kivan Standard**, the **Darkharvest**, and the **Tides of Fathoms**. All three calendars divide the year into months marked roughly by the movement of a moon of Mote.
+The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/esterfell.md) are the **Kivan Standard**, the **Darkharvest**, and the **Tides of Fathoms**. All three calendars divide the year into months marked roughly by the movement of a moon of Mote.
 
 A list of significant approximate dates are included for each calendar, including events with equivalents on all calendars, such as the advent of the seasons.
 

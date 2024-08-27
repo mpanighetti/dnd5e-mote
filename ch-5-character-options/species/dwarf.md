@@ -2,7 +2,7 @@
 
 ## Description
 
-**Dwarves** are short but broad humanoids who immigrated to [Esterfell](../../ch-1-welcome-to-mote/esterfell/esterfell.md) in the first few waves of ships. Various groups of dwarves settled across [Lenya](../../ch-1-welcome-to-mote/esterfell/lenya/lenya.md), [Yggru](../../ch-1-welcome-to-mote/esterfell/yggru/yggru.md), and [Barria](../../ch-1-welcome-to-mote/esterfell/barria.md), distributing themselves based on traditional trades and environmental preferences carried over from their ancestral lands.
+**Dwarves** are short but broad humanoids who immigrated to [Esterfell](../../ch-4-esterfell-gazetteer/esterfell.md) in the first few waves of ships. Various groups of dwarves settled across [Lenya](../../ch-4-esterfell-gazetteer/lenya/lenya.md), [Yggru](../../ch-4-esterfell-gazetteer/yggru/yggru.md), and [Barria](../../ch-4-esterfell-gazetteer/barria.md), distributing themselves based on traditional trades and environmental preferences carried over from their ancestral lands.
 
 Dwarves possess a profound connection to the minerals that constitute [Mote](../../ch-1-welcome-to-mote/cosmology/mote.md). This has led dwarven communities to be some of the first to perfect the process of mining precious stones, refining them, and crafting them into tools and works of art, and they in turn spread this knowledge to other societies across the world. Their dense stocky bodies can be ill-suited for swimming, but their surefootedness makes them comfortable in many earthy terrains such as mountain ranges and canyons.
 
@@ -41,7 +41,7 @@ _**Walk Without Rhythm.**_ While moving through nonmagical difficult terrain, yo
 
 #### Distribution
 
-Being naturally drawn to Esterfell's deep connections to the Underdark, duergar established large settlements in the lava tubes shaped over millennia by [Mount Hora](../../ch-1-welcome-to-mote/esterfell/lenya/mount-hora.md)'s eruptions, eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../../ch-1-welcome-to-mote/esterfell/waters/lorunian-strait.md).
+Being naturally drawn to Esterfell's deep connections to the Underdark, duergar established large settlements in the lava tubes shaped over millennia by [Mount Hora](../../ch-4-esterfell-gazetteer/lenya/mount-hora.md)'s eruptions, eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../../ch-4-esterfell-gazetteer/waters/lorunian-strait.md).
 
 ### Hill dwarf
 
@@ -51,7 +51,7 @@ Being naturally drawn to Esterfell's deep connections to the Underdark, duergar 
 
 #### Distribution
 
-The original hill dwarf settlers of Esterfell were said to step off their sailing ships and never stop walking. This quickly distributed them across the flatter regions of the continent, such that they can be found in most environments at sea level. The largest population of hill dwarves resides within the [Bailen Plains](../../ch-1-welcome-to-mote/esterfell/lenya/bailen-plains.md), but any landlocked settlement in Lenya can reliably be expected to include some members of this ancestry.
+The original hill dwarf settlers of Esterfell were said to step off their sailing ships and never stop walking. This quickly distributed them across the flatter regions of the continent, such that they can be found in most environments at sea level. The largest population of hill dwarves resides within the [Bailen Plains](../../ch-4-esterfell-gazetteer/lenya/bailen-plains.md), but any landlocked settlement in Lenya can reliably be expected to include some members of this ancestry.
 
 ### Mountain dwarf
 
@@ -61,4 +61,4 @@ The original hill dwarf settlers of Esterfell were said to step off their sailin
 
 #### Distribution
 
-Generally able climbers, mountain dwarves can firmly plant themselves on terrain many other folk might find difficult to traverse. As a result, the early immigrants often settled in colder mountainous terrain, including the [Floral Divide](../../ch-1-welcome-to-mote/esterfell/lenya/floral-divide.md) in Lenya and the [Lithbirk Range](../../ch-1-welcome-to-mote/esterfell/yggru/lithbirk-range.md) of Yggru.
+Generally able climbers, mountain dwarves can firmly plant themselves on terrain many other folk might find difficult to traverse. As a result, the early immigrants often settled in colder mountainous terrain, including the [Floral Divide](../../ch-4-esterfell-gazetteer/lenya/floral-divide.md) in Lenya and the [Lithbirk Range](../../ch-4-esterfell-gazetteer/yggru/lithbirk-range.md) of Yggru.

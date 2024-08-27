@@ -1,6 +1,6 @@
 # Murexian Creature
 
-The peaks of the [Ashen Scape](../ch-1-welcome-to-mote/esterfell/lenya/ashen-scape.md) loom large on the horizon, towering over the plains to the west and separating them from the seas. This mountain range was formed from now-dormant volcanoes as the continent drifted across shifting plates deep beneath the ocean. Though these mountains no longer rain down fiery death upon the lands, the soil was infused with vast deposits of a material known as [murex](../ch-6-mote-treasures/murex/murex.md), from which the [Murexian Grove](../ch-1-welcome-to-mote/esterfell/lenya/murexian-grove.md) sources both its name and its purplish hue.
+The peaks of the [Ashen Scape](../ch-4-esterfell-gazetteer/lenya/ashen-scape.md) loom large on the horizon, towering over the plains to the west and separating them from the seas. This mountain range was formed from now-dormant volcanoes as the continent drifted across shifting plates deep beneath the ocean. Though these mountains no longer rain down fiery death upon the lands, the soil was infused with vast deposits of a material known as [murex](../ch-6-mote-treasures/murex/murex.md), from which the [Murexian Grove](../ch-4-esterfell-gazetteer/lenya/murexian-grove.md) sources both its name and its purplish hue.
 
 ### Anatomy of a Murexian Creature
 

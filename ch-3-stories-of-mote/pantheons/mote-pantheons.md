@@ -6,7 +6,7 @@ The term "god" is often used interchangeably on Mote with beings of "lesser" pow
 
 ## Ancient Mote Pantheon
 
-The people of [Esterfell](../ch-1-welcome-to-mote/esterfell/esterfell.md) are descended from immigrants who traveled to the continent from distant now-forgotten lands. These groups had their own collections of deities, and though not all of them are now worshipped to the same degree as in antiquity, they survive in Esterfell cultures through the names of months in the [Kivan Standard calendar](../ch-3-stories-of-mote/timekeeping.md#kivan-standard) and some smaller religious observations.
+The people of [Esterfell](../ch-4-esterfell-gazetteer/esterfell.md) are descended from immigrants who traveled to the continent from distant now-forgotten lands. These groups had their own collections of deities, and though not all of them are now worshipped to the same degree as in antiquity, they survive in Esterfell cultures through the names of months in the [Kivan Standard calendar](../ch-3-stories-of-mote/timekeeping.md#kivan-standard) and some smaller religious observations.
 
 ##### Ancient Deities of Mote
 |  Deity | Alignment | Domains | Symbol |
@@ -33,8 +33,8 @@ The **Deities of Esterfell** table is a non-exhaustive list of beings with power
 ##### Deities of Esterfell
 |  Deity | Classification | Alignment | Domains | Symbol |
 |:-------|:---------------|:---------:|:--------|:-------|
-| [Lilith](esterfell-deities/lilith.md) | archfey/medusa | LG | [Attalya Grove](../ch-1-welcome-to-mote/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent |
-| [Phygius](esterfell-deities/phygius.md) | archfey | CN | [Middlestag Forest](../ch-1-welcome-to-mote/esterfell/lenya/middlestag-forest.md), Nature, Feywild, Cervids | antlers with teardrops |
+| [Lilith](esterfell-deities/lilith.md) | archfey/medusa | LG | [Attalya Grove](../ch-4-esterfell-gazetteer/lenya/attalya-grove.md), Nature, Serpents | a winged serpent |
+| [Phygius](esterfell-deities/phygius.md) | archfey | CN | [Middlestag Forest](../ch-4-esterfell-gazetteer/lenya/middlestag-forest.md), Nature, Feywild, Cervids | antlers with teardrops |
 | Pyr'xhalz | great old one | CE | [The Chosen](../ch-2-people-of-mote/organizations/the-chosen/the-chosen.md), Trickery, War, Mind |  |
 | [Ramil](esterfell-deities/ramil.md) | deva | LG | The Chosen, Light | crescent with radial triangles |
 

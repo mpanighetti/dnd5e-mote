@@ -1,6 +1,6 @@
 # Whifflefizz Bibblin
 
-**Whifflefizz Bibblin** is a botanist and alchemist working for [Archibald Frisk](archibald-frisk.md). He is currently researching methods of storing [murex](../../../../ch-6-mote-treasures/murex/murex.md) outside of the [Murexian Grove](../../../../ch-1-welcome-to-mote/esterfell/lenya/murexian-grove.md).
+**Whifflefizz Bibblin** is a botanist and alchemist working for [Archibald Frisk](archibald-frisk.md). He is currently researching methods of storing [murex](../../../../ch-6-mote-treasures/murex/murex.md) outside of the [Murexian Grove](../../../../ch-4-esterfell-gazetteer/lenya/murexian-grove.md).
 
 ## Information
 

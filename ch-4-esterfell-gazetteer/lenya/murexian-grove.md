@@ -1,6 +1,6 @@
 # Murexian Grove
 
-The **Murexian Grove** is a wide stretch of forest land on the northeastern coast of [Lenya](lenya.md). Its [plant and animal life](../../../ch-7-mote-bestiary/murexian-creature.md) is unique on the continent due to their uniformly bright purple coloration afforded by the chemical and magical properties of [murex](../../../ch-6-mote-treasures/murex/murex.md), a material which only occurs naturally in the soils of the forest and the surrounding [Ashen Scape](ashen-scape.md).
+The **Murexian Grove** is a wide stretch of forest land on the northeastern coast of [Lenya](lenya.md). Its [plant and animal life](../../ch-7-mote-bestiary/murexian-creature.md) is unique on the continent due to their uniformly bright purple coloration afforded by the chemical and magical properties of [murex](../../ch-6-mote-treasures/murex/murex.md), a material which only occurs naturally in the soils of the forest and the surrounding [Ashen Scape](ashen-scape.md).
 
 ## Fauna and flora
 
