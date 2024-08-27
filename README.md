@@ -20,12 +20,6 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
     - [Dreg](ch-1-welcome-to-mote/cosmology/moons/dreg.md)
   - [Fellspace](ch-1-welcome-to-mote/cosmology/fellspace.md)
 - [Timekeeping](ch-1-welcome-to-mote/timekeeping.md)
-- [Esterfell](ch-1-welcome-to-mote/esterfell/esterfell.md)
-  - [Ashen Archipelago](ch-1-welcome-to-mote/esterfell/ashen-archipelago.md)
-  - [Barria](ch-1-welcome-to-mote/esterfell/barria.md)
-  - [Lenya](ch-1-welcome-to-mote/esterfell/lenya/lenya.md)
-  - [Malagwa](ch-1-welcome-to-mote/esterfell/malagwa.md)
-  - [Yggru](ch-1-welcome-to-mote/esterfell/yggru/yggru.md)
 
 ### [Chapter 2: People of Mote](ch-2-people-of-mote)
 
@@ -61,7 +55,16 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Songs of Esterfell](ch-3-stories-of-mote/songs-of-esterfell)
 - [Waypoints](ch-3-stories-of-mote/waypoints.md)
 
-### [Chapter 4: Character Options](ch-4-character-options)
+### [Chapter 4: Esterfell Gazetteer](ch-4-esterfell-gazetteer)
+
+- [Esterfell](ch-1-welcome-to-mote/esterfell/esterfell.md)
+- [Ashen Archipelago](ch-1-welcome-to-mote/esterfell/ashen-archipelago.md)
+- [Barria](ch-1-welcome-to-mote/esterfell/barria.md)
+- [Lenya](ch-1-welcome-to-mote/esterfell/lenya/lenya.md)
+- [Malagwa](ch-1-welcome-to-mote/esterfell/malagwa.md)
+- [Yggru](ch-1-welcome-to-mote/esterfell/yggru/yggru.md)
+
+### [Chapter 5: Character Options](ch-4-character-options)
 
 - [Species](ch-4-character-options/species)
   - [Brakko](ch-4-character-options/species/brakko.md)
@@ -72,7 +75,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
   - [Spark](ch-4-character-options/species/spark.md)
 - [Supernatural Gifts](ch-4-character-options/supernatural-gifts)
 
-### [Chapter 5: Mote Treasures](ch-5-mote-treasures)
+### [Chapter 6: Mote Treasures](ch-5-mote-treasures)
 
 - [Dreg](ch-5-mote-treasures/dreg-ore.md)
 - [Murex](ch-5-mote-treasures/murex.md)
@@ -84,7 +87,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Vehicles](ch-5-mote-treasures/vehicles)
   - [Starstuff Ships](ch-5-mote-treasures/vehicles/starstuff-ships/starstuff-ships.md)
 
-### [Chapter 6: Mote Bestiary](ch-6-mote-bestiary)
+### [Chapter 7: Mote Bestiary](ch-6-mote-bestiary)
 
 - [Dire Clam](ch-6-mote-bestiary/dire-clam.md)
 - [Malagwan Seal](ch-6-mote-bestiary/malagwan-seal.md)
