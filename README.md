@@ -8,7 +8,7 @@ One nation, the [Esterfell Accord](ch-2-people-of-mote/societies/esterfell-accor
 
 And through it all, the heart of a star pulses beneath the continent, its arcane power waiting to be challenged and conquered — or to strike down any foolish enough to seek it out.
 
-## Resources
+## Contents
 
 ### [Chapter 1: Welcome to Mote](ch-1-welcome-to-mote)
 
@@ -73,6 +73,8 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
   - [Gnome](ch-5-character-options/species/gnome.md)
   - [Selkie](ch-5-character-options/species/selkie.md)
   - [Spark](ch-5-character-options/species/spark.md)
+- [Spells](ch-5-character-options/spells)
+  - [Pass Without Note](ch-5-character-options/spells/pass-without-note.md)
 - [Supernatural Gifts](ch-5-character-options/supernatural-gifts)
 
 ### [Chapter 6: Mote Treasures](ch-6-mote-treasures)
