@@ -4,4 +4,4 @@
 
 ## Locations
 
-- [Balut's Academerie for the Magistically Inclinated](../../../organizations/baluts-academerie/baluts-academerie.md)
+- [Balut's Academerie for the Magistically Inclinated](../../../ch-2-people-of-mote/organizations/baluts-academerie/baluts-academerie.md)

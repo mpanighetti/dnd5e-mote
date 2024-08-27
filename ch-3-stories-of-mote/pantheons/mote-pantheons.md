@@ -35,7 +35,7 @@ The **Deities of Esterfell** table is a non-exhaustive list of beings with power
 |:-------|:---------------|:---------:|:--------|:-------|
 | [Lilith](esterfell-deities/lilith.md) | archfey/medusa | LG | [Attalya Grove](../ch-1-welcome-to-mote/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent |
 | [Phygius](esterfell-deities/phygius.md) | archfey | CN | [Middlestag Forest](../ch-1-welcome-to-mote/esterfell/lenya/middlestag-forest.md), Nature, Feywild, Cervids | antlers with teardrops |
-| Pyr'xhalz | great old one | CE | [The Chosen](../organizations/the-chosen/the-chosen.md), Trickery, War, Mind |  |
+| Pyr'xhalz | great old one | CE | [The Chosen](../ch-2-people-of-mote/organizations/the-chosen/the-chosen.md), Trickery, War, Mind |  |
 | [Ramil](esterfell-deities/ramil.md) | deva | LG | The Chosen, Light | crescent with radial triangles |
 
 ## Borrowed Pantheon

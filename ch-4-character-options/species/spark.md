@@ -8,7 +8,7 @@ A spark is distinguished from other constructed beings by the gift of sapience g
 
 ## Distribution
 
-There are no larger societal distributions of sparks, as the nature of their creation and the recency of their invention has not given sufficient time for them to propagate. Most sparks came to sentience at [Balut's Academerie for the Magistically Inclinated](../../organizations/baluts-academerie/baluts-academerie.md) and many still reside at the Academerie or in [Bridgeport](../../ch-2-people-of-mote/societies/esterfell-accord/bridgeport/bridgeport.md), but some who sought new destinies beyond their original constructed purposes have ventured to other areas of [Lenya](../../ch-1-welcome-to-mote/esterfell/lenya/lenya.md).
+There are no larger societal distributions of sparks, as the nature of their creation and the recency of their invention has not given sufficient time for them to propagate. Most sparks came to sentience at [Balut's Academerie for the Magistically Inclinated](../../ch-2-people-of-mote/organizations/baluts-academerie/baluts-academerie.md) and many still reside at the Academerie or in [Bridgeport](../../ch-2-people-of-mote/societies/esterfell-accord/bridgeport/bridgeport.md), but some who sought new destinies beyond their original constructed purposes have ventured to other areas of [Lenya](../../ch-1-welcome-to-mote/esterfell/lenya/lenya.md).
 
 ## Traits
 

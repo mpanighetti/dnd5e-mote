@@ -10,7 +10,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ## Resources
 
-### Chapter 1: Welcome to Mote
+### [Chapter 1: Welcome to Mote](ch-1-welcome-to-mote)
 
 - [Fellspace](ch-1-welcome-to-mote/fellspace.md)
 - [Moons](ch-1-welcome-to-mote/moons/moons-of-mote.md)
@@ -24,29 +24,29 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
   - [Malagwa](ch-1-welcome-to-mote/esterfell/malagwa.md)
   - [Yggru](ch-1-welcome-to-mote/esterfell/yggru/yggru.md)
 
-### Chapter 2: People of Mote
+### [Chapter 2: People of Mote](ch-2-people-of-mote)
 
-- [Societies](societies)
+- [Societies](ch-2-people-of-mote/societies)
   - [Esterfell Accord](ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md)
   - [Mawlin](ch-2-people-of-mote/societies/mawlin.md)
   - [Ramila](ch-2-people-of-mote/societies/ramila.md)
   - [Subros](ch-2-people-of-mote/societies/subros.md)
   - [Verdancy](ch-2-people-of-mote/societies/verdancy/verdancy.md)
   - [Xiahulia](ch-2-people-of-mote/societies/xiahulia.md)
-- [Organizations](organizations)
-  - [Antipelan Society](organizations/antipelan-society/antipelan-society.md)
-  - [The Chosen](organizations/the-chosen/the-chosen.md)
-  - [The Commune](organizations/the-commune/the-commune.md)
-  - [Edgewood Construction](organizations/edgewood-construction/edgewood-construction.md)
-  - [Gilded Purse](organizations/gilded-purse/gilded-purse.md)
-  - [Malagwan Expeditions](organizations/malagwan-expeditions/malagwan-expeditions.md)
-  - [Order of Istus](organizations/order-of-istus/order-of-istus.md)
-  - [Overseers of the Eager](organizations/overseers-of-the-eager/overseers-of-the-eager.md)
-  - [Reynard's Den](organizations/reynards-den/reynards-den.md)
-  - [Shorsta-Halasma](organizations/shorsta-halasma/shorsta-halasma.md)
-  - [Tealeaf Estate](organizations/tealeaf-estate/tealeaf-estate.md)
+- [Organizations](ch-2-people-of-mote/organizations)
+  - [Antipelan Society](ch-2-people-of-mote/organizations/antipelan-society/antipelan-society.md)
+  - [The Chosen](ch-2-people-of-mote/organizations/the-chosen/the-chosen.md)
+  - [The Commune](ch-2-people-of-mote/organizations/the-commune/the-commune.md)
+  - [Edgewood Construction](ch-2-people-of-mote/organizations/edgewood-construction/edgewood-construction.md)
+  - [Gilded Purse](ch-2-people-of-mote/organizations/gilded-purse/gilded-purse.md)
+  - [Malagwan Expeditions](ch-2-people-of-mote/organizations/malagwan-expeditions/malagwan-expeditions.md)
+  - [Order of Istus](ch-2-people-of-mote/organizations/order-of-istus/order-of-istus.md)
+  - [Overseers of the Eager](ch-2-people-of-mote/organizations/overseers-of-the-eager/overseers-of-the-eager.md)
+  - [Reynard's Den](ch-2-people-of-mote/organizations/reynards-den/reynards-den.md)
+  - [Shorsta-Halasma](ch-2-people-of-mote/organizations/shorsta-halasma/shorsta-halasma.md)
+  - [Tealeaf Estate](ch-2-people-of-mote/organizations/tealeaf-estate/tealeaf-estate.md)
 
-### Chapter 3: Stories of Mote
+### [Chapter 3: Stories of Mote](ch-3-stories-of-mote)
 
 - [Pantheons](ch-3-stories-of-mote/pantheons/mote-pantheons.md)
 - [Ancient Mote Pantheon](ch-3-stories-of-mote/pantheons/mote-pantheons.md#ancient-mote-pantheon)
@@ -59,9 +59,9 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Timekeeping](ch-3-stories-of-mote/pantheons/timekeeping.md)
 - [Waypoints](ch-3-stories-of-mote/pantheons/waypoints.md)
 
-### Chapter 4: Character Options
+### [Chapter 4: Character Options](ch-4-character-options)
 
-- [Species](species)
+- [Species](ch-4-character-options/species)
   - [Brakko](ch-4-character-options/species/brakko.md)
   - [Cetean](ch-4-character-options/species/cetean/cetean.md)
   - [Dwarf](ch-4-character-options/species/dwarf.md)
