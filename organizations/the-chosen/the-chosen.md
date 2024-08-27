@@ -8,7 +8,7 @@
 
 ## History
 
-A splinter group of humans left [Lenya](../../mote/esterfell/lenya/lenya.md) shortly after arriving in [Esterfell](../../mote/esterfell/esterfell.md) and came to [Barria](../../mote/esterfell/barria.md) to escape rule by the [Esterfell Accord](../../societies/esterfell-accord/esterfell-accord.md). Calling their religious order The Chosen, these humans built a new society founded under strict religious rule, uniting their citizens in worship of a single deity: a deva named Ramil.
+A splinter group of humans left [Lenya](../../ch-1-welcome-to-mote/esterfell/lenya/lenya.md) shortly after arriving in [Esterfell](../../ch-1-welcome-to-mote/esterfell/esterfell.md) and came to [Barria](../../ch-1-welcome-to-mote/esterfell/barria.md) to escape rule by the [Esterfell Accord](../../societies/esterfell-accord/esterfell-accord.md). Calling their religious order The Chosen, these humans built a new society founded under strict religious rule, uniting their citizens in worship of a single deity: a deva named Ramil.
 
 ## Beliefs
 

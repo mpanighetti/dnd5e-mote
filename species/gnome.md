@@ -2,7 +2,7 @@
 
 ## Description
 
-**Gnomes** are diminutive humanoids who came to [Esterfell](../mote/esterfell/esterfell.md) in the first few waves of immigrations. They spread across all corners of the continent, with larger populations in [Lenya](../mote/esterfell/lenya/lenya.md) and the [Ashen Archipelago](../mote/esterfell/ashen-archipelago.md) and a few families settling in [Barria](../mote/esterfell/barria.md) and [Yggru](../mote/esterfell/yggru/yggru.md).
+**Gnomes** are diminutive humanoids who came to [Esterfell](../ch-1-welcome-to-mote/esterfell/esterfell.md) in the first few waves of immigrations. They spread across all corners of the continent, with larger populations in [Lenya](../ch-1-welcome-to-mote/esterfell/lenya/lenya.md) and the [Ashen Archipelago](../ch-1-welcome-to-mote/esterfell/ashen-archipelago.md) and a few families settling in [Barria](../ch-1-welcome-to-mote/esterfell/barria.md) and [Yggru](../ch-1-welcome-to-mote/esterfell/yggru/yggru.md).
 
 ## Gnomish ancestries
 
@@ -43,7 +43,7 @@ _**Waterdowsers.**_ You are naturally adapted to hot climates. When you are in s
 
 #### Distribution
 
-The temperate forests of Lenya, particularly the [Eastern Forests](../mote/esterfell/lenya/eastern-forests.md), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../societies/verdancy/balsam.md) and [Eldwin](../societies/verdancy/eldwin.md).
+The temperate forests of Lenya, particularly the [Eastern Forests](../ch-1-welcome-to-mote/esterfell/lenya/eastern-forests.md), were a welcoming space to these gnomes, and they helped found clans such as the [Balsam](../societies/verdancy/balsam.md) and [Eldwin](../societies/verdancy/eldwin.md).
 
 ### Rock gnome
 
@@ -63,4 +63,4 @@ Though some rock gnomes gravitated toward the mountains of Yggru, many opted ins
 
 #### Distribution
 
-Like other Underdark beings, svirfneblin found the dark catacombs of lava tubes under [Mount Hora](../mote/esterfell/lenya/mount-hora.md) to be a welcoming space to build and expand their underground settlements.
+Like other Underdark beings, svirfneblin found the dark catacombs of lava tubes under [Mount Hora](../ch-1-welcome-to-mote/esterfell/lenya/mount-hora.md) to be a welcoming space to build and expand their underground settlements.

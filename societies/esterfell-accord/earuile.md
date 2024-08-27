@@ -1,6 +1,6 @@
 # Ëaruilë
 
-**Ëaruilë** is a port town on the southeastern shores of the [Esterfell Sea](../../mote/esterfell/lenya/esterfell-sea/esterfell-sea.md). It sits opposite the town of [Lombo](lombo.md) on [Quench River](../../mote/esterfell/lenya/quench-river.md).
+**Ëaruilë** is a port town on the southeastern shores of the [Esterfell Sea](../../ch-1-welcome-to-mote/esterfell/lenya/esterfell-sea/esterfell-sea.md). It sits opposite the town of [Lombo](lombo.md) on [Quench River](../../ch-1-welcome-to-mote/esterfell/lenya/quench-river.md).
 
 ## History
 

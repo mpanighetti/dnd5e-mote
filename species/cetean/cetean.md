@@ -2,7 +2,7 @@
 
 ## Description
 
-**Ceteans** are a whalefolk species who explore [Mote](../../mote/mote.md) and [Fellspace](../../mote/fellspace.md) in the pursuit of knowledge and starstuff.
+**Ceteans** are a whalefolk species who explore [Mote](../../ch-1-welcome-to-mote/mote.md) and [Fellspace](../../ch-1-welcome-to-mote/fellspace.md) in the pursuit of knowledge and starstuff.
 
 <figure>
   <img src="ooeeoo-nikki-lacey.jpg" alt="Drawing of a whale-like humanoid figure with a blue body and a white underside, a long sleek flattened tail, and saurian three-toed feet. The figure is wielding a golden trident with curved outer tines, and is wearing a deep blue and purple cloak shimmering with images of stars, as well as a belt with a sword in their scabbard." />
@@ -15,7 +15,7 @@ Ceteans originate from distant regions of Fellspace, where they swam through [st
 
 After a massive starstuff asteroid impacted with Esterfell, many cetean pods came to the new land, eventually becoming founding members of the nation of [Xiahulia](../../societies/xiahulia.md).
 
-Multiple pods of ceteans reside within the [oceans](../../mote/esterfell/waters) surrounding [Esterfell](../../mote/esterfell/esterfell.md), with the largest groups settling along the northern coasts of [Lenya](../../mote/esterfell/lenya/lenya.md). They mostly stay away from the continent's landbound societies, but occasionally can be found in port cities to engage in trade.
+Multiple pods of ceteans reside within the [oceans](../../ch-1-welcome-to-mote/esterfell/waters) surrounding [Esterfell](../../ch-1-welcome-to-mote/esterfell/esterfell.md), with the largest groups settling along the northern coasts of [Lenya](../../ch-1-welcome-to-mote/esterfell/lenya/lenya.md). They mostly stay away from the continent's landbound societies, but occasionally can be found in port cities to engage in trade.
 
 ## Traits
 

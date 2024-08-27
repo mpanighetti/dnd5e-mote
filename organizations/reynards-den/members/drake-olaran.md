@@ -26,6 +26,6 @@ Drake was born in [Tillë](../../../societies/esterfell-accord/tille.md) to Lír
 
 ### Adulthood
 
-Shortly after Drake was old enough to fend for himself, Rufus felt the call of Deneir and left Drake to spread his deity's word to the human tribes of [Barria](../../../mote/esterfell/barria.md). Drake found steady work in [Cape Luz](../../../societies/esterfell-accord/cape-luz.md) and [Suizenloch](../../../societies/esterfell-accord/suizenloch.md), using his affiliation with a deity of both the written word and neutrality regarding the laws of mortals to act as a scribe for operatives of [Reynard's Den](../reynards-den.md).
+Shortly after Drake was old enough to fend for himself, Rufus felt the call of Deneir and left Drake to spread his deity's word to the human tribes of [Barria](../../../ch-1-welcome-to-mote/esterfell/barria.md). Drake found steady work in [Cape Luz](../../../societies/esterfell-accord/cape-luz.md) and [Suizenloch](../../../societies/esterfell-accord/suizenloch.md), using his affiliation with a deity of both the written word and neutrality regarding the laws of mortals to act as a scribe for operatives of [Reynard's Den](../reynards-den.md).
 
 Over time, Drake's faith in Deneir began to wane, as he felt a lack of connection to that divine power, but that spark was lit anew when he found a new passion in investigative work. The drive to work on difficult puzzles allowed him to tap into Deneir's divinity in a new way, being driven to solve mysteries and record those newly revealed secrets.

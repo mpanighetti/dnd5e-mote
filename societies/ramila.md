@@ -1,6 +1,6 @@
 # Ramila
 
-**Ramila** is a territory on the western side of [Barria](../mote/esterfell/barria.md). It constitutes a nomadic tribe of humans known as [The Chosen](../organizations/the-chosen/the-chosen.md), who exclusively worship and pledge fealty to the deva [Ramil](../pantheon/esterfell-deities/ramil.md) as a deity. Ramila maintains an uneasy coexistence with the [Mawlin](mawlin.md) who share occupancy on Barria.
+**Ramila** is a territory on the western side of [Barria](../ch-1-welcome-to-mote/esterfell/barria.md). It constitutes a nomadic tribe of humans known as [The Chosen](../organizations/the-chosen/the-chosen.md), who exclusively worship and pledge fealty to the deva [Ramil](../pantheon/esterfell-deities/ramil.md) as a deity. Ramila maintains an uneasy coexistence with the [Mawlin](mawlin.md) who share occupancy on Barria.
 
 ## Information
 

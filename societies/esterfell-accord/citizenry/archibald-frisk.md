@@ -22,4 +22,4 @@ Archibald specializes in clothing suitable for attending galas, royal summits, a
 
 Frisk also recently came into ownership of a group of apartments in [Cape Bec](../cape-bec/cape-bec.md), in a building called [The Dunes](../cape-bec/the-dunes.md). He acquired the building cheaply in a public auction and thus has little desire to turn a huge profit from it, instead allowing his tenants to reside there in exchange for odd jobs.
 
-Archibald is looking for capable adventurers to help him build out his murexian clothing business. He will hire such sell-swords for various tasks, from simple courier supply runs to dangerous expeditions into the [Murexian Grove](../../../mote/esterfell/lenya/murexian-grove.md) to get him access to rare murex.
+Archibald is looking for capable adventurers to help him build out his murexian clothing business. He will hire such sell-swords for various tasks, from simple courier supply runs to dangerous expeditions into the [Murexian Grove](../../../ch-1-welcome-to-mote/esterfell/lenya/murexian-grove.md) to get him access to rare murex.

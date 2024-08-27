@@ -1,6 +1,6 @@
 # Kadak the Ravager
 
-**Kadak the Ravager** is a warlord spearheading a campaign of terror in [Attalya Mountains](../../../mote/esterfell/lenya/attalya-mountains/attalya-mountains.md).
+**Kadak the Ravager** is a warlord spearheading a campaign of terror in [Attalya Mountains](../../../ch-1-welcome-to-mote/esterfell/lenya/attalya-mountains/attalya-mountains.md).
 
 ## Information
 

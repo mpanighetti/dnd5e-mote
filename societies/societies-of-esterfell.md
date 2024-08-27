@@ -1,6 +1,6 @@
 # Societies of Esterfell
 
-[Esterfell](../mote/esterfell/esterfell.md) has multiple distinct societies, some of which are organized into larger nations.
+[Esterfell](../ch-1-welcome-to-mote/esterfell/esterfell.md) has multiple distinct societies, some of which are organized into larger nations.
 
 - [Esterfell Accord](esterfell-accord/esterfell-accord.md)
 - [Subros](subros/subros.md)
@@ -8,7 +8,7 @@
 - [Mawlin](mawlin.md)
 - [Ramila](ramila.md)
 
-In addition, a large region of [Lenya](../mote/esterfell/lenya/lenya.md) is not considered to be under direct control of any of the above societies. This land is generally referred to as [Verdancy](verdancy/verdancy.md) territory and acts as a region not under active development or conquest from the Accord or Subros. Those two nations often loop in all land outside their domains as Verdancy, ignoring the people and political structures that exist within those spaces and resulting in inaccurate domain knowledge and maps.
+In addition, a large region of [Lenya](../ch-1-welcome-to-mote/esterfell/lenya/lenya.md) is not considered to be under direct control of any of the above societies. This land is generally referred to as [Verdancy](verdancy/verdancy.md) territory and acts as a region not under active development or conquest from the Accord or Subros. Those two nations often loop in all land outside their domains as Verdancy, ignoring the people and political structures that exist within those spaces and resulting in inaccurate domain knowledge and maps.
 
 <figure>
   <img src="map-esterfell-political-false-mario-panighetti.jpg" alt="Drawing of a map of Esterfell with colors identifying each major nation's region of control: Esterfell Accord (orange), Subros (red), and Verdancy (green). This map notably does not recognize Xiahulia, Mawlin, or Ramila territory occupancy or control, incorrectly labeling all such regions as Verdancy territory." />

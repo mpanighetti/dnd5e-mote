@@ -1,6 +1,6 @@
 # Xiahulia
 
-**Xiahulia** is an ocean nation occupying the island of [Malagwa](../mote/esterfell/malagwa.md) and the continental shelf along the northern shore of [Lenya](../mote/esterfell/lenya/lenya.md). It is populated entirely by aquatic people.
+**Xiahulia** is an ocean nation occupying the island of [Malagwa](../ch-1-welcome-to-mote/esterfell/malagwa.md) and the continental shelf along the northern shore of [Lenya](../ch-1-welcome-to-mote/esterfell/lenya/lenya.md). It is populated entirely by aquatic people.
 
 ## Information
 
