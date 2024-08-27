@@ -40,6 +40,6 @@ _**Bite (Seal Form Only).**_ _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one 
 
 _**Club (Person Form Only).**_ _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) Bludgeoning damage.
 
-_**Selkie Skin.**_ The selkie warrior dons their [selkie skin](../artifacts/selkie-skin.md) to polymorph into their seal form, or doffs it to polymorph into their person form. Their statistics are the same in their seal form form, except where differentiated in this stat block, and they are considered to be in their true form in either form. Any equipment they are wearing or carrying in their person form merges into their seal form.
+_**Selkie Skin.**_ The selkie warrior dons their [selkie skin](../treasures/magic-items/selkie-skin.md) to polymorph into their seal form, or doffs it to polymorph into their person form. Their statistics are the same in their seal form form, except where differentiated in this stat block, and they are considered to be in their true form in either form. Any equipment they are wearing or carrying in their person form merges into their seal form.
 
 While the selkie warrior's skin is not merged into their form, it is a wondrous magic item with AC 11 and 3 Hit Points. The skin is destroyed if on a separate plane of existence from the selkie. If another creature Attunes to the selkie's skin, the selkie is Charmed by that creature until the Attunement ends, and no spell or other effect can remove this charm. If the skin is destroyed, the selkie grows a replacement after they complete a Long Rest.

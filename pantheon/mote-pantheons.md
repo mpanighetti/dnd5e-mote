@@ -1,6 +1,6 @@
 # Mote Pantheons
 
-The **Mote pantheons** are multiple collections of beings of power from across the multiverse. [Mote](../mote/mote.md) does not possess a singular pantheon, and each domain is not resided over by only a single god. Instead, an innate magical field powered by the [starstuff](../artifacts/starstuff.md) that permeates all the worlds of [Fellspace](../mote/fellspace.md) acts as both divine amplifier and limiter, causing the collective belief of a deity's followers to be their only means of claiming and holding onto a domain.
+The **Mote pantheons** are multiple collections of beings of power from across the multiverse. [Mote](../mote/mote.md) does not possess a singular pantheon, and each domain is not resided over by only a single god. Instead, an innate magical field powered by the [starstuff](../treasures/starstuff.md) that permeates all the worlds of [Fellspace](../mote/fellspace.md) acts as both divine amplifier and limiter, causing the collective belief of a deity's followers to be their only means of claiming and holding onto a domain.
 
 The term "god" is often used interchangeably on Mote with beings of "lesser" power, including archfey, celestial beings such as angels, fiends, and kuo-toan protogods. The origin of such beings has little bearing on their capability to ascend to godhood, as long as they carry a sufficient volume of collective worship.
 

@@ -4,7 +4,7 @@
 
 _Weapon (quarterstaff), uncommon (requires Attunement by a Shorsta-Halasma monk)_
 
-This quarterstaff is sturdily constructed from a tree branch by a student of the [Shorsta-Halasma](../organizations/shorsta-halasma/shorsta-halasma.md), then inset with a fragment of [starstuff](starstuff.md) to hone the wielder's mental connection with a specific plane of existence.
+This quarterstaff is sturdily constructed from a tree branch by a student of the [Shorsta-Halasma](../../organizations/shorsta-halasma/shorsta-halasma.md), then inset with a fragment of [starstuff](../starstuff.md) to hone the wielder's mental connection with a specific plane of existence.
 
 While Attuned to a staff of Shorsta, you gain the following benefits:
 

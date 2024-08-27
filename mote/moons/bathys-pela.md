@@ -10,7 +10,7 @@
 
 The two moons are less spherical than Mote's other satellites, as the centrifugal forces the moons impart on each other from their spiral orbits slightly elongate their shapes.
 
-[Starstuff](../../artifacts/starstuff.md) that falls toward Mote, if not captured directly by Kiva, is collected by the binary moons' gravitational pulls. Such material follows Bathýs-Pela's wakes in a long spiraling trail until Kiva eventually sweeps it up in a future revolution.
+[Starstuff](../../treasures/starstuff.md) that falls toward Mote, if not captured directly by Kiva, is collected by the binary moons' gravitational pulls. Such material follows Bathýs-Pela's wakes in a long spiraling trail until Kiva eventually sweeps it up in a future revolution.
 
 ## History
 
