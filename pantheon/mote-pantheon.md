@@ -33,10 +33,10 @@ The **Deities of Esterfell** table is a non-exhaustive list of beings with power
 ##### Deities of Esterfell
 |  Deity | Classification | Alignment | Domains | Symbol |
 |:-------|:---------------|:---------:|:--------|:-------|
-| [Lilith](lilith.md) | archfey/medusa | LG | [Attalya Grove](../mote/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent |
-| [Phygius](phygius.md) | archfey | CN | [Middlestag Forest](../mote/esterfell/lenya/middlestag-forest.md), Nature, Feywild, Cervids | antlers with teardrops |
+| [Lilith](esterfell-deities/lilith.md) | archfey/medusa | LG | [Attalya Grove](../mote/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent |
+| [Phygius](esterfell-deities/phygius.md) | archfey | CN | [Middlestag Forest](../mote/esterfell/lenya/middlestag-forest.md), Nature, Feywild, Cervids | antlers with teardrops |
 | Pyr'xhalz | great old one | CE | [The Chosen](../organizations/the-chosen/the-chosen.md), Trickery, War, Mind |  |
-| [Ramil](ramil.md) | deva | LG | The Chosen, Light | crescent with radial triangles |
+| [Ramil](esterfell-deities/ramil.md) | deva | LG | The Chosen, Light | crescent with radial triangles |
 
 ## Borrowed Pantheon
 
@@ -48,5 +48,5 @@ The **Deities of the Multiverse** table is a non-exhaustive list of beings of po
 |  Deity | Alignment | Domains | Symbol | Pantheon |
 |:-------|:---------:|:--------|:-------|:---------|
 | Deneir | NG | Knowledge, Writing | lit candle above an open eye | The Forgotten Realms |
-| [Istus](istus.md) | N | Knowledge, Fate, Destiny, Divination, Future Events | weaver's spindle with three strands | Greyhawk |
+| [Istus](multiverse-deities/istus.md) | N | Knowledge, Fate, Destiny, Divination, Future Events | weaver's spindle with three strands | Greyhawk |
 | Silvanus | N | Nature, Wilderness | oak leaf | The Forgotten Realms |
