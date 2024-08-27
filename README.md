@@ -70,7 +70,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
   - [Spark](ch-4-character-options/species/spark.md)
 - [Supernatural Gifts](ch-4-character-options/supernatural-gifts)
 
-### Chapter 5: Mote Treasures
+### [Chapter 5: Mote Treasures](ch-5-mote-treasures)
 
 - [Dreg](ch-5-mote-treasures/dreg-ore.md)
 - [Murex](ch-5-mote-treasures/murex.md)
@@ -82,12 +82,12 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Vehicles](ch-5-mote-treasures/vehicles)
   - [Starstuff Ships](ch-5-mote-treasures/vehicles/starstuff-ships/starstuff-ships.md)
 
-### Chapter 6: Mote Bestiary
+### [Chapter 6: Mote Bestiary](ch-6-mote-bestiary)
 
-- [Dire Clam](ch-5-mote-bestiary/dire-clam.md)
-- [Malagwan Seal](ch-5-mote-bestiary/malagwan-seal.md)
-- [Murexian Creature](ch-5-mote-bestiary/murexian-creature.md)
-- [Selkie Warrior](ch-5-mote-bestiary/selkie-warrior.md)
+- [Dire Clam](ch-6-mote-bestiary/dire-clam.md)
+- [Malagwan Seal](ch-6-mote-bestiary/malagwan-seal.md)
+- [Murexian Creature](ch-6-mote-bestiary/murexian-creature.md)
+- [Selkie Warrior](ch-6-mote-bestiary/selkie-warrior.md)
 
 ## Credits
 

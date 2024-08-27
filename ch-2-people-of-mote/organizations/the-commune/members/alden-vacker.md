@@ -38,4 +38,4 @@ As a teenager, Alden came upon [Rowan Dundragon](rowan-dundragon.md), and in ass
 
 The adventuring duo eventually crossed paths with [The Commune](../the-commune.md), and the groups banded together to investigate strange occurrences in [Middlestag Forest](../../../ch-1-welcome-to-mote/esterfell/lenya/middlestag-forest.md).
 
-While trying to find a way out of the [Feywild](../../../cosmology/feywild.md) counterpart of Middlestag, Alden made a deal with [Plosh](../../unseelie-court/plosh.md) the [snot hag](../../../ch-5-mote-bestiary/snot-hag.md) and was granted the gift of Devil's Sight.
+While trying to find a way out of the [Feywild](../../../cosmology/feywild.md) counterpart of Middlestag, Alden made a deal with [Plosh](../../unseelie-court/plosh.md) the [snot hag](../../../ch-6-mote-bestiary/snot-hag.md) and was granted the gift of Devil's Sight.
