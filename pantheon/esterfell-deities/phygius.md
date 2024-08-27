@@ -25,7 +25,7 @@ Farmers and hunters in the region might revere the Stag as a minor deity, but th
 
 ##### Cultural references
 
-The Middlestag is mentioned in the song "[Remi O](../../lore/remi-o.md)".
+The Middlestag is mentioned in the song "[Remi O](../../lore/songs-of-esterfell/remi-o.md)".
 
 #### Information
 

@@ -10,7 +10,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ## Resources
 
-### [Mote](mote/mote.md)
+### Chapter 1: Welcome to Mote
 
 - [Fellspace](mote/fellspace.md)
 - [Moons](mote/moons/moons-of-mote.md)
@@ -24,45 +24,53 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
   - [Malagwa](mote/esterfell/malagwa.md)
   - [Yggru](mote/esterfell/yggru/yggru.md)
 
-### [Societies](societies)
+### Chapter 2: People of Mote
 
-- [Esterfell Accord](societies/esterfell-accord/esterfell-accord.md)
-- [Mawlin](societies/mawlin.md)
-- [Ramila](societies/ramila.md)
-- [Subros](societies/subros.md)
-- [Verdancy](societies/verdancy/verdancy.md)
-- [Xiahulia](societies/xiahulia.md)
+- [Pantheons](pantheon/mote-pantheons.md)
+  - [Ancient Mote Pantheon](pantheon/mote-pantheons.md#ancient-mote-pantheon)
+  - [Esterfell Pantheon](pantheon/mote-pantheons.md#esterfell-pantheon)
+    - [Phygius](pantheon/esterfell-deities/phygius.md)
+    - [Ramil](pantheon/esterfell-deities/ramil.md)
+  - [Borrowed Pantheon](pantheon/mote-pantheons.md#borrowed-pantheon)
+    - [Istus](pantheon/multiverse-deities/istus.md)
+- [Societies](societies)
+  - [Esterfell Accord](societies/esterfell-accord/esterfell-accord.md)
+  - [Mawlin](societies/mawlin.md)
+  - [Ramila](societies/ramila.md)
+  - [Subros](societies/subros.md)
+  - [Verdancy](societies/verdancy/verdancy.md)
+  - [Xiahulia](societies/xiahulia.md)
+- [Organizations](organizations)
+  - [Antipelan Society](organizations/antipelan-society/antipelan-society.md)
+  - [The Chosen](organizations/the-chosen/the-chosen.md)
+  - [The Commune](organizations/the-commune/the-commune.md)
+  - [Edgewood Construction](organizations/edgewood-construction/edgewood-construction.md)
+  - [Gilded Purse](organizations/gilded-purse/gilded-purse.md)
+  - [Malagwan Expeditions](organizations/malagwan-expeditions/malagwan-expeditions.md)
+  - [Order of Istus](organizations/order-of-istus/order-of-istus.md)
+  - [Overseers of the Eager](organizations/overseers-of-the-eager/overseers-of-the-eager.md)
+  - [Reynard's Den](organizations/reynards-den/reynards-den.md)
+  - [Shorsta-Halasma](organizations/shorsta-halasma/shorsta-halasma.md)
+  - [Tealeaf Estate](organizations/tealeaf-estate/tealeaf-estate.md)
 
-### [Organizations](organizations)
+### Chapter 3: Stories of Mote
 
-- [Antipelan Society](organizations/antipelan-society/antipelan-society.md)
-- [The Chosen](organizations/the-chosen/the-chosen.md)
-- [The Commune](organizations/the-commune/the-commune.md)
-- [Edgewood Construction](organizations/edgewood-construction/edgewood-construction.md)
-- [Gilded Purse](organizations/gilded-purse/gilded-purse.md)
-- [Malagwan Expeditions](organizations/malagwan-expeditions/malagwan-expeditions.md)
-- [Order of Istus](organizations/order-of-istus/order-of-istus.md)
-- [Overseers of the Eager](organizations/overseers-of-the-eager/overseers-of-the-eager.md)
-- [Reynard's Den](organizations/reynards-den/reynards-den.md)
-- [Shorsta-Halasma](organizations/shorsta-halasma/shorsta-halasma.md)
-- [Tealeaf Estate](organizations/tealeaf-estate/tealeaf-estate.md)
-
-### [Species](species)
-
-- [Brakko](species/brakko.md)
-- [Cetean](species/cetean/cetean.md)
-- [Dwarf](species/dwarf.md)
-- [Gnome](species/gnome.md)
-- [Selkie](species/selkie.md)
-- [Spark](species/spark.md)
-
-### [Lore](lore)
-
-- [Remi O](lore/remi-o.md)
+- [Songs of Esterfell](lore/songs-of-esterfell)
 - [Timekeeping](lore/timekeeping.md)
 - [Waypoints](lore/waypoints.md)
 
-### [Treasures](treasures)
+### Chapter 4: Character Options
+
+- [Species](species)
+  - [Brakko](species/brakko.md)
+  - [Cetean](species/cetean/cetean.md)
+  - [Dwarf](species/dwarf.md)
+  - [Gnome](species/gnome.md)
+  - [Selkie](species/selkie.md)
+  - [Spark](species/spark.md)
+- [Supernatural Gifts](supernatural-gifts)
+
+### Chapter 5: Mote Treasures
 
 - [Dreg](treasures/dreg-ore.md)
 - [Murex](treasures/murex.md)
@@ -74,20 +82,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Vehicles](treasures/vehicles)
   - [Starstuff Ships](treasures/vehicles/starstuff-ships/starstuff-ships.md)
 
-### [Pantheons](pantheon/mote-pantheons.md)
-
-- [Ancient Mote Pantheon](pantheon/mote-pantheons.md#ancient-mote-pantheon)
-- [Esterfell Pantheon](pantheon/mote-pantheons.md#esterfell-pantheon)
-  - [Phygius](pantheon/esterfell-deities/phygius.md)
-  - [Ramil](pantheon/esterfell-deities/ramil.md)
-- [Borrowed Pantheon](pantheon/mote-pantheons.md#borrowed-pantheon)
-  - [Istus](pantheon/multiverse-deities/istus.md)
-
-### [Supernatural Gifts](supernatural-gifts)
-
-- [Blessing of Foresight](supernatural-gifts/blessing-of-foresight.md)
-
-### [Bestiary](bestiary)
+### Chapter 6: Mote Bestiary
 
 - [Dire Clam](bestiary/dire-clam.md)
 - [Malagwan Seal](bestiary/malagwan-seal.md)
