@@ -64,16 +64,16 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Malagwa](ch-1-welcome-to-mote/esterfell/malagwa.md)
 - [Yggru](ch-1-welcome-to-mote/esterfell/yggru/yggru.md)
 
-### [Chapter 5: Character Options](ch-4-character-options)
+### [Chapter 5: Character Options](ch-5-character-options)
 
-- [Species](ch-4-character-options/species)
-  - [Brakko](ch-4-character-options/species/brakko.md)
-  - [Cetean](ch-4-character-options/species/cetean/cetean.md)
-  - [Dwarf](ch-4-character-options/species/dwarf.md)
-  - [Gnome](ch-4-character-options/species/gnome.md)
-  - [Selkie](ch-4-character-options/species/selkie.md)
-  - [Spark](ch-4-character-options/species/spark.md)
-- [Supernatural Gifts](ch-4-character-options/supernatural-gifts)
+- [Species](ch-5-character-options/species)
+  - [Brakko](ch-5-character-options/species/brakko.md)
+  - [Cetean](ch-5-character-options/species/cetean/cetean.md)
+  - [Dwarf](ch-5-character-options/species/dwarf.md)
+  - [Gnome](ch-5-character-options/species/gnome.md)
+  - [Selkie](ch-5-character-options/species/selkie.md)
+  - [Spark](ch-5-character-options/species/spark.md)
+- [Supernatural Gifts](ch-5-character-options/supernatural-gifts)
 
 ### [Chapter 6: Mote Treasures](ch-6-mote-treasures)
 

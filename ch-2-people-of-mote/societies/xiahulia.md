@@ -10,11 +10,11 @@
 
 By merit of Xiahulia's oceanic region, its people all necessarily have some ability to survive mostly or fully underwater. The following species all possess such adaptations and can typically be found among Xiahulia's citizenry:
 
-- [Brakko](../ch-4-character-options/species/brakko.md)
-- [Cetean](../ch-4-character-options/species/cetean/cetean.md)
+- [Brakko](../ch-5-character-options/species/brakko.md)
+- [Cetean](../ch-5-character-options/species/cetean/cetean.md)
 - Merfolk
 - Sea elf
-- [Selkie](../ch-4-character-options/species/selkie.md)
+- [Selkie](../ch-5-character-options/species/selkie.md)
 - Triton
 - Water genasi
 
