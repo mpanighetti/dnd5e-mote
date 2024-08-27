@@ -1,6 +1,6 @@
 # Tealeaf Estate
 
-The **Tealeaf Estate** is a highly successful family-run business operating out of [Brier Glen](../../ch-2-people-of-mote/societies/esterfell-accord/brier-glen.md). The Tealeaf family specializes in the cultivation of [chamolith](../../treasures/chamolith.md), a plant introduced to [Lenya](../../ch-1-welcome-to-mote/esterfell/lenya/lenya.md) in the last millennium by the Tealeaves and used for a unique herbal tea.
+The **Tealeaf Estate** is a highly successful family-run business operating out of [Brier Glen](../../ch-2-people-of-mote/societies/esterfell-accord/brier-glen.md). The Tealeaf family specializes in the cultivation of [chamolith](../../ch-5-mote-treasures/chamolith.md), a plant introduced to [Lenya](../../ch-1-welcome-to-mote/esterfell/lenya/lenya.md) in the last millennium by the Tealeaves and used for a unique herbal tea.
 
 ## Members
 

@@ -22,7 +22,7 @@ A day is the time period of a full rotation of Mote with respect to its sun. On 
 
 #### Lunar Day
 
-Occasionally, when the orbits of the moons of Mote come in close proximity, the complicated interactions of their gravity and [starstuff](../treasures/starstuff.md) energies can temporarily slow their movement across the sky. This confluence wreaks havoc on the surface of Mote, extending the length of the day as the world's rotation is temporarily disrupted and tidally locked by the amplified lunar forces. These periods are known as "lunar days".
+Occasionally, when the orbits of the moons of Mote come in close proximity, the complicated interactions of their gravity and [starstuff](../ch-5-mote-treasures/starstuff.md) energies can temporarily slow their movement across the sky. This confluence wreaks havoc on the surface of Mote, extending the length of the day as the world's rotation is temporarily disrupted and tidally locked by the amplified lunar forces. These periods are known as "lunar days".
 
 A lunar day slows the orbital speed of all involved moons for the entirety of their interaction as their gravitational and stellar forces drag against each other. This drag can vary in length from a few hours to over a day.
 
