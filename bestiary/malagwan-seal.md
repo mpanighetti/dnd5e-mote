@@ -2,7 +2,7 @@
 
 #### Description
 
-[Selkies](../species/selkie.md) in their seal form bear a superficial resemblance to the seal population in the waters of [Malagwa](../ch-1-welcome-to-mote/esterfell/malagwa.md), making it easy for one to go unnoticed amongst a larger pod. Though the seals have no special connection or direct relationship to selkies, the two peacefully coexist, and selkies maintain a great respect for what they see as distant cousins.
+[Selkies](../ch-4-character-options/species/selkie.md) in their seal form bear a superficial resemblance to the seal population in the waters of [Malagwa](../ch-1-welcome-to-mote/esterfell/malagwa.md), making it easy for one to go unnoticed amongst a larger pod. Though the seals have no special connection or direct relationship to selkies, the two peacefully coexist, and selkies maintain a great respect for what they see as distant cousins.
 
 #### Attributes
 

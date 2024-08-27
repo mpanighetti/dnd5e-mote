@@ -11,9 +11,9 @@
 The Mawlin tribes consist largely of species adapted to persist or thrive within the hot arid climate of Barria, including the following:
 
 - Dragonborn (red and blue)
-- [Desert dwarf](../species/dwarf.md#desert-dwarf)
+- [Desert dwarf](../ch-4-character-options/species/dwarf.md#desert-dwarf)
 - Genasi (fire and earth)
-- [Dust gnome](../species/gnome.md#dust-gnome)
+- [Dust gnome](../ch-4-character-options/species/gnome.md#dust-gnome)
 - Lizardfolk
 - Loxodon
 - Thri-kreen

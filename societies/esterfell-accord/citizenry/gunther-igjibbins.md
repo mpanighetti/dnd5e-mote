@@ -11,7 +11,7 @@
 
 ### Physical
 
-- species: [rock gnome](../../../species/gnome.md#rock-gnome)
+- species: [rock gnome](../../../ch-4-character-options/species/gnome.md#rock-gnome)
 
 ## Relationships
 

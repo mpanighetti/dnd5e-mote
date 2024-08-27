@@ -62,12 +62,12 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 ### Chapter 4: Character Options
 
 - [Species](species)
-  - [Brakko](species/brakko.md)
-  - [Cetean](species/cetean/cetean.md)
-  - [Dwarf](species/dwarf.md)
-  - [Gnome](species/gnome.md)
-  - [Selkie](species/selkie.md)
-  - [Spark](species/spark.md)
+  - [Brakko](ch-4-character-options/species/brakko.md)
+  - [Cetean](ch-4-character-options/species/cetean/cetean.md)
+  - [Dwarf](ch-4-character-options/species/dwarf.md)
+  - [Gnome](ch-4-character-options/species/gnome.md)
+  - [Selkie](ch-4-character-options/species/selkie.md)
+  - [Spark](ch-4-character-options/species/spark.md)
 - [Supernatural Gifts](ch-4-character-options/supernatural-gifts)
 
 ### Chapter 5: Mote Treasures
