@@ -21,9 +21,13 @@ _1st-level Abjuration_ (Rogue (Arcane Trickster), Warlock)
 - **Components:** V, S, M (a drop of the target's blood which the spell consumes)
 - **Duration:** Concentration, up to 1 minute
 
-You attempt to drag a creature you touch to another plane of existence to face them alone. The target must succeed on a Charisma Saving Throw or both you and the target are banished to a demiplane for the duration.
+You attempt to drag a creature you touch to another plane of existence to face them alone. The target must succeed on a Charisma Saving Throw or both you and the target are banished to a demiplane for the duration. The spell fails if either of you are prevented from planeshifting by a spell of a higher level.
 
-The demiplane takes on an appearance of your choosing each time you enter it. Within this demiplane, creatures do not need to breathe, eat, drink, or sleep. Damage dealt to a creature in this demiplane that would reduce them to 0 Hit Points instead reduces them to 1 Hit Point. Once the spell ends, both you and the target are returned to your original location. Time flows normally in this space. A creature that starts their turn in the demiplane is wracked with pain and mental torment, taking 2d8 Psychic damage. When you take this damage from the spell, you automatically succeed on your Constitution Saving Throw to maintain your Concentration.
+The demiplane takes on an appearance of your choosing each time you enter it. Time flows normally in this space. Within this demiplane, creatures do not need to breathe, eat, drink, or sleep. Damage dealt to a creature in this demiplane that would reduce them to 0 Hit Points instead reduces them to 1 Hit Point.
+
+A creature that starts their turn in the demiplane is wracked with pain and mental torment, taking 2d8 Psychic damage. When you take this damage from the spell, you automatically succeed on your Constitution Saving Throw to maintain your Concentration.
+
+Once the spell ends, both you and the target are returned to your original location. If either creature is removed from the demiplane by other means, the spell ends immediately.
 
 _**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, the Psychic damage it deals to creatures in the demiplane increases by 1d8 for each spell slot level above 1st. When you use a spell slot of 5th level or higher, the spell no longer requires Concentration.
 
