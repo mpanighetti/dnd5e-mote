@@ -5,6 +5,7 @@ This section contains new spells developed in the world of [Mote](../ch-1-welcom
 ##### Mote Spells
 | Level | Spell | School | Class | Tags |
 |:-:|:-|:-|:-|:-|
+| 1st | _[Kyran's Gambit](#kyrans-gambit)_ | Abjuration | Paladin, Sorcerer, Warlock, Wizard | Concentration |
 | 2nd | _[Pass Without Note](#pass-without-note)_ | Enchantment | Bard, Sorcerer, Warlock, Wizard | Concentration |
 
 ## Spell Descriptions
