@@ -11,6 +11,21 @@ This section contains new spells developed in the world of [Mote](../ch-1-welcom
 
 The spells are presented in alphabetical order.
 
+### [Kyran's Sympathetic Expulsion](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/kyrans-sympathetic-expulsion.md)
+
+_1st-level Abjuration_ (Paladin, Sorcerer, Warlock, Wizard)
+
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a drop of the target's blood which the spell consumes)
+- **Duration:** Concentration, up to 1 minute
+
+You attempt to drag a creature you touch to another plane of existence to face them alone. The target must succeed on a Charisma Saving Throw or both you and the target are banished to a demiplane for the duration.
+
+The demiplane takes on an appearance of your choosing each time you enter it. Within this demiplane, both you and the target do not age and do not need to breathe, eat, drink, or sleep. Damage dealt to a creature in this demiplane that would reduce them to 0 Hit Points instead reduces them to 1 Hit Point. Once the spell ends, both you and the target are returned to your original location. Time appears to flow normally in this space, but if a creature spends more than 1 minute here, no more than 1 minute will have passed in their original plane once they return. The spell's duration is tracked from the perspective of the caster within the demiplane.
+
+_**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, its duration extends to 10 minutes at 2rd level, 1 hour at 3rd level, and 8 hours at 4th level, 24 hours at 5th level, 1 week at 6th level, 1 month at 7th level, 1 year at 8th level, and until dispelled at 9th level. Additionally, when you use a spell slot of 5th level or higher, the spell no longer requires Concentration.
+
 ### [Pass Without Note](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/pass-without-note.md)
 
 _2nd-level Enchantment_ (Bard, Sorcerer, Warlock, Wizard)
