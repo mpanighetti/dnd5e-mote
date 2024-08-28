@@ -25,7 +25,7 @@ You attempt to drag a creature you touch to another plane of existence to face t
 
 The demiplane takes on an appearance of your choosing each time you enter it. Within this demiplane, creatures do not age, they do not need to breathe, eat, drink, or sleep, and they cannot benefit from rests. Damage dealt to a creature in this demiplane that would reduce them to 0 Hit Points instead reduces them to 1 Hit Point. Once the spell ends, both you and the target are returned to your original location. Time appears to flow normally in this space, but if a creature spends more than 1 minute here, no more than 1 minute will have passed in their original plane once they return. The spell's duration is tracked from the perspective of the caster within the demiplane.
 
-_**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, its duration extends to 10 minutes at 2rd level, 1 hour at 3rd level, and 8 hours at 4th level, 24 hours at 5th level, 1 week at 6th level, 1 month at 7th level, 1 year at 8th level, and until dispelled at 9th level. Additionally, when you use a spell slot of 5th level or higher, the spell no longer requires Concentration.
+_**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, its duration extends to 10 minutes at 2rd level, 1 hour at 3rd level, and 8 hours at 4th level. When you use a spell slot of 5th level or higher, the spell's duration increases to a number of days equal to the spell slot level and no longer requires Concentration.
 
 ### [Pass Without Note](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/pass-without-note.md)
 
