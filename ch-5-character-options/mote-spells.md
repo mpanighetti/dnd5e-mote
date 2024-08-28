@@ -11,7 +11,7 @@ This section contains new spells developed in the world of [Mote](../ch-1-welcom
 
 The spells are presented in alphabetical order.
 
-### [Kyran's Sympathetic Expulsion](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/kyrans-sympathetic-expulsion.md)
+### [Kyran's Gambit](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/kyrans-gambit.md)
 
 _1st-level Abjuration_ (Paladin, Sorcerer, Warlock, Wizard)
 
