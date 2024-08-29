@@ -25,7 +25,7 @@ You attempt to drag a creature you touch to another plane of existence to confro
 
 The demiplane takes on a disturbing appearance of your choosing each time you enter it. Damage dealt to a creature in this demiplane that would reduce them to 0 Hit Points instead reduces them to 1 Hit Point. A creature that starts their turn in the demiplane is wracked with pain and mental torment, taking 2d8 Psychic damage; when you take this Psychic damage from the spell, it doesn't break your Concentration.
 
-Once the spell ends, both you and the target are returned to your original location. If either creature is removed from the demiplane, the spell ends immediately.
+Once the spell ends, all creatures in the demiplane are returned to their original locations. Removing either creature from the demiplane also ends the spell.
 
 _**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, the Psychic damage it deals to creatures in the demiplane increases by 1d8 for each spell slot level above 1st. When you use a spell slot of 5th level or higher, the spell no longer requires Concentration.
 
