@@ -3,7 +3,7 @@
 [Esterfell](../ch-4-esterfell-gazetteer/esterfell.md) has multiple distinct societies, some of which are organized into larger nations.
 
 - [Esterfell Accord](esterfell-accord/esterfell-accord.md)
-- [Subros](subros/subros.md)
+- [Subros](subros.md)
 - [Xiahulia](xiahulia.md)
 - [Mawlin](mawlin.md)
 - [Ramila](ramila.md)
