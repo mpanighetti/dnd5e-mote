@@ -2,11 +2,11 @@
 
 #### Description
 
-Legend speaks of a giant deer with three massive horns atop its head, which appears and disappears within a forest tangled in planar energies. It is from these scarce sightings in the distant past that the [Middlestag Forest](../../ch-4-esterfell-gazetteer/lenya/middlestag-forest.md) was given its name, but none of the local families have any more context on what the Middlestag is, where it comes from, and what it might want when it shows itself. Some have reported seeing this mighty creature appear to rapidly flicker in and out of existence, making it unclear whether what they saw was even real.
+Legend speaks of a giant deer with three massive horns atop its head, which appears and disappears within a forest tangled in planar energies. It is from these scarce sightings in the distant past that the [Middlestag Forest](../../../ch-4-esterfell-gazetteer/lenya/middlestag-forest.md) was given its name, but none of the local families have any more context on what the Middlestag is, where it comes from, and what it might want when it shows itself. Some have reported seeing this mighty creature appear to rapidly flicker in and out of existence, making it unclear whether what they saw was even real.
 
-This cervid is in fact a powerful archfey named **Phygius**. It resides in the Middlestag Forest as well as its intersections with adjacent planes, seemingly jumping erratically between them. Phygius is equally within its domain whether in the forest as it manifests in [Esterfell](../../ch-4-esterfell-gazetteer/esterfell.md) or in the Feywild.
+This cervid is in fact a powerful archfey named **Phygius**. It resides in the Middlestag Forest as well as its intersections with adjacent planes, seemingly jumping erratically between them. Phygius is equally within its domain whether in the forest as it manifests in [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell.md) or in the Feywild.
 
-The leading theory to explain Phygius' strange interplanar nature is that it was transformed by falling [starstuff](../../ch-6-mote-treasures/starstuff.md) millennia ago, possibly during the impact that formed Esterfell itself. Such an infusion of stellar energies could dislodge a sufficiently powerful creature from its attachment to a single plane, causing its body to physically reside in multiple adjacent planes simultaneously and periodically settle on one or another before shifting away again.
+The leading theory to explain Phygius' strange interplanar nature is that it was transformed by falling [starstuff](../../../ch-6-mote-treasures/starstuff.md) millennia ago, possibly during the impact that formed Esterfell itself. Such an infusion of stellar energies could dislodge a sufficiently powerful creature from its attachment to a single plane, causing its body to physically reside in multiple adjacent planes simultaneously and periodically settle on one or another before shifting away again.
 
 It is unclear what effect such a state of being would have on a creature's psyche, and thus far none in Esterfell have reported successfully communicating with Phygius. The courts of the Feywild respect Phygius' power and tend to leave it to its own unknowable devices.
 
@@ -25,7 +25,7 @@ Farmers and hunters in the region might revere the Stag as a minor deity, but th
 
 ##### Cultural references
 
-The Middlestag is mentioned in the song "[Remi O](../../ch-3-stories-of-mote/songs-of-esterfell/remi-o.md)".
+The Middlestag is mentioned in the song "[Remi O](../../songs-of-esterfell/remi-o.md)".
 
 #### Information
 
@@ -38,7 +38,7 @@ The Middlestag is mentioned in the song "[Remi O](../../ch-3-stories-of-mote/son
 
 - classification: archfey
 - alignment: Chaotic Neutral
-- domains: Nature, Feywild
+- domains: Cervids, Feywild, [Middlestag Forest](../../../ch-4-esterfell-gazetteer/lenya/middlestag-forest.md), Nature
 
 #### Attributes
 

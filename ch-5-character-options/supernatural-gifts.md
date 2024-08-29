@@ -1,12 +1,14 @@
 # Supernatural Gifts
 
-Some [deities of Mote](../ch-3-stories/of/mote/pantheons/mote-pantheons.md) might bestow great blessing and gifts upon their devoted followers. The following supernatural gifts are available to characters who perform great deeds of heroism in their gods' names.
+Some [deities of Mote](../ch-3-stories/of/mote/pantheons/mote-pantheons.md) might bestow great blessing and gifts upon their devoted followers. The following supernatural gifts are available to characters who perform great deeds of heroism on behalf of their gods or divine domains.
 
 ## [Blessing of Foresight](https://github.com/mpanighetti/dnd5e-feats/blob/main/supernatural-gifts/blessings/blessing-of-foresight.md)
 
 _Supernatural Gift (Blessing)_
 
-[Istus](../ch-3-stories-of-mote/pantheons/multiverse-deities/istus.md) has blessed you with the ability to tap into the weavings of fate and glimpse future events. This foreknowledge allows you to bend fate slightly, potentially changing the outcome of your personal destiny.
+**Suggested Domains:** Fate, Destiny, Divination, Future Events, Knowledge
+
+You are blessed with the ability to tap into the weavings of fate and glimpse future events. This foreknowledge allows you to bend fate slightly, potentially changing the outcome of your personal destiny.
 
 Once per week during a Long Rest, you receive a prophetic vision of future events affecting you and your party in the form of a dream. Roll on the **Clarity** and **Portent** tables to determine the nature and topic of the vision; the DM relays your vision based on these rolls.
 
