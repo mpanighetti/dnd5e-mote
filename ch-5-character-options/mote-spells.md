@@ -27,7 +27,7 @@ The demiplane takes on a disturbing appearance of your choosing each time you en
 
 Once the spell ends, all creatures in the demiplane are returned to their original locations. Removing you or the target from the demiplane also ends the spell.
 
-_**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, the Psychic damage it deals to creatures in the demiplane increases by 1d8 for each spell slot level above 1st. When you use a spell slot of 5th level or higher, the spell no longer requires Concentration.
+_**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, the Psychic damage it deals to creatures in the demiplane increases by 1d8 for each spell slot level above 1st. Additionally, when you use a spell slot of 5th level or higher, the spell no longer requires Concentration.
 
 ### [Pass Without Note](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/pass-without-note.md)
 
