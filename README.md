@@ -62,7 +62,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Lenya](ch-4-esterfell-gazetteer/lenya/lenya.md)
 - [Malagwa](ch-4-esterfell-gazetteer/malagwa.md)
 - [Yggru](ch-4-esterfell-gazetteer/yggru/yggru.md)
-- Other Lands of Mote
+- [Other Lands of Mote](ch-4-esterfell-gazetteer/other-lands-of-mote.md)
 
 ### [Chapter 5: Character Options](ch-5-character-options)
 
