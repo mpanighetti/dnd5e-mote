@@ -1,6 +1,6 @@
 # Tybalt
 
-**Tybalt** runs the [Ëaruilë](../../../ch-2-people-of-mote/societies/esterfell-accord/earuile.md) chapter of [Reynard's Den](../reynards-den.md). She primarily recruits tieflings as a means of providing them with work and protections.
+**Tybalt** runs the [Ëaruilë](../../../societies/esterfell-accord/earuile.md) chapter of [Reynard's Den](../reynards-den.md). She primarily recruits tieflings as a means of providing them with work and protections.
 
 ## Information
 

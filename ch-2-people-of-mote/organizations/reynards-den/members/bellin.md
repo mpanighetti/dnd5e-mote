@@ -1,6 +1,6 @@
 # Bellin
 
-**Bellin** heads the [Hewpass](../../../ch-2-people-of-mote/societies/esterfell-accord/hewpass.md) chapter of [Reynard's Den](../reynards-den.md).
+**Bellin** heads the [Hewpass](../../../societies/esterfell-accord/hewpass.md) chapter of [Reynard's Den](../reynards-den.md).
 
 ## Information
 

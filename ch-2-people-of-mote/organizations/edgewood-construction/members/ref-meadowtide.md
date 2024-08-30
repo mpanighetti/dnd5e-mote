@@ -1,6 +1,6 @@
 # Ref Meadowtide
 
-**Ref Meadowtide** is the foreperson overseeing [construction](../edgewood-construction.md) jobs in [Edgewood](../../../ch-2-people-of-mote/societies/esterfell-accord/edgewood/edgewood.md).
+**Ref Meadowtide** is the foreperson overseeing [construction](../edgewood-construction.md) jobs in [Edgewood](../../../societies/esterfell-accord/edgewood/edgewood.md).
 
 ## Information
 
@@ -15,4 +15,4 @@
 
 ## Relationships
 
-- [Tendra Meadowtide](../../../ch-2-people-of-mote/societies/esterfell-accord/citizenry/tendra-meadowtide.md) (daughter)
+- [Tendra Meadowtide](../../../societies/esterfell-accord/citizenry/tendra-meadowtide.md) (daughter)
