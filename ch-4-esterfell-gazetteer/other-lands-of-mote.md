@@ -4,21 +4,20 @@ The [starstuff](../ch-6-mote-treasures/starstuff.md)-infused continent of [Ester
 
 This section describes some of these other lands of Mote from the perspective of a person from Esterfell: as a vague ancestral land with which they have no modern communication or knowledge, ultimately a collection of stories passed down family lines. Venturing beyond the seas of Mote to discover the current state of these lands might form the foundation of its own epic quest.
 
-## Datorim
-
-The largest land mass on Mote, Datorim was host to multiple societies in ancient times, and many people of Esterfell trace their lineages to this continent. By the time of Esterfell's starstuff impact event, four great kingdoms had carved out their own portions of Datorim:
-
-- Athis, a consortium of dwarven families who collectively strip-mined the hillsides of eastern Datoria
-- Dorin, 
-- Ëaruilë, a society of elves ruled by King Ëaros, who claimed to hail from the dawn of civilization on Mote
-- Lomba, a human royal lineage going back over thirty generations
-
-
-These nations all sent fleets of ships in response to the starfall, eager to gather new resources in bids for power, but when none of these vessels returned or reported back, the consensus of the times was that the seas were too perilous to navigate, and the ships were written off as lost to terrible beasts or the elements.
-
 ## Maboroshi
 
 
+
+## Olim
+
+The largest land mass on Mote, Olim was host to multiple societies in ancient times, and many people of Esterfell trace their lineages to this continent. By the time of Esterfell's starstuff impact event, four kingdoms had carved out their own portions of Olim:
+
+- Athæn, a consortium of dwarven and orcish families who collectively strip-mined the mountains of eastern Datoria to build a mighty empire
+- Dormina, born of a union between a mortal of Mote and a powerful fey that caused a transplanar merging of countries
+- Lombos, a human nation led by a royal lineage going back over thirty generations
+- Zyre, a society of elves ruled by King Zyrodin, who claimed to hail from the dawn of civilization on Mote
+
+These nations all sent fleets of ships in response to the starfall, eager to gather new resources in bids for power, but when none of these vessels returned or reported back, the consensus of the times was that the seas were too perilous to navigate, and the ships were written off as lost to terrible beasts or the elements.
 
 ## Vesta
 
