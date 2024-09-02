@@ -1,6 +1,6 @@
 # Malagwan Expeditions
 
-**Malagwan Expeditions** is an adventuring guild taking jobs along the west coast of [Lenya](../../../ch-4-esterfell-gazetteer/lenya/lenya.md) and across the [Strait of Shallows](../../../ch-4-esterfell-gazetteer/waters/strait-of-shallows.md) to [Malagwa](../../../ch-4-esterfell-gazetteer/malagwa.md) and [Barria](../../../ch-4-esterfell-gazetteer/barria.md). Sellswords affiliated with Malagwan Expeditions operate out of [Fleuderton](../../societies/esterfell-accord/fleuderton/fleuderton.md), using the [Siren's Shanty](../../societies/esterfell-accord/fleuderton/sirens-shanty.md) as a base of operations.
+**Malagwan Expeditions** is an adventuring guild taking jobs along the west coast of [Lenya](../../../ch-4-esterfell-gazetteer/lenya/lenya.md) and across the [Strait of Shallows](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell/strait-of-shallows.md) to [Malagwa](../../../ch-4-esterfell-gazetteer/malagwa.md) and [Barria](../../../ch-4-esterfell-gazetteer/barria.md). Sellswords affiliated with Malagwan Expeditions operate out of [Fleuderton](../../societies/esterfell-accord/fleuderton/fleuderton.md), using the [Siren's Shanty](../../societies/esterfell-accord/fleuderton/sirens-shanty.md) as a base of operations.
 
 ## Members
 
