@@ -48,10 +48,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Pantheons](ch-3-stories-of-mote/pantheons/mote-pantheons.md)
   - [Ancient Mote Pantheon](ch-3-stories-of-mote/pantheons/mote-pantheons.md#ancient-mote-pantheon)
   - [Esterfell Pantheon](ch-3-stories-of-mote/pantheons/mote-pantheons.md#esterfell-pantheon)
-    - [Phygius](ch-3-stories-of-mote/pantheons/esterfell-deities/phygius.md)
-    - [Ramil](ch-3-stories-of-mote/pantheons/esterfell-deities/ramil.md)
   - [Borrowed Pantheon](ch-3-stories-of-mote/pantheons/mote-pantheons.md#borrowed-pantheon)
-    - [Istus](ch-3-stories-of-mote/pantheons/multiverse-deities/istus.md)
 - [Songs of Esterfell](ch-3-stories-of-mote/songs-of-esterfell)
 - [Waypoints](ch-3-stories-of-mote/waypoints.md)
 
