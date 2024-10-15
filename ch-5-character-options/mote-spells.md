@@ -14,7 +14,7 @@ The spells are presented in alphabetical order.
 
 ### [Kyran's Gambit](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/kyrans-gambit.md)
 
-_1st-level Abjuration_ (Rogue (Arcane Trickster), Warlock)
+_Level 1 Abjuration_ (Rogue (Arcane Trickster), Warlock)
 
 - **Casting Time:** Action
 - **Range:** Touch
