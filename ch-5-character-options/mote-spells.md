@@ -18,7 +18,7 @@ _Level 1 Abjuration_ (Rogue (Arcane Trickster), Warlock)
 
 - **Casting Time:** Action
 - **Range:** Touch
-- **Components:** V, S, M (a drop of the target's blood which the spell consumes)
+- **Components:** V, S, M (a drop of the target's blood, which the spell consumes)
 - **Duration:** Concentration, up to 1 minute
 
 You attempt to drag a creature you touch to another plane of existence to confront them alone. The target must succeed on a Charisma saving throw, or both you and the target are banished to a demiplane for the duration. The spell fails if you or the target are prevented from planeshifting.
