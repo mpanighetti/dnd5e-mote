@@ -13,7 +13,7 @@ The spells are presented in alphabetical order.
 
 ### [Pass Without Note](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/pass-without-note.md)
 
-_2nd-level Enchantment_ (Bard, Sorcerer, Warlock, Wizard)
+_Level 2 Enchantment_ (Bard, Sorcerer, Warlock, Wizard)
 
 - **Casting Time:** Action
 - **Range:** Self
