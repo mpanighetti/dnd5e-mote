@@ -23,7 +23,7 @@ _Level 1 Abjuration_ (Rogue (Arcane Trickster), Warlock)
 
 You attempt to drag a creature you touch to another plane of existence to confront them alone. The target must succeed on a Charisma saving throw, or both you and the target are banished to a demiplane for the duration. The spell fails if you or the target are prevented from planeshifting.
 
-The demiplane takes on a disturbing appearance of your choice each time you enter it. Damage dealt to a creature in this demiplane that would reduce them to 0 Hit Points instead reduces them to 1 Hit Point. A creature that starts their turn in the demiplane is wracked with pain and mental torment, taking 2d8 Psychic damage. If you are the caster of this spell and take this Psychic damage, the damage can't be reduced or prevented in any way, and it doesn't break your Concentration.
+The demiplane takes on a disturbing appearance of your choice each time you enter it. Damage dealt to a creature in this demiplane that would reduce them to 0 Hit Points instead reduces them to 1 Hit Point. A creature that starts their turn in the demiplane is wracked with pain and mental torment, taking 2d8 Psychic damage. If you are the caster of this spell and take this Psychic damage, the damage can't be reduced or prevented in any way, and it doesn't break your Concentration to maintain this spell.
 
 Once the spell ends, all creatures in the demiplane are returned to their original locations. Removing you or the target from the demiplane also ends the spell.
 
