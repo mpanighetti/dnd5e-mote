@@ -22,6 +22,7 @@ As a spark, you have the following special traits.
 
 _**Mechanical Nature.**_ Your artificial body grants the following benefits:
 
+- You have resistance to the Paralyzed condition and to Poison.
 - You use your Constitution modifier when determining your Armor Class instead of your Dexterity modifier, unless your Constitution modifier is already being added to your AC by another source, such as a Barbarian's Unarmored Defense.
 - You don't need to eat, drink, or breathe.
 - If the _mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
@@ -41,17 +42,3 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 | **Soldier**    | Athletics and one weapon of your choice | _true strike_ | You gain a +1 bonus to your Armor Class. |
 | **Spy**        | Deception and Stealth | _minor illusion_ | Once on each of your turns when you take the Hide action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
 | **Tinker**     | Two Artisan's Tools of your choice | _mending_ | Once on each of your turns when you take the Utilize action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
-
-## Variant sparks
-
-### Autognome
-
-#### Description
-
-Some constructs were built to resemble their [gnomish](gnome.md) creators, with mechanical components comprising their stout physical bodies. The artificing techniques perfected by rock gnomes over many generations resulted in strange devices such as portable furnaces and milling machines, but it was only through the infusion of starstuff that they gained self-awareness. Autognomes often find themselves compelled to continue carrying out their original mechanical functions, but their sentience allows them to override this compulsion and seek out new fortunes.
-
-### Warforged
-
-#### Description
-
-Before the founding of the [Esterfell Accord](../../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md), artificers were employed by various nation-states to develop humanoid constructs as weapons of war. These were mindless machines, and though they were able to carry out basic tasks in combat, their prohibitive cost and limited utility meant they were rarely utilized in most skirmishes. After peace treaties were signed and the Accord was established, these sentries fell out of regular use and were generally scrapped for parts. Once the techniques for granting sentience to constructs with starstuff were discovered, some of these older units awakened to a new unfamiliar world. These beings struggle to find their purpose in a world that has lost its need for weapons of war.
