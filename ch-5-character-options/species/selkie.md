@@ -23,7 +23,7 @@ Selkie families immigrated to Esterfell alongside the early human tribes, hiding
 - _**Senses:**_ Darkvision 60 feet, Blindsight 5 feet (seal form) (**Selkie Skin**)
 - _**Life Span:**_ 70-80 years on average
 
-As a selkie, you have the following special traits.
+As a selkie, you have these special traits.
 
 _**Aquatic Fortitude.**_ A life spent traversing the icy ocean depths has given you a hardy resilience. You gain Resistance to Cold damage, and While you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
 
