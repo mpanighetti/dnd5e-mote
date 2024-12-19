@@ -18,7 +18,7 @@ An hour is 60 minutes, or 3,600 seconds.
 
 ### Day
 
-A day is the time period of a full rotation of Mote with respect to its sun. On average, this is 24 hours (86,400 seconds), when not extended during a lunar day.
+A day, also known as a solar day, is the time period of a full rotation of Mote with respect to its sun. On average, this is 24 hours (86,400 seconds), when not extended during a lunar day.
 
 #### Lunar Day
 
@@ -34,19 +34,17 @@ A month is the time period of a full orbit of a moon around Mote. This period va
 - [Bathýs-Pelan](cosmology/moons/bathys-pela.md) month: 8 days
 - [Dreg](cosmology/moons/dreg.md): 42 days
 
-Note that these are average durations, as the length of a month will vary depending on whether a lunar day has occurred within the orbital period.
+Note that these are minimal durations, as the length of a month will be extended when one or more lunar days occur within the orbital period.
 
-The two common calendar systems in Esterfell use Kiva's orbit as the measure of a month, though both take different approaches to the eccentricity of this period.
+The two common calendar systems in Esterfell use Kiva's orbit as the measure of a month, though both take different approaches to addressing the eccentricity of this period.
 
 ### Year
 
-A year is the time period of a full orbit of Mote around its sun, marking a full cycle of the seasons. This revolution takes approximately 336 days (or 29,030,400 seconds). Though the length of a Mote year is unaffected by lunar days, the perturbations of the sun and other celestial bodies can result in a slightly slower or faster revolution.
+A year is the time period of a full orbit of Mote around its sun, marking a full cycle of the seasons. This revolution takes approximately 336 days (or 29,030,400 seconds). Though the length of a Mote year and the periods of seasons are unaffected by lunar days, the perturbations of the sun and other celestial bodies can result in a slightly slower or faster revolution.
 
 ## Calendar Systems
 
-The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/esterfell.md) are the **Kivan Standard**, the **Darkharvest**, and the **Tides of Fathoms**. All three calendars divide the year into months marked roughly by the movement of a moon of Mote.
-
-A list of significant approximate dates are included for each calendar, including events with equivalents on all calendars, such as the advent of the seasons.
+The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/esterfell.md) are the **Kivan Standard**, the **Harvest Calendar**, and the **Tides of Fathoms**. All three calendars divide each year into months marked roughly by the movement of a moon of Mote.
 
 ### Kivan Standard
 
@@ -54,7 +52,7 @@ A list of significant approximate dates are included for each calendar, includin
 - **Introduction:** 1 KS
 - **Usage:** [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md), [Subros](../ch-2-people-of-mote/societies/subros.md), [Verdancy](../ch-2-people-of-mote/societies/verdancy/verdancy.md)
 
-A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which can cause the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit, making it difficult to account for the disruption lunar days can cause when determining the day of a week or the length of a month.
+A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which causes the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This can make it difficult to account for the disruption lunar days can cause when determining the day of a week or the length of a month.
 
 ##### Kivan Standard Months
 | Number | Name   |
@@ -78,66 +76,25 @@ A week on the Kivan Standard calendar is a period of 7 days, which is exactly on
 
 #### Kivan Standard Year Systems
 
-As the Esterfell settlers departed their ancient shores, they kept tracking the years with the Kivan Standard, dutifully counting the passage of time since year 1. Though the significance of this epoch has long been lost to the modern people of Esterfell, the numbering has remained intact; for example, Esterfell was settled by the first waves of immigrants starting in 3128.
+As the Esterfell settlers departed their ancient shores, they continued to track the years using the Kivan Standard, dutifully marking the passage of time since year 1. Though the significance of this epoch has long been lost to the modern people of Esterfell, the numbering has remained intact; for example, Esterfell was settled by the first waves of immigrants starting in 1128.
 
-After the Esterfell Accord formed their union, the fledgling nation created a new system of tracking the years known as **Ambulare Populi** (abbreviated as "**AP**"). The name comes from an ancient Mote language and means "walk of the people". The Kaishi following the signing of the Accord on 23 Bhán 3181—known within the Accord as "Union Day"—thus became 1 AP under the Accord's new year system.
+After the Esterfell Accord formed their union, the fledgling nation kept the existing Kivan months and seasons, but created a new system of tracking the years known as **Ambulare Populi** (abbreviated as "**AP**"). The name comes from an ancient Mote language and means "walk of the people". The first day of Kaishi following the signing of the Accord on 23 Bhán 1181—known within the Accord as "Union Day"—thus marked the advent of 1 AP, starting the Accord's new year system.
 
-The nation of Subros, having no particular allegiance to the Accord or deference to their holidays, continued to track their years from the ancient world. Esterfolk will also occasionally refer to the old year system, either when engaging in trade with Subrosians or when referring to pre-Accord historical events. When a distinction is needed, the abbreviation "**KS**" is sometimes used. Farmers tracking [Darkharvest](#darkharvest) seasonal cycles will use whichever numbering system aligns with their home nation, and their tendency to switch between the systems means Darkharvest almanacs are common references for quick conversions.
+The nation of Subros, having no particular allegiance to the Accord or deference to their holidays, continued to track their years from the ancient world. Esterfolk will also occasionally refer to the old year system, either when engaging in trade with Subrosians or when referring to pre-Accord historical events. When a distinction is needed, the abbreviation "**KS**" is sometimes used. Farmers tracking seasonal cycles with the [Harvest Calendar](#harvest-calendar) will use whichever numbering system aligns with their home nation, and their tendency to switch between the systems means farmers' almanacs are popular references in multiple societies for quick conversions.
 
-#### Kivan Standard Dates
-
-- 14 Bréa: Vernal Equinox
-- 14 Mull: Summer Solstie
-- 14 Kret: Autumnal Equinox
-- 23 Bhán 3181: Union Day (Esterfell Accord)
-- 14 Dyrth: Winter Solstice
-
-### Tides of Fathoms
-
-- **Type:** lunar (Kiva)
-- **Introduction:** ancient Mote
-- **Usage:** [Xiahulia](../ch-2-people-of-mote/societies/xiahulia.md)
-
-The Tides of Fathoms divide the year into twelve months based directly and exclusively on Kiva's orbital period. The number of days in a Tidal month or Tidal year thus vary depending on whether a lunar day occurs during that period of time, as the Xiahuli include these days in a given month to keep their measures consistent with Kiva's varying orbital period and the resulting tidal forces.
-
-##### Tidal Months
-| Number | Name   |
-|:-------|:-------|
-| 1      | Pela   |
-| 2      | Aphotis|
-| 3      | Abyssi |
-| 4      | Demer  |
-| 5      | Benthis|
-| 6      | Hados  |
-| 7      | Bathýs |
-| 8      | Meso   |
-| 9      | Epiphis|
-| 10     | Photic |
-| 11     | Stratos|
-| 12     | Tropos |
-
-The Xiahuli ascribe the months to specific oceanic depths, seeing the movement of Kiva as a great float bobbing up and down through the seas of Mote. The months are named after these depths and broadly describe Kiva's mythological journey to the deepest point on the ocean floor in the month of Bathýs at winter time, then back up to the surface in the summer month of Pela. The binary Bathýs-Pela moon system acts as an emblem of these two extremes.
-
-#### Tidal Dates
-
-- 1 Pela: Summer Solstice
-- 1 Demer: Autumnal Equinox
-- 1 Bathýs: Winter Solstice
-- 1 Photic: Vernal Equinox
-
-### Darkharvest
+### Harvest Calendar
 
 - **Type:** lunisolar (Dreg)
 - **Introduction:** ancient Mote
 - **Usage:** agrarian groups within the [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md), [Subros](../ch-2-people-of-mote/societies/subros.md), and [Verdancy](../ch-2-people-of-mote/societies/verdancy/verdancy.md)
 
-The Darkharvest calendar is unique among the systems employed by Esterfell societies, as it uses Dreg's longer orbital period as a reference point to mark the months rather than Kiva. A Dreg month (often called a dreg for short) is 42 days long when not influenced by lunar days, meaning there are 8 dregs in a Darkharvest year.
+The Harvest Calendar is unique among the systems employed by Esterfell societies, as it uses Dreg's longer orbital period as a reference point to mark the months rather than Kiva. A Dreg month (often called a dreg for short) is 42 days long when not influenced by lunar days, meaning there are 8 dregs in a harvest year.
 
-As the name suggests, this system tracks the dregs and seasons for the purpose of farming and harvesting crops. Seed and Douse mark the start of the spring season when the earliest planted crops begin to sprout and bloom, Harsh and Blight are the hot summer months, Thresh and Still are the autumn period when many crops are harvested, and Kiln and Fray bridge the coldest winter days.
+As the name suggests, this system tracks the dregs and seasons for the purpose of farming and harvesting crops. Seed and Douse mark the start of the spring season when the earliest crops are planted, Harsh and Blight are the hot summer months when planting slows, Thresh and Still are the autumn period when many crops are harvested, and Kiln and Fray bridge the coldest winter days when harvests are used to sustain families when plant growth ceases.
 
-Although Darkharvest marks its months in dregs, the requirement to align with a season for agrarian accuracy means it must necessarily ignore random lunar days when measuring the year overall. The solution for this discrepancy varies by farmstead and by region, but when date precision is required for scheduling the planting of crops, the most typical approach is to add an extra day to a given dreg, and to force the advent of spring to the start of the year at 1 Seed, regardless of how much progress Dreg has made in its orbit.
+Although a harvest year marks its months in dregs, the requirement to align with a season for agrarian accuracy means it must necessarily ignore random lunar days when measuring the year overall. When date precision is required for scheduling crop production, the most typical approach is to add extra days to a dreg where a particularly lengthy lunar day occurs, forcing the advent of each season to their fixed dates (1 Seed for spring, 1 Harsh for summer, 1 Thresh for autumn, and 1 Kiln for winter) and ignoring the actual progress Dreg has made in its newly extended orbit.
 
-##### Darkharvest Dregs
+##### Harvest Dregs
 | Number | Name   |
 |:-------|:-------|
 | 1      | Seed   |
@@ -149,10 +106,46 @@ Although Darkharvest marks its months in dregs, the requirement to align with a 
 | 7      | Kiln   |
 | 8      | Fray   |
 
-#### Darkharvest Dates
+### Tides of Fathoms
 
-- 1 Seed: Vernal Equinox
-- 1 Harsh: Summer Solstice
-- 1 Thresh: Autumnal Equinox
-- 38 Thresh 3181: Union Day (Esterfell Accord)
-- 1 Kiln: Winter Solstice
+- **Type:** lunar (Kiva)
+- **Introduction:** ancient Mote
+- **Usage:** [Xiahulia](../ch-2-people-of-mote/societies/xiahulia.md)
+
+The Tides of Fathoms divide the year into twelve months based directly and exclusively on Kiva's orbital period. The number of days in a tidal month or tidal year thus vary depending on whether a lunar day occurs during that period of time, as the Xiahuli include these days in a given month to keep their measures consistent with Kiva's varying orbital period and the resulting tidal forces.
+
+##### Tidal Months
+| Number | Name    |
+|:-------|:--------|
+| 1      | Pela    |
+| 2      | Aphotis |
+| 3      | Abyssi  |
+| 4      | Demer   |
+| 5      | Benthis |
+| 6      | Hados   |
+| 7      | Bathýs  |
+| 8      | Meso    |
+| 9      | Epiphis |
+| 10     | Photic  |
+| 11     | Stratos |
+| 12     | Tropos  |
+
+The Xiahuli ascribe the months to specific oceanic depths, seeing the movement of Kiva as a great float bobbing up and down through the seas of Mote. The months are named after these depths and broadly describe Kiva's mythological journey to the deepest point on the ocean floor in the month of Bathýs at winter time, then back up to the surface in the summer month of Pela, which marks the start of the year. The binary Bathýs-Pela moon system acts as an emblem of these two extremes.
+
+The Tides of Fathoms predate any other calendar system currently practiced on Mote, going back tens of thousands of years to times exceeding any modern society's memory. Absolute tidal years are not counted with any consistency, as the Xiahuli consider a year to be an eternal cycle of creation, growth, destruction, and restoration. Specificity is typically only necessary when communicating with landfolk, in which case the seafolk might borrow the Kivan Standard Year or Ambularae Populi.
+
+## Significant Dates
+
+The **Significant Dates by Calendar** table approximately marks any dates deemed worthy of tracking by the people of Esterfell, and compares these dates across each calendar system to act as a conversion table, similar to those that appear in farmers' almanacs to assist with international commerce. Dates that occur every year, such as the marking of the seasons, are listed in the relative order they occur, starting with the first day of spring. After that, dates of historical significane are presented in absolute date order.
+
+Note that these dates are not exact or perfectly consistent between calendar systems, as each has its own method of addressing or ignoring lunar days when calculating a date and the length of a year. All date conversions below assume a year with no lunar days.
+
+##### Significant Dates by Calendar
+| Kivan Standard | Harvest | Tide of Fathoms | Event |
+|:---------------|:--------|:----------------|:------|
+| 14 Bréa | 1 Seed | 1 Photic | Vernal Equinox |
+| 14 Mull | 1 Harsh | 1 Pela | Summer Solstice |
+| 14 Kret | 1 Thresh | 1 Demer | Autumnal Equinox |
+| 14 Dyrth | 1 Kiln | 1 Bathýs | Winter Solstice |
+| 6 Griv 1128 KS | 7 Fray 1127 KS | | The first immigrant ship arrives in Esterfell |
+| 23 Bhán 1181 KS | 38 Thresh 1181 KS | | Union Day (Esterfell Accord) |
