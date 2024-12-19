@@ -6,7 +6,7 @@
 
 ### Second
 
-A second is an arbitrary small unit of time which divides larger timekeeping measurements.
+A second, sometimes referred to as a "moment", is an arbitrary small unit of time which divides larger timekeeping measurements.
 
 ### Minute
 
