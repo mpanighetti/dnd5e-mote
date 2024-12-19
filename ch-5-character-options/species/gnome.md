@@ -26,11 +26,11 @@ The hot stretches of Barrian desert drew in the dust gnomes, who helped establis
 
 As a dust gnome, you have the following special traits.
 
-_**Dust Magic.**_ You know the _mold earth_ Cantrip. Starting at 3rd level, you can cast the _earth tremor_ Spell with this trait. Starting at 5th level, you can also cast the _earthbind_ Spell with it. Once you cast either of these Spells with this trait, you can't cast that spell with it again until you finish a Long Rest; however, you can cast the Spell using any Spell Slots you have of the appropriate level.
+_**Dust Magic.**_ You know the _mold earth_ cantrip. Starting at 3rd level, you can cast the _earth tremor_ spell with this trait. Starting at 5th level, you can also cast the _earthbind_ spell with it. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a Long Rest; however, you can cast the spell using any spell slots you have of the appropriate level.
 
-Intelligence, Wisdom, or Charisma is your spellcasting ability for the Spells you cast with this trait (choose the ability when you select the lineage).
+Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
-_**Gnomish Cunning.**_ You have Advantage on Intelligence, Wisdom, and Charisma Saving Throws.
+_**Gnomish Cunning.**_ You have Advantage on Intelligence, Wisdom, and Charisma saving throws.
 
 _**Waterdowsers.**_ You are naturally adapted to hot climates. When you are in such an environment, you have Advantage on Wisdom (Survival) and Wisdom (Perception) checks to forage or navigate within the environment.
 
