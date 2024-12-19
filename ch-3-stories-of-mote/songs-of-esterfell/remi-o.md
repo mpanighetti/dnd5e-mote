@@ -20,11 +20,11 @@
 >
 > Sweet Remi, my Remi
 >
-> O'er a ten-day gone by
+> O'er ten days gone by
 >
 > With nary a word nor a sound
 >
-> In the woods did poor Remi
+> In the woods, did poor Remi
 >
 > Fall down and die?
 >
