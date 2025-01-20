@@ -52,7 +52,7 @@ The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazette
 - **Introduction:** 1 KS
 - **Usage:** [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md), [Subros](../ch-2-people-of-mote/societies/subros.md), [Verdancy](../ch-2-people-of-mote/societies/verdancy/verdancy.md)
 
-A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which causes the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This can make it difficult to account for the disruption lunar days can cause when determining the day of a week or the length of a month.
+A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which causes the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This can make it difficult to account for the disruption lunar days can cause when determining the day of a week, the length of a month, or when an annual event aligns with the seasons.
 
 ##### Kivan Standard Months
 | Number | Name   |
@@ -72,7 +72,7 @@ A Kivan Standard year is divided into twelve months of twenty-eight days each, m
 
 The Kivan Standard was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from deities of the [ancient Mote pantheon](../ch-3-stories-of-mote/pantheons/mote-pantheons.md#ancient-mote-pantheon), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
 
-A week on the Kivan Standard calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not impacted by the eccentricity of lunar orbits.
+A week on the Kivan Standard calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not generally impacted by the eccentricity of lunar orbits.
 
 #### Kivan Standard Year Systems
 
@@ -92,7 +92,7 @@ The Harvest Calendar is unique among the systems employed by Esterfell societies
 
 As the name suggests, this system tracks the dregs and seasons for the purpose of farming and harvesting crops. Seed and Douse mark the start of the spring season when the earliest crops are planted, Harsh and Blight are the hot summer months when planting slows, Thresh and Still are the autumn period when many crops are harvested, and Kiln and Fray bridge the coldest winter days when harvests are used to sustain families when plant growth ceases.
 
-Although a harvest year marks its months in dregs, the requirement to align with a season for agrarian accuracy means it must necessarily ignore random lunar days when measuring the year overall. When date precision is required for scheduling crop production, the most typical approach is to add extra days to a dreg where a particularly lengthy lunar day occurs, forcing the advent of each season to their fixed dates (1 Seed for spring, 1 Harsh for summer, 1 Thresh for autumn, and 1 Kiln for winter) and ignoring the actual progress Dreg has made in its newly extended orbit.
+Although a harvest year marks its months in dregs, the requirement to align with a season for agrarian accuracy means it must necessarily ignore random lunar days when measuring the year overall. When date precision is required for scheduling crop production, the most typical approach is to force the advent of each season to its fixed date (1 Seed for spring, 1 Harsh for summer, 1 Thresh for autumn, and 1 Kiln for winter) and ignore the extra lengths of time added to a given dreg.
 
 ##### Harvest Dregs
 | Number | Name   |
@@ -136,7 +136,7 @@ The Tides of Fathoms predate any other calendar system currently practiced on Mo
 
 ## Significant Dates
 
-The **Significant Dates by Calendar** table approximately marks any dates deemed worthy of tracking by the people of Esterfell, and compares these dates across each calendar system to act as a conversion table, similar to those that appear in farmers' almanacs to assist with international commerce. Dates that occur every year, such as the marking of the seasons, are listed in the relative order they occur, starting with the first day of spring. After that, dates of historical significane are presented in absolute date order.
+The **Significant Dates by Calendar** table approximately marks any dates deemed worthy of tracking by the people of Esterfell, and compares these dates across each calendar system to act as a conversion table, similar to those that appear in farmers' almanacs to assist with international commerce. Dates that occur every year, such as the marking of the seasons, are listed in the relative order they occur, starting with the first day of spring. After that, dates of historical significance are presented in absolute date order.
 
 Note that these dates are not exact or perfectly consistent between calendar systems, as each has its own method of addressing or ignoring lunar days when calculating a date and the length of a year. All date conversions below assume a year with no lunar days.
 
