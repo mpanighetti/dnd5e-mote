@@ -1,10 +1,10 @@
 # Esterfell Sea
 
-The **Esterfell Sea** is a vast body of water in [Lenya](../lenya.md). It is the impact site of a [starstuff](../../../ch-6-mote-treasures/starstuff.md) asteroid in prehistory which shaped most of [Esterfell](../../esterfell.md)'s modern features.
+The **Esterfell Sea** is a vast freshwater inland sea in [Lenya](../lenya.md). It is the impact site of a [starstuff](../../../ch-6-mote-treasures/starstuff.md) asteroid in prehistory which shaped most of [Esterfell](../../esterfell.md)'s modern features.
 
 ## Geography
 
-The Esterfell Sea has several islands: in addition to [Cassiopeia Island](cassiopeia-island.md) and [Deepfield Island](deepfield-island.md), an archipelago known as [The Scattered](the-scattered.md) marks the rough center of the sea.
+The Esterfell Sea has several islands: in addition to [Kashio](kashio.md) and [Deepfield](deepfield.md), an archipelago known as [The Scattered](the-scattered.md) marks the rough center of the sea.
 
 ## Rivers
 
