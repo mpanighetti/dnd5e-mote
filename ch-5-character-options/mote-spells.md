@@ -27,7 +27,7 @@ The demiplane takes on a disturbing appearance of your choice each time you ente
 
 Once the spell ends, all creatures in the demiplane are returned to their original locations. Removing you or the target from the demiplane also ends the spell.
 
-_**Using a Higher-Level Spell Slot.**_ The damage dealt by starting a turn in the demiplane increases by 1d8 for each spell slot level above 1. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 10 minutes (level 5–6 slot), 1 hour (level 7–8 slot), or until dispelled (level 9 slot).
+_**Using a Higher-Level Spell Slot.**_ The damage dealt by starting a turn in the demiplane increases by 1d8 for each spell slot level above 1. Additionally, if you use a level 5+ spell slot, the spell doesn't require Concentration, and if you use a level 6+ spell slot, it lasts until dispelled. This spell can be cast in place of a Mystic Arcanum spell you know as if it were cast using a spell slot of that spell's level, expending the use of that spell.
 
 ### [Pass Without Note](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/pass-without-note.md)
 
