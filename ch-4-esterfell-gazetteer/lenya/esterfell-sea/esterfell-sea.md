@@ -8,4 +8,4 @@ The Esterfell Sea has several islands: in addition to [Kashio](kashio.md) and [D
 
 ## Rivers
 
-Esterfell Sea is fed by [Tillë Falls](../attalya-mountains/tille-peak/tille-falls.md) and the [Roiling River](../attalya-mountains/taltol-peak/roiling-river.md), and empties into the [Great Seam](../great-seam.md) via [Quench River](../quench-river.md).
+Esterfell Sea is fed by [Tillë Falls](../attalya-mountains/tille-peak/tille-falls.md) and the [Roiling River](../attalya-mountains/taltol-peak/roiling-river.md), and empties into the [Great Seam](../great-seam.md) via [Quench River](../quench-river.md) to the east, and up the [Norgrad Canal](../norgrad-canal.md) to the northern oceans.
