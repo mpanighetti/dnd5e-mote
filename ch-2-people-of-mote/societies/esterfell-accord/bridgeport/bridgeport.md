@@ -1,6 +1,6 @@
 # Bridgeport
 
-**Bridgeport** is a town on [Cassiopeia Island](../../../../ch-4-esterfell-gazetteer/lenya/esterfell-sea/cassiopeia-island.md) in the [Esterfell Sea](../../../../ch-4-esterfell-gazetteer/lenya/esterfell-sea/esterfell-sea.md), marking a midpoint for the [Bridge of Commerce](../road-of-commerce.md) across the western edge of the Sea between [Gracia](../gracia.md) and [Tillë](../tille.md).
+**Bridgeport** is a town on the island of [Kashio](../../../../ch-4-esterfell-gazetteer/lenya/esterfell-sea/kashio.md) in the [Esterfell Sea](../../../../ch-4-esterfell-gazetteer/lenya/esterfell-sea/esterfell-sea.md), marking a midpoint for the [Bridge of Commerce](../road-of-commerce.md) across the western edge of the Sea between [Gracia](../gracia.md) and [Tillë](../tille.md).
 
 ## Locations
 
