@@ -25,23 +25,23 @@ Gina's skin resembles that of a cuttlefish, with intricate colorful patterns tha
 
 ## Stat block
 
-#### Atributes
+#### Attributes
 
-_Medium celestial (reigar), chaotic neutral_
+_Medium Celestial (Reigar), Chaotic Neutral_
 
-- **Armor Class** 17 (Glory)
-- **Hit Points** 49 (9d8 + 9)
-- **Speed** 30 ft., swim 30 ft.
+- **AC** 17 (Glory) **Initiative** +2 (12)
+- **HP** 49 (9d8 + 9)
+- **Speed** 30 ft., Swim 30 ft.
 
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|14 (+2)|15 (+2)|12 (+1)|14 (+2)| 8 (-1)|20 (+5)|
+|            | MOD | SAVE |            | MOD | SAVE |            | MOD | SAVE |
+| **STR** 14 | +2  | +2   | **DEX** 15 | +2  | +4   | **CON** 12 | +1  | +4   |
+| **INT** 14 | +2  | +2   | **WIS** 8  | -1  | +3   | **CHA** 20 | +5  | +7   |
 
-- **Saving Throws** DEX +4, CON +4, WIS +3, CHA +7
 - **Skills** Arcana +4, History +4, Performance +7, Persuasion +7
-- **Senses** passive Perception 9
+- **Gear** [Chromatic Pistol](../../../../ch-6-mote-treasures/magic-items/chromatic-pistol.md)
+- **Senses** Passive Perception 9
 - **Languages** Celestial, Common, Deep Speech
-- **Challenge** 3 (700 XP) **Proficiency Bonus** +2
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -49,17 +49,15 @@ _**Glory.**_ Gina's Armor Class includes her Charisma modifier.
 
 _**Hold Breath.**_ Gina can hold their breath for 1 hour.
 
-_**Special Equipment.**_ Gina wields a [chromatic pistol](../../../../ch-6-mote-treasures/magic-items/chromatic-pistol.md).
-
-_**Spellcasting (Psionics).**_ Gina can cast the following spells, requiring no spell components and using Charisma as the spellcasting ability (Spell Save DC 15):
-
-- At will: _light_, _mage hand_, _prestidigitation_
-- 1/day: _dimension door_
-
 #### Actions
 
-_**Multiattack.**_ Gina makes two attacks, one of which can be with her chromatic pistol.
+_**Multiattack.**_ Gina makes two Trident attacks. She can replace one of these attacks with her Chromatic Pistol.
 
-_**Trident.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) Piercing damage, or 6 (1d8 + 2) Piercing damage if used with two hands to make a melee attack.
+_**Trident.** Melee or Ranged Attack Roll:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) Piercing damage, or 6 (1d8 + 2) Piercing damage if used with two hands to make a melee attack.
 
-_**Chromatic Pistol.** Ranged Weapon Attack:_ +4 to hit, range 30/90 ft., one target. _Hit:_ (1d10 + 2) damage of a type chosen by Gina from the following list: Cold, Fire, Lightning, Piercing, or Radiant.
+_**Chromatic Pistol.** Ranged Attack Roll:_ +4 to hit, range 30/90 ft., one target. _Hit:_ (1d10 + 2) damage of a type chosen by Gina from the following list: Cold, Fire, Lightning, Piercing, or Radiant.
+
+_**Spellcasting (Psionics).**_ Gina casts one of the following spells, requiring no Material components, using Charisma as the spellcasting ability (Spell Save DC 15):
+
+- **At Will:** _Light_, _Mage Hand_, _Prestidigitation_
+- **1/Day Each:** _Dimension Door_
