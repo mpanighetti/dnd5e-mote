@@ -51,7 +51,7 @@ _**Hold Breath.**_ Gina can hold their breath for 1 hour.
 
 #### Actions
 
-_**Multiattack.**_ Gina makes two Trident attacks. She can replace one of these attacks with her Chromatic Pistol.
+_**Multiattack.**_ Gina makes two Trident attacks. She can replace one attack with a use of her Chromatic Pistol.
 
 _**Trident.** Melee or Ranged Attack Roll:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) Piercing damage, or 6 (1d8 + 2) Piercing damage if used with two hands to make a melee attack.
 
