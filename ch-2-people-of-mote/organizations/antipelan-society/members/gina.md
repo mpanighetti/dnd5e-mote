@@ -15,7 +15,7 @@
 
 ## History
 
-Gina is on a quest to construct their first talarith. Collecting the materials necessary for this arcane construction requires going on a pilgrimage and collecting artifacts from enemies felled in combat. This bloodlust can come off as unsettling to some, and her cheery disposition and matter-of-factness doesn't necessarily provide any balancing comfort.
+Gina is on a quest to construct their first talarith. Collecting the materials necessary for this arcane construction requires going on a pilgrimage and taking prizes from enemies felled in combat. This bloodlust can come off as unsettling to some, and her cheery disposition and matter-of-factness doesn't necessarily provide any balancing comfort.
 
 Having been raised with her people's love of violence and destruction as artistic expression, Gina has taken up painting as a hobby, but uses pigments derived from blood and other vital fluids.
 
