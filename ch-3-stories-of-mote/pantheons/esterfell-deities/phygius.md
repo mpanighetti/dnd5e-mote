@@ -42,65 +42,74 @@ The Middlestag is mentioned in the song "[Remi O](../../songs-of-esterfell/remi-
 
 #### Attributes
 
-_Large fey (archfey), chaotic neutral_
+_Large Fey, Chaotic Neutral_
 
-- **Armor Class** 20 (natural armor)
-- **Hit Points** 607 (45d10 + 270)
-- **Speed** 60 ft.
+- **AC** 20 **Initiative** +8 (18)
+- **HP** 607 (45d10 + 270)
+- **Speed** 40 ft.
 
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|24 (+7)|26 (+8)|26 (+8)|21 (+5)|25 (+7)|26 (+8)|
+|            | MOD | SAVE |            | MOD | SAVE |
+|:----------:|:---:|:----:|:----------:|:---:|:----:|
+| **STR** 24 | +7  | +7   | **INT** 21 | +5  | +5   |
+| **DEX** 26 | +8  | +16  | **WIS** 25 | +7  | +15  |
+| **CON** 26 | +8  | +8   | **CHA** 26 | +8  | +16  |
 
-- **Saving Throws** DEX +16, WIS +15, CHA +16
-- **Skills** Insight +13, Intimidation +16, Perception +15, Persuasion +16
-- **Immunities** Blinded, Charmed, Deafened, Force, Frightened, Exhausted, Grappled, Paralyzed, Poison, Stunned; Bludgeoning, Piercing, and Slashing from nonmagical attacks
-- **Senses** Truesight 120 ft., passive Perception 25
-- **Languages** Druidic, Sylvan, telepathy 120 ft.
-- **Challenge** 25 (75,000 XP) **Proficiency Bonus** +8
+**Skills** Insight +13, Intimidation +16, Perception +15, Persuasion +16
+
+**Resistances** Bludgeoning, Piercing, Slashing
+
+**Immunities** Poison; Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Paralyzed, Poisoned, Stunned
+
+**Senses** Truesight 120 ft., Passive Perception 25
+
+**Languages** Druidic, Sylvan, telepathy 120 ft.
+
+**CR** 25 (XP 75,000; PB +8)
 
 #### Traits
 
-_**Innate Spellcasting.**_ Phygius' innate spellcasting ability is Charisma (Spell Save DC 24). It can innately cast the following spells, requiring no components:
+_**Fey Resilience.**_ When Phygius drops to 0 Hit Points, it dies only if it is in the Feywild. Otherwise, Phygius drops to 1 Hit Point and teleports to a random location in the Feywild, and it can't return to the plane it left for 2d6 days. When Phygius teleports away, the point from where it disappeared is immediately subjected to the Enrichment effect of the _Plant Growth_ spell.
 
-- At will: _dispel magic_, _druidcraft_, _faerie fire_
-- 3/day each: _bless_, _charm monster_, _conjure animals_, _greater invisibility_, _moonbeam_, _plant growth_, _spike growth_, _suggestion_, _transport via plants_
-- 1/day each: _color spray_, _crown of stars_, _druid grove_, _geas_
+_**Interplanar Nature.**_ While in the Ethereal Plane, the Feywild, or the Material Plane: Phygius can use its senses to perceive within a 30-foot Sphere of its corresponding location on each of these planes of existence; it is aware of the location and alignment of all creatures within these Spheres; and it cannot be forcibly removed that plane of existence.
 
-Spells under 5th level are cast at 5th level.
+_**Legendary Resistance (5/Day).**_ If Phygius fails a saving throw, it can choose to succeed instead.
 
-_**Interplanar Nature.**_ While in the Ethereal Plane, the Feywild, or the Material Plane, Phygius is aware of the location and alignment of all creatures within 30 feet of Phygius' corresponding location on each plane. Additionally, Phygius is immune to _banishment_ or similar spells or effects when it is on any of these planes. If Phygius dies on any plane other than the Feywild, its body is destroyed but its essence travels back to the Feywild, and it is unable to take physical form or planeshift for a time.
+_**Magic Resistance.**_ Phygius has Advantage on saving throws against spells and other magical effects.
 
-_**Legendary Resistance (3/Day).**_ If Phygius fails a Saving Throw, it can choose to succeed instead.
-
-_**Limited Magic Immunity.**_ Unless it wishes to be affected, Phygius is immune to spells of 5th level or lower. It has advantage on Saving Throws against all other spells and magical effects.
-
-_**Magic Weapons.**_ Phygius' weapon attacks are magical.
-
-_**Regeneration.**_ Phygius regains 20 Hit Points at the start of its turn. If it takes Necrotic damage, this trait doesn't function at the start of its next turn. Phygius dies only if it starts its turn with 0 Hit Points and doesn't regenerate.
+_**Regeneration.**_ Phygius regains 20 Hit Points at the start of each of its turns if it has at least 1 Hit Point. If Phygius takes Necrotic damage, this trait doesn't function on its next turn.
 
 #### Actions
 
-_**Multiattack.**_ Phygius makes up to two attacks, one with its horns and one with its hooves.
+_**Multiattack.**_ Phygius makes three Horns attacks. It can replace one attack with a Hooves attack.
 
-_**Horns.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 40 (6d10 + 7) Piercing damage plus 18 (4d8) Force damage.
+_**Horns.**_ _Melee Attack Roll:_ +15 to hit, reach 15 ft. _Hit:_ 25 (4d8 + 7) Piercing damage.
 
-_**Hooves.**_ _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 34 (6d8 + 7) Bludgeoning damage plus 14 (4d6) Thunder damage, and if they are a creature, they must succeed on a DC 22 Strength Saving Throw or be knocked Prone.
+_**Hooves.**_ _Melee Attack Roll:_ +15 to hit, reach 5 ft. _Hit:_ 34 (6d8 + 7) Bludgeoning damage plus 14 (4d6) Thunder damage. If the target is a Large or smaller creature, they have the Prone condition.
+
+_**Planar Shift.**_ Phygius is transported to an unoccupied space it chooses within one of its 30-foot Spheres of awareness as defined by its Interplanar Nature. It can optionally target one creature within any of its Spheres, subjecting the creature to the following effect. _Wisdom Saving Throw:_ DC 20. _Failure:_ The target teleports with Phygius, appearing in the same Sphere on the same plane of existence in an unoccupied space of Phygius' choice.
+
+_**Spellcasting.**_ Phygius casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
+
+- At will: _Bane_ (level 3 version), _Color Spray_, _Dispel Magic_ (level 5 version), _Druidcraft_, _Faerie Fire_
+- 3/day Each: _Charm Monster_, _Conjure Animals_, _Moonbeam_, _Plant Growth_ (Overgrowth effect)
+- 1/day Each: _Crown of Stars_, _Geas_, _Transport via Plants_
 
 #### Bonus Actions
 
-_**Fear Gaze.**_ Phygius stares at a creature within 30 feet of it and fills their mind with fear. The creature must make a DC 24 Wisdom Saving Throw. Unless the save succeeds, the creature is frightened until the start of their next turn. If a creature's Saving Throw is successful, the creature is immune to Phygius' Fear Aura for the next 24 hours.
+_**Fear Gaze.** Wisdom Saving Throw:_ DC 24, one creature Phygius can see within 30 feet. _Failure:_ The target has the Frightened condition until the end of Phygius' next turn. _Success:_ The target is immune to Phygius' Fear Gaze for 24 hours.
 
-_**Teleport.**_ Phygius magically teleports, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, up to 120 feet to an unoccupied space it can see. Unwilling creatures must succeed on a DC 18 Wisdom Saving Throw or they are teleported along with Phygius.
+_**Fey Step.**_ Phygius casts _Misty Step_ using the same spellcasting ability as in Spellcasting.
+
+#### Reactions
+
+_**Counterspell (1/Day).**_ Phygius casts _Counterspell_ (level 5 version) in response to that spell's trigger, using the same spellcasting ability as in Spellcasting.
 
 #### Legendary Actions
 
-Phygius can take 3 Legendary Actions, choosing from the options below. Only one Legendary Action option can be used at a time and only at the end of another creature's turn. Phygius regains spent Legendary Actions at the start of its turn.
+_Legendary Action Uses: 3. Immediately after another creature's turn, Phygius can expend a use to take one of the following actions. Phygius regains all expended uses at the start of each of its turns._
 
-**Arcane Disruption.** Phygius casts _dispel magic_.
+_**Arcane Disruption.**_ Phygius uses Spellcasting to cast _Dispel Magic_ (level 5 version). Phygius can't take this action again until the start of its next turn.
 
-**Shift (Costs 2 Actions).** Phygius magically planeshifts, along with any equipment it is wearing or carrying and any number of creatures it targets within 30 feet, to its corresponding location on the Ethereal Plane, the Feywild, or the Material Plane. Unwilling creatures must succeed on a DC 20 Wisdom Saving Throw or they are teleported along with Phygius. If a creature or object is present at the target location, they must succeed on a DC 23 Dexterity Saving Throw or take 13 (3d8) Force damage and be knocked Prone. Whether the creature or object succeeds or fails on the save, they are pushed to an unoccupied space of Phygius' choice within 10 feet.
-
-**Teleport.** Phygius uses its Teleport action.
+_**Spatial Shunt.**_ Phygius uses its Fey Step action, but can teleport to a space occupied by a creature within range, subjecting them to the following effect. _Dexterity Saving Throw:_ DC 23. _Failure:_ 13 (3d8) Force damage, and the creature has the Prone condition. _Success:_ Half damage only. _Failure or Success:_ The creature is pushed to an unoccupied space of Phygius' choice within 10 feet. Phygius can't take this action again until the start of its next turn.
 
 [^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

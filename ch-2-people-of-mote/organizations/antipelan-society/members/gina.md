@@ -33,15 +33,21 @@ _Medium Celestial (Reigar), Chaotic Neutral_
 - **HP** 49 (9d8 + 9)
 - **Speed** 30 ft., Swim 30 ft.
 
-|            | MOD | SAVE |            | MOD | SAVE |            | MOD | SAVE |
-| **STR** 14 | +2  | +2   | **DEX** 15 | +2  | +4   | **CON** 12 | +1  | +4   |
-| **INT** 14 | +2  | +2   | **WIS** 8  | -1  | +3   | **CHA** 20 | +5  | +7   |
+|            | MOD | SAVE |            | MOD | SAVE |
+|:----------:|:---:|:----:|:----------:|:---:|:----:|
+| **STR** 14 | +2  | +2   | **INT** 14 | +2  | +2   |
+| **DEX** 15 | +2  | +4   | **WIS** 8  | -1  | +3   |
+| **CON** 12 | +1  | +4   | **CHA** 20 | +5  | +7   |
 
-- **Skills** Arcana +4, History +4, Performance +7, Persuasion +7
-- **Gear** [Chromatic Pistol](../../../../ch-6-mote-treasures/magic-items/chromatic-pistol.md)
-- **Senses** Passive Perception 9
-- **Languages** Celestial, Common, Deep Speech
-- **CR** 3 (XP 700; PB +2)
+**Skills** Arcana +4, History +4, Performance +7, Persuasion +7
+
+**Gear** [Chromatic Pistol](../../../../ch-6-mote-treasures/magic-items/chromatic-pistol.md)
+
+**Senses** Passive Perception 9
+
+**Languages** Celestial, Common, Deep Speech
+
+**CR** 3 (XP 700; PB +2)
 
 #### Traits
 
