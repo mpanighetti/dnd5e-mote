@@ -1,6 +1,8 @@
 # [Phygius](https://github.com/mpanighetti/dnd5e-monsters/blob/main/fey/phygius.md)
 
-#### Description
+_Fey Deity Between Realms_
+
+**Habitat:** Forest ([Middlestag Forest](../../../ch-4-esterfell-gazetteer/lenya/middlestag-forest.md)), Planar (Feywild); **Treasure:** Relics
 
 Legend speaks of a giant deer with three massive horns atop its head, which appears and disappears within a forest tangled in planar energies. It is from these scarce sightings in the distant past that the [Middlestag Forest](../../../ch-4-esterfell-gazetteer/lenya/middlestag-forest.md) was given its name, but none of the local families have any more context on what the Middlestag is, where it comes from, and what it might want when it shows itself. Some have reported seeing this mighty creature appear to rapidly flicker in and out of existence, making it unclear whether what they saw was even real.
 
@@ -96,7 +98,7 @@ _**Spellcasting.**_ Phygius casts one of the following spells, requiring no Mate
 
 #### Bonus Actions
 
-_**Fear Gaze.** Wisdom Saving Throw:_ DC 24, one creature Phygius can see within 30 feet. _Failure:_ The target has the Frightened condition until the end of Phygius' next turn. _Success:_ The target is immune to Phygius' Fear Gaze for 24 hours.
+_**Fear Gaze (Recharge 5-6).** Wisdom Saving Throw:_ DC 24, each creature Phygius can see within a 30-feet Emanation. _Failure:_ The target has the Frightened condition until the end of Phygius' next turn. _Success:_ The creature is immune to Phygius' Fear Gaze for 24 hours.
 
 _**Fey Step.**_ Phygius casts _Misty Step_ using the same spellcasting ability as in Spellcasting.
 
