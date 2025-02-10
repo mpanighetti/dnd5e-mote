@@ -1,6 +1,6 @@
 # [Phygius](https://github.com/mpanighetti/dnd5e-monsters/blob/main/fey/phygius.md)
 
-_Fey Deity Between Realms_
+_Cervid Deity Between Worlds_
 
 **Habitat:** Forest ([Middlestag Forest](../../../ch-4-esterfell-gazetteer/lenya/middlestag-forest.md)), Planar (Feywild); **Treasure:** Relics
 
@@ -38,13 +38,11 @@ The Middlestag is mentioned in the song "[Remi O](../../songs-of-esterfell/remi-
 
 ##### Physical
 
-- classification: archfey
-- alignment: Chaotic Neutral
 - domains: Cervids, Feywild, [Middlestag Forest](../../../ch-4-esterfell-gazetteer/lenya/middlestag-forest.md), Nature
 
 #### Attributes
 
-_Large Fey, Chaotic Neutral_
+_Large Fey (Archfey), Chaotic Neutral_
 
 - **AC** 20 **Initiative** +8 (18)
 - **HP** 607 (45d10 + 270)
@@ -58,7 +56,7 @@ _Large Fey, Chaotic Neutral_
 
 **Skills** Insight +13, Intimidation +16, Perception +15, Persuasion +16
 
-**Resistances** Bludgeoning, Piercing, Slashing
+**Resistances** Bludgeoning, Piercing, Radiant, Slashing
 
 **Immunities** Poison; Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Paralyzed, Poisoned, Stunned
 
@@ -70,41 +68,39 @@ _Large Fey, Chaotic Neutral_
 
 #### Traits
 
-_**Fey Resilience.**_ When Phygius drops to 0 Hit Points, it dies only if it is in the Feywild. Otherwise, Phygius drops to 1 Hit Point and teleports to a random location in the Feywild, and it can't return to the plane it left for 2d6 days. When Phygius teleports away, the point from where it disappeared is immediately subjected to the Enrichment effect of the _Plant Growth_ spell.
+_**Fey Resilience.**_ When Phygius drops to 0 Hit Points, it dies only if it is in the Feywild. Otherwise, Phygius drops to 1 Hit Point and teleports to a random location in the Feywild, and it can't return to the plane it left for 2d6 days. When Phygius teleports away due to this trait or dies, the area it occupied is immediately subjected to the Enrichment effect of the _Plant Growth_ spell.
 
-_**Interplanar Nature.**_ While in the Ethereal Plane, the Feywild, or the Material Plane: Phygius can use its senses to perceive within a 30-foot Sphere of its corresponding location on each of these planes of existence; it is aware of the location and alignment of all creatures within these Spheres; and it cannot be forcibly removed that plane of existence.
+_**Interplanar Nature.**_ While in the Ethereal Plane, the Feywild, or the Material Plane: Phygius can use its senses to perceive within a 30-foot Sphere of its corresponding location on each of these planes of existence; it is aware of the location and alignment of all creatures within these Spheres; and it cannot be forcibly removed from that plane of existence.
 
 _**Legendary Resistance (5/Day).**_ If Phygius fails a saving throw, it can choose to succeed instead.
 
 _**Magic Resistance.**_ Phygius has Advantage on saving throws against spells and other magical effects.
 
-_**Regeneration.**_ Phygius regains 20 Hit Points at the start of each of its turns if it has at least 1 Hit Point. If Phygius takes Necrotic damage, this trait doesn't function on its next turn.
+_**Regeneration.**_ Phygius regains 20 Hit Points at the start of each of its turns if it has at least 1 Hit Point. If Phygius is in the Feywild at the start of its turn, it instead regains 40 Hit Points. If Phygius takes Necrotic damage, this trait doesn't function on its next turn.
 
 #### Actions
 
-_**Multiattack.**_ Phygius makes three Horns attacks. It can replace one attack with a Hooves attack.
+_**Multiattack.**_ Phygius makes three Jagged Horns attacks. It can replace one attack with a use of (A) Cervid Stomp or (B) Spellcasting to cast _Crown of Stars_, _Faerie Fire_, or _Magic Missile_.
 
-_**Horns.**_ _Melee Attack Roll:_ +15 to hit, reach 15 ft. _Hit:_ 25 (4d8 + 7) Piercing damage.
+_**Cervid Stomp.**_ _Melee Attack Roll:_ +15 to hit, reach 5 ft. _Hit:_ 25 (4d8 + 7) Bludgeoning damage plus 14 (4d6) Thunder damage. If the target is a Large or smaller creature, they have the Prone condition.
 
-_**Hooves.**_ _Melee Attack Roll:_ +15 to hit, reach 5 ft. _Hit:_ 34 (6d8 + 7) Bludgeoning damage plus 14 (4d6) Thunder damage. If the target is a Large or smaller creature, they have the Prone condition.
-
-_**Planar Shift.**_ Phygius is transported to an unoccupied space it chooses within one of its 30-foot Spheres of awareness as defined by its Interplanar Nature. It can optionally target one creature within any of its Spheres, subjecting the creature to the following effect. _Wisdom Saving Throw:_ DC 20. _Failure:_ The target teleports with Phygius, appearing in the same Sphere on the same plane of existence in an unoccupied space of Phygius' choice.
+_**Jagged Horns.**_ _Melee Attack Roll:_ +15 to hit, reach 15 ft. _Hit:_ 28 (6d6 + 7) Piercing damage plus 10 (3d6) Lightning damage.
 
 _**Spellcasting.**_ Phygius casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
 
-- At will: _Bane_ (level 3 version), _Color Spray_, _Dispel Magic_ (level 5 version), _Druidcraft_, _Faerie Fire_
-- 3/day Each: _Charm Monster_, _Conjure Animals_, _Moonbeam_, _Plant Growth_ (Overgrowth effect)
+- At will: _Dispel Magic_, _Druidcraft_, _Faerie Fire_, _Magic Missile_, _Plane Shift_ (self only, limited to teleport between its 30-foot Spheres of awareness as defined by its Interplanar Nature)
+- 3/day Each: _Charm Monster_, _Conjure Animals_, _Dispel Magic_ (level 5 version), _Magic Missile (level 4 version)_, _Plant Growth_ (Overgrowth effect)
 - 1/day Each: _Crown of Stars_, _Geas_, _Transport via Plants_
 
 #### Bonus Actions
 
-_**Fear Gaze (Recharge 5-6).** Wisdom Saving Throw:_ DC 24, each creature Phygius can see within a 30-feet Emanation. _Failure:_ The target has the Frightened condition until the end of Phygius' next turn. _Success:_ The creature is immune to Phygius' Fear Gaze for 24 hours.
+_**Fear Gaze (Recharge 5-6).** Wisdom Saving Throw:_ DC 24, each creature of Phygius' choice that it can see within 30 feet. _Failure:_ The creature has the Frightened condition until the end of Phygius' next turn. _Success:_ The creature is immune to Phygius' Fear Gaze for 24 hours.
 
 _**Fey Step.**_ Phygius casts _Misty Step_ using the same spellcasting ability as in Spellcasting.
 
 #### Reactions
 
-_**Counterspell (1/Day).**_ Phygius casts _Counterspell_ (level 5 version) in response to that spell's trigger, using the same spellcasting ability as in Spellcasting.
+_**Negation (2/Day).**_ Phygius casts _Counterspell_ (level 5 version) in response to that spell's trigger, using the same spellcasting ability as in Spellcasting.
 
 #### Legendary Actions
 
@@ -112,6 +108,10 @@ _Legendary Action Uses: 3. Immediately after another creature's turn, Phygius ca
 
 _**Arcane Disruption.**_ Phygius uses Spellcasting to cast _Dispel Magic_ (level 5 version). Phygius can't take this action again until the start of its next turn.
 
-_**Spatial Shunt.**_ Phygius uses its Fey Step action, but can teleport to a space occupied by a creature within range, subjecting them to the following effect. _Dexterity Saving Throw:_ DC 23. _Failure:_ 13 (3d8) Force damage, and the creature has the Prone condition. _Success:_ Half damage only. _Failure or Success:_ The creature is pushed to an unoccupied space of Phygius' choice within 10 feet. Phygius can't take this action again until the start of its next turn.
+_**Fey Strike.**_ Phygius casts _Misty Step_ using the same spellcasting ability as in Spellcasting, then makes one Jagged Horns attack.
+
+_**Planar Passage.**_ Phygius casts _Plane Shift_ using the same spellcasting ability as in Spellcasting, but it can optionally target one creature within any of its Spheres of awareness as defined by its Interplanar Nature, subjecting the creature to the following effect. _Wisdom Saving Throw:_ DC 20. _Failure:_ The target teleports with Phygius, appearing in the same Sphere on the same plane of existence in an unoccupied space of Phygius' choice. Phygius can't take this action again until the start of its next turn.
+
+_**Spatial Shunt.**_ Phygius targets all creatures within 30 feet, subjecting them to the following effect. _Dexterity Saving Throw:_ DC 23. _Failure:_ The creature teleports to an unoccupied space of Phygius' choice within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze. Phygius can't take this action again until the start of its next turn.
 
 [^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).
