@@ -42,11 +42,13 @@ _**Keen Smell.**_ The selkie warrior has advantage on Wisdom (Perception) checks
 
 #### Actions
 
-_**Multiattack.**_ The selkie warrior makes two melee attacks.
+_**Multiattack.**_ The selkie warrior makes two Trident attacks (person form) or two Bite attacks (seal form). If one of these attacks hits a creature, once on each of the selkie warrior's turns, they can create the following effect:
 
-_**Bite (Seal Form Only).**_ _Melee Attack Roll:_ +4 to hit, reach 5 ft. _Hit:_ 5 (1d6 + 2) Piercing damage.
+**Topple.** _Constitution Saving Throw:_ DC 12, a creature hit by the selkie warrior's Trident or Bite attack. _Failure:_ the creature has the Prone condition.
 
-_**Club (Person Form Only).**_ _Melee Attack Roll:_ +4 to hit, reach 5 ft. _Hit:_ 4 (1d4 + 2) Bludgeoning damage.
+_**Bite (Seal Form Only).** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Piercing damage.
+
+_**Trident (Person Form Only).** Melee or Ranged Attack Roll:_ +4, reach 5 ft. or range 20/60 ft. _Hit:_ 4 (1d6 + 2) Piercing damage.
 
 _**Selkie Skin.**_ The selkie warrior dons their Selkie Skin to shape-shift into their seal form, or doffs it to shape-shift into their person form. Their statistics are the same in their seal form except for where noted in this stat block, and they are considered to be in their true form in either form. Any equipment they are wearing or carrying in their person form merges into their seal form.
 
