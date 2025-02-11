@@ -22,7 +22,7 @@ _Medium Fey (Shapechanger), Neutral_
 
 **Resistances** Cold (Aquatic Fortitude)
 
-**Gear** Club, [Selkie Skin](../ch-6-mote-treasures/magic-items/selkie-skin.md)
+**Gear** [Selkie Skin](../ch-6-mote-treasures/magic-items/selkie-skin.md), Trident
 
 **Senses** Blindsight 5 ft. (seal form) (Selkie Skin), Darkvision 60 ft., Passive Perception 14
 
