@@ -14,11 +14,15 @@ _Large elemental, neutral_
 | **DEX** 14 | +2  | +2   | **WIS** 7  | -2  | -2   |
 | **CON** 18 | +4  | +10  | **CHA** 5  | -3  | -3   |
 
-- **Resistances:** Acid, Bludgeoning, Piercing, Slashing
-- **Immunities:** Poison; Grappled, Poisoned, Prone
-- **Senses:** Blindsight 30 ft. (blind beyond this range), Tremorsense 60 ft., passive Perception 8
-- **Languages:** None
-- **Challenge:** 4 (XP 1,100; PB +2)
+**Resistances:** Acid, Bludgeoning, Piercing, Slashing
+
+**Immunities:** Poison; Grappled, Poisoned, Prone
+
+**Senses:** Blindsight 30 ft. (blind beyond this range), Tremorsense 60 ft., passive Perception 8
+
+**Languages:** None
+
+**CR:** 4 (XP 1,100; PB +2)
 
 #### Traits
 
