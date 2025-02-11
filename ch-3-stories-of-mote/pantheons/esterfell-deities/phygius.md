@@ -82,9 +82,9 @@ _**Regeneration.**_ Phygius regains 20 Hit Points at the start of each of its tu
 
 _**Multiattack.**_ Phygius makes three Jagged Horns attacks. It can replace one attack with a use of (A) Cervid Stomp or (B) Spellcasting to cast _Crown of Stars_, _Faerie Fire_, or _Magic Missile_.
 
-_**Cervid Stomp.**_ _Melee Attack Roll:_ +15 to hit, reach 5 ft. _Hit:_ 25 (4d8 + 7) Bludgeoning damage plus 14 (4d6) Thunder damage. If the target is a Large or smaller creature, they have the Prone condition.
+_**Cervid Stomp.**_ _Melee Attack Roll:_ +15, reach 5 ft. _Hit:_ 25 (4d8 + 7) Bludgeoning damage plus 14 (4d6) Thunder damage. If the target is a Large or smaller creature, they have the Prone condition.
 
-_**Jagged Horns.**_ _Melee Attack Roll:_ +15 to hit, reach 15 ft. _Hit:_ 28 (6d6 + 7) Piercing damage plus 10 (3d6) Lightning damage.
+_**Jagged Horns.**_ _Melee Attack Roll:_ +15, reach 5 ft. _Hit:_ 28 (6d6 + 7) Piercing damage plus 10 (3d6) Lightning damage.
 
 _**Spellcasting.**_ Phygius casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
 
