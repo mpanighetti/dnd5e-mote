@@ -34,8 +34,8 @@ _Medium Celestial (Reigar), Chaotic Neutral_
 |            | MOD | SAVE |            | MOD | SAVE |
 |:----------:|:---:|:----:|:----------:|:---:|:----:|
 | **STR** 14 | +2  | +2   | **INT** 14 | +2  | +2   |
-| **DEX** 15 | +2  | +4   | **WIS** 8  | -1  | +3   |
-| **CON** 12 | +1  | +4   | **CHA** 20 | +5  | +7   |
+| **DEX** 15 | +2  | +4   | **WIS** 8  | -1  | +1   |
+| **CON** 12 | +1  | +3   | **CHA** 20 | +5  | +7   |
 
 **Skills** Arcana +4, History +4, Performance +7, Persuasion +7
 
