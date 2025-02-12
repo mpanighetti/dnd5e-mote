@@ -108,9 +108,9 @@ _Legendary Action Uses: 3. Immediately after another creature's turn, Phygius ca
 
 _**Arcane Disruption.**_ Phygius uses Spellcasting to cast _Dispel Magic_ (level 5 version). Phygius can't take this action again until the start of its next turn.
 
-_**Fey Strike.**_ Phygius casts _Misty Step_ using the same spellcasting ability as in Spellcasting, then makes one Jagged Horns attack.
+_**Fey Strike.**_ Phygius uses Spellcasting to cast _Misty Step_, then makes one Jagged Horns attack.
 
-_**Planar Passage.**_ Phygius casts _Plane Shift_ using the same spellcasting ability as in Spellcasting, but it can optionally target one creature within any of its Spheres of awareness as defined by its Interplanar Nature, subjecting the creature to the following effect. _Wisdom Saving Throw:_ DC 20. _Failure:_ The target teleports with Phygius, appearing in the same Sphere on the same plane of existence in an unoccupied space of Phygius' choice. Phygius can't take this action again until the start of its next turn.
+_**Planar Passage.**_ Phygius uses Spellcasting to cast _Plane Shift_, but it can optionally target one creature within any of its Spheres of awareness as defined by its Interplanar Nature, subjecting the creature to the following effect. _Wisdom Saving Throw:_ DC 20. _Failure:_ The target teleports with Phygius, appearing in the same Sphere on the same plane of existence in an unoccupied space of Phygius' choice. Phygius can't take this action again until the start of its next turn.
 
 _**Spatial Shunt.**_ Phygius targets all creatures within 30 feet, subjecting them to the following effect. _Dexterity Saving Throw:_ DC 23. _Failure:_ The creature teleports to an unoccupied space of Phygius' choice within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze. Phygius can't take this action again until the start of its next turn.
 
