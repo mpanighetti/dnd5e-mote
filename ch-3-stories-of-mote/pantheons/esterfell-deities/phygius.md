@@ -88,8 +88,8 @@ _**Jagged Horns.**_ _Melee Attack Roll:_ +15, reach 5 ft. _Hit:_ 28 (6d6 + 7) Pi
 
 _**Spellcasting.**_ Phygius casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 24, +16 to hit with spell attacks):
 
-- At will: _Dispel Magic_, _Druidcraft_, _Faerie Fire_, _Magic Missile_, _Plane Shift_ (self only, limited to teleport between its 30-foot Spheres of awareness as defined by its Interplanar Nature)
-- 3/day Each: _Charm Monster_, _Conjure Animals_, _Dispel Magic_ (level 5 version), _Magic Missile (level 4 version)_, _Plant Growth_ (Overgrowth effect)
+- At will: _Dispel Magic_, _Druidcraft_, _Faerie Fire_, _Magic Missile_, _Plane Shift_ (self only, limited to teleport between its Spheres of awareness as defined by its Interplanar Nature)
+- 3/day Each: _Charm Monster_, _Conjure Animals_, _Dispel Magic_ (level 5 version), _Plant Growth_ (Overgrowth effect)
 - 1/day Each: _Crown of Stars_, _Geas_, _Transport via Plants_
 
 #### Bonus Actions
