@@ -12,21 +12,19 @@ A plant or animal newly introduced to the Murexian Grove, if not killed and eate
 
 ### Murexian Corruption Levels
 
-Murexian creatures have varying traits due to the severity of corruption caused by the murex in their systems. The following traits apply to all murexian creatures of given challenge rating thresholds; lower corruption traits also apply to creatures with more severe corruption, unless otherwise noted. In addition, creatures corrupted by murex gain the monstrosity creature type in addition to their current types.
+Murexian creatures have varying traits due to the severity of corruption caused by the murex in their systems. The following traits apply to all murexian creatures of given challenge rating thresholds; lower corruption traits also apply to creatures with more severe corruption, unless otherwise noted. In addition, creatures corrupted by murex change their creature type to Monstrosity, unless they already have the Monstrosity or Aberration creature type.
 
 #### Partial Corruption (Challenge 1 or lower)
 
 _**Murexian Immunity.**_ The creature is immune to Poison, including those caused by Murexian Poisons.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with a murexian creature's body, they must succeed on a DC 9 Constitution saving throw or become Poisoned for 1 minute. A Poisoned creature no longer in direct contact with the murexian creature can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
+_**Poisonous Skin.**_ If a creature comes into direct contact with a murexian creature's body, it is subject to the following effect. _Constitution Saving Throw:_ DC 8 + the Constitution modifier and Proficiency Bonus of the murexian creature. _Failure:_ The target has the Poisoned condition and repeats the save at the end of each of its turns when it is not in direct contact with the murexian creature, ending the effect on itself on a success. After 1 minute without physical contact with the murexian creature, it succeeds automatically.
 
 Additionally, if a creature eats a murexian plant or animal, they must succeed on a DC 12 Constitution saving throw or become Poisoned for 1 hour.
 
 #### Severe Corruption (Challenge 2-5)
 
-_**Enhanced Poisonous Skin.**_ The DC on the Poisonous Skin trait's saving throw is now increased to the recommended level for the creature's challenge rating (after murexian corruption modifications). For example, a creature with challenge 2 has a recommended save DC of 13, and a creature with challenge 8 increases the save DC to 16. See the Dungeon Master's Workshop chapter in the _Dungeon Master's Guide_ for reference.
-
-Additionally, a creature that fails this saving throw is Paralyzed until the end of their next turn.
+_**Enhanced Poisonous Skin.**_ A creature that fails the Constitution saving throw of a murexian creature's Poisonous Skin trait additionally has the Paralyzed condition until the end of its next turn.
 
 _**Murexian Poison.**_ All attacks and traits of a murexian creature that deal Poison damage or conditions treat Poison immunity as Poison resistance and ignores a target's normal Poison resistance, unless the target has specific resistances or immunities to Murexian Poison. Targets with Poison immunity or Murexian Poison resistance have Advantage on saving throws against Murexian Poisons, and targets with Murexian Poison immunity automatically succeed on such saving throws.
 
@@ -36,7 +34,7 @@ _**Toxic Injection.**_ The sludge coursing through the veins and fangs of murexi
 
 _**Toxic Infusion.**_ The Toxic Injection trait deals an additional 3d6 Murexian Poison damage on a hit with attacks using a natural weapon.
 
-_**Venom Surge.**_ A creature that is already Poisoned by murex and fails the Poisonous Skin saving throw from new skin contact instead suffers one level of Exhaustion. A creature cannot have more than one level of Exhaustion at a time caused by the Venom Surge trait from the same murexian creature.
+_**Venom Surge.**_ A creature that is already Poisoned by a murexian creature's attack or trait and fails the Poisonous Skin saving throw from new skin contact instead gains 1 Exhaustion level. A creature cannot have more than one level of Exhaustion at a time caused by murex.
 
 ## Example Murexian Creatures
 
@@ -53,11 +51,13 @@ The following creatures are all based on existing creatures and modified with mu
 
 #### Attributes
 
-_Tiny Beast/Monstrosity, Unaligned_
+_Tiny Monstrosity, Unaligned_
 
-- **Armor Class** 10
-- **Hit Points** 1 (1d4 - 1)
-- **Speed** 20 ft., climb 30 ft.
+**AC** 10
+
+**HP** 1 (1d4 - 1)
+
+**Speed** 20 ft., climb 30 ft.
 
 |            | MOD | SAVE |            | MOD | SAVE |
 |:----------:|:---:|:----:|:----------:|:---:|:----:|
@@ -65,10 +65,13 @@ _Tiny Beast/Monstrosity, Unaligned_
 | **DEX** 11 | +0  | +0   | **WIS** 10 | +0  | +0   |
 | **CON** 9  | -1  | -1   | **CHA** 4  | -3  | -3   |
 
-- **Immunities** Poison, Murexian Poison
-- **Senses** darkvision, passive Perception 10
-- **Languages** None
-- **CR** 0 (XP 10; PB +2)
+**Immunities** Poison, Murexian Poison
+
+**Senses** darkvision, passive Perception 10
+
+**Languages** None
+
+**CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -86,21 +89,27 @@ _**Bite.**_ _Melee Attack Roll:_ +0, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 #### Attributes
 
-_Small Plant/Monstrosity, Neutral Evil_
+_Small Monstrosity, Neutral Evil_
 
-- **Armor Class** 13 (natural armor)
-- **Hit Points** 4 (1d6 + 1)
-- **Speed** 20 ft.
+**AC** 13 (natural armor)
+
+**HP** 4 (1d6 + 1)
+
+**Speed** 20 ft.
 
 | STR  |  DEX  |  CON  | INT  | WIS  | CHA  |
 |:----:|:-----:|:-----:|:----:|:----:|:----:|
 |6 (-2)|13 (+1)|12 (+1)|4 (-3)|8 (-1)|3 (-4)|
 
-- **Damage Vulnerabilities** fire
-- **Immunities** Blinded, Deafened, Poison, Murexian Poison
-- **Senses** Blindsight 60 ft. (blind beyond this radius), passive Perception 9
-- **Languages** understands Common but can't speak
-- **CR** ⅛ (XP 25; PB +2)
+**Damage Vulnerabilities** fire
+
+**Immunities** Blinded, Deafened, Poison, Murexian Poison
+
+**Senses** Blindsight 60 ft. (blind beyond this radius), passive Perception 9
+
+**Languages** understands Common but can't speak
+
+**CR** ⅛ (XP 25; PB +2)
 
 #### Traits
 
@@ -116,21 +125,25 @@ _**Claws.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 3 (1d4 + 1) Piercing da
 
 #### Attributes
 
-_Large Beast/Monstrosity, Unaligned_
+_Large Monstrosity, Unaligned_
 
+**AC** 12 (natural armor)
 
-- **Armor Class** 12 (natural armor)
-- **Hit Points** 42 (5d10 + 15)
-- **Speed** 40 ft.
+**HP** 42 (5d10 + 15)
+
+**Speed** 40 ft.
 
 |  STR  |  DEX  |  CON  | INT  | WIS  | CHA  |
 |:-----:|:-----:|:-----:|:----:|:----:|:----:|
 |17 (+3)|10 (+0)|16 (+3)|2 (-4)|7 (-2)|5 (-3)|
 
-- **Immunities** Poison, Murexian Poison
-- **Senses** passive Perception 8
-- **Languages** None
-- **CR** 2 (XP 450; PB +2)
+**Immunities** Poison, Murexian Poison
+
+**Senses** passive Perception 8
+
+**Languages** None
+
+**CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -157,22 +170,29 @@ _**Tusk.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Slashing da
 
 #### Attributes
 
-_Large Fiend/Monstrosity, Lawful Evil_
+_Large Monstrosity, Lawful Evil_
 
-- **Armor Class** 19 (natural armor)
-- **Hit Points** 52 (8d10 + 8)
-- **Speed** 10 ft., fly 60 ft. (hover)
+**AC** 19 (natural armor)
+
+**HP** 52 (8d10 + 8)
+
+**Speed** 10 ft., fly 60 ft. (hover)
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  | CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:----:|
 |18 (+4)|15 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)|
 
-- **Saving Throws** DEX +5, WIS +3
-- **Vulnerabilities** Cold
-- **Immunities** Fire, Poison, Murexian Poison
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** Infernal, telepathy 300 ft. (with other hellwasps only)
-- **CR** 5 (XP 1,800; PB +3)
+**Saving Throws** DEX +5, WIS +3
+
+**Vulnerabilities** Cold
+
+**Immunities** Fire, Poison, Murexian Poison
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Infernal, telepathy 300 ft. (with other hellwasps only)
+
+**CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -194,21 +214,27 @@ _**Sword Talons.**_ _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 11 (2d6 + 4) Pie
 
 #### Attributes
 
-_Huge Beast/Monstrosity, Unaligned_
+_Huge Monstrosity, Unaligned_
 
-- **Armor Class** 15 (natural armor)
-- **Hit Points** 149 (13d12 + 65)
-- **Speed** 50 ft.
+**AC** 15 (natural armor)
+
+**HP** 149 (13d12 + 65)
+
+**Speed** 50 ft.
 
 |  STR  |  DEX  |  CON  | INT  |  WIS  | CHA  |
 |:-----:|:-----:|:-----:|:----:|:-----:|:----:|
 |24 (+6)|10 (+0)|21 (+5)|2 (-4)|12 (+1)|9 (-1)|
 
-- **Skills** Perception +4
-- **Immunities** Poison, Murexian Poison
-- **Senses** passive Perception 14
-- **Languages** None
-- **CR** 10 (XP 5,000; PB +4)
+**Skills** Perception +4
+
+**Immunities** Poison, Murexian Poison
+
+**Senses** passive Perception 14
+
+**Languages** None
+
+**CR** 10 (XP 5,000; PB +4)
 
 #### Traits
 
@@ -243,26 +269,33 @@ Murexian beholders will happily make their new surroundings into a lair, tending
 
 #### Attributes
 
-_Large Aberration/Monstrosity, Lawful Evil_
+_Large Aberration, Lawful Evil_
 
-- **Armor Class** 18 (natural armor)
-- **Hit Points** 180 (19d10 + 76)
-- **Speed** 0 ft., fly 20 ft. (hover)
+**AC** 18 **Initiative** +12 (22)
 
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|14 (+2)|18 (+4)|13 (+1)|15 (+2)|17 (+3)|
+**HP** 190 (20d10 + 80)
 
-- **Saving Throws** INT +6, WIS +7, CHA +8
-- **Skills** Perception +12
-- **Immunities** Poison, Murexian Poison, Prone
-- **Senses** darkvision 120 ft., passive Perception 22
-- **Languages** Deep Speech, Undercommon
-- **CR** 13 (XP 10,000; PB +5)
+**Speed** 5 ft., Fly 40 ft. (hover)
+
+|            | MOD | SAVE |            | MOD | SAVE |
+|:----------:|:---:|:----:|:----------:|:---:|:----:|
+| **STR** 16 | +3  | +3   | **INT** 13 | +1  | +1   |
+| **DEX** 14 | +2  | +2   | **WIS** 15 | +2  | +7   |
+| **CON** 18 | +4  | +9   | **CHA** 17 | +3  | +3   |
+
+**Skills** Perception +12
+
+**Immunities** Poison, Murexian Poison, Prone
+
+**Senses** Darkvision 120 ft., Passive Perception 22
+
+**Languages** Deep Speech, Undercommon
+
+**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
 
 #### Traits
 
-_**Antimagic Cone.**_ The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot-cone. At the start of each of their turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
+_**Legendary Resistance (3/Day, or 4/Day in Lair)**_. If the beholder fails a saving throw, it can choose to succeed instead.
 
 _**Murexian Poison.**_ All Murexian Poison damage and conditions dealt by the beholder treat Poison immunity as Poison resistance and ignore a target's normal Poison resistance, unless the target has specific resistance or immunity to Murexian Poisons. Targets with Poison immunity or Murexian Poison resistance have Advantage on saving throws against Murexian Poison, and targets with Murexian Poison immunity automatically succeed on such saving throws.
 
@@ -272,16 +305,24 @@ Additionally, a creature that is already Poisoned by murex and fails this saving
 
 #### Actions
 
-_**Bite.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 14 (4d6) Piercing damage plus 14 (4d6) Murexian Poison damage.
+_**Multiattack.**_ The beholder uses Eye Rays three times.
 
-_**Eye Rays.**_ The beholder shoots three of their magical eye rays at random (re-roll duplicates), choosing one to three targets they can see within 120 feet of them. See the beholder stat block in the _Monster Manual_ for eye ray effects; the Enervation Ray is replaced with a Murexian Ray which behaves as follows:
+_**Bite.**_ _Melee Attack Roll:_ +8, reach 5 ft. _Hit:_ 13 (3d6 + 3) Piercing damage plus 14 (4d6) Murexian Poison damage.
 
-_Murexian Ray._ The targeted creature must make a DC 18 Constitution saving throw. On a failed save, the target takes 36 (8d8) Murexian Poison damage and is Poisoned by murex as described in the Venom Surge trait. On a successful save, the ray damage is halved and the target is not Poisoned by murex.
+_**Eye Rays.**_ The beholder randomly shoots one of the following magical rays at a target it can see within 120 feet of itself (roll 1d10; reroll if the beholder has already used that ray during this turn). See the beholder stat block in the _Monster Manual_ for eye ray effects; the Enervation Ray is replaced with a Murexian Ray which behaves as follows:
+
+**Murexian Ray.** _Constitution Saving Throw:_ DC 16. _Failure:_ 36 (8d8) Murexian Poison damage, and the target has the Poisoned condition as defined by Venom Surge. _Success:_ Half damage only.
+
+#### Bonus Actions
+
+_**Antimagic Cone.**_ The beholder's central eye emits an antimagic wave in a 150-foot Cone. Until the start of the beholder's next turn, that area acts as an _Antimagic Field_ spell, and that area works against the beholder's own Eye Rays.
 
 #### Legendary Actions
 
-The beholder can take 3 Legendary Actions, using the Eye Ray option below. They can take only one Legendary Action at a time and only at the end of another creature's turn. The beholder regains spent Legendary Actions at the start of their turn.
+_Legendary Action Uses: 3 (4 in Lair). Immediately after another creature's turn, the beholder can expend a use to take one of the following actions. The beholder regains all expended uses at the start of each of its turns._
 
-**Eye Ray.** The beholder uses one random eye ray.
+_**Chomp.**_ The beholder makes two Bite attacks.
+
+_**Eye Ray.**_ The beholder uses Eye Rays.
 
 [^🎃]: This artwork was originally commissioned for the [Halloween Zero-to-Thirty Challenge Rating Challenge](https://github.com/mpanighetti/dnd5e-030crc).

@@ -6,9 +6,11 @@
 
 _Medium Beast, Unaligned_
 
-- **AC** 13 (Aquatic Fortitude) **Initiative** +2 (12)
-- **HP** 22 (3d8 + 9)
-- **Speed** 20 ft., Swim 40 ft.
+**AC** 13 (Aquatic Fortitude) **Initiative** +2 (12)
+
+**HP** 22 (3d8 + 9)
+
+**Speed** 20 ft., Swim 40 ft.
 
 |            | MOD | SAVE |            | MOD | SAVE |
 |:----------:|:---:|:----:|:----------:|:---:|:----:|
@@ -34,4 +36,4 @@ _**Keen Smell.**_ The seal has advantage on Wisdom (Perception) checks that rely
 
 #### Actions
 
-_**Bite.**_ _Melee Attack Roll:_ +3 to hit, reach 5 ft. _Hit:_ 4 (1d6 + 1) Piercing damage.
+_**Bite.** Melee Attack Roll:_ +3 to hit, reach 5 ft. _Hit:_ 4 (1d6 + 1) Piercing damage.

@@ -8,9 +8,11 @@
 
 _Medium Fey (Shapechanger), Neutral_
 
-- **AC** 16 (Aquatic Fortitude) **Initiative** +2 (12)
-- **HP** 34 (4d8 + 16)
-- **Speed** 30 ft. (halved in seal form), Swim 20 ft. (doubled in seal form) (Selkie Skin)
+**AC** 16 (Aquatic Fortitude) **Initiative** +2 (12)
+
+**HP** 34 (4d8 + 16)
+
+**Speed** 30 ft. (halved in seal form), Swim 20 ft. (doubled in seal form) (Selkie Skin)
 
 |            | MOD | SAVE |            | MOD | SAVE |
 |:----------:|:---:|:----:|:----------:|:---:|:----:|

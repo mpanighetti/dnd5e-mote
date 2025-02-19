@@ -4,9 +4,11 @@
 
 _Large elemental, neutral_
 
-- **AC** 14 (natural armor) **Initiative** +2 (12)
-- **HP** 114 (12d10 + 48)
-- **Speed** 5 ft., Swim 30 ft.
+**AC** 14 (natural armor) **Initiative** +2 (12)
+
+**HP** 114 (12d10 + 48)
+
+**Speed** 5 ft., Swim 30 ft.
 
 |            | MOD | SAVE |            | MOD | SAVE |
 |:----------:|:---:|:----:|:----------:|:---:|:----:|
@@ -36,6 +38,6 @@ _**Water Breathing.**_ The clam can breathe only underwater.
 
 #### Actions
 
-_**Clamp.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) Bludgeoning damage, and if the target is a creature size Large or smaller, they are have the Grappled condition (escape DC 14) as the clam closes their shell around the target. While Grappled in this manner, the target has the Restrained condition and is trapped within the clam's dark interior.
+_**Clamp.** Melee Attack Roll:_ +6 to hit, reach 5 ft. _Hit:_ 13 (2d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, they have the Grappled condition (escape DC 14) as the clam closes their shell around the target. While Grappled in this manner, the target has the Restrained condition and is trapped within the clam's dark interior.
 
 The clam can Grapple one creature at a time. While Grappling a creature, the clam can't use this action without opening their shell and releasing the creature from their Grapple. A creature within 5 feet of the clam can take an action to attempt to pry the clam's shell open by succeeding on a DC 14 Strength check.

@@ -27,9 +27,11 @@ Having been raised with her people's love of violence and destruction as artisti
 
 _Medium Celestial (Reigar), Chaotic Neutral_
 
-- **AC** 17 (Glory) **Initiative** +2 (12)
-- **HP** 49 (9d8 + 9)
-- **Speed** 30 ft., Swim 30 ft.
+**AC** 17 (Glory) **Initiative** +2 (12)
+
+**HP** 49 (9d8 + 9)
+
+**Speed** 30 ft., Swim 30 ft.
 
 |            | MOD | SAVE |            | MOD | SAVE |
 |:----------:|:---:|:----:|:----------:|:---:|:----:|
