@@ -44,7 +44,7 @@ The Middlestag is mentioned in the song "[Remi O](../../songs-of-esterfell/remi-
 
 _Large Fey (Archfey), Chaotic Neutral_
 
-**AC** 20 **Initiative** +8 (18)
+**AC** 20 **Initiative** +16 (26)
 
 **HP** 607 (45d10 + 270)
 
