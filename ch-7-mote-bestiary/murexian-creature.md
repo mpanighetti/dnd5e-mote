@@ -16,27 +16,29 @@ A plant or animal newly introduced to the Murexian Grove, if not killed and eate
 
 Murexian creatures have varying traits due to the severity of corruption caused by the murex in their systems. The following traits apply to all murexian creatures of given challenge rating thresholds; lower corruption traits also apply to creatures with more severe corruption, unless otherwise noted. In addition, creatures corrupted by murex change their creature type to Monstrosity, unless they already have the Monstrosity or Aberration creature type.
 
-#### Partial Corruption (Challenge 1 or lower)
+#### Basic Corruption (Challenge 1 or lower)
 
-_**Murexian Immunity.**_ The creature is immune to Poison, including those caused by Murexian Poisons.
+_**Addled Mind.**_ A murexian creature's Intelligence cannot exceed 13.
 
-_**Poisonous Skin.**_ If a creature comes into direct contact with a murexian creature's body, it is subject to the following effect. _Constitution Saving Throw:_ DC 8 + the Constitution modifier and Proficiency Bonus of the murexian creature. _Failure:_ The target has the Poisoned condition and repeats the save at the end of each of its turns when it is not in direct contact with the murexian creature, ending the effect on itself on a success. After 1 minute without physical contact with the murexian creature, it succeeds automatically.
+_**Contact Poison.**_ If a creature comes into direct contact with a murexian creature's body, it is subject to the following effect. _Constitution Saving Throw:_ DC 8 + the Constitution modifier and Proficiency Bonus of the murexian creature. _Failure:_ The target has the Poisoned condition and repeats the save at the end of each of its turns when it is not in direct contact with the murexian creature, ending the effect on itself on a success. After 1 minute without physical contact with the murexian creature, it succeeds automatically.
 
 If the creature already has an effect from contact or melee attacks that includes a saving throw to resist the Poisoned condition, this replaces that feature, but uses the higher of the two DCs.
 
+_**Murexian Immunity.**_ The creature is immune to Poison damage and the Poisoned condition, including those caused by Murexian Poison.
+
 #### Severe Corruption (Challenge 2-5)
 
-_**Enhanced Poisonous Skin.**_ A creature that fails the Constitution saving throw from a murexian creature's Poisonous Skin trait additionally has the Paralyzed condition until the end of its next turn.
+_**Enhanced Contact Poison.**_ A creature that fails the Constitution saving throw from a murexian creature's Contact Poison trait additionally has the Paralyzed condition until the end of its next turn.
 
-_**Murexian Poison.**_ All attacks and traits of a murexian creature that deal Poison damage or conditions treat Immunity to Poison as Resistance and ignores a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
+_**Murexian Poison.**_ All attacks and traits of a murexian creature that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
 
-_**Toxic Injection.**_ The sludge coursing through the veins and fangs of murexian creatures is highly toxic to those who come in contact with them. When a murexian creature hits a creature with an attack using a natural weapon such as their bite or claws, the attack deals an additional 1d6 Murexian Poison damage.
+_**Murexian Venom.**_ The sludge coursing through the veins and fangs of murexian creatures is highly toxic to those who come in contact with them. When a murexian creature hits a creature with an attack using a natural weapon such as a bite or claw, the attack deals an additional 1d6 Poison damage.
 
 #### Complete Corruption (Challenge 6 or higher)
 
-_**Toxic Infusion.**_ The Toxic Injection trait deals an additional 3d6 Murexian Poison damage on a hit with attacks using a natural weapon.
+_**Enhanced Venom.**_ The murexian creature's natural weapon attacks deal an additional 3d6 Poison damage (4d6 total) on a hit.
 
-_**Venom Surge.**_ If a creature that is already Poisoned by murex fails the Poisonous Skin saving throw from new skin contact, it gains 1 Exhaustion level.
+_**Toxic Contact Poison.**_ If a creature that is already Poisoned by murex fails the Contact Poison saving throw from new skin contact, it gains 1 Exhaustion level.
 
 ## Example Murexian Creatures
 
@@ -81,7 +83,7 @@ _Tiny Monstrosity, Unaligned_
 
 _**Agile.**_ The squirrel doesn't provoke an Opportunity Attack when it moves out of an enemy's reach.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with the squirrel's body (including as part of the squirrel's Bite attack), they must succeed on a DC 9 Constitution saving throw or become Poisoned with murex for 1 minute. A Poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
+_**Contact Poison.**_ If another creature comes into direct contact with the squirrel's body (including as part of the squirrel's Bite attack), they must succeed on a DC 9 Constitution saving throw or become Poisoned for 1 minute. A Poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
 #### Actions
 
@@ -121,7 +123,7 @@ _Small Monstrosity, Neutral Evil_
 
 Pack Tactics. The blight has Advantage on an attack roll against a creature if at least one of the blight's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claw attack), they must succeed on a DC 10 Constitution saving throw or become Poisoned with murex for 1 minute. A Poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
+_**Contact Poison.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claw attack), they must succeed on a DC 10 Constitution saving throw or become Poisoned for 1 minute. A Poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
 #### Actions
 
@@ -157,9 +159,9 @@ _Large Monstrosity, Unaligned_
 
 _**Bloodied Fury.**_ The boar has Advantage on melee attack rolls while it is Bloodied.
 
-_**Murexian Poison.**_ All Murexian Poison damage and conditions dealt by the boar treat Poison immunity as Poison resistance and ignore a target's normal Poison resistance, unless the target has specific resistance or immunity to Murexian Poisons. Targets with Poison immunity or Murexian Poison resistance have Advantage on saving throws against Murexian Poison, and targets with Murexian Poison immunity automatically succeed on such saving throws.
+_**Enhanced Contact Poison.**_ If another creature comes into direct contact with the boar's body (including as part of the boar's Gore attack), they must succeed on a DC 13 Constitution saving throw or become Poisoned for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the boar can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
-_**Enhanced Poisonous Skin.**_ If another creature comes into direct contact with the boar's body (including as part of the boar's Gore attack), they must succeed on a DC 13 Constitution saving throw or become Poisoned with murex for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the boar can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
+_**Murexian Poison.**_ All of the boar's attacks and traits that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
 
 #### Actions
 
@@ -202,19 +204,19 @@ _Large Monstrosity, Lawful Evil_
 
 #### Traits
 
+_**Enhanced Contact Poison.**_ If another creature comes into direct contact with the hellwasp's body (including as part of the hellwasp's Sting or Sword Talons attacks), they must succeed on a DC 12 Constitution saving throw or become Poisoned for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the hellwasp can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
+
 _**Magic Weapons.**_ The hellwasp's weapon attacks are magical.
 
-_**Murexian Poison.**_ All Murexian Poison damage and conditions dealt by the hellwasp treat Poison immunity as Poison resistance and ignore a target's normal Poison resistance, unless the target has specific resistance or immunity to Murexian Poisons. Targets with Poison immunity or Murexian Poison resistance have Advantage on saving throws against Murexian Poison, and targets with Murexian Poison immunity automatically succeed on such saving throws.
-
-_**Enhanced Poisonous Skin.**_ If another creature comes into direct contact with the hellwasp's body (including as part of the hellwasp's Sting or Sword Talons attacks), they must succeed on a DC 12 Constitution saving throw or become Poisoned with murex for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the hellwasp can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
+_**Murexian Poison.**_ All of the wasp's attacks and traits that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
 
 #### Actions
 
 _**Multiattack.**_ The hellwasp makes two attacks: one with their sting and one with their sword talons.
 
-_**Sting.** Melee Attack Roll:_ +7, reach 5 ft.. _Hit:_ 8 (1d8 + 4) Piercing damage plus 7 (2d6) Fire damage and 3 (1d6) Murexian Poison damage.
+_**Sting.** Melee Attack Roll:_ +7, reach 5 ft.. _Hit:_ 8 (1d8 + 4) Piercing damage plus 7 (2d6) Fire damage and 3 (1d6) Poison damage.
 
-_**Sword Talons.** Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 11 (2d6 + 4) Piercing damage plus 3 (1d6) Murexian Poison damage.
+_**Sword Talons.** Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 11 (2d6 + 4) Piercing damage plus 3 (1d6) Poison damage.
 
 ### [Murexian Tyrannosaurus Rex](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-tyrannosaurus-rex.md)
 
@@ -246,9 +248,9 @@ _Huge Monstrosity (Dinosaur), Unaligned_
 
 #### Traits
 
-_**Murexian Poison.**_ All Murexian Poison damage and conditions dealt by the tyrannosaurus treat Poison immunity as Poison resistance and ignore a target's normal Poison resistance, unless the target has specific resistance or immunity to Murexian Poisons. Targets with Poison immunity or Murexian Poison resistance have Advantage on saving throws against Murexian Poison, and targets with Murexian Poison immunity automatically succeed on such saving throws.
+_**Murexian Poison.**_ All of the tyrannosaurus' attacks and traits that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
 
-_**Venom Surge.**_ If another creature comes into direct contact with the tyrannosaurus' body (including as part of T. rex's Bite or Tail attack), they must succeed on a DC 16 Constitution saving throw or become Poisoned with murex for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with T. rex can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
+_**Toxic Contact Poison.**_ If another creature comes into direct contact with the tyrannosaurus' body (including as part of T. rex's Bite or Tail attack), they must succeed on a DC 16 Constitution saving throw or become Poisoned for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with T. rex can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
 If a creature that is already Poisoned by murex fails this saving throw from new skin contact, it gains 1 Exhaustion level.
 
@@ -256,15 +258,15 @@ If a creature that is already Poisoned by murex fails this saving throw from new
 
 _**Multiattack.**_ The tyrannosaurus makes one Bite attack and one Tail attack.
 
-_**Bite.**_ _Melee Attack Roll:_ +11, reach 10 ft. _Hit:_ 33 (4d12 + 7) Piercing damage plus 14 (4d6) Murexian Poison damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17). While Grappled, the target has the Restrained condition and can't be targeted by the tyrannosaurus' Tail.
+_**Bite.**_ _Melee Attack Roll:_ +11, reach 10 ft. _Hit:_ 33 (4d12 + 7) Piercing damage plus 14 (4d6) Poison damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17). While Grappled, the target has the Restrained condition and can't be targeted by the tyrannosaurus' Tail.
 
-_**Tail.**_ _Melee Attack Roll:_ +11, reach 15 ft. _Hit:_ 25 (4d8 + 7) Bludgeoning damage plus 14 (4d6) Murexian Poison damage.  If the target is a Huge or smaller creature, it has the Prone condition.
+_**Tail.**_ _Melee Attack Roll:_ +11, reach 15 ft. _Hit:_ 25 (4d8 + 7) Bludgeoning damage plus 14 (4d6) Poison damage.  If the target is a Huge or smaller creature, it has the Prone condition.
 
 ### [Murexian Beholder](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-beholder.md)
 
 It is a strange scenario indeed for a beholder to allow themself to become corrupted by murex. This might occur if the beholder was driven out of their lair and had to flee, finding themself in the Murexian Grove and subsisting on the tainted flesh of the beasts found there to survive. Or it may have been a conscious decision, some play to take in these powerful toxins to use against their real or perceived foes. The ambitions of a beholder are sometimes difficult to predict, and a beholder prefers it this way.
 
-However this came to be, the beholder will find not only their body infused with murex, but also their mind. The toxins cloud thought and judgment, twisting the beholder's innate paranoia. The aberrant mind becomes more so, reducing the beholder's intelligence and making them fearful of anything they encounter, thinking that they have discovered an agent of their foes. Such a beholder will generally try to kill creatures on the spot rather than converse or negotiate terms. They still make an effort to anticipate their enemies' next actions, but they become a generally less effective tactician.
+However this came to be, the beholder will find that not only is their body infused with murex, but that their mind is also impacted. The toxins cloud thought and judgment, twisting the beholder's innate paranoia. The aberrant mind becomes more so, reducing the beholder's mental acuity and making them fearful of anything they encounter, thinking that they have discovered an agent of their foes. Such a beholder will generally try to kill creatures on the spot rather than converse or negotiate terms. They still make an effort to anticipate their enemies' next actions, but they become a generally less effective tactician.
 
 Murexian beholders will happily make their new surroundings into a lair, tending to create vast tunnels underground amidst the mexite deposits from ancient volcanic activity. Their slaves dig until they hit magma flows, so that the beholder might better protect their interests through ever more hazardous pathways.
 
@@ -305,9 +307,9 @@ _Large Aberration, Lawful Evil_
 
 _**Legendary Resistance (3/Day, or 4/Day in Lair)**_. If the beholder fails a saving throw, it can choose to succeed instead.
 
-_**Murexian Poison.**_ All Murexian Poison damage and conditions dealt by the beholder treat Poison immunity as Poison resistance and ignore a target's normal Poison resistance, unless the target has specific resistance or immunity to Murexian Poisons. Targets with Poison immunity or Murexian Poison resistance have Advantage on saving throws against Murexian Poison, and targets with Murexian Poison immunity automatically succeed on such saving throws.
+_**Murexian Poison.**_ All the beholder's attacks and traits that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
 
-_**Venom Surge.**_ If another creature comes into direct contact with the beholder's body (including as part of the beholder's Bite attack), they must succeed on a DC 17 Constitution saving throw or become Poisoned with murex for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the beholder can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
+_**Toxic Contact Poison.**_ If another creature comes into direct contact with the beholder's body (including as part of the beholder's Bite attack), they must succeed on a DC 17 Constitution saving throw or become Poisoned for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the beholder can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
 If a creature that is already Poisoned by murex fails this saving throw from new skin contact, it gains 1 Exhaustion level.
 
@@ -315,11 +317,11 @@ If a creature that is already Poisoned by murex fails this saving throw from new
 
 _**Multiattack.**_ The beholder uses Eye Rays three times.
 
-_**Bite.**_ _Melee Attack Roll:_ +8, reach 5 ft. _Hit:_ 13 (3d6 + 3) Piercing damage plus 14 (4d6) Murexian Poison damage.
+_**Bite.**_ _Melee Attack Roll:_ +8, reach 5 ft. _Hit:_ 13 (3d6 + 3) Piercing damage plus 14 (4d6) Poison damage.
 
 _**Eye Rays.**_ The beholder randomly shoots one of the following magical rays at a target it can see within 120 feet of itself (roll 1d10; reroll if the beholder has already used that ray during this turn). See the beholder stat block in the _Monster Manual_ for eye ray effects; the Enervation Ray is replaced with a Murexian Ray which behaves as follows:
 
-**Murexian Ray.** _Constitution Saving Throw:_ DC 16. _Failure:_ 36 (8d8) Murexian Poison damage, and the target has the Poisoned condition as defined by Venom Surge. _Success:_ Half damage only.
+**Murexian Ray.** _Constitution Saving Throw:_ DC 16. _Failure:_ 36 (8d8) Poison damage, and the target has the Poisoned condition as defined by Toxic Contact Poison. _Success:_ Half damage only.
 
 #### Bonus Actions
 
