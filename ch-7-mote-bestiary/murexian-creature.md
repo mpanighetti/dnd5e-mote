@@ -38,7 +38,7 @@ _**Venom Surge.**_ A creature that is already Poisoned by a murexian creature's 
 
 ## Example Murexian Creatures
 
-The following creatures are all based on existing creatures and modified with murexian traits based on their original challenge rating (the murexian squirrel is based on a rat with climbing speed and Pack Tactics added). This can serve as an example of how murex corruption affects a stat block. Note that the addition of Poison immunity, contact Poison effects, and increased damage on attacks can affect the challenge rating; an effort has been made to recalculate challenge ratings accordingly, and some attributes have been adjusted to better match the new challenge rating.
+The following creatures are all based on existing creatures and modified with murexian traits based on their original challenge rating (the murexian squirrel is based on a rat). This can serve as an example of how murex corruption affects a stat block. Note that the addition of Poison immunity, contact Poison effects, and increased damage on attacks can affect the challenge rating; an effort has been made to recalculate challenge ratings accordingly, and some attributes have been adjusted to better match the new challenge rating.
 
 ### [Murexian Squirrel](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-squirrel.md)
 
@@ -53,11 +53,11 @@ The following creatures are all based on existing creatures and modified with mu
 
 _Tiny Monstrosity, Unaligned_
 
-**AC** 10
+**AC** 10 **Initiative** +0 (10)
 
 **HP** 1 (1d4 - 1)
 
-**Speed** 20 ft., climb 30 ft.
+**Speed** 20 ft., Climb 20 ft.
 
 |            | MOD | SAVE |            | MOD | SAVE |
 |:----------:|:---:|:----:|:----------:|:---:|:----:|
@@ -65,9 +65,11 @@ _Tiny Monstrosity, Unaligned_
 | **DEX** 11 | +0  | +0   | **WIS** 10 | +0  | +0   |
 | **CON** 9  | -1  | -1   | **CHA** 4  | -3  | -3   |
 
+**Skills** Perception +2
+
 **Immunities** Poison, Murexian Poison
 
-**Senses** darkvision, passive Perception 10
+**Senses** Darkvision 30 ft., Passive Perception 12
 
 **Languages** None
 
@@ -75,15 +77,13 @@ _Tiny Monstrosity, Unaligned_
 
 #### Traits
 
-_**Keen Smell.**_ The squirrel has advantage on Wisdom (Perception) checks that rely on smell.
-
-_**Pack Tactics.**_ The squirrel has advantage on attack rolls against a creature if at least one of the squirrel's allies is within 5 feet of the creature and isn't incapacitated.
+_**Agile.**_ The squirrel doesn't provoke an Opportunity Attack when it moves out of an enemy's reach.
 
 _**Poisonous Skin.**_ If another creature comes into direct contact with the squirrel's body (including as part of the squirrel's Bite attack), they must succeed on a DC 9 Constitution saving throw or become Poisoned with murex for 1 minute. A Poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
 #### Actions
 
-_**Bite.**_ _Melee Attack Roll:_ +0, reach 5 ft. _Hit:_ 1 Piercing damage.
+_**Bite.** Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 ### [Murexian Twig Blight](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-twig-blight.md)
 
@@ -91,35 +91,39 @@ _**Bite.**_ _Melee Attack Roll:_ +0, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 _Small Monstrosity, Neutral Evil_
 
-**AC** 13 (natural armor)
+**AC** 14 **Initiative** +2 (12)
 
-**HP** 4 (1d6 + 1)
+**HP** 7 (2d6)
 
 **Speed** 20 ft.
 
-| STR  |  DEX  |  CON  | INT  | WIS  | CHA  |
-|:----:|:-----:|:-----:|:----:|:----:|:----:|
-|6 (-2)|13 (+1)|12 (+1)|4 (-3)|8 (-1)|3 (-4)|
+|            | MOD | SAVE |            | MOD | SAVE |
+|:----------:|:---:|:----:|:----------:|:---:|:----:|
+| **STR** 6  | -2  | -2   | **INT** 4  | -3  | -3   |
+| **DEX** 14 | +2  | +2   | **WIS** 8  | -1  | -1   |
+| **CON** 11 | +0  | +0   | **CHA** 3  | -4  | -4   |
 
-**Damage Vulnerabilities** fire
+**Skills** Stealth +4
 
-**Immunities** Blinded, Deafened, Poison, Murexian Poison
+**Vulnerabilities** Fire
 
-**Senses** Blindsight 60 ft. (blind beyond this radius), passive Perception 9
+**Immunities** Deafened, Poison, Murexian Poison
 
-**Languages** understands Common but can't speak
+**Senses** Blindsight 60 ft., Passive Perception 9
+
+**Languages** Understands Common but can't speak
 
 **CR** ⅛ (XP 25; PB +2)
 
 #### Traits
 
-_**False Appearance.**_ While the blight remains motionless, they are indistinguishable from a dead shrub.
+Pack Tactics. The blight has Advantage on an attack roll against a creature if at least one of the blight's allies is within 5 feet of the creature and the ally doesn't have the Incapacitated condition.
 
-_**Poisonous Skin.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claws attack), they must succeed on a DC 9 Constitution saving throw or become Poisoned with murex for 1 minute. A Poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
+_**Poisonous Skin.**_ If another creature comes into direct contact with the twig blight's body (including as part of the twig blight's Claw attack), they must succeed on a DC 9 Constitution saving throw or become Poisoned with murex for 1 minute. A Poisoned creature no longer in direct contact with the squirrel can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
 #### Actions
 
-_**Claws.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 3 (1d4 + 1) Piercing damage.
+_**Claw.** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Slashing damage.
 
 ### [Murexian Giant Boar](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-giant-boar.md)
 
@@ -127,19 +131,21 @@ _**Claws.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 3 (1d4 + 1) Piercing da
 
 _Large Monstrosity, Unaligned_
 
-**AC** 12 (natural armor)
+**AC** 13 **Initiative** +0 (10)
 
 **HP** 42 (5d10 + 15)
 
 **Speed** 40 ft.
 
-|  STR  |  DEX  |  CON  | INT  | WIS  | CHA  |
-|:-----:|:-----:|:-----:|:----:|:----:|:----:|
-|17 (+3)|10 (+0)|16 (+3)|2 (-4)|7 (-2)|5 (-3)|
+|            | MOD | SAVE |            | MOD | SAVE |
+|:----------:|:---:|:----:|:----------:|:---:|:----:|
+| **STR** 17 | +3  | +5   | **INT** 2  | -4  | -4   |
+| **DEX** 10 | +0  | +0   | **WIS** 7  | -2  | -2   |
+| **CON** 16 | +3  | +3   | **CHA** 5  | -3  | -3   |
 
 **Immunities** Poison, Murexian Poison
 
-**Senses** passive Perception 8
+**Senses** Passive Perception 8
 
 **Languages** None
 
@@ -147,17 +153,15 @@ _Large Monstrosity, Unaligned_
 
 #### Traits
 
-_**Charge.**_ If the boar moves at least 20 feet straight toward a target and then hits them with a tusk attack on the same turn, the target takes an extra 7 (2d6) Slashing damage. If the target is a creature, they must succeed on a DC 13 Strength saving throw or be knocked Prone.
+_**Bloodied Fury.**_ The boar has Advantage on melee attack rolls while it is Bloodied.
 
 _**Murexian Poison.**_ All Murexian Poison damage and conditions dealt by the boar treat Poison immunity as Poison resistance and ignore a target's normal Poison resistance, unless the target has specific resistance or immunity to Murexian Poisons. Targets with Poison immunity or Murexian Poison resistance have Advantage on saving throws against Murexian Poison, and targets with Murexian Poison immunity automatically succeed on such saving throws.
 
-_**Enhanced Poisonous Skin.**_ If another creature comes into direct contact with the boar's body (including as part of the boar's Tusk attack), they must succeed on a DC 13 Constitution saving throw or become Poisoned with murex for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the boar can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
-
-_**Relentless (Recharges after a Short or Long Rest).**_ If the boar takes 10 damage or less that would reduce them to 0 Hit Points, they are reduced to 1 Hit Point instead.
+_**Enhanced Poisonous Skin.**_ If another creature comes into direct contact with the boar's body (including as part of the boar's Gore attack), they must succeed on a DC 13 Constitution saving throw or become Poisoned with murex for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the boar can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
 #### Actions
 
-_**Tusk.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Slashing damage plus 3 (1d6) Murexian Poison damage.
+_**Gore.** Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Piercing damage. If the target is a Large or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
 
 ### [Murexian Hellwasp](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-hellwasp.md)
 
@@ -172,25 +176,25 @@ _**Tusk.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Slashing da
 
 _Large Monstrosity, Lawful Evil_
 
-**AC** 19 (natural armor)
+**AC** 19 **Initiative** +2 (12)
 
 **HP** 52 (8d10 + 8)
 
-**Speed** 10 ft., fly 60 ft. (hover)
+**Speed** 10 ft., Fly 60 ft. (hover)
 
-|  STR  |  DEX  |  CON  |  INT  |  WIS  | CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:----:|
-|18 (+4)|15 (+2)|12 (+1)|10 (+0)|10 (+0)|7 (-2)|
-
-**Saving Throws** DEX +5, WIS +3
+|            | MOD | SAVE |            | MOD | SAVE |
+|:----------:|:---:|:----:|:----------:|:---:|:----:|
+| **STR** 18 | +4  | +4   | **INT** 10 | +0  | +0   |
+| **DEX** 15 | +2  | +5   | **WIS** 10 | +0  | +3   |
+| **CON** 12 | +1  | +1   | **CHA** 7  | -2  | -2   |
 
 **Vulnerabilities** Cold
 
 **Immunities** Fire, Poison, Murexian Poison
 
-**Senses** darkvision 60 ft., passive Perception 10
+**Senses** Darkvision 60 ft., Passive Perception 10
 
-**Languages** Infernal, telepathy 300 ft. (with other hellwasps only)
+**Languages** Infernal, Telepathy 300 ft. (with other hellwasps only)
 
 **CR** 5 (XP 1,800; PB +3)
 
@@ -206,31 +210,33 @@ _**Enhanced Poisonous Skin.**_ If another creature comes into direct contact wit
 
 _**Multiattack.**_ The hellwasp makes two attacks: one with their sting and one with their sword talons.
 
-_**Sting.**_ _Melee Attack Roll:_ +7, reach 5 ft.. _Hit:_ 8 (1d8 + 4) Piercing damage plus 7 (2d6) Fire damage and 3 (1d6) Murexian Poison damage.
+_**Sting.** Melee Attack Roll:_ +7, reach 5 ft.. _Hit:_ 8 (1d8 + 4) Piercing damage plus 7 (2d6) Fire damage and 3 (1d6) Murexian Poison damage.
 
-_**Sword Talons.**_ _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 11 (2d6 + 4) Piercing damage plus 3 (1d6) Murexian Poison damage.
+_**Sword Talons.** Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 11 (2d6 + 4) Piercing damage plus 3 (1d6) Murexian Poison damage.
 
-### [Murexian Tyrannosaurus rex](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-tyrannosaurus-rex.md)
+### [Murexian Tyrannosaurus Rex](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-tyrannosaurus-rex.md)
 
 #### Attributes
 
-_Huge Monstrosity, Unaligned_
+_Huge Monstrosity (Dinosaur), Unaligned_
 
-**AC** 15 (natural armor)
+**AC** 13 **Initiative** +3 (13)
 
-**HP** 149 (13d12 + 65)
+**HP** 136 (13d12 + 52)
 
 **Speed** 50 ft.
 
-|  STR  |  DEX  |  CON  | INT  |  WIS  | CHA  |
-|:-----:|:-----:|:-----:|:----:|:-----:|:----:|
-|24 (+6)|10 (+0)|21 (+5)|2 (-4)|12 (+1)|9 (-1)|
+|            | MOD | SAVE |            | MOD | SAVE |
+|:----------:|:---:|:----:|:----------:|:---:|:----:|
+| **STR** 25 | +7  | +10  | **INT** 2  | -4  | -4   |
+| **DEX** 10 | +0  | +0   | **WIS** 12 | +1  | +4   |
+| **CON** 19 | +4  | +4   | **CHA** 9  | -1  | -1   |
 
 **Skills** Perception +4
 
 **Immunities** Poison, Murexian Poison
 
-**Senses** passive Perception 14
+**Senses** Passive Perception 14
 
 **Languages** None
 
@@ -246,11 +252,11 @@ Additionally, a creature that is already Poisoned by murex and fails this saving
 
 #### Actions
 
-_**Multiattack.**_ T. rex makes two attacks: one with their bite and one with their tail. They can't make both attacks against the same target.
+_**Multiattack.**_ The tyrannosaurus makes one Bite attack and one Tail attack.
 
-_**Bite.**_ _Melee Attack Roll:_ +10, reach 10 ft. _Hit:_ 32 (4d12 + 6) Piercing damage plus 14 (4d6) Murexian Poison damage. If the target is a Medium or smaller creature, they are Grappled (escape DC 17). Until the Grapple ends, the target is restrained, and T. rex can't bite another target.
+_**Bite.**_ _Melee Attack Roll:_ +10, reach 10 ft. _Hit:_ 33 (4d12 + 7) Piercing damage plus 14 (4d6) Murexian Poison damage. If the target is a Large or smaller creature, it has the Grappled condition (escape DC 17). While Grappled, the target has the Restrained condition and can't be targeted by the tyrannosaurus' Tail.
 
-_**Tail.**_ _Melee Attack Roll:_ +10, reach 10 ft. _Hit:_ 19 (3d8 + 6) Bludgeoning damage plus 14 (4d6) Murexian Poison damage.
+_**Tail.**_ _Melee Attack Roll:_ +10, reach 15 ft. _Hit:_ 25 (4d8 + 7) Bludgeoning damage plus 14 (4d6) Murexian Poison damage.  If the target is a Huge or smaller creature, it has the Prone condition.
 
 ### [Murexian Beholder](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-beholder.md)
 
