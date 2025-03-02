@@ -16,5 +16,6 @@
 - [Jaydove Oakbough](members/jaydove-oakbough.md)
 - [Lindy Crestenshire](members/lindy-crestenshire.md)
 - [Scarlett Thatcher](members/scarlett-thatcher.md)
+- [S4R4](../arcartisans/members/s4r4.md)
 - [Thaymseria](members/thaymseria.md)
 - [Xythia](members/xythia.md)
