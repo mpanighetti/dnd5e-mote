@@ -6,5 +6,5 @@
 
 - [Balut's Academerie for the Magistically Inclinated](../../../../ch-2-people-of-mote/organizations/baluts-academerie/baluts-academerie.md)
 - [The Guild of Associated Arcartisans](../../../../ch-2-people-of-mote/organizations/arcartisans/arcartisans.md)
-- [Pipina's Pastries](../../../../ch-2-people-of-mote/organizations/pipinas-pastries.md)
-- [Swiftthistle's Maskquerade](../../../../ch-2-people-of-mote/organizations/swiftthistles-maskquerade.md)
+- [Pipina's Pastries](../../../../ch-2-people-of-mote/organizations/pipinas-pastries/pipinas-pastries.md)
+- [Swiftthistle's Maskquerade](../../../../ch-2-people-of-mote/organizations/pipinas-pastries/swiftthistles-maskquerade.md)
