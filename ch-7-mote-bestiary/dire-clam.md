@@ -4,7 +4,7 @@
 
 _Large elemental, neutral_
 
-**AC** 14 (natural armor) **Initiative** +2 (12)
+**AC** 14, or 18 with shell closed (Shell Defense) **Initiative** +2 (12)
 
 **HP** 114 (12d10 + 48)
 
@@ -18,9 +18,9 @@ _Large elemental, neutral_
 
 **Resistances:** Acid, Bludgeoning, Piercing, Slashing
 
-**Immunities:** Poison; Grappled, Poisoned, Prone
+**Immunities:** Poison; Grappled, Poisoned
 
-**Senses:** Blindsight 30 ft. (blind beyond this range), Tremorsense 60 ft., passive Perception 8
+**Senses:** Blindsight 30 ft., Tremorsense 60 ft., Passive Perception 8
 
 **Languages:** None
 
@@ -28,16 +28,14 @@ _Large elemental, neutral_
 
 #### Traits
 
-_**Crushing Grip.**_ At the start of each of the clam's turns, a creature Grappled by the clam's Clamp attack takes 13 (2d8 + 4) Bludgeoning damage.
+_**Freeze.**_ If the clam takes Cold damage, it has the Prone condition. If the clam uses movement to right itself on its turn, it ends its turn.
 
-_**Freeze.**_ If the clam takes Cold damage, they partially freeze; their speed is reduced by 20 feet until the end of their next turn.
-
-_**Shell Defense.**_ While the clam's mouth is closed, they gain a +4 bonus to AC, they have advantage on Strength and Constitution Saving Throws, they are Prone, their speed is 0 and can't increase, they have disadvantage on Dexterity Saving Throws, they can't take Reactions, and the only Action they can take is their Clamp.
+_**Shell Defense.**_ While the clam's shell is closed, it gains a +4 bonus to AC and it has the Incapacitated condition. If the clam uses its Clamp attack, its shell opens.
 
 _**Water Breathing.**_ The clam can breathe only underwater.
 
 #### Actions
 
-_**Clamp.** Melee Attack Roll:_ +6 to hit, reach 5 ft. _Hit:_ 13 (2d8 + 4) Bludgeoning damage. If the target is a Large or smaller creature, they have the Grappled condition (escape DC 14) as the clam closes their shell around the target. While Grappled in this manner, the target has the Restrained condition and is trapped within the clam's dark interior.
+_**Clamp.** Melee Attack Roll:_ +6 to hit, reach 5 ft. _Hit:_ 13 (2d8 + 4) Bludgeoning damage. If the target is a Medium or smaller creature, it is engulfed within the clam's dark interior. An engulfed creature has the Blinded and Restrained conditions, it has Total Cover against attacks and other effects outside the clam, and it takes 14 (4d6) Acid damage at the start of each of the clam's turns.
 
-The clam can Grapple one creature at a time. While Grappling a creature, the clam can't use this action without opening their shell and releasing the creature from their Grapple. A creature within 5 feet of the clam can take an action to attempt to pry the clam's shell open by succeeding on a DC 14 Strength check.
+The clam can have up to one creature engulfed at a time, during which it can't use its Clamp on another target without opening its shell and allowing an engulfed creature to escape. A creature within 5 feet of the clam can take an Action to pry the clam's shell open by succeeding on a DC 14 Strength check.
