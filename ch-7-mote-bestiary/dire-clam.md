@@ -2,7 +2,7 @@
 
 #### Attributes
 
-_Large elemental, neutral_
+_Large Elemental, Neutral_
 
 **AC** 14, or 18 with shell closed (Shell Defense) **Initiative** +2 (12)
 

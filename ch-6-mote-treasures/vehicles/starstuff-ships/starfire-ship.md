@@ -1,7 +1,5 @@
 # [Starfire Ship](https://github.com/mpanighetti/dnd5e-monsters/blob/main/vehicles/starfire-ship.md)
 
-#### Description
-
 **Starfire ships** are an experimental ship design conceived by the [Antipelan Society](../../ch-2-people-of-mote/organizations/antipelan-society/antipelan-society.md) to both collect and run on [starstuff](../../ch-6-mote-treasures/starstuff.md) energy. The first such [starstuff ship](starstuff-ships.md) in the Antipelan fleet was given the callsign **AP-SF-01** and later designated the "[Sanguine Starcatcher](../../ch-2-people-of-mote/organizations/antipelan-society/fleet/ap-sf-01-sanguine-starcatcher.md)" by its crew. This ship was sent on its maiden voyage to prove the efficacy of the starfire ship design and to scout out new starstuff reserves, eventually allowing future ships to be built.
 
 The stern of a starfire ship contains its signature feature, a spherical latticed metal chamber housing a ball of starstuff. This starstuff engine provides the ship with a powerful source of energy, allowing it faster travel through [Fellspace](../../ch-1-welcome-to-mote/cosmology/fellspace.md) compared to typical spelljamming vessels. The ship's pilot can trigger the chamber to ignite any starstuff inside, achieving great bursts of speed as the energy is rapidly depleted.
@@ -18,7 +16,7 @@ Use a [space galleon](https://www.dndbeyond.com/sources/sais/aag/astral-adventur
 
 #### Attributes
 
-_Gargantuan vehicle (130 ft. by 30 ft.)_
+_Gargantuan Vehicle (130 ft. by 30 ft.)_
 
 - **Speed** fly 30 ft. (3 mph) (doubled if the engine has any starstuff deposits)
 - **Creature Capacity** 20 crew, 10 passengers
