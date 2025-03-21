@@ -10,7 +10,7 @@
 
 ### Physical
 
-- species: warforged
+- species: spark
 
 ## History
 
