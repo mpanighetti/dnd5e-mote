@@ -1,6 +1,6 @@
 # Garlec Deg
 
-**Garlec Deg** is the proprietor of the [Cooked Goose](../edgewood/cooked-goose.md) in [Edgewood](../edgewood/edgewood.md).
+**Garlec Deg** is the proprietor of the [Cooked Goose](../edgewood/cooked-goose.md) in [Edgewood](../edgewood/).
 
 ## Information
 

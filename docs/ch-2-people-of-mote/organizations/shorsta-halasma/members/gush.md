@@ -1,6 +1,6 @@
 # Gush
 
-**Gush** is a [Shorsta-Halasma](../shorsta-halasma.md) monk who teaches the art of mastery of elements, specializing in the water element innate to his genasi form.
+**Gush** is a [Shorsta-Halasma](../) monk who teaches the art of mastery of elements, specializing in the water element innate to his genasi form.
 
 ## Information
 

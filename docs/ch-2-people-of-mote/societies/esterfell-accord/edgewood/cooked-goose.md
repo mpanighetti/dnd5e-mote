@@ -1,6 +1,6 @@
 # Cooked Goose
 
-**The Cooked Goose** is a bar and tavern in [Edgewood](edgewood.md). It is operated by [Garlec Deg](../citizenry/garlec-deg.md), who is one of the town's only permanent residents.
+**The Cooked Goose** is a bar and tavern in [Edgewood](index.md). It is operated by [Garlec Deg](../citizenry/garlec-deg.md), who is one of the town's only permanent residents.
 
 ## Information
 

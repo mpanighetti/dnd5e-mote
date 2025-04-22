@@ -1,3 +1,3 @@
 # Stuffed Finch
 
-The **Stuffed Finch** is a tavern in [Leving](leving.md).
+The **Stuffed Finch** is a tavern in [Leving](index.md).

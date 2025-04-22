@@ -1,12 +1,12 @@
 # Mux
 
-**Mux** is a corrupted form of [murex](murex.md) occurring after removal from a [murexian creature](../../ch-7-mote-bestiary/murexian-creature.md). It loses most of its previous value, turning into a highly toxic substance.
+**Mux** is a corrupted form of [murex](index.md) occurring after removal from a [murexian creature](../../ch-7-mote-bestiary/murexian-creature.md). It loses most of its previous value, turning into a highly toxic substance.
 
 ## Properties
 
 ### Geology
 
-Mux can be found in marshes, streams, and other bodies of water throughout the [Ashen Scape](../../ch-4-esterfell-gazetteer/lenya/ashen-scape.md).
+Mux can be found in marshes, streams, and other bodies of water throughout the [Ashen Scape](../../ch-4-esterfell-gazetteer/esterfell/lenya/ashen-scape.md).
 
 ### Origin and source
 

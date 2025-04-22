@@ -1,6 +1,6 @@
 # Damon Shask
 
-**Damon Shask** is the barkeep at the [Cooked Goose](../edgewood/cooked-goose.md) in [Edgewood](../edgewood/edgewood.md).
+**Damon Shask** is the barkeep at the [Cooked Goose](../edgewood/cooked-goose.md) in [Edgewood](../edgewood/).
 
 ## Information
 

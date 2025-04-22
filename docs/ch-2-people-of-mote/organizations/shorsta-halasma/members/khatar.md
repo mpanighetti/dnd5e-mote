@@ -1,6 +1,6 @@
 # Khatar
 
-**Khatar** is a [Shorsta-Halasma](../shorsta-halasma.md) monk who teaches the arts of unarmed combat and the harnessing of the element of fire.
+**Khatar** is a [Shorsta-Halasma](../) monk who teaches the arts of unarmed combat and the harnessing of the element of fire.
 
 ## Information
 

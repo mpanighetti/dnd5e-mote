@@ -1,6 +1,6 @@
 # Remington Enoch
 
-**Remington Enoch** is an admiral of the [Antipelan Society](../antipelan-society.md).
+**Remington Enoch** is an admiral of the [Antipelan Society](../).
 
 ## Information
 

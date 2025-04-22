@@ -1,6 +1,6 @@
 # Veronica Marth
 
-**Veronica Marth** is an officer serving the [Antipelan Society](../antipelan-society.md). She currently acts as the assistant spelljammer of the [Sanguine Starcatcher](../fleet/ap-sf-01-sanguine-starcatcher.md).
+**Veronica Marth** is an officer serving the [Antipelan Society](../). She currently acts as the assistant spelljammer of the [Sanguine Starcatcher](../fleet/ap-sf-01-sanguine-starcatcher.md).
 
 ## Information
 

@@ -1,6 +1,6 @@
 # The Sharpest Image
 
-**The Sharpest Image** is a weapon smith shop in [Leving](leving.md).
+**The Sharpest Image** is a weapon smith shop in [Leving](index.md).
 
 ## Pricing
 

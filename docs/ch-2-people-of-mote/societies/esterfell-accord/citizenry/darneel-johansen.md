@@ -1,6 +1,6 @@
 # Darneel Johansen
 
-**Darneel Johansen** is a fletcher and woodworker operating out of [Cape Bec](../cape-bec/cape-bec.md).
+**Darneel Johansen** is a fletcher and woodworker operating out of [Cape Bec](../cape-bec/).
 
 ## Information
 

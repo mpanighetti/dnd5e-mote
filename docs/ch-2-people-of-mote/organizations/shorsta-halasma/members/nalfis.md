@@ -1,6 +1,6 @@
 # Nalfis
 
-**Nalfis** is the current headmaster of the [Shorsta-Halasma](../shorsta-halasma.md) monastery.
+**Nalfis** is the current headmaster of the [Shorsta-Halasma](../) monastery.
 
 ## Information
 

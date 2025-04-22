@@ -1,6 +1,6 @@
 # Cindra
 
-**Cindra** is a dragonborn woman who lives in [Cape Bec](../cape-bec/cape-bec.md). She currently resides in [The Dunes](../cape-bec/the-dunes.md), occasionally acting as the "dragon" queen of [Sanctus Salimandus](../cape-bec/sanctus-salimandus.md).
+**Cindra** is a dragonborn woman who lives in [Cape Bec](../cape-bec/). She currently resides in [The Dunes](../cape-bec/the-dunes.md), occasionally acting as the "dragon" queen of [Sanctus Salimandus](../cape-bec/sanctus-salimandus.md).
 
 ## Information
 

@@ -1,6 +1,6 @@
 # Gilliwyn Shadowbrook
 
-**Gilliwyn Shadowbrook** is a [Shorsta-Halasma](../shorsta-halasma.md) monk who teaches the art of healing through ki.
+**Gilliwyn Shadowbrook** is a [Shorsta-Halasma](../) monk who teaches the art of healing through ki.
 
 ## Information
 

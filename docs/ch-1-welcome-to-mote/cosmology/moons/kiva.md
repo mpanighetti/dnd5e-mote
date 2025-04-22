@@ -1,6 +1,6 @@
 # Kiva
 
-**Kiva** is the largest [moon of Mote](moons-of-mote.md).
+**Kiva** is the largest [moon of Mote](index.md).
 
 ## Information
 

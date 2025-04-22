@@ -1,6 +1,6 @@
 # Glittering Seaview Inn
 
-The **Glittering Seaview Inn** is an inn and tavern located in [Cape Bec](cape-bec.md).
+The **Glittering Seaview Inn** is an inn and tavern located in [Cape Bec](index.md).
 
 ## Information
 

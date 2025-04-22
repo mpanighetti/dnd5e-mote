@@ -1,6 +1,6 @@
 # Gus Hatchet
 
-**Gus Hatchet** is a fertilizer salesperson in [Cape Bec](../cape-bec/cape-bec.md).
+**Gus Hatchet** is a fertilizer salesperson in [Cape Bec](../cape-bec/).
 
 ## Information
 

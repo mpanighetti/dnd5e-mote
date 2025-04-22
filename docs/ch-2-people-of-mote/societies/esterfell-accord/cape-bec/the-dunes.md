@@ -1,6 +1,6 @@
 # The Dunes
 
-**The Dunes** are a group of apartments in [Cape Bec](cape-bec.md). The building and all its units are owned by [Archibald Frisk](../citizenry/archibald-frisk.md), who provides housing to occupants in exchange for either rent or adventuring services.
+**The Dunes** are a group of apartments in [Cape Bec](index.md). The building and all its units are owned by [Archibald Frisk](../citizenry/archibald-frisk.md), who provides housing to occupants in exchange for either rent or adventuring services.
 
 ## Units and occupants
 
@@ -24,4 +24,4 @@ The apartment is occupied by a group of kobolds who tunneled into it from the se
 
 #### Unit 502
 
-[Allen](../../verdancy/citizenry/allen.md), [Whifflefizz Bibblin](../citizenry/whifflefizz-bibblin.md), [Gilfiel Meliamne](../../verdancy/citizenry/gilfiel-meliamne.md), [Kratos Hammerhand](../../verdancy/citizenry/kratos-hammerhand.md), and [Drake Olaran](../../../../ch-2-people-of-mote/organizations/reynards-den/members/drake-olaran.md) reside in unit 502. The apartment was gifted to them by Archibald Frisk in exchange for completing a dangerous [murex](../../../../ch-6-mote-treasures/murex/murex.md)-gathering expedition. The apartment was previously occupied by [Datoron](../citizenry/datoron.md) until he left town in a hurry months ago without explanation.
+[Allen](../../verdancy/citizenry/allen.md), [Whifflefizz Bibblin](../citizenry/whifflefizz-bibblin.md), [Gilfiel Meliamne](../../verdancy/citizenry/gilfiel-meliamne.md), [Kratos Hammerhand](../../verdancy/citizenry/kratos-hammerhand.md), and [Drake Olaran](../../../../ch-2-people-of-mote/organizations/reynards-den/members/drake-olaran.md) reside in unit 502. The apartment was gifted to them by Archibald Frisk in exchange for completing a dangerous [murex](../../../../ch-6-mote-treasures/murex/)-gathering expedition. The apartment was previously occupied by [Datoron](../citizenry/datoron.md) until he left town in a hurry months ago without explanation.

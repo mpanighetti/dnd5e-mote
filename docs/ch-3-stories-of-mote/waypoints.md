@@ -8,4 +8,4 @@ Waypoints can theoretically be made between the Material Plane and any other pla
 
 Waypoints can appear wherever starstuff has been pulverized through a sufficiently powerful impact, as with a shooting star. The effect can be temporary or permanent depending on the amount of starstuff and the severity of the impact event.
 
-In some cases, waypoints can oscillate between open and closed states corresponding with cosmic events such as stellar confluences with related heavenly bodies. Depending on the positions of the [moons](../ch-1-welcome-to-mote/cosmology/moons/moons-of-mote.md), stars, and other planets, these oscillations can have periods ranging from a few hours to many centuries.
+In some cases, waypoints can oscillate between open and closed states corresponding with cosmic events such as stellar confluences with related heavenly bodies. Depending on the positions of the [moons](../ch-1-welcome-to-mote/cosmology/moons/), stars, and other planets, these oscillations can have periods ranging from a few hours to many centuries.

@@ -1,6 +1,6 @@
 # Timekeeping
 
-**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../ch-2-people-of-mote/societies/societies-of-esterfell.md). The measurement of days and months are generally based on physical aspects of [Mote](cosmology/mote.md), such as the movement of its [natural satellites](cosmology/moons/moons-of-mote.md) across the sky, which can allow for easy conversion between systems.
+**Timekeeping** is handled in a few different ways by the various [societies of Esterfell](../ch-2-people-of-mote/societies/). The measurement of days and months are generally based on physical aspects of [Mote](cosmology/mote.md), such as the movement of its [natural satellites](cosmology/moons/) across the sky, which can allow for easy conversion between systems.
 
 ## Units of Time
 
@@ -44,13 +44,13 @@ A year is the time period of a full orbit of Mote around its sun, marking a full
 
 ## Calendar Systems
 
-The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/esterfell.md) are the **Kivan Standard**, the **Harvest Calendar**, and the **Tides of Fathoms**. All three calendars divide each year into months marked roughly by the movement of a moon of Mote.
+The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/) are the **Kivan Standard**, the **Harvest Calendar**, and the **Tides of Fathoms**. All three calendars divide each year into months marked roughly by the movement of a moon of Mote.
 
 ### Kivan Standard
 
 - **Type:** solar
 - **Introduction:** 1 KS
-- **Usage:** [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md), [Subros](../ch-2-people-of-mote/societies/subros.md), [Verdancy](../ch-2-people-of-mote/societies/verdancy/verdancy.md)
+- **Usage:** [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/), [Subros](../ch-2-people-of-mote/societies/subros.md), [Verdancy](../ch-2-people-of-mote/societies/verdancy/)
 
 A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which causes the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This can make it difficult to account for the disruption lunar days can cause when determining the day of a week, the length of a month, or when an annual event aligns with the seasons.
 
@@ -70,7 +70,7 @@ A Kivan Standard year is divided into twelve months of twenty-eight days each, m
 | 11     | Merci  |
 | 12     | Dyrth  |
 
-The Kivan Standard was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from deities of the [ancient Mote pantheon](../ch-3-stories-of-mote/pantheons/mote-pantheons.md#ancient-mote-pantheon), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
+The Kivan Standard was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from deities of the [ancient Mote pantheon](../ch-3-stories-of-mote/pantheons/index.md#ancient-mote-pantheon), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
 
 A week on the Kivan Standard calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not generally impacted by the eccentricity of lunar orbits.
 
@@ -86,7 +86,7 @@ The nation of Subros, having no particular allegiance to the Accord or deference
 
 - **Type:** lunisolar (Dreg)
 - **Introduction:** ancient Mote
-- **Usage:** agrarian groups within the [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md), [Subros](../ch-2-people-of-mote/societies/subros.md), and [Verdancy](../ch-2-people-of-mote/societies/verdancy/verdancy.md)
+- **Usage:** agrarian groups within the [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/), [Subros](../ch-2-people-of-mote/societies/subros.md), and [Verdancy](../ch-2-people-of-mote/societies/verdancy/)
 
 The Harvest Calendar is unique among the systems employed by Esterfell societies, as it uses Dreg's longer orbital period as a reference point to mark the months rather than Kiva. A Dreg month (often called a dreg for short) is 42 days long when not influenced by lunar days, meaning there are 8 dregs in a harvest year.
 

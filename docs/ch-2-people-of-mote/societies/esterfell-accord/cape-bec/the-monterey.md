@@ -1,6 +1,6 @@
 # The Monterey
 
-**The Monterey** is an upscale hotel located in central [Cape Bec](cape-bec.md).
+**The Monterey** is an upscale hotel located in central [Cape Bec](index.md).
 
 ## Information
 

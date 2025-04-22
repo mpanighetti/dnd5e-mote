@@ -1,6 +1,6 @@
 # Jessi Mossbrook
 
-**Jessi Mossbrook** is the proprietor of [Jessi's Place](../leving/jessis-place.md) in [Leving](../leving/leving.md). She was raised by her mother.
+**Jessi Mossbrook** is the proprietor of [Jessi's Place](../leving/jessis-place.md) in [Leving](../leving/). She was raised by her mother.
 
 ## Information
 

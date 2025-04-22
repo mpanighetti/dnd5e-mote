@@ -1,6 +1,6 @@
 # Zavakri
 
-**Zavakri** is a [Shorsta-Halasma](../shorsta-halasma.md) monk who teaches the art of redirecting an opponent's strikes to avoid harm.
+**Zavakri** is a [Shorsta-Halasma](../) monk who teaches the art of redirecting an opponent's strikes to avoid harm.
 
 ## Information
 

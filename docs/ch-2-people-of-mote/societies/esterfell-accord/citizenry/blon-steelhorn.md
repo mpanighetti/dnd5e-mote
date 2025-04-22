@@ -1,6 +1,6 @@
 # Blon Steelhorn
 
-**Blon Steelhorn** is a member of [Leving](../leving/leving.md)'s city guard.
+**Blon Steelhorn** is a member of [Leving](../leving/)'s city guard.
 
 ## Information
 

@@ -23,7 +23,7 @@
 
 ### Childhood
 
-Kalista grew up among a matriarchal clan of tieflings in the [Esterfell Accord](../../../societies/esterfell-accord/esterfell-accord.md). Her mother was killed when she was very young and she had no memory of her father, leaving her to be raised by distant cousins.
+Kalista grew up among a matriarchal clan of tieflings in the [Esterfell Accord](../../../societies/esterfell-accord/). Her mother was killed when she was very young and she had no memory of her father, leaving her to be raised by distant cousins.
 
 ### Adulthood
 
@@ -31,4 +31,4 @@ Kalista and many others from her clan were drawn to a career in the criminal und
 
 Kalista currently acts as a field operative for Reynard's Den. She utilizes a raven named Poe to send and receive messages with other Den members. [Olivash](../../reynards-den/members/olivash.md), another agent operating out of Ëaruilë, typically acts as a central contact for such message relays.
 
-Recently, Kalista joined forces with [The Commune](../the-commune.md), originally drawn together under a common cause of rescuing [Adelia](../../order-of-istus/members/adelia.md) from a group of goblins, and later investigating strange occurrences in [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/lenya/middlestag-forest.md).
+Recently, Kalista joined forces with [The Commune](../), originally drawn together under a common cause of rescuing [Adelia](../../order-of-istus/members/adelia.md) from a group of goblins, and later investigating strange occurrences in [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md).

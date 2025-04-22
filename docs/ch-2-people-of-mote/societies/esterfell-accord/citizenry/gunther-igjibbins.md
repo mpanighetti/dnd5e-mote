@@ -1,6 +1,6 @@
 # Günther Igjibbins
 
-**Günther Igjibbins** is a geologist in [Leving](../leving/leving.md).
+**Günther Igjibbins** is a geologist in [Leving](../leving/).
 
 ## Information
 

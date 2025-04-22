@@ -1,6 +1,6 @@
 # Tipsy Doves Tavern
 
-The **Tipsy Doves Tavern** is a bar and inn located in [Cape Bec](cape-bec.md).
+The **Tipsy Doves Tavern** is a bar and inn located in [Cape Bec](index.md).
 
 ## Information
 

@@ -1,6 +1,6 @@
 # Rufus Tealeaf
 
-**Rufus Tealeaf** is a co-owner of [Tealeaf Estate](../tealeaf-estate.md).
+**Rufus Tealeaf** is a co-owner of [Tealeaf Estate](../().
 
 ## Relationships
 

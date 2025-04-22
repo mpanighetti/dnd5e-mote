@@ -1,6 +1,6 @@
 # Dreg
 
-**Dreg** is an exotic material found primarily on [the moon of the same name](../ch-1-welcome-to-mote/cosmology/moons/dreg.md) [orbiting](../ch-1-welcome-to-mote/cosmology/moons/moons-of-mote.md) [Mote](../ch-1-welcome-to-mote/cosmology/mote.md). It naturally emits a field of antimagic powerful enough to neutralize the power of [starstuff](../starstuff.md).
+**Dreg** is an exotic material found primarily on [the moon of the same name](../ch-1-welcome-to-mote/cosmology/moons/dreg.md) [orbiting](../ch-1-welcome-to-mote/cosmology/moons/) [Mote](../ch-1-welcome-to-mote/cosmology/mote.md). It naturally emits a field of antimagic powerful enough to neutralize the power of [starstuff](../starstuff.md).
 
 ## Properties
 
@@ -16,7 +16,7 @@ Dreg does not degrade into other forms and can endure wide ranges of temperature
 
 ### Everyday use
 
-Dreg naturally emits an area of antimagic (as in the _antimagic field_ spell) and thus can serve as a means of suppressing spells and magical effects within close proximity. The antimagic area's radius scales with the amount of accumulated dreg: a Tiny chunk of dreg emits a 5-ft. antimagic field, and this field's radius extends by 5 feet for each size category above Tiny. The [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md) has been trying to acquire dreg to study the practical application of these effects, but the ore's extreme rarity in [Esterfell](../ch-4-esterfell-gazetteer/esterfell.md) has slowed any such research.
+Dreg naturally emits an area of antimagic (as in the _antimagic field_ spell) and thus can serve as a means of suppressing spells and magical effects within close proximity. The antimagic area's radius scales with the amount of accumulated dreg: a Tiny chunk of dreg emits a 5-ft. antimagic field, and this field's radius extends by 5 feet for each size category above Tiny. The [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/) has been trying to acquire dreg to study the practical application of these effects, but the ore's extreme rarity in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/) has slowed any such research.
 
 Dreg's antimagic effect has a unique property when interacting with starstuff: any such material left within the sphere of dreg antimagic will permanently convert into more dreg after 1d4 hours. This effect only occurs if the volume of dreg is equal to or greater than the volume of starstuff; for example, a Medium chuck of starstuff can only be affected in this manner by a Medium or larger chunk of dreg. The high value of starstuff and the permanency of the conversion generally discourages this use.
 

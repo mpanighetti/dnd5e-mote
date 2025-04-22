@@ -1,6 +1,6 @@
 # Reynard
 
-**Reynard** is the leader of [Reynard's Den](../reynards-den.md). She lives and operates out of [Cape Bec](../../../societies/esterfell-accord/cape-bec/cape-bec.md).
+**Reynard** is the leader of [Reynard's Den](../reynards-den.md). She lives and operates out of [Cape Bec](../../../societies/esterfell-accord/cape-bec/).
 
 ## Information
 

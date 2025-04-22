@@ -1,6 +1,6 @@
 # Gina
 
-**Gina** is a young reigar exploring the stars for the first time alongside the [Antipelan Society](../antipelan-society.md).
+**Gina** is a young reigar exploring the stars for the first time alongside the [Antipelan Society](../).
 
 ## Information
 

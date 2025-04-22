@@ -1,6 +1,6 @@
 # Gren
 
-Gren is an _acolyte_ of the [Order of Istus](../order-of-istus.md) assigned to the [Middlestag Temple of Istus](../../../societies/esterfell-accord/edgewood/middlestag-temple-of-istus.md).
+Gren is an _acolyte_ of the [Order of Istus](../) assigned to the [Middlestag Temple of Istus](../../../societies/esterfell-accord/edgewood/middlestag-temple-of-istus.md).
 
 ## Information
 

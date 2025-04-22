@@ -1,6 +1,6 @@
 # Murexian Dye
 
-**Murexian dye** is a compound derived from [murex](murex.md) that can be used to add a vibrant iridescent purple coloration to textiles, metals, and other materials. The difficulty in obtaining and converting murex makes murex-dyed materials highly valuable, and the supply chain of the dyes themselves is under tight control of the [Esterfell Accord](../../ch-2-people-of-mote/societies/esterfell-accord/esterfell-accord.md).
+**Murexian dye** is a compound derived from [murex](index.md) that can be used to add a vibrant iridescent purple coloration to textiles, metals, and other materials. The difficulty in obtaining and converting murex makes murex-dyed materials highly valuable, and the supply chain of the dyes themselves is under tight control of the [Esterfell Accord](../../ch-2-people-of-mote/societies/esterfell-accord/).
 
 ## Manufacturing process
 

@@ -1,6 +1,6 @@
 # Dreg
 
-**Dreg** is the smallest [moon of Mote](moons-of-mote.md) and is also its closest orbiting natural satellite. The moon acts as a final layer of protection from freefalling [starstuff](../../../ch-6-mote-treasures/starstuff.md) that gets past [Kiva](kiva.md) and [Bathýs-Pela](bathys-pela.md) on its way to [Mote](../../mote.md). Dreg has a dark nonreflective surface that can sometimes make it difficult to see from Mote, although it briefly emits erratic flashes of light during larger starstuff collisions.
+**Dreg** is the smallest [moon of Mote](index.md) and is also its closest orbiting natural satellite. The moon acts as a final layer of protection from freefalling [starstuff](../../../ch-6-mote-treasures/starstuff.md) that gets past [Kiva](kiva.md) and [Bathýs-Pela](bathys-pela.md) on its way to [Mote](../../mote.md). Dreg has a dark nonreflective surface that can sometimes make it difficult to see from Mote, although it briefly emits erratic flashes of light during larger starstuff collisions.
 
 ## Information
 

@@ -1,0 +1,3 @@
+# Attalya Grove
+
+The **Attalya Grove** is a narrow strip of forested land hugging the northwestern coast of [Lenya](index.md). Its western side faces [Malagwa](../malagwa.md) across the [Strait of Shallows](../coasts/index.md#strait-of-shallows), and to its east lie the [Attalya Mountains](attalya-mountains/) and [Cliffshear Canyons](cliffshear-canyons.md). The towns of [Fleuderton](../../../ch-2-people-of-mote/societies/esterfell-accord/fleuderton/) and [Perlipont](../../../ch-2-people-of-mote/societies/esterfell-accord/perlipont.md) are surrounded by Attalya Forest trees, having carved out small clearings along the coast.

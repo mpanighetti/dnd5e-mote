@@ -1,6 +1,6 @@
 # Jessi's Place
 
-**Jessi's Place** is an inn located in [Leving](leving.md).
+**Jessi's Place** is an inn located in [Leving](index.md).
 
 ## Staff
 
