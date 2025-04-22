@@ -45,3 +45,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Vehicles](ch-6-mote-treasures/vehicles/)
 
 ### [Chapter 7: Mote Bestiary](ch-7-mote-bestiary/)
+
+### [Rules Definitions](rules-definitions.md)
+
+### [Credits and License](credits-and-license.md)
