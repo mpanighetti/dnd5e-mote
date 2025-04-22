@@ -1,6 +1,6 @@
 # README
 
-This project acts as a repository of information about Mote, a Dungeons & Dragons 5th Edition setting where most of my home games take place.
+This project is a repository of information about Mote, a Dungeons & Dragons 5th Edition setting where most of my home games take place.
 
 ## Credits
 

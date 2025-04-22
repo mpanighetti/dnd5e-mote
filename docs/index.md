@@ -94,7 +94,3 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 - [Malagwan Seal](ch-7-mote-bestiary/malagwan-seal.md)
 - [Murexian Creature](ch-7-mote-bestiary/murexian-creature.md)
 - [Selkie Warrior](ch-7-mote-bestiary/selkie-warrior.md)
-
-### [README](README.md)
-
-### [License](LICENSE.md)
