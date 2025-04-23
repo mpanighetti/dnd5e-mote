@@ -48,4 +48,6 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Rules Definitions](rules-definitions.md)
 
-### [Credits and License](credits-and-license.md)
+### [Credits](credits.md)
+
+### [License](license.md)
