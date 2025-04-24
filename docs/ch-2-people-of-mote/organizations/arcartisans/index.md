@@ -4,7 +4,7 @@
 
 ## Members
 
-- [Arnaldii Titanium](members/arnaldii-titanium.md)
+- [Arnoldii Titanium](members/arnoldii-titanium.md)
 - [Charles Sexton]((members/charles-sexton.md))
 - [Keltriss](members/keltriss.md)
 - [Kycri](members/kycri.md)

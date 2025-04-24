@@ -4,7 +4,7 @@
 
 ## Locations
 
-- [Balut's Academerie for the Magistically Inclinated](../../../../ch-2-people-of-mote/organizations/baluts-academerie/)
-- [The Guild of Associated Arcartisans](../../../../ch-2-people-of-mote/organizations/arcartisans/)
-- [Pipina's Pastries](../../../../ch-2-people-of-mote/organizations/pipinas-pastries/)
-- [Swiftthistle's Maskquerade](../../../../ch-2-people-of-mote/organizations/swiftthistles-maskquerade/)
+- [Balut's Academerie for the Magistically Inclinated](../../../organizations/baluts-academerie/)
+- [The Guild of Associated Arcartisans](../../../organizations/arcartisans/)
+- [Pipina's Pastries](../../../organizations/pipinas-pastries/)
+- [Swiftthistle's Maskquerade](../../../organizations/swiftthistles-maskquerade/)
