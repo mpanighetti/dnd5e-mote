@@ -50,4 +50,4 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 
 ### [Credits](credits.md)
 
-### [License](license.md)
+### [Licensing](licensing.md)

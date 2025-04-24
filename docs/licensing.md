@@ -1,4 +1,4 @@
-# License
+# Licensing
 
 _Mote_ is © 2018 Mario Panighetti. This work is licensed via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
