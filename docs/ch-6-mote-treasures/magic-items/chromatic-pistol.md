@@ -2,7 +2,7 @@
 
 #### Attributes
 
-_Weapon (pistol), uncommon_
+_Weapon (Pistol), Uncommon_
 
 Whenever you fire this weapon, you can choose to change the damage type from Piercing to one from the following list: Cold, Fire, Lightning, or Radiant.
 
