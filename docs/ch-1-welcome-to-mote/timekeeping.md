@@ -50,7 +50,7 @@ The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazette
 
 - **Type:** solar
 - **Introduction:** 1 KS
-- **Usage:** [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/), [Subros](../ch-2-people-of-mote/societies/subros.md), [Verdancy](../ch-2-people-of-mote/societies/verdancy/)
+- **Usage:** [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/), [Subros](../ch-2-people-of-mote/societies/), [Verdancy](../ch-2-people-of-mote/societies/verdancy/)
 
 A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which causes the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This can make it difficult to account for the disruption lunar days can cause when determining the day of a week, the length of a month, or when an annual event aligns with the seasons.
 
@@ -86,7 +86,7 @@ The nation of Subros, having no particular allegiance to the Accord or deference
 
 - **Type:** lunisolar (Dreg)
 - **Introduction:** ancient Mote
-- **Usage:** agrarian groups within the [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/), [Subros](../ch-2-people-of-mote/societies/subros.md), and [Verdancy](../ch-2-people-of-mote/societies/verdancy/)
+- **Usage:** agrarian groups within the Esterfell Accord, Subros, and Verdancy)
 
 The Harvest Calendar is unique among the systems employed by Esterfell societies, as it uses Dreg's longer orbital period as a reference point to mark the months rather than Kiva. A Dreg month (often called a dreg for short) is 42 days long when not influenced by lunar days, meaning there are 8 dregs in a harvest year.
 
