@@ -39,7 +39,7 @@ And through it all, the heart of a star pulses beneath the continent, its arcane
 ### [Chapter 6: Mote Treasures](ch-6-mote-treasures/)
 
 - [Dreg](ch-6-mote-treasures/dreg-ore.md)
-- [Murex](ch-6-mote-treasures/)
+- [Murex](ch-6-mote-treasures/murex/)
 - [Starstuff](ch-6-mote-treasures/starstuff.md)
 - [Magic Items](ch-6-mote-treasures/magic-items/)
 - [Vehicles](ch-6-mote-treasures/vehicles/)
