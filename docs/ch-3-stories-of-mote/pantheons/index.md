@@ -33,10 +33,11 @@ The **Deities of Esterfell** table is a non-exhaustive list of beings with power
 ##### Deities of Esterfell
 |  Deity | Classification | Alignment | Domains | Symbol |
 |:-------|:---------------|:---------:|:--------|:-------|
-| [Lilith](esterfell-deities/lilith.md) | archfey (medusa) | LG | [Attalya Grove](../../ch-4-esterfell-gazetteer/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent |
+| Lilith | archfey (medusa) | LG | [Attalya Grove](../../ch-4-esterfell-gazetteer/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent |
 | [Phygius](phygius.md) | archfey | CN | Cervids, Feywild, [Middlestag Forest](../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md), Nature | antlers with teardrops |
-| Pyr'xhalz | great old one | CE | [The Chosen](../../ch-2-people-of-mote/organizations/the-chosen/), Mind, Trickery, War |  |
-| [Ramil](ramil.md) | celestial (deva) | LG | The Chosen, Light | crescent with radial triangles |
+| Pyr'xhalz | great old one | CE | Mind, Trickery, War |  |
+| [Ramil](ramil.md) | celestial (deva) | LG | [The Chosen](../../ch-2-people-of-mote/organizations/the-chosen/), Light | crescent with radial triangles |
+| Xagronoth | archdevil | LE | Trickery | pentagram |
 
 ## Borrowed Pantheon
 
@@ -47,6 +48,6 @@ The **Deities of the Multiverse** table is a non-exhaustive list of beings of po
 ##### Deities of the Multiverse
 |  Deity | Alignment | Domains | Symbol | Pantheon |
 |:-------|:---------:|:--------|:-------|:---------|
-| Deneir | NG | Knowledge, Writing | lit candle above an open eye | The Forgotten Realms |
-| [Istus](istus.md) | N | Fate, Destiny, Divination, Future Events, Knowledge | weaver's spindle with three strands | Greyhawk |
-| Silvanus | N | Nature, Wilderness | oak leaf | The Forgotten Realms |
+| [Istus](istus.md) | N | Destiny, Divination, Fate, Future Events, Knowledge | weaver's spindle with three strands | Greyhawk |
+| Oghma | NG | Knowledge, Speech, Writing | unfurled scroll | Celtic |
+| Silvanus | N | Nature, Wilderness | summer oak tree | Celtic |
