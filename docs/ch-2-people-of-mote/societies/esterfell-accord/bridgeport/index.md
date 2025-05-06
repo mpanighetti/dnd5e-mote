@@ -5,6 +5,7 @@
 ## Locations
 
 - [Balut's Academerie for the Magistically Inclinated](../../../organizations/baluts-academerie/)
+- [Dúnbally Cemetery](../../../organizations/dunbally-cemetery/)
 - [The Guild of Associated Arcartisans](../../../organizations/arcartisans/)
 - [Pipina's Pastries](../../../organizations/pipinas-pastries/)
 - [Swiftthistle's Maskquerade](../../../organizations/swiftthistles-maskquerade/)
