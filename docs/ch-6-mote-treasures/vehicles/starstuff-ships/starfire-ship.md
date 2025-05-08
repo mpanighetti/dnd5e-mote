@@ -12,7 +12,7 @@ Standard weaponry on a starfire ship includes two aft-facing ballistas (one on t
 
 #### Maps
 
-Use a [space galleon](https://www.dndbeyond.com/sources/sais/aag/astral-adventuring#SpaceGalleon) to represent the decks of a starfire ship. Beneath the steerage deck, the ship continues with an inverted cargo deck, main deck, forecastle, and sterncastle. The brig and pantry in the steerage deck is replaced with a larger room containing the arcane core, protected by an _arcane lock_.
+Use a space galleon from _Astral Adventurer's Guide_[^🛸] (see _Chapter 2: Astral Adventuring_) to represent the decks of a starfire ship. Beneath the steerage deck, the ship continues with an inverted cargo deck, main deck, forecastle, and sterncastle. The brig and pantry in the steerage deck is replaced with a larger room containing the arcane core, protected by an _arcane lock_.
 
 #### Attributes
 
