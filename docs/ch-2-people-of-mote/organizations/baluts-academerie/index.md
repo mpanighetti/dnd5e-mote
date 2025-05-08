@@ -8,6 +8,7 @@
 
 - [Balut](members/balut.md): headmasterer
 - Z'mara: professor
+- [Twill](../arcartisans/members/twill.md): gardener
 
 ### Students
 
@@ -16,6 +17,6 @@
 - Jaydove Oakbough
 - Lindy Crestenshire
 - Scarlett Thatcher
-- [S4R4](../arcartisans/members/s4r4.md)
+- S4R4
 - Thaymseria
 - Xythia
