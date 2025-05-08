@@ -18,7 +18,7 @@
 - [Globule](globule.md)
 - [Jahndra](jahndra.md): medic
 - [Mayim Marim](mayim-marim.md): quartermaster
-- [Moobles](moobles.md): spelljammer
+- [Moobles](moobles.md): spelljammer[^🛸]
 - [Ooeeoo](ooeeoo.md): navigator
 - [Tamori](tamori.md)
 - [Tenns](tenns.md): engineer
@@ -30,3 +30,5 @@
 - [Qinran Zandeyr](qinran-zandeyr.md): captain
 - [Gribbly](gribbly.md)
 - [Plupp](plupp.md)
+
+[^🛸]: Wizards of the Coast LLC, _Spelljammer: Adventures in Space_, 2022.
