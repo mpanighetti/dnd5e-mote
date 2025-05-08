@@ -3,15 +3,15 @@
 ## Staff
 
 - [Balut](balut.md): headmasterer
-- [Zimira](zimira.md): professor
+- Z'mara: professor
 
 ## Students
 
-- [Faedove](faedove.md)
-- [Grambles](grambles.md)
-- [Jaydove Oakbough](jaydove-oakbough.md)
-- [Lindy Crestenshire](lindy-crestenshire.md)
-- [Scarlett Thatcher](scarlett-thatcher.md)
+- Faedove
+- Grambles
+- Jaydove Oakbough
+- Lindy Crestenshire
+- Scarlett Thatcher
 - [S4R4](../../arcartisans/members/s4r4.md)
-- [Thaymseria](thaymseria.md)
-- [Xythia](xythia.md)
+- Thaymseria
+- Xythia
