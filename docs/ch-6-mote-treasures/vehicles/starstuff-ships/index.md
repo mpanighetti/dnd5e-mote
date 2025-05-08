@@ -34,7 +34,7 @@ If the starstuff engine is destroyed, any starstuff inside immediately explodes.
 
 ## Officer roles
 
-The available positions on an Antipelan starstuff ship are a combination of the roles in _Astral Adventurer's Guide_ (see _Chapter 2: Astral Adventuring_) and _Ghosts of Saltmarsh_ (see _Appendix A: Of Ships and the Sea_).
+The available positions on an Antipelan starstuff ship are a combination of the roles in _Astral Adventurer's Guide_[^🛸] (see _Chapter 2: Astral Adventuring_) and _Ghosts of Saltmarsh_[^⛵️] (see _Appendix A: Of Ships and the Sea_).
 
 **Captain.** The captain issues orders. The best captains have high Intelligence and Charisma scores, as well as Proficiency with space vehicles and the Intimidation and Persuasion skills.
 
@@ -53,3 +53,4 @@ The available positions on an Antipelan starstuff ship are a combination of the 
 Note that these roles are not hard requirements, and crew members can easily shift from one role to another for the purpose of covering for an unconscious officer or as the party's priorities shift.
 
 [^🛸]: Wizards of the Coast LLC, _Spelljammer: Adventures in Space_, 2022.
+[^⛵️]: Wizards of the Coast LLC, _Ghosts of Saltmarsh_, 2019.
