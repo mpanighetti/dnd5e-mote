@@ -36,7 +36,7 @@ A ship capable of traversing Fellspace can attempt to collect starstuff if it is
 |  d6 | Outcome |
 |:---:|:--------|
 |  1  | Micrometeorites tear through the collector, which takes 14 (4d6) Force damage. |
-|  2  | A deposit of unstable starstuff appears in the engine. This starstuff can be used to power a starstuff engine as normal, but at the start of each day, the ship must succeed on a DC 10 Constitution Saving Throw or its air degrades from fresh to foul, as the material randomly emits noxious radiation. The ship's engineer can attempt to eject unstable starstuff from the engine as an action by succeeding on a DC 20 Intelligence (Arcana) check; if this check fails, all starstuff deposits are ejected alongside the unstable deposit, depleting the engine. |
+|  2  | A deposit of unstable starstuff appears in the engine. This starstuff can be used to power a starstuff engine as normal, but at the start of each day, the ship must succeed on a DC 10 Constitution Saving Throw or its air degrades from fresh to foul[^🛸], as the material randomly emits noxious radiation. The ship's engineer can attempt to eject unstable starstuff from the engine as an action by succeeding on a DC 20 Intelligence (Arcana) check; if this check fails, all starstuff deposits are ejected alongside the unstable deposit, depleting the engine. |
 | 3-4 | Roll on the **Fishing** table in the _Astral Adventurer's Guide_[^🛸] (see _Chapter 2: Astral Adventuring_) to determine an accidental fish catch as something gets tangled in the solar scoop.
 | 5-6 | Roll or select from an **Astral Encounters** table in _Boo's Astral Menagerie_[^🛸] (see _Introduction: Creatures A to Z_) to determine a random encounter in Wildspace or the Astral Sea. |
 
