@@ -2,17 +2,17 @@
 
 **Starfire ships** are an experimental ship design conceived by the [Antipelan Society](../../../ch-2-people-of-mote/organizations/antipelan-society/) to both collect and run on [starstuff](../../starstuff.md) energy. The first such [starstuff ship](index.md) in the Antipelan fleet was given the callsign **AP-SF-01** and later designated the "[Sanguine Starcatcher](../../../ch-2-people-of-mote/organizations/antipelan-society/fleet/ap-sf-01-sanguine-starcatcher.md)" by its crew. This ship was sent on its maiden voyage to prove the efficacy of the starfire ship design and to scout out new starstuff reserves, eventually allowing future ships to be built.
 
-The stern of a starfire ship contains its signature feature, a spherical latticed metal chamber housing a ball of starstuff. This starstuff engine provides the ship with a powerful source of energy, allowing it faster travel through [Fellspace](../../../ch-1-welcome-to-mote/cosmology/fellspace.md) compared to typical spelljamming vessels. The ship's pilot can trigger the chamber to ignite any starstuff inside, achieving great bursts of speed as the energy is rapidly depleted.
+The stern of a starfire ship contains its signature feature, a spherical latticed metal chamber housing a ball of starstuff. This starstuff engine provides the ship with a powerful source of energy, allowing it faster travel through [Fellspace](../../../ch-1-welcome-to-mote/cosmology/fellspace.md) compared to typical spacefaring vessels. The ship's pilot can trigger the chamber to ignite any starstuff inside, achieving great bursts of speed as the energy is rapidly depleted.
 
-The ship's gravity plane is perfectly aligned with its center, allowing it to possess both a standard deck on top and an underdeck mirroring it on the bottom half. The two decks are laid out identically, with only the spelljamming helm on the main deck differentiating them. A ladder extends through the ship to allow fast direct access between the decks. Two solar scoops extend from both the main deck and underdeck supported by masts pointing in opposite directions. The extended masts and mirrored vertical layout give the ship an outward appearance of a sunfish, leading some to refer to starfire vessels as "molas".
+The ship's gravity plane is perfectly aligned with its center, allowing it to possess both a standard deck on top and an underdeck mirroring it on the bottom half. The two decks are laid out identically, with only the spelljamming helm[^🛸] on the main deck differentiating them. A ladder extends through the ship to allow fast direct access between the decks. Two solar scoops extend from both the main deck and underdeck supported by masts pointing in opposite directions. The extended masts and mirrored vertical layout give the ship an outward appearance of a sunfish, leading some to refer to starfire vessels as "molas".
 
-The starfire ship design is made for space travel alone, and it cannot land safely on the ground (the weight of the ship would snap its underside mast and scoop, destroying the underdeck in the process). It can land on water and float in emergency situations, but its underdeck would need to be cleared of personnel and loose effects, and it would possess no efficient means of water propulsion if the starstuff engine or spelljamming helm are not functional.
+The starfire ship design is made for space travel alone, and it cannot land safely on the ground (the weight of the ship would snap its underside mast and scoop, destroying the underdeck in the process). It can land on water and float in emergency situations, but its underdeck would need to be cleared of personnel and loose effects, and it would possess no efficient means of water propulsion if the starstuff engine or helm are not functional.
 
 Standard weaponry on a starfire ship includes two aft-facing ballistas (one on the deck and one on the underdeck) and a forward-facing astral cannon. As of the starfire vessel's maiden voyage, the full capabilities of this weapon are untested due to insufficient supplies of starstuff to power it.
 
 #### Maps
 
-Use a [space galleon](https://www.dndbeyond.com/sources/sais/aag/astral-adventuring#SpaceGalleon) to represent the decks of a starfire ship. Beneath the steerage deck, the ship continues with an inverted cargo deck, main deck, forecastle, and sterncastle. The brig and pantry in the steerage deck is replaced with a larger room containing the arcane core, protected by an _arcane lock_.
+Use a space galleon from _Astral Adventurer's Guide_[^🛸] (see _Chapter 2: Astral Adventuring_) to represent the decks of a starfire ship. Beneath the steerage deck, the ship continues with an inverted cargo deck, main deck, forecastle, and sterncastle. The brig and pantry in the steerage deck is replaced with a larger room containing the arcane core, protected by an _arcane lock_.
 
 #### Attributes
 
@@ -38,7 +38,7 @@ _Gargantuan Vehicle (130 ft. by 30 ft.)_
 
 #### Actions
 
-On its turn, the starfire ship's spelljammer can use the helm to move and steer the ship, and the ship can take up to 3 actions, choosing from the options below.  It can take only 2 actions if it has fewer than ten crew and only 1 action if it has fewer than six. It can't take these actions if it has fewer than three crew, and it cannot take actions dependent on a specific crew member if the individual is incapacitated. If an action requires consuming starstuff deposits, it cannot perform the action if the starstuff engine doesn't have sufficient deposits.
+On its turn, the starfire ship's spelljammer[^🛸] can use the helm to move and steer the ship, and the ship can take up to 3 actions, choosing from the options below.  It can take only 2 actions if it has fewer than ten crew and only 1 action if it has fewer than six. It can't take these actions if it has fewer than three crew, and it cannot take actions dependent on a specific crew member if the individual is incapacitated. If an action requires consuming starstuff deposits, it cannot perform the action if the starstuff engine doesn't have sufficient deposits.
 
 **Engineering.** The starfire ship's engineer can trigger a surge of the engine to move the ship in a burst of speed.
 
@@ -103,3 +103,5 @@ _**Deploy or Retract Scoop.**_ The solar scoop is deployed or retracted.
 - **Crew** 1 (engineer)
 
 _**Engine Surge (Costs 2 Starstuff Deposits).**_ The engineer can trigger a surge of the engine, causing it to rapidly consume starstuff energy. The starfire ship moves up to 1,000 feet in a straight line in a direction of the spelljammer's choice, even if the ship would normally not be able to move this speed due to proximity of heavy objects. This movement does not provoke attacks of opportunity.
+
+[^🛸]: Wizards of the Coast LLC, _Spelljammer: Adventures in Space_, 2022.
