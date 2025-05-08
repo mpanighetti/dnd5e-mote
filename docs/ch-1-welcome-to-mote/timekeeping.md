@@ -31,7 +31,7 @@ A lunar day slows the orbital speed of all involved moons for the entirety of th
 A month is the time period of a full orbit of a moon around Mote. This period varies depending on which moon is used as a reference point:
 
 - [Kivan](cosmology/moons/kiva.md) month: 28 days
-- [Bathýs-Pelan](cosmology/moons/bathys-pela.md) month: 8 days
+- [Bathýpelan](cosmology/moons/bathys-pela.md) month: 8 days
 - [Dreg](cosmology/moons/dreg.md): 42 days
 
 Note that these are minimal durations, as the length of a month will be extended when one or more lunar days occur within the orbital period.
@@ -44,17 +44,17 @@ A year is the time period of a full orbit of Mote around its sun, marking a full
 
 ## Calendar Systems
 
-The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/) are the **Kivan Standard**, the **Harvest Calendar**, and the **Tides of Fathoms**. All three calendars divide each year into months marked roughly by the movement of a moon of Mote.
+The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazetteer/esterfell/) are the **Kivan Year**, the **Harvest Calendar**, and the **Tides of Fathoms**. All three calendars divide each year into months marked roughly by the movement of a moon of Mote.
 
-### Kivan Standard
+### Kivan Year
 
 - **Type:** solar
 - **Introduction:** 1 KS
 - **Usage:** [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/), [Subros](../ch-2-people-of-mote/societies/), [Verdancy](../ch-2-people-of-mote/societies/verdancy/)
 
-A Kivan Standard year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan Standard's strict adherence to regular timekeeping does not account for the presence of lunar days, which causes the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This can make it difficult to account for the disruption lunar days can cause when determining the day of a week, the length of a month, or when an annual event aligns with the seasons.
+A Kivan year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan calendar's strict adherence to regular timekeeping does not account for the presence of lunar days, which causes the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This can make it difficult to account for the disruption lunar days can cause when determining the day of a week, the length of a month, or when an annual event aligns with the seasons.
 
-##### Kivan Standard Months
+##### Kivan Months
 | Number | Name   |
 |:-------|:-------|
 | 1      | Kaishi |
@@ -70,17 +70,17 @@ A Kivan Standard year is divided into twelve months of twenty-eight days each, m
 | 11     | Merci  |
 | 12     | Dyrth  |
 
-The Kivan Standard was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from deities of the [ancient Mote pantheon](../ch-3-stories-of-mote/pantheons/index.md#ancient-mote-pantheon), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
+The Kivan system of tracking years was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from deities of the [ancient Mote pantheon](../ch-3-stories-of-mote/pantheons/index.md#ancient-mote-pantheon), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
 
-A week on the Kivan Standard calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not generally impacted by the eccentricity of lunar orbits.
+A week on a Kivan calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not generally impacted by the eccentricity of lunar orbits.
 
-#### Kivan Standard Year Systems
+#### Kivan Year Systems
 
-As the Esterfell settlers departed their ancient shores, they continued to track the years using the Kivan Standard, dutifully marking the passage of time since year 1. Though the significance of this epoch has long been lost to the modern people of Esterfell, the numbering has remained intact; for example, Esterfell was settled by the first waves of immigrants starting in 1128.
+As the Esterfell settlers departed their ancient shores, they continued to track the years using the Kivan calendar, dutifully marking the passage of time since year 1. Though the significance of this epoch has long been lost to the modern people of Esterfell, the numbering remained intact; for example, Esterfell was settled by the first waves of immigrants starting in 1128.
 
-After the Esterfell Accord formed their union, the fledgling nation kept the existing Kivan months and seasons, but created a new system of tracking the years known as **Ambulare Populi** (abbreviated as "**AP**"). The name comes from an ancient Mote language and means "walk of the people". The first day of Kaishi following the signing of the Accord on 23 Bhán 1181—known within the Accord as "Union Day"—thus marked the advent of 1 AP, starting the Accord's new year system.
+After the Esterfell Accord formed their union, the fledgling nation kept the existing Kivan months and seasons, but created a new system of tracking the years known as **Ambulare Populi** (abbreviated as "**AP**"). The name comes from an ancient Mote language and means "walk of the people", reflecting the journey the people of Esterfell took from the old world. The first day of Kaishi following the signing of the Accord on 23 Bhán 1181—known within the Accord as "Union Day"—thus marked the advent of 1 AP, starting the Accord's new year system.
 
-The nation of Subros, having no particular allegiance to the Accord or deference to their holidays, continued to track their years from the ancient world. Esterfolk will also occasionally refer to the old year system, either when engaging in trade with Subrosians or when referring to pre-Accord historical events. When a distinction is needed, the abbreviation "**KS**" is sometimes used. Farmers tracking seasonal cycles with the [Harvest Calendar](#harvest-calendar) will use whichever numbering system aligns with their home nation, and their tendency to switch between the systems means farmers' almanacs are popular references in multiple societies for quick conversions.
+The nation of Subros, having no particular allegiance to the Accord or deference to their holidays, continued to track their years from the ancient world. Esterfolk will also occasionally refer to the old year system, either when engaging in trade with Subrosians or when referring to pre-Accord historical events. When a distinction is needed, "Kivan Standard" (abbreviated to "**KS**") is sometimes used to refer to the older year system. Farmers tracking seasonal cycles with the [Harvest Calendar](#harvest-calendar) will use whichever numbering system aligns with their home nation, and their tendency to switch between the systems means farmers' almanacs are popular references in multiple societies for quick conversions.
 
 ### Harvest Calendar
 
@@ -138,14 +138,15 @@ The Tides of Fathoms predate any other calendar system currently practiced on Mo
 
 The **Significant Dates by Calendar** table approximately marks any dates deemed worthy of tracking by the people of Esterfell, and compares these dates across each calendar system to act as a conversion table, similar to those that appear in farmers' almanacs to assist with international commerce. Dates that occur every year, such as the marking of the seasons, are listed in the relative order they occur, starting with the first day of spring. After that, dates of historical significance are presented in absolute date order.
 
-Note that these dates are not exact or perfectly consistent between calendar systems, as each has its own method of addressing or ignoring lunar days when calculating a date and the length of a year. All date conversions below assume a year with no lunar days.
+Note that these dates are not exact or perfectly consistent between calendar systems, as each has its own method of addressing or ignoring lunar days when calculating a date and the length of a year. All date conversions below assume a year with no lunar days. For Ambulare Populi dates prior to 1 AP, KS is used.
 
 ##### Significant Dates by Calendar
-| Kivan Standard | Harvest | Tide of Fathoms | Event |
-|:---------------|:--------|:----------------|:------|
-| 14 Bréa | 1 Seed | 1 Photic | Vernal Equinox |
-| 14 Mull | 1 Harsh | 1 Pela | Summer Solstice |
-| 14 Kret | 1 Thresh | 1 Demer | Autumnal Equinox |
-| 14 Dyrth | 1 Kiln | 1 Bathýs | Winter Solstice |
-| 6 Griv 1128 KS | 7 Fray 1127 KS | | The first immigrant ship arrives in Esterfell |
-| 23 Bhán 1181 KS | 38 Thresh 1181 KS | | Union Day (Esterfell Accord) |
+| Ambulare Populi | Kivan Standard | Harvest | Tide of Fathoms | Event |
+|:----------------|:---------------|:--------|:----------------|:------|
+| 14 Bréa | 14 Bréa | 1 Seed | 1 Photic | Vernal Equinox |
+| 14 Mull | 14 Mull | 1 Harsh | 1 Pela | Summer Solstice |
+| 14 Kret | 14 Kret | 1 Thresh | 1 Demer | Autumnal Equinox |
+| 14 Dyrth | 14 Dyrth | 1 Kiln | 1 Bathýs | Winter Solstice |
+| | 6 Griv 1128 KS | 7 Fray 1127 KS | | The first immigrant ship arrives in Esterfell |
+| | 23 Bhán 1181 KS | 38 Thresh 1181 KS | | Union Day (Esterfell Accord) |
+| 1 Kaishi 1 AP | 1 Kaishi 1182 KS | 16 Kiln 1181 KS | | Start of Ambulare Populi calendar |
