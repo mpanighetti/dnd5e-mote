@@ -4,4 +4,4 @@
 
 ## History
 
-The forest's name comes from the pre-[Esterfell](../) human language phrase "shakuhachi no mori", meaning "bamboo flute forest".
+The forest's name comes from a pre-[Esterfell](../) human language. The full phrase "shakuhachi no mori" means "bamboo flute forest".
