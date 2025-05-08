@@ -4,10 +4,11 @@
 
 ## Members
 
-- [Arnoldii Titanium](members/arnoldii-titanium.md)
-- [Charles Sexton](members/charles-sexton.md)
-- [Keltriss](members/keltriss.md)
-- [Kycri](members/kycri.md)
-- [Kyran](members/kyran.md)
-- [Pela Pipina](members/pela-pipina.md)
-- [S4R4](members/s4r4.md)
+- Arnaldii Titanium
+- Charles Sexton
+- Keltriss Swiftthistle
+- Kycri
+- Kyran
+- Pela Pipina
+- S4R4
+- [Twill](members/twill.md): Academerie representative
