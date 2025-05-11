@@ -6,3 +6,8 @@
 
 - [Hibana Grove](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/esterfell-sea/westin-island/hibana-grove.md)
 - [Vivia's Vittles](../../../organizations/vivias-vittles/)
+
+## Citizenry
+
+- [Morton Dav](../citizenry/morton-dav.md)
+- [Vivia](../../../organizations/vivias-vittles/members/vivia.md)
