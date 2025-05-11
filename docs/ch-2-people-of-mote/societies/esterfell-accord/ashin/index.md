@@ -10,4 +10,4 @@
 ## Citizenry
 
 - [Morton Dav](../citizenry/morton-dav.md)
-- [Vivia](../../../organizations/vivias-vittles/members/vivia.md)
+- [Vivia Clark](../../../organizations/vivias-vittles/members/vivia-clark.md)
