@@ -11,3 +11,7 @@
 
 - [Morton Dav](../citizenry/morton-dav.md)
 - [Vivia Clark](../../../organizations/vivias-vittles/members/vivia-clark.md)
+
+## History
+
+- Founded: 142 AP
