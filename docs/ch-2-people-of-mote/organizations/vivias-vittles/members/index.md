@@ -1,3 +1,3 @@
 # Vivia's Vittles Members
 
-- [Vivia](vivia.md): proprieter
+- [Vivia Clark](vivia-clark.md): proprieter
