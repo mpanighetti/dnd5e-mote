@@ -6,12 +6,12 @@
 
 ### Mental
 
-- species: human
+- pronouns: he/they
 - languages: Common
 
 ### Physical
 
-- pronouns: he/they
+- species: human
 
 ## Relationships
 
