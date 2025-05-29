@@ -51,8 +51,8 @@ Though different cultures use varying names to label a seven-day week, they roug
 | 2      | Sunnenday | The Sun             | Halfling      |
 | 3      | Akhday    | The Sky             | Dwarvish      |
 | 4      | Kinsday   | Kiva                | Minotaur      |
-| 5      | Barday    | Bathýs              | Ancient Human |
-| 6      | Peyday    | Pela                | Ancient Human |
+| 5      | Barday    | Bathýs              | Aquan         |
+| 6      | Peyday    | Pela                | Aquan         |
 | 7      | Rythday   | Dreg                | Common        |
 
 ### Year
