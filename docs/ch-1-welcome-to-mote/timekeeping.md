@@ -14,11 +14,11 @@ A minute is 60 seconds.
 
 ### Hour
 
-An hour is 60 minutes, or 3,600 seconds.
+An hour is 60 minutes (3,600 seconds).
 
 ### Day
 
-A day, also known as a solar day, is the time period of a full rotation of Mote with respect to its sun. On average, this is 24 hours (86,400 seconds), when not extended during a lunar day.
+A day, also known as a solar day, is the time period of a full rotation of Mote with respect to the Sun. On average, this is 24 hours (86,400 seconds), when not extended during a lunar day.
 
 #### Lunar Day
 
@@ -30,17 +30,34 @@ A lunar day slows the orbital speed of all involved moons for the entirety of th
 
 A month is the time period of a full orbit of a moon around Mote. This period varies depending on which moon is used as a reference point:
 
-- [Kivan](cosmology/moons/kiva.md) month: 28 days
-- [Bathýpelan](cosmology/moons/bathys-pela.md) month: 8 days
-- [Dreg](cosmology/moons/dreg.md): 42 days
+- [Kivan](cosmology/moons/kiva.md) month: 28 days (2,419,200 seconds)
+- [Bathýpelan](cosmology/moons/bathys-pela.md) month: 8 days (691,200 seconds)
+- [Dreg](cosmology/moons/dreg.md): 42 days (3,628,800 seconds)
 
 Note that these are minimal durations, as the length of a month will be extended when one or more lunar days occur within the orbital period.
 
-The two common calendar systems in Esterfell use Kiva's orbit as the measure of a month, though both take different approaches to addressing the eccentricity of this period.
+The most commonly used calendar systems in both the [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/) and [Subros](../ch-2-people-of-mote/societies/) use Kiva's orbit as the measure of a month, though both take different approaches to addressing the eccentricity of this period.
+
+#### Week
+
+A week is an arbitrary subdivision of a month, usually constructed to aid in the tracking of the passage of time and to create cycles of work and rest within a month of a nation's calendar system. Kiva and Dreg-based calendars typically designate a week as 7 days (604,800 seconds), as it acts as a quarter of a Kivan month and a sixth of a dreg; given that a Bathýpelan month is only 8 days long, a week is impractical for such calendars where used. As weeks are largely social constructs, they are not generally impacted by the eccentricity of lunar orbits, unless long enough to add the equivalent of another day to the period.
+
+Though different cultures use varying names to label a seven-day week, they roughly correlate to the same astronomical symbols across most societies in the following order: **the Stars**, **the Sky**, **the Sun**, **Kiva**, **Bathýs**, **Pela**, and **Dreg**. The **Days of the Week** table describes the Common name for each day, its corresponding astronomical symbol, and the day name's linguistic origin.
+
+##### Days of the Week
+| Number | Name      | Astronomical Symbol | Origin        |
+|:------:|:----------|:--------------------|:--------------|
+| 1      | Elenday   | The Stars           | Elvish        |
+| 2      | Sunnenday | The Sun             | Halfling      |
+| 3      | Akhday    | The Sky             | Dwarvish      |
+| 4      | Kinsday   | Kiva                | Minotaur      |
+| 5      | Barday    | Bathýs              | Ancient Human |
+| 6      | Peyday    | Pela                | Ancient Human |
+| 7      | Rythday   | Dreg                | Common        |
 
 ### Year
 
-A year is the time period of a full orbit of Mote around its sun, marking a full cycle of the seasons. This revolution takes approximately 336 days (or 29,030,400 seconds). Though the length of a Mote year and the periods of seasons are unaffected by lunar days, the perturbations of the sun and other celestial bodies can result in a slightly slower or faster revolution.
+A year is the time period of a full orbit of Mote around the Sun, marking a full cycle of the seasons. This revolution takes approximately 336 days (29,030,400 seconds). Though the length of a Mote year and the periods of seasons are unaffected by lunar days, the perturbations of the Sun and other celestial bodies can result in a slightly slower or faster revolution.
 
 ## Calendar Systems
 
@@ -50,13 +67,15 @@ The most commonly used calendar systems in [Esterfell](../ch-4-esterfell-gazette
 
 - **Type:** solar
 - **Introduction:** 1 KS
-- **Usage:** [Esterfell Accord](../ch-2-people-of-mote/societies/esterfell-accord/), [Subros](../ch-2-people-of-mote/societies/), [Verdancy](../ch-2-people-of-mote/societies/verdancy/)
+- **Usage:** Esterfell Accord, Subros, [Verdancy](../ch-2-people-of-mote/societies/verdancy/)
 
 A Kivan year is divided into twelve months of twenty-eight days each, making the year exactly 336 days long. The length of a month is based on Kiva's minimum uninterrupted orbital period, as Esterfell's largest moon has the most direct influence on tidal patterns and periods of starfall. However, the Kivan calendar's strict adherence to regular timekeeping does not account for the presence of lunar days, which causes the measure of months to drift over time as they fall out of alignment with Kiva's adjusted orbit. This can make it difficult to account for the disruption lunar days can cause when determining the day of a week, the length of a month, or when an annual event aligns with the seasons.
 
+The Kivan system of tracking years was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from deities of the [ancient Mote pantheon](../ch-3-stories-of-mote/pantheons/index.md#ancient-mote-pantheon), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
+
 ##### Kivan Months
 | Number | Name   |
-|:-------|:-------|
+|:------:|:-------|
 | 1      | Kaishi |
 | 2      | Griv   |
 | 3      | Bréa   |
@@ -69,10 +88,6 @@ A Kivan year is divided into twelve months of twenty-eight days each, making the
 | 10     | Bhán   |
 | 11     | Merci  |
 | 12     | Dyrth  |
-
-The Kivan system of tracking years was brought by settlers of Esterfell from prior nations that had previously developed this system, which made it convenient to continue its use among neighboring Esterfell nations. The names of the months are sourced from deities of the [ancient Mote pantheon](../ch-3-stories-of-mote/pantheons/index.md#ancient-mote-pantheon), but enough time has passed since the people of Esterfell were separated from their ancestral lands that the worship of other gods has supplanted some of these domains.
-
-A week on a Kivan calendar is a period of 7 days, which is exactly one-quarter of a month. As an arbitrary subdivision of a month, a week is not generally impacted by the eccentricity of lunar orbits.
 
 #### Kivan Year Systems
 
@@ -96,7 +111,7 @@ Although a harvest year marks its months in dregs, the requirement to align with
 
 ##### Harvest Dregs
 | Number | Name   |
-|:-------|:-------|
+|:------:|:-------|
 | 1      | Seed   |
 | 2      | Douse  |
 | 3      | Harsh  |
@@ -116,7 +131,7 @@ The Tides of Fathoms divide the year into twelve months based directly and exclu
 
 ##### Tidal Months
 | Number | Name    |
-|:-------|:--------|
+|:------:|:--------|
 | 1      | Pela    |
 | 2      | Aphotis |
 | 3      | Abyssi  |
