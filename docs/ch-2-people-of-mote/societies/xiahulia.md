@@ -13,10 +13,8 @@ By merit of Xiahulia's oceanic region, its people all necessarily have some abil
 - [Brakko](../ch-5-character-options/species/brakko.md)
 - [Cetean](../ch-5-character-options/species/cetean/)
 - Merfolk
-- Sea elf
 - [Selkie](../ch-5-character-options/species/selkie.md)
 - Triton
-- Water genasi
 
 ## Etymology
 
