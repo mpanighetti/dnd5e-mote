@@ -1,10 +1,10 @@
 # Bathýs-Pela
 
-**Bathýs** and **Pela** form a binary [moon](index.md) system, sharing a double-helix orbit around [Mote](../../mote.md). The two moons orbit between [Kiva](kiva.md) and [Dreg](dreg.md).
+**Bathýs** and **Pela** form a binary [moon](index.md) system, sharing a double-helix orbit around [Mote](../mote.md). The two moons orbit between [Kiva](kiva.md) and [Dreg](dreg.md).
 
 ## Information
 
-- Orbital period: 8 days (plus [lunar days](../../../ch-3-stories-of-mote/timekeeping.md#lunar-day))
+- Orbital period: 8 days (plus [lunar days](../../timekeeping.md#lunar-day))
 
 ## Description
 
