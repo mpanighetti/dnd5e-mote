@@ -54,4 +54,6 @@ _**Trident (Person Form Only).** Melee or Ranged Attack Roll:_ +4, reach 5 ft. o
 
 _**Selkie Skin.**_ The selkie warrior dons their Selkie Skin to shape-shift into their seal form, or doffs it to shape-shift into their person form. Their statistics are the same in their seal form except for where noted in this stat block, and they are considered to be in their true form in either form. Any equipment they are wearing or carrying in their person form merges into their seal form.
 
-While the selkie warrior's skin is not merged into their form, it is a wondrous magic item with AC 11 and 3 Hit Points. The skin is destroyed if on a separate plane of existence from the selkie warrior. While another creature possesses the selkie warrior's skin, the warrior is Charmed by that creature until they no longer possess the skin, and no spell or other effect can remove this charm. If the Selkie Skin is destroyed, the selkie warrior grows a replacement skin after they complete a Long Rest.
+While the selkie warrior's skin is not merged into their form, it is a wondrous magic item. The skin can be destroyed either by dealing damage to it (AC 11, 3 Hit Points) or if it is ever on a separate plane of existence from the selkie. If the skin is destroyed, the selkie grows a replacement skin after they complete a Long Rest.
+
+While another creature possesses the selkie warrior's skin, they are charmed by that creature and have the Charmed condition until it is no longer in the charmer's possession; no spell or other effect can remove this charm.

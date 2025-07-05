@@ -31,7 +31,7 @@ _**Friend of the Sea.**_ You can communicate simple ideas to any Beast that has 
 
 _**Hold Breath.**_ You can hold your breath for 30 minutes.
 
-_**Selkie Skin.**_ You can use your action to don your [selkie skin](../../ch-6-mote-treasures/magic-items/selkie-skin.md) and shape-shift into your seal form, or doff it to shape-shift into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
+_**Selkie Skin.**_ You can use your action to don your [Selkie Skin](../../ch-6-mote-treasures/magic-items/selkie-skin.md) and shape-shift into your seal form, or doff it to shape-shift into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
 
 - Your Walking Speed is halved, and your Swimming Speed is doubled.
 - Your whiskers grant you Blindsight to a distance of 5 feet.
@@ -39,6 +39,8 @@ _**Selkie Skin.**_ You can use your action to don your [selkie skin](../../ch-6-
 - You are unable to speak, and you cannot perform actions that require hands.
 - _**Bite.**_ You have sharp teeth that you can use to make Unarmed Strikes. When you hit with it, the strike deals 1d6 + your Strength modifier Piercing damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
 
-While you are in either your seal or person form using this trait, you are considered to be in your true form. Any equipment you are wearing or carrying, including your selkie skin, merges into your seal form.
+While you are in either your seal or person form using this trait, you are considered to be in your true form. Any equipment you are wearing or carrying, including your Selkie Skin, merges into your seal form.
 
-While your selkie skin is not merged into your form, it is a wondrous magic item with AC 11 and 3 Hit Points. The skin is destroyed if on a separate plane of existence from you. If another creature Attunes to your selkie skin, you are Charmed by that creature until the Attunement ends, and no spell or other effect can remove this charm. If your skin is destroyed, you grow a replacement skin after you complete a Long Rest.
+While your Selkie Skin is not merged into your form, it is a wondrous magic item. The skin can be destroyed either by dealing damage to it (AC 11, 3 Hit Points) or if it is ever on a separate plane of existence from you. If your skin is destroyed, you grow a replacement skin after you complete a Long Rest.
+
+While another creature possesses your Selkie Skin, you are charmed by that creature and have the Charmed condition until they no longer possess it; no spell or other effect can remove this charm.
