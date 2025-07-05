@@ -25,7 +25,7 @@ Multiple pods of ceteans reside within the [oceans](../../../ch-4-esterfell-gaze
 
 As a cetean, you have the following special traits.
 
-_**Echospeak.**_ Without the assistance of magic, the baleen structures in your mouth make it difficult to speak the non-cetean languages you know. Instead, you primarily use a telepathic technique known as Echospeak to convey your thoughts. You have the magical ability to transmit your thoughts mentally to willing creatures you can see within 120 feet of yourself. A contacted creature doesn't need to share a language with you to understand your thoughts, but they must be able to understand at least one language. Your telepathic link to a creature is broken if you and the creature move more than 120 feet apart, if either of you is incapacitated, or if either of you mentally breaks the contact (no action required).
+_**Echospeak.**_ Without the assistance of magic, the baleen structures in your mouth make it difficult to speak the non-cetean languages you know. Instead, you primarily use a telepathic technique known as Echospeak to convey your thoughts. You can communicate telepathically with willing creatures you can see within 120 feet.
 
 _**Hold Breath.**_ You can hold your breath for up to 1 hour.
 
