@@ -2,9 +2,9 @@
 
 ## Contents
 
-- [Brakko](brakko.md)
+- [Brakko](brakko/)
 - [Cetean](cetean/)
 - [Dwarf](dwarf.md)
 - [Gnome](gnome.md)
-- [Selkie](selkie.md)
+- [Selkie](selkie/)
 - [Spark](spark.md)
