@@ -1,7 +1,5 @@
 # [Cetean](https://github.com/mpanighetti/dnd5e-species/blob/main/humanoids/)
 
-## Description
-
 **Ceteans** are a whalefolk species who explore [Mote](../../../ch-1-welcome-to-mote/cosmology/mote.md) and [Fellspace](../../../ch-1-welcome-to-mote/cosmology/fellspace.md) in the pursuit of knowledge and starstuff.
 
 <figure>
