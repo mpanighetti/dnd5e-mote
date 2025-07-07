@@ -1,6 +1,6 @@
 # [Selkie](https://github.com/mpanighetti/dnd5e-species/blob/main/fey/selkie.md)
 
-**Selkie** are intelligent sealfolk who live in the shallow waters surrounding [Esterfell](../../ch-4-esterfell-gazetteer/esterfell/). For many centuries, their true nature was unknown by landbound peoples, often being attributed to fish tales passed around by sailors.
+**Selkie** are intelligent sealfolk who live in the shallow waters surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/). For many centuries, their true nature was unknown by land-bound peoples, often being attributed to fish tales passed around by sailors.
 
 Unlike some therianthropic societies, selkies do not favor one of their forms over another; rather, both their seal and person shapes are equally natural and part of their being. A selkie will happily and readily switch forms depending on where they might be headed and what they're trying to accomplish, and is as comfortable bobbing in the water as sleeping in soft bedding. To a selkie, changing forms is akin to putting on a thick coat to endure a winter storm, or changing into lighter attire to enjoy the sun's warming rays.
 
@@ -10,7 +10,7 @@ In fact, the act of this transformation involves a literal shedding of skin akin
 
 Selkies occupy narrow stretches of shoreline bordering sea, and can happily thrive in either environment. They are most often found in colder climates, as the thick hides and blubber of their seal forms allow them to dive to icy depths in their search for prey.
 
-Selkie families immigrated to Esterfell alongside the early human tribes, hiding their nature by maintaining their person forms while in transit. Many took up residence in the lagoon at the center of [Malagwa](../../ch-4-esterfell-gazetteer/esterfell/malagwa.md), enjoying the solitude and finding kinship with the native [Malagwan seals](../../ch-7-mote-bestiary/malagwan-seal.md). Most selkies stuck with familial groups outside of landfolk society, though some formed loose congregations with other selkie families via large pods. Some selkies also took to the northern [coasts of Esterfell](../../ch-4-esterfell-gazetteer/coasts-of-esterfell) and helped to form the nation of [Xiahulia](../../ch-2-people-of-mote/societies/xiahulia.md), though their need for air means they rarely traverse the depths of the society's underwater communities.
+Selkie families immigrated to Esterfell alongside the early human tribes, hiding their nature by maintaining their person forms while in transit. Many took up residence in the lagoon at the center of [Malagwa](../../../ch-4-esterfell-gazetteer/esterfell/malagwa.md), enjoying the solitude and finding kinship with the native [Malagwan seals](../../../ch-7-mote-bestiary/malagwan-seal.md). Most selkies stuck with familial groups outside of landfolk society, though some formed loose congregations with other selkie families via large pods. Some selkies also took to the northern [coasts of Esterfell](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell) and helped to form the nation of [Xiahulia](../../../ch-2-people-of-mote/societies/xiahulia.md), though their need for air means they rarely traverse the depths of the society's underwater communities.
 
 ## Traits
 
@@ -29,7 +29,7 @@ _**Friend of the Sea.**_ You can communicate simple ideas to any Beast that has 
 
 _**Hold Breath.**_ You can hold your breath for 30 minutes.
 
-_**Selkie Skin.**_ You can use your action to don your [Selkie Skin](../../ch-6-mote-treasures/magic-items/selkie-skin.md) and shape-shift into your seal form, or doff it to shape-shift into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
+_**Selkie Skin.**_ You can use your action to don your [Selkie Skin](../../../ch-6-mote-treasures/magic-items/selkie-skin.md) and shape-shift into your seal form, or doff it to shape-shift into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
 
 - Your Walking Speed is halved, and your Swimming Speed is doubled.
 - Your whiskers grant you Blindsight to a distance of 5 feet.

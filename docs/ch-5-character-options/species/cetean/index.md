@@ -13,7 +13,7 @@ Ceteans originate from distant regions of Fellspace, where they swam through [st
 
 After a massive starstuff asteroid impacted with Esterfell, many cetean pods came to the new land, eventually becoming founding members of the nation of [Xiahulia](../../../ch-2-people-of-mote/societies/xiahulia.md).
 
-Multiple pods of ceteans reside within the [oceans](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell) surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/), with the largest groups settling along the northern coasts of [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/). They mostly stay away from the continent's landbound societies, but occasionally can be found in port cities to engage in trade.
+Multiple pods of ceteans reside within the [oceans](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell) surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/), with the largest groups settling along the northern coasts of [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/). They mostly stay away from the continent's land-bound societies, but occasionally can be found in port cities to engage in trade.
 
 ## Traits
 
