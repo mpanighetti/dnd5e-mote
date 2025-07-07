@@ -12,6 +12,7 @@ By merit of Xiahulia's oceanic region, its people all necessarily have some abil
 
 - [Brakko](../ch-5-character-options/species/brakko/)
 - [Cetean](../ch-5-character-options/species/cetean/)
+- [Pescan](../ch-5-character-options/species/pescan/)
 - [Selkie](../ch-5-character-options/species/selkie/)
 
 ## Etymology
