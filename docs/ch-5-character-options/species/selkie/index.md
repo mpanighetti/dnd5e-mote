@@ -10,13 +10,13 @@ In fact, the act of this transformation involves a literal shedding of skin akin
 
 Selkies occupy narrow stretches of shoreline bordering sea, and can happily thrive in either environment. They are most often found in colder climates, as the thick hides and blubber of their seal forms allow them to dive to icy depths in their search for prey.
 
-Selkie families immigrated to Esterfell alongside the early human tribes, hiding their nature by maintaining their person forms while in transit. Many took up residence in the lagoon at the center of [Malagwa](../../../ch-4-esterfell-gazetteer/esterfell/malagwa.md), enjoying the solitude and finding kinship with the native [Malagwan seals](../../../ch-7-mote-bestiary/malagwan-seal.md). Most selkies stuck with familial groups outside of landfolk society, though some formed loose congregations with other selkie families via large pods. Some selkies also took to the northern [coasts of Esterfell](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell) and helped to form the nation of [Xiahulia](../../../ch-2-people-of-mote/societies/xiahulia.md), though their need for air means they rarely traverse the depths of the society's underwater communities.
+Selkie families immigrated to Esterfell alongside the early human tribes, hiding their nature by maintaining their person forms while in transit. Many took up residence in the lagoon at the center of [Malagwa](../../../ch-4-esterfell-gazetteer/esterfell/malagwa.md), enjoying the solitude and finding kinship with the native [Malagwan seals](../../../ch-7-mote-bestiary/malagwan-seal.md). Most selkies stuck with familial groups outside of landfolk society, though some formed loose congregations with other selkie families via large pods. Some selkies also took to the northern [coasts of Esterfell](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell) and helped to form the nation of [Xiahulia](../../../ch-2-people-of-mote/societies/xiahulia.md), though their need for air means they can only briefly visit the depths of the society's underwater communities.
 
 ## Traits
 
 - _**Creature Type:**_ Fey
 - _**Size:**_ Medium (5-6 feet tall)
-- _**Speed:**_ 30 feet (halved in seal form), swim 20 feet (doubled in seal form) (**Selkie Skin**)
+- _**Speed:**_ 30 feet (halved in seal form), Swim 20 feet (doubled in seal form) (**Selkie Skin**)
 - _**Resistances:**_ Cold (**Aquatic Fortitude**)
 - _**Senses:**_ Darkvision 60 feet, Blindsight 5 feet (seal form) (**Selkie Skin**)
 - _**Life Span:**_ 70-80 years on average

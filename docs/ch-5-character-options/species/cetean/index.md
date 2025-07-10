@@ -19,7 +19,8 @@ Multiple pods of ceteans reside within the [oceans](../../../ch-4-esterfell-gaze
 
 - _**Creature Type:**_ Humanoid
 - _**Size:**_ Medium (6-9 feet tall)
-- _**Speed:**_ 30 feet, swim 30 feet
+- _**Speed:**_ 30 feet, Swim 30 feet
+- _**Senses:**_ Blindsight 60 feet when in liquid
 
 As a cetean, you have the following special traits.
 
