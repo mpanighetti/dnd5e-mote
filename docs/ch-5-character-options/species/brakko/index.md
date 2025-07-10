@@ -22,6 +22,6 @@ _**Amphibious.**_ You can breathe air and water.
 
 _**Bite.**_ You have a fanged maw that you can use to make Unarmed Strikes. When you hit with it, the strike deals 1d6 + your Strength modifier Piercing damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
 
-_**Charge.**_ If you move at least 20 feet straight toward a target and then hit them with your Bite attack on the same turn, the target takes an extra 1d6 Piercing damage, and if the target is a creature of the same Size as you or smaller, they are Grappled in your mouth. While Grappling a creature in this manner, your swimming speed is not halved due to dragging or carrying the Grappled creature, and you cannot Grapple another creature with your Bite.
+_**Charge.**_ If you move at least 20 feet straight toward a target and then hit them with your Bite attack on the same turn, the target takes an extra 1d6 Piercing damage, and if the target is a creature of the same Size as you or smaller, they are caught in your mouth and have the Grappled condition. While a creature is Grappled in this manner, your Swim Speed is not halved due to dragging or carrying the creature, and you cannot attempt to grapple another creature with your Bite.
 
 _**Guardian of the Depths.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
