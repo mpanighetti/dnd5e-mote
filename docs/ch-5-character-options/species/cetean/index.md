@@ -20,11 +20,11 @@ Multiple pods of ceteans reside within the [oceans](../../../ch-4-esterfell-gaze
 - _**Creature Type:**_ Humanoid
 - _**Size:**_ Medium (6-9 feet tall)
 - _**Speed:**_ 30 feet, Swim 30 feet
-- _**Senses:**_ Blindsight 60 feet when in liquid
+- _**Senses:**_ Blindsight 60 feet when in liquid (**Echospeak**)
 
 As a cetean, you have the following special traits.
 
-_**Echospeak.**_ Without the assistance of magic, the baleen structures in your mouth make it difficult to speak the non-cetean languages you know. Instead, you primarily use a telepathic technique known as Echospeak to convey your thoughts. You can communicate telepathically with willing creatures you can see within 120 feet.
+_**Echospeak.**_ Without the assistance of magic, the baleen structures in your mouth make it difficult to speak the non-cetean languages you know. Instead, you primarily use a telepathic technique known as Echospeak to convey your thoughts. You can communicate telepathically with willing creatures you can see within 120 feet. Additionally, your Echospeak grants you Blindsight within 60 feet when you are submerged in liquid.
 
 _**Hold Breath.**_ You can hold your breath for up to 1 hour.
 
