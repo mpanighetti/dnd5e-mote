@@ -12,7 +12,7 @@ Brakko schools came upon Esterfell in the last few centuries. They tend to avoid
 - _**Size:**_ Medium (4-7 feet tall)
 - _**Speed:**_ 30 feet, Swim 40 feet
 - _**Skills:**_ Stealth
-- _**Resistances:**_ Cold (**Guardian of the Depths**)
+- _**Resistances:**_ Cold (**Depth Strider**)
 - _**Senses:**_ Darkvision 60 feet; Tremorsense 30 ft. when in liquid
 - _**Life Span:**_ 50-70 years on average
 
@@ -24,4 +24,4 @@ _**Bite.**_ You have a fanged maw that you can use to make Unarmed Strikes. When
 
 _**Charge.**_ If you move at least 20 feet straight toward a target and then hit them with your Bite attack on the same turn, the target takes an extra 1d6 Piercing damage, and if the target is a creature of the same Size as you or smaller, they are caught in your mouth and have the Grappled condition. While a creature is Grappled in this manner, your Swim Speed is not halved due to dragging or carrying the creature, and you cannot attempt to grapple another creature with your Bite.
 
-_**Guardian of the Depths.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
+_**Depth Strider.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
