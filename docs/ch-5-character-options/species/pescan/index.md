@@ -8,7 +8,7 @@ Though their faces and torsos are superficially similar to those of humans, pesc
 
 ## History
 
-These aquatic beings originally hail from the Elemental Plane of Water. Many pescans found their way to Mote through naturally occurring [waypoints](../../../ch-3-stories-of-mote/watpoints.md), immigrating to the world and settling its vast oceans in waves over thousands of years.
+These aquatic beings originally hail from the Elemental Plane of Water. Many pescans found their way to Mote through naturally occurring [waypoints](../../../ch-3-stories-of-mote/waypoints.md), immigrating to the world and settling its vast oceans in waves over thousands of years.
 
 ## Distribution
 
@@ -20,12 +20,14 @@ Some pescans have wandered inland to the [Esterfell Accord](../../../ch-2-people
 
 - _**Creature Type:**_ Elemental
 - _**Size:**_ Small (2-4 feet tall) or Medium (4-8 feet tall), chosen when you select this species
-- _**Speed:**_ 10 feet, Swim 40 feet
-- _**Resistances:**_ Cold (**Depth Strider**)
+- _**Speed:**_ 20 feet, Swim 40 feet
+- _**Resistances:**_ Cold (**Depth Strider**); Charmed, Frightened (**Abyssal Resilience**)
 - _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 50-70 years on average
 
 As a pescan, you have the following special traits.
+
+_**Abyssal Resilience.**_ You have Resistance to the Charmed and Frightened conditions.
 
 _**Amphibious.**_ You can breathe air and water.
 
