@@ -26,13 +26,13 @@ The hot stretches of Barrian desert drew in the dust gnomes, who helped establis
 
 As a dust gnome, you have the following special traits.
 
-_**Dust Magic.**_ You know the _mold earth_ cantrip. Starting at 3rd level, you can cast the _earth tremor_ spell with this trait. Starting at 5th level, you can also cast the _earthbind_ spell with it. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a Long Rest; however, you can cast the spell using any spell slots you have of the appropriate level.
+_**Dust Magic.**_ You know the _Mold Earth_ cantrip. Starting at 3rd level, you can cast the _Earth Tremor_ spell with this trait. Starting at 5th level, you can also cast the _Earthbind_ spell with it. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a Long Rest; however, you can cast the spell using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
 _**Gnomish Cunning.**_ You have Advantage on Intelligence, Wisdom, and Charisma saving throws.
 
-_**Waterdowsers.**_ You are naturally adapted to hot climates. When you are in such an environment, you have Advantage on Wisdom (Survival) and Wisdom (Perception) checks to forage or navigate within the environment.
+_**Waterdowsers.**_ You are naturally adapted to hot climates. When you are in such an environment, you have Advantage on Wisdom (Perception and Survival) checks to forage or navigate within the environment.
 
 ### Forest gnome
 
@@ -52,7 +52,7 @@ The temperate forests of Lenya, particularly the [Eastern Forests](../../ch-4-es
 
 #### Distribution
 
-Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../../ch-2-people-of-mote/societies/esterfell-accord/)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as a the artificial island on which [Cape Bec](../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.
+Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../../ch-2-people-of-mote/societies/esterfell-accord/)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as the artificial island on which [Cape Bec](../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.
 
 ### Svirfneblin
 
