@@ -33,6 +33,6 @@ _**Amphibious.**_ You can breathe air and water.
 
 _**Depth Strider.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
 
-_**Elemental Magic.**_ You know the _Elementalism_ cantrip. When you reach character level 3, you learn the _Create or Destroy Water_ spell, and when you reach character level 5, you learn the _Sleet Storm_ spell. You always have these leveled spells prepared, you can cast them each once without a spell slot, and you regain the ability to cast them in this way when you finish a Long Rest. You can also cast each of these spells using any spell slots you have of the appropriate level. Constitution is your spellcasting ability for the spells you cast with this trait.
-
 _**Water Dependency.**_ If you fail to immerse yourself in water for at least 1 hour during a day, you gain 1 Exhaustion level at the end of that day.
+
+_**Water Magic.**_ You know the _Elementalism_ cantrip. When you reach character level 3, you learn the _Create or Destroy Water_ spell, and when you reach character level 5, you learn the _Sleet Storm_ spell. You always have these leveled spells prepared, you can cast them each once without a spell slot, and you regain the ability to cast them in this way when you finish a Long Rest.  You can also use any spell slots you have to cast these spells. Constitution is your spellcasting ability for the spells you cast with this trait.

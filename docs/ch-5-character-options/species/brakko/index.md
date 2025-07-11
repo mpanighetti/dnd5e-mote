@@ -21,7 +21,7 @@ Brakko schools came upon Esterfell in the last few centuries. They tend to avoid
 
 As a brakko, you have the following special traits.
 
-_**Ambush Predator.**_ You can take the Hide action as a Bonus Action and add a d4 to the check. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
+_**Ambush Predator.**_ You can take the Hide action as a Bonus Action and add a d4 to the check. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 _**Amphibious.**_ You can breathe air and water.
 
