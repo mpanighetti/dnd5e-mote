@@ -23,13 +23,13 @@ The sands of Barria immediately appealed to the desert dwarves who arrived in Es
 - _**Creature Type:**_ Humanoid
 - _**Size:**_ Medium (4-5 feet tall)
 - _**Speed:**_ 30 feet, Burrow 30 feet
-- _**Resistances:**_ Fire, Poison (**Desert Born**)
+- _**Resistances:**_ Fire, Poison; Poisoned (**Desert Born**)
 - _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 200 years on average
 
 As a desert dwarf, you have the following special traits.
 
-_**Desert Born.**_ Because of your natural adaptations to hot climates, you have Resistance to Fire and Poison damage, and you do not need to drink water, as your body is able to survive on the small amounts of moisture found in your normal food intake.
+_**Desert Born.**_ Because of your natural adaptations to hot climates, you have Resistance to Fire and Poison damage and to the Poisoned condition, and you do not need to drink water, as your body is able to survive on the small amounts of moisture found in your normal food intake.
 
 _**Walk Without Rhythm.**_ While moving through nonmagical difficult terrain, you can Dash as a Bonus Action. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 
