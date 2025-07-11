@@ -18,7 +18,7 @@ Selkie families immigrated to Esterfell alongside the early human tribes, hiding
 - _**Size:**_ Medium (5-6 feet tall)
 - _**Speed:**_ 30 feet (halved in seal form), Swim 20 feet (doubled in seal form) (**Selkie Skin**)
 - _**Resistances:**_ Cold (**Depth Strider**)
-- _**Senses:**_ Darkvision 60 feet, Blindsight 5 feet (seal form) (**Selkie Skin**)
+- _**Senses:**_ Darkvision 60 feet; Blindsight 5 feet in seal form (**Selkie Skin**)
 - _**Life Span:**_ 70-80 years on average
 
 As a selkie, you have these special traits.
@@ -29,7 +29,7 @@ _**Friend of the Sea.**_ You can communicate simple ideas to any Beast that has 
 
 _**Hold Breath.**_ You can hold your breath for 30 minutes.
 
-_**Natural Armor.**_ A life spent traversing the icy ocean depths has given you a hardy resilience. You gain Resistance to Cold damage, While you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
+_**Natural Armor.**_ A life spent traversing the icy oceans has given you a hardy resilience. While you are not wearing armor, your Armor Class equals 12 + your Constitution modifier.
 
 _**Selkie Skin.**_ You can use your action to don your [Selkie Skin](../../../ch-6-mote-treasures/magic-items/selkie-skin.md) and shape-shift into your seal form, or doff it to shape-shift into your person form, which resembles a human (or the species of a non-selkie parent). Your statistics are the same in your seal form except for where noted in your selkie traits, as well as the following changes:
 
