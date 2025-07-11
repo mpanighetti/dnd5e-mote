@@ -2,7 +2,7 @@
 
 **Brakko** are intelligent aquatic beings residing in the deepest [waters](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell) surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/).
 
-## Description
+## Appearance
 
 A brakko bears some resemblance to a barracuda, with an elongated jaw containing sharp piercing fangs, and a thrashing piscine tail extending behind them allowing for bursts of speed underwater. Despite having bodies built for swimming, their human-like limbs enable them to crawl across land at impressive speeds.
 
