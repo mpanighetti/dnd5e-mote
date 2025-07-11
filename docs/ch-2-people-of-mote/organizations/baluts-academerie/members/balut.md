@@ -20,8 +20,4 @@ Balut immigrated to the [Esterfell Accord](../../../societies/esterfell-accord/)
 
 ## Stat block
 
-Balut uses an _Archmage_ stat block (Small Pescan) with the following changes:
-
-_**Resistances:**_ Charmed, Frightened, Paralyzed, Poison, Stunned (**Leviathan Will**)
-
-_**Amphibious.**_ Balut can breathe air and water.
+Balut uses an _Archmage_ stat block with the traits of a Small Pescan.
