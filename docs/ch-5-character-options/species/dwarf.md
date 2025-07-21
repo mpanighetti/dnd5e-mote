@@ -8,7 +8,7 @@ Dwarves possess a profound connection to the minerals that constitute [Mote](../
 
 ### Burrow dwarf
 
-**Burrow dwarves** hail originally from deep underground. Over generations, they lost their Darkvision in favor of developing a preternatural ability to detect movement in total darkness, making them well-suited to a subterranean lifestyle. They also developed powerful claws on the outside of their forearms to more efficiently dig through dirt and stone. A lack of regular sun exposure leaves their skin pale and gray.
+**Burrow dwarves** hail originally from deep underground. Over generations, they lost their Darkvision as they developed a preternatural ability to detect movement through vibrations in the ground, making them well-suited to a subterranean lifestyle. They also developed powerful claws on the outside of their forearms to more efficiently dig through dirt and stone. A lack of regular sun exposure leaves their skin pale and gray.
 
 #### Distribution
 
@@ -19,7 +19,7 @@ Burrow dwarves established large settlements in the lava tubes shaped over mille
 - _**Creature Type:**_ Humanoid
 - _**Size:**_ Medium (4-5 feet tall)
 - _**Speed:**_ 30 feet, Burrow 30 feet (**Burrow**)
-- _**Resistances:**_ Poison; Poisoned (**Dwarven Resilience**)
+- _**Resistances:**_ Poison (**Dwarven Resilience**)
 - _**Senses:**_ Blindsight 30 feet, Tremorsense 60 feet
 - _**Life Span:**_ 350 years on average
 
@@ -27,7 +27,7 @@ As a burrow dwarf, you have the following special traits.
 
 _**Burrow.**_ You have a Burrow Speed equal to your Speed. Additionally, you can burrow through solid rock, treating such spaces as Difficult Terrain and leaving a 5-foot diameter tunnel in your wake.
 
-_**Dwarven Resilience.**_ You have Resistance to Poison damage and to the Poisoned condition.
+_**Dwarven Resilience.**_ You have Resistance to Poison.
 
 ### [Desert dwarf](https://github.com/mpanighetti/dnd5e-species/tree/main/humanoids/desert-dwarf.md)
 
@@ -42,7 +42,7 @@ The sands of Barria immediately appealed to the desert dwarves who arrived in Es
 - _**Creature Type:**_ Humanoid
 - _**Size:**_ Medium (4-5 feet tall)
 - _**Speed:**_ 30 feet
-- _**Resistances:**_ Fire (**Desert Born**), Poison; Poisoned (**Dwarven Resilience**)
+- _**Resistances:**_ Fire (**Desert Born**), Poison (**Dwarven Resilience**)
 - _**Senses:**_ Darkvision 60 feet
 - _**Life Span:**_ 200 years on average
 
@@ -50,7 +50,7 @@ As a desert dwarf, you have the following special traits.
 
 _**Desert Born.**_ Because of your natural adaptations to hot climates, you have Resistance to Fire damage, and you do not need to drink water, as your body is able to survive on the small amounts of moisture found in your normal food intake.
 
-_**Dwarven Resilience.**_ You have Resistance to Poison damage and to the Poisoned condition.
+_**Dwarven Resilience.**_ You have Resistance to Poison.
 
 _**Walk Without Rhythm.**_ You can take the Dash action as a Bonus Action. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 

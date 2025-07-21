@@ -15,14 +15,14 @@ There are no larger societal distributions of sparks, as the nature of their cre
 - _**Creature Type:**_ Construct
 - _**Size:**_ Tiny (1-2 feet tall), Small (2-4 feet tall), or Medium (4-7 feet tall), chosen when you select this species
 - _**Speed:**_ 30 feet
-- _**Resistances:**_ Poison; Paralyzed, Poisoned (**Mechanical Nature**)
+- _**Resistances:**_ Poison; Paralyzed (**Mechanical Nature**)
 - _**Life Span:**_ unknown (immune to magical aging effects)
 
 As a spark, you have the following special traits.
 
 _**Mechanical Nature.**_ Your artificial body grants the following benefits:
 
-- You have resistance to Poison damage and to the Paralyzed and Poisoned conditions.
+- You have resistance to Poison and to the Paralyzed condition.
 - You use your Constitution modifier when determining your Armor Class instead of your Dexterity modifier, unless your Constitution modifier is already being added to your AC by another source, such as a Barbarian's Unarmored Defense.
 - You don't need to eat, drink, or breathe.
 - If the _mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
