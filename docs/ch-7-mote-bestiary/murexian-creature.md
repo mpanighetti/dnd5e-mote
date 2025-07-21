@@ -30,7 +30,7 @@ _**Murexian Immunity.**_ The creature is immune to Poison damage and the Poisone
 
 _**Enhanced Contact Poison.**_ A creature that fails the Constitution saving throw from a murexian creature's Contact Poison trait additionally has the Paralyzed condition until the end of its next turn.
 
-_**Murexian Poison.**_ All attacks and traits of a murexian creature that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
+_**Murexian Poison.**_ All attacks and traits of a murexian creature that deal Poison damage or cause the Poisoned condition treat immunity to Poison as resistance and ignore a target's normal resistance to Poison, unless the target has specific resistance or immunity to Murexian Poison. Targets with immunity to Poison or resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with immunity to Murexian Poison automatically succeed on such saving throws.
 
 _**Murexian Venom.**_ The sludge coursing through the veins and fangs of murexian creatures is highly toxic to those who come in contact with them. When a murexian creature hits a creature with an attack using a natural weapon such as a bite or claw, the attack deals an additional 1d6 Poison damage.
 
@@ -161,7 +161,7 @@ _**Bloodied Fury.**_ The boar has Advantage on melee attack rolls while it is Bl
 
 _**Enhanced Contact Poison.**_ If another creature comes into direct contact with the boar's body (including as part of the boar's Gore attack), they must succeed on a DC 13 Constitution saving throw or become Poisoned for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the boar can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
-_**Murexian Poison.**_ All of the boar's attacks and traits that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
+_**Murexian Poison.**_ All of the boar's attacks and traits that deal Poison damage or cause the Poisoned condition treat immunity to Poison as resistance and ignore a target's normal resistance to Poison, unless the target has specific resistance or immunity to Murexian Poison. Targets with immunity to Poison or resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with immunity to Murexian Poison automatically succeed on such saving throws.
 
 #### Actions
 
@@ -208,7 +208,7 @@ _**Enhanced Contact Poison.**_ If another creature comes into direct contact wit
 
 _**Magic Weapons.**_ The hellwasp's weapon attacks are magical.
 
-_**Murexian Poison.**_ All of the wasp's attacks and traits that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
+_**Murexian Poison.**_ All of the wasp's attacks and traits that deal Poison damage or cause the Poisoned condition treat immunity to Poison as resistance and ignore a target's normal resistance to Poison, unless the target has specific resistance or immunity to Murexian Poison. Targets with immunity to Poison or resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with immunity to Murexian Poison automatically succeed on such saving throws.
 
 #### Actions
 
@@ -248,7 +248,7 @@ _Huge Monstrosity (Dinosaur), Unaligned_
 
 #### Traits
 
-_**Murexian Poison.**_ All of the tyrannosaurus' attacks and traits that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
+_**Murexian Poison.**_ All of the tyrannosaurus' attacks and traits that deal Poison damage or cause the Poisoned condition treat immunity to Poison as resistance and ignore a target's normal resistance to Poison, unless the target has specific resistance or immunity to Murexian Poison. Targets with immunity to Poison or resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with immunity to Murexian Poison automatically succeed on such saving throws.
 
 _**Toxic Contact Poison.**_ If another creature comes into direct contact with the tyrannosaurus' body (including as part of T. rex's Bite or Tail attack), they must succeed on a DC 16 Constitution saving throw or become Poisoned for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with T. rex can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
@@ -307,7 +307,7 @@ _Large Aberration, Lawful Evil_
 
 _**Legendary Resistance (3/Day, or 4/Day in Lair)**_. If the beholder fails a saving throw, it can choose to succeed instead.
 
-_**Murexian Poison.**_ All the beholder's attacks and traits that deal Poison damage or cause the Poisoned condition treat Immunity to Poison as Resistance and ignore a target's normal Resistance to Poison, unless the target has specific Resistance or Immunity to Murexian Poison. Targets with Immunity to Poison or Resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with Immunity to Murexian Poison automatically succeed on such saving throws.
+_**Murexian Poison.**_ All the beholder's attacks and traits that deal Poison damage or cause the Poisoned condition treat immunity to Poison as resistance and ignore a target's normal resistance to Poison, unless the target has specific resistance or immunity to Murexian Poison. Targets with immunity to Poison or resistance to Murexian Poison have Advantage on saving throws against Murexian Poison, and targets with immunity to Murexian Poison automatically succeed on such saving throws.
 
 _**Toxic Contact Poison.**_ If another creature comes into direct contact with the beholder's body (including as part of the beholder's Bite attack), they must succeed on a DC 17 Constitution saving throw or become Poisoned for 1 minute and Paralyzed until the end of their next turn. A Poisoned creature no longer in direct contact with the beholder can repeat the saving throw at the end of each of their turns, ending the effect on themself on a success.
 
