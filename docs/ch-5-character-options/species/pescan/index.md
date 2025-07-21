@@ -27,7 +27,7 @@ Some pescans have wandered inland to the [Esterfell Accord](../../../ch-2-people
 
 As a pescan, you have the following special traits.
 
-_**Abyssal Resilience.**_ You have Resistance to the Charmed and Frightened conditions.
+_**Abyssal Resilience.**_ Your people have stared into the infinite depths of the Elemental Plane of Water, making their mental reserves similarly deep. You have Resistance to the Charmed and Frightened conditions.
 
 _**Amphibious.**_ You can breathe air and water.
 
