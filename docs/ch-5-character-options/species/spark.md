@@ -25,7 +25,7 @@ _**Mechanical Nature.**_ Your artificial body grants the following benefits:
 - You have resistance to Poison and to the Paralyzed condition.
 - You use your Constitution modifier when determining your Armor Class instead of your Dexterity modifier, unless your Constitution modifier is already being added to your AC by another source, such as a Barbarian's Unarmored Defense.
 - You don't need to eat, drink, or breathe.
-- If the _mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+- If the _Mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
 _**Power Cycle.**_ As a Magic action, you quickly power down your systems and restart them to refresh your body, regaining a number of Hit Dice equal to your Proficiency Bonus. After you take this action, you regain the ability to do so when you finish a Long Rest.
 
