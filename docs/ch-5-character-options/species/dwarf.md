@@ -1,6 +1,6 @@
 # Dwarf
 
-**Dwarves** are short but broad humanoids who immigrated to [Esterfell](../../ch-4-esterfell-gazetteer/esterfell/) in the first few waves of ships. Various groups of dwarves settled across [Lenya](../../ch-4-esterfell-gazetteer/esterfell/lenya/), [Yggru](../../ch-4-esterfell-gazetteer/esterfell/yggru/), and [Barria](../../ch-4-esterfell-gazetteer/esterfell/barria.md), distributing themselves based on traditional trades and environmental preferences carried over from their ancestral lands.
+**Dwarves** are short, broad humanoids who immigrated to [Esterfell](../../ch-4-esterfell-gazetteer/esterfell/) in the first few waves of ships. Various groups of dwarves settled across [Lenya](../../ch-4-esterfell-gazetteer/esterfell/lenya/), [Yggru](../../ch-4-esterfell-gazetteer/esterfell/yggru/), and [Barria](../../ch-4-esterfell-gazetteer/esterfell/barria.md), distributing themselves based on traditional trades and environmental preferences carried over from their ancestral lands.
 
 Dwarves possess a profound connection to the minerals that constitute [Mote](../../ch-1-welcome-to-mote/cosmology/mote.md). This has led dwarven communities to be some of the first to perfect the process of mining precious stones, refining them, and crafting them into tools and works of art, and they in turn spread this knowledge to other societies across the world. Their dense stocky bodies can be ill-suited for swimming, but their sure-footedness makes them comfortable in many earthy terrains such as mountain ranges and canyons.
 
@@ -21,7 +21,6 @@ Burrow dwarves established large settlements in the lava tubes shaped over mille
 - _**Speed:**_ 30 feet, Burrow 30 feet (**Burrow**)
 - _**Resistances:**_ Poison (**Dwarven Resilience**)
 - _**Senses:**_ Blindsight 30 feet, Tremorsense 60 feet
-- _**Life Span:**_ 350 years on average
 
 As a burrow dwarf, you have the following special traits.
 
@@ -44,7 +43,6 @@ The sands of Barria immediately appealed to the desert dwarves who arrived in Es
 - _**Speed:**_ 30 feet
 - _**Resistances:**_ Fire (**Desert Born**), Poison (**Dwarven Resilience**)
 - _**Senses:**_ Darkvision 60 feet
-- _**Life Span:**_ 200 years on average
 
 As a desert dwarf, you have the following special traits.
 
@@ -60,7 +58,7 @@ _**Walk Without Rhythm.**_ You can take the Dash action as a Bonus Action. You c
 
 #### Distribution
 
-The original hill dwarf settlers of Esterfell were said to step off their sailing ships and never stop walking. This quickly distributed them across the flatter regions of the continent, such that they can be found in most environments at sea level. The largest population of hill dwarves resides within the [Bailen Plains](../../ch-4-esterfell-gazetteer/esterfell/lenya/bailen-plains.md), but any landlocked settlement in Lenya can reliably be expected to include some members of this ancestry.
+The original hill dwarf settlers of Esterfell were said to step off their sailing ships and never stop walking, always eager to cross the next hill and explore beyond the horizon. This quickly distributed them across the flatter regions of the continent, such that they can be found in most environments at sea level. The largest population of hill dwarves resides within the [Bailen Plains](../../ch-4-esterfell-gazetteer/esterfell/lenya/bailen-plains.md), but any landlocked settlement in Lenya can reliably be expected to include some members of this ancestry.
 
 ### Mountain dwarf
 

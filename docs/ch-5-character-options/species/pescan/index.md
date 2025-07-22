@@ -4,7 +4,7 @@
 
 ## Description
 
-Though their faces and torsos are superficially similar to those of humans, pescans display aspects of fish across the rest of their bodies. They have webbed hands and gills on their necks, with blue and green coloration on their scaly skin. Individuals run a spectrum of fishlike appearance: some are bipedal to allow for improved land travel, while others possess long muscular tails comprising the lower halves of their bodies, granting them fast movement in water at the expense of a limited mobility on land.
+Though their faces and torsos are superficially similar to those of humans, pescans display aspects of fish physiology across their bodies. They have webbed hands and gills on their necks, with blue and green coloration on their scaly skin. Individuals run a spectrum of fishlike appearance: some are bipedal to allow for improved land travel, while others possess long muscular tails comprising the lower halves of their bodies, granting them fast movement in water at the expense of a limited mobility on land.
 
 ## History
 
@@ -23,7 +23,6 @@ Some pescans have wandered inland to the [Esterfell Accord](../../../ch-2-people
 - _**Speed:**_ 20 feet, Swim 40 feet
 - _**Resistances:**_ Cold (**Depth Strider**); Charmed, Frightened (**Abyssal Resilience**)
 - _**Senses:**_ Darkvision 60 feet
-- _**Life Span:**_ 50-70 years on average
 
 As a pescan, you have the following special traits.
 

@@ -17,7 +17,6 @@ Brakko schools came upon Esterfell in the last few centuries. They tend to avoid
 - _**Speed:**_ 30 feet, Swim 40 feet
 - _**Resistances:**_ Cold (**Depth Strider**)
 - _**Senses:**_ Darkvision 60 feet; Tremorsense 30 ft. when in liquid
-- _**Life Span:**_ 40-60 years on average
 
 As a brakko, you have the following special traits.
 

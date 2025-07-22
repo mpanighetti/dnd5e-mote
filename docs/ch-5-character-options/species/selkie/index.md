@@ -19,7 +19,6 @@ Selkie families immigrated to Esterfell alongside the early human tribes, hiding
 - _**Speed:**_ 30 feet (halved in seal form), Swim 20 feet (doubled in seal form) (**Selkie Skin**)
 - _**Resistances:**_ Cold (**Depth Strider**)
 - _**Senses:**_ Darkvision 60 feet; Blindsight 5 feet in seal form (**Selkie Skin**)
-- _**Life Span:**_ 70-80 years on average
 
 As a selkie, you have these special traits.
 

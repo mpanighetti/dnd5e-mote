@@ -21,7 +21,6 @@ The hot stretches of Barrian desert drew in the dust gnomes, who helped establis
 - _**Speed:**_ 30 feet
 - _**Resistances:**_ Fire (**Desert Born**)
 - _**Senses:**_ Darkvision 60 feet
-- _**Life Span:**_ 350 years on average
 
 As a dust gnome, you have the following special traits.
 
@@ -48,11 +47,3 @@ The temperate forests of Lenya, particularly the [Eastern Forests](../../ch-4-es
 #### Distribution
 
 Though some rock gnomes gravitated toward the mountains of Yggru, many opted instead to contribute to the development of the [Esterfell Accord](../../ch-2-people-of-mote/societies/esterfell-accord/)'s larger cities. A majority of the engineers and city planners who contributed to grand structures such as the artificial island on which [Cape Bec](../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/) was founded were rock gnomes. The Ashen Archipelago also has some settlements with larger rock gnome populations, the descendants of tinkerers drawn to the exotic gems and ores found within the dormant volcanic soil.
-
-### Terrenus gnome
-
-**Terrenus gnomes**, sometimes referred to as "deep gnomes", are a lineage who evolved to thrive in underground environments such as caves. They developed larger eyes to take in more light in pitch black environments, and possess innate psionic abilities common to other creatures from the deep underground.
-
-#### Distribution
-
-Like other beings suited to the underground, terrenus gnomes found the dark catacombs of lava tubes under [Mount Hora](../../ch-4-esterfell-gazetteer/esterfell/lenya/mount-hora.md) to be a welcoming space to build and expand their settlements.
