@@ -2,13 +2,15 @@
 
 A diverse assortment of peoples dwell among the island continents of [Mote](../../ch-1-welcome-to-mote/cosmology/mote.md). This section presents information about the modern inhabitants of [Esterfell](../../ch-4-esterfell-gazetteer/esterfell/) and contextualizes the species from the _SRD_ within the world of Mote.
 
-Note that species found in modern Esterfell are not monocultures; though similar physical traits are shared within a species, and some species can be found in tightknit clusters based on familial relations or comfort within a given biome, the [societies of Esterfell](../../ch-2-people-of-mote/societies/) are largely melting pots composed of members of multiple species. For more information on species distribution in specific regions across Mote, see [Chapter 2: People of Mote](../../ch-2-people-of-mote/).
+Note that species found in modern Esterfell are not monocultures; though similar physical traits are shared within a species, and some species can be found in tight-knit clusters based on familial relations or comfort within a given biome, Esterfell societies are largely melting pots composed of members of multiple species. For more information on species distribution in specific regions across Mote, see [People of Mote](../../ch-2-people-of-mote/) and [Societies of Esterfell](../../ch-2-people-of-mote/societies/) in Chapter 2.
 
-In addition to the species found in the _SRD_, Mote is home to many other species, including the following:
+## New Mote species
+
+Mote is home to many species not commonly found on other worlds.
 
 **[Brakko](brakko/)** are carnivorous hunters who reside in the deep trenches of the northern oceans of Esterfell. While some have integrated with the [Xiahuli](../../ch-2-people-of-mote/societies/xiahulia.md), others form loose familial bands that hunt the depths for prey and aggressively defend their territories. These depth-born societies have successfully prevented Xiahulia from staking claims beyond their continental shelf to the north.
 
-**[Ceteans](cetean/)** are nomadic beings who flew amongst the stars of [Fellspace](../../ch-1-welcome-to-mote/cosmology/fellspace.md) in ancient times. Though many cetean pods remained in space, some eventually settled in the oceans of Mote and aided in founding the underwater nation of Xiahulia. These oceanic ceteans maintain a distant connection to their stellar kin through a collective whalesong that permates Wildspace and the Astral Plane, allowing all ceteans to share their life experiences in a collective consciousness and shared memory.
+**[Ceteans](cetean/)** are nomadic beings who flew amongst the stars of [Fellspace](../../ch-1-welcome-to-mote/cosmology/fellspace.md) in ancient times. Though many cetean pods remained in space, some eventually settled in the oceans of Mote and aided in founding the underwater nation of Xiahulia. These oceanic ceteans maintain a distant connection to their stellar kin through a collective whalesong that permates Fellspace and the Astral Plane, allowing all ceteans to share their life experiences in a collective consciousness and shared memory.
 
 **[Pescans](pescan/)** are aquatic people with piscine features found in oceans across Mote. Though their amphibious nature allows some access to the land, pescans are more comfortable when submerged in liquid, allowing them to quickly dart through the water and avoid drying out. This leads to few individual pescans being found on the land of Esterfell beyond brief encounters along its coasts, but the aquatic nation of Xiahulia counts most pescans as citizens.
 
@@ -16,7 +18,9 @@ In addition to the species found in the _SRD_, Mote is home to many other specie
 
 **[Sparks](spark.md)** are artificial beings, born of [Accord](../../ch-2-peopole-of-mote/societies/esterfell-accord/) mages and tinkerers who channeled [starstuff](../../) energy to create new souls tethered to mechanical bodies. As recent creations, they are a young and small populace with no cultural history, but this blank slate grants them a future full of potential as they discover their place in the world. Despite their uncertain destinies and constructed nature, as starstuff-born beings, sparks are as much a part of Mote as any other living creatures found there.
 
-Descriptions of species from the _SRD_ are found below; some of these species have new options not found in the _SRD_:
+## Other Mote species
+
+Descriptions of species from the _SRD_ are found below. Some of these species have new options not found in the _SRD_.
 
 **Dragonborn** are descendants of ancient dragons. Their scales reflect this ancestry, presenting a wide variety of coloration based on which dragons led to their modern lineages. A few prominent dragonborn families were among the earliest investors in the Atæron Mining Consortium back in the old world, sailing from [Atæros](../../ch-4-esterfell-gazetteer/other-lands-of-mote.md#atros) to look for future investments. Their descendants have largely forgotten this business association after several generations, but on the books they are still considered AMC stockholders.
 
@@ -36,4 +40,4 @@ Descriptions of species from the _SRD_ are found below; some of these species ha
 
 **Tieflings** are
 
-Some species options outside of the _SRD_ can also be found on Mote. They might exist in smaller pockets hidden from the outside world, or they could be visitors from other worlds, such as the Feywild. As a general rule, a species that has been designated as being "of the multiverse", such that they can be found on many worlds, also exists in Mote as a playable option. How that character fits into a campaign or adventure set in Esterfell should be discussed with the Game Master.
+Some species options outside of the _SRD_ can also be found on Mote. They might exist in smaller pockets hidden from the outside world, or they could be visitors from other worlds, such as the Feywild. As a general rule, a species that has been designated as being setting-agnostic or "of the multiverse", such that it can be found on many worlds, also exists on Mote as a playable option. How that character fits into a campaign or adventure set in Esterfell should be discussed with the Game Master.
