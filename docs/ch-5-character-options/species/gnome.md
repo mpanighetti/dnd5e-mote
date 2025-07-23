@@ -34,7 +34,7 @@ _**Waterdowsers.**_ You are innately suited to exploring hazardous climates, gra
 
 ### Forest gnome
 
-**Forest gnomes** are arboreal people with a connection to the plants, animals, and spirits of the natural world. This magical bond even grants them a limited means of communication with Tiny beasts.
+**Forest gnomes** possess a connection to the plants, animals, and spirits of the natural world. This magical bond even grants them a limited means of communication with some beasts.
 
 #### Distribution
 
