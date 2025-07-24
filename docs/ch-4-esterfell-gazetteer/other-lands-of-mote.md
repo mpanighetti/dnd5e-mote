@@ -38,7 +38,7 @@ As a result of this unusual transplanar union, the arcanists of Doria and the co
 
 ## Yshun
 
-- **Demographics:** dwarf (desert), goliath (fire, storm), orc, tiefling
+- **Demographics:** dwarf (desert), gnome (dust), goliath (fire, storm), orc, tiefling
 - **Demonyms:** Yshuni
 
 **Yshun** was an atoll stretched around a gigantic volcanic island constantly bubbling with lava. The people of Yshun believed the volcano to be the home of a deity who forged the Yshuni in the fires while in a deep slumber under the lava.
