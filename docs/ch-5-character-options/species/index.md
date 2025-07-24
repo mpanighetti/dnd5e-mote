@@ -20,7 +20,7 @@ Descriptions of the most common species on Mote are found below. Species origina
 
 **[Gnomes](gnome.md)<sup>†</sup>** are a diminutive people with pointed ears and large eyes, whose curiosity and inventiveness helped them create the art of tinkering. They can live for many centuries, allowing multiple generations of gnomes to grow together and share their life experiences, thus maintaining a strong lineage of cultural memory through oral tradition. Gnomes were among the first people of Mote to thoroughly explore other planes of existence through the world's naturally occurring waypoints, and they drew intricate maps of the cosmos that are still referenced in modern times. Esterfell gnomes largely originated from [Dormina](../../ch-4-esterfell-gazetteer/other-lands-of-mote.md#dormina).
 
-**Goliaths** are tall folk descended from the giants of ancient times. This ancestry manifests through varying skin colors and markings depending on what type of giant sat atop their family trees. Whatever their lineage, goliaths exist peacefully among many groups, and their innate strength and large builds have been utilized to build many societies to their greatest heights.
+**Goliaths** are tall folk descended from the giants of ancient times. This ancestry manifests through varying skin colors and markings depending on what type of giant sat atop their family trees. Whatever their lineage, goliaths exist peacefully among many groups, and their innate strength and large builds have been utilized to build many societies to their greatest heights. Goliaths historically branched out to different regions best-suited to their elemental or natural affinities, and those who settled in Esterfell similarly spread to find comfortable environments.
 
 **Halflings** are
 
