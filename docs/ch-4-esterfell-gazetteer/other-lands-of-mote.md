@@ -8,14 +8,14 @@ This section describes some of these other lands of Mote from the perspective of
 
 ## Atæros
 
-- **Demographics:** dragonborn, dwarf, goliath (frost, stone), orc
+- **Demographics:** dragonborn, dwarf (burrow, mountain), gnome (rock), goliath (frost, stone), orc
 - **Demonyms:** Atæron
 
 The **Atæron Mining Consortium** was a company formed by multiple wealthy families. The Consortium strip-mined the mountainous region of **Atæros** and traded precious gems and metals to the other nations to build a prosperous empire. All people with full Atæros citizenship, including those born from Atæron parents while out of the country, were considered to be legal stakeholders in the Consortium, granting them an annual dividend paid from the company's profits.
 
 ## Dormina
 
-- **Demographics:** elf (wood), fey, gnome
+- **Demographics:** elf (wood), fey, gnome (forest)
 - **Demonyms:** Dorian, Minan, Feyfolk
 
 In ancient times, a gnomish princess of **Doria** happened upon a [waypoint](../ch-3-stories-of-mote/waypoints.md) and crossed into **Mina**, a sovereign province within the Feywild. Wandering through the strange mirrored forests, she found an elf imperiled by worgs. The princess bravely slayed the elf's attackers, and the elf revealed herself to be the countess of Mina. In gratitude for saving her life, but not wanting to give up anything of value, the Minan countess offered to give the Dorian princess any one item to which she laid claim, but said that she must ask for it without further thought or hesitation. The princess, well-read in fairytales, asked the countess for her heart, and the two were soon wed.
@@ -24,7 +24,7 @@ As a result of this unusual transplanar union, the arcanists of Doria and the co
 
 ## Oji
 
-- **Demographics:** goliath (cloud, hill), human, halfling
+- **Demographics:** dwarf (hill), goliath (cloud, hill), halfling (lightfoot, stout), human
 - **Demonyms:** Ojir
 
 **Oji** was led by a royal lineage going back over thirty generations. Marriage with Dormina royalty was frowned upon, as it raised concerns of long-lived elf or fey spouses taking the throne when the sovereign passed away.
@@ -38,7 +38,7 @@ As a result of this unusual transplanar union, the arcanists of Doria and the co
 
 ## Yshun
 
-- **Demographics:** goliath (fire, storm), tiefling
+- **Demographics:** dwarf (desert), goliath (fire, storm), orc, tiefling
 - **Demonyms:** Yshuni
 
 **Yshun** was an atoll stretched around a gigantic volcanic island constantly bubbling with lava. The people of Yshun believed the volcano to be the home of a deity who forged the Yshuni in the fires while in a deep slumber under the lava.
