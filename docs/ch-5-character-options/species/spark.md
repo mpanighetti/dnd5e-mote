@@ -15,17 +15,17 @@ There are no larger societal distributions of sparks, as the nature of their cre
 - _**Creature Type:**_ Construct
 - _**Size:**_ Tiny (1-2 feet tall), Small (2-4 feet tall), or Medium (4-7 feet tall), chosen when you select this species
 - _**Speed:**_ 30 feet
-- _**Resistances:**_ Paralyzed, Poison (**Mechanical Nature**)
+- _**Resistances:**_ Poison; Paralyzed (**Mechanical Nature**)
 - _**Life Span:**_ unknown (immune to magical aging effects)
 
 As a spark, you have the following special traits.
 
 _**Mechanical Nature.**_ Your artificial body grants the following benefits:
 
-- You have resistance to Poison damage and to the Paralyzed and Poisoned conditions.
+- You have resistance to Poison and to the Paralyzed condition.
 - You use your Constitution modifier when determining your Armor Class instead of your Dexterity modifier, unless your Constitution modifier is already being added to your AC by another source, such as a Barbarian's Unarmored Defense.
 - You don't need to eat, drink, or breathe.
-- If the _mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+- If the _Mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
 _**Power Cycle.**_ As a Magic action, you quickly power down your systems and restart them to refresh your body, regaining a number of Hit Dice equal to your Proficiency Bonus. After you take this action, you regain the ability to do so when you finish a Long Rest.
 
@@ -36,9 +36,9 @@ _**Specialized Design.**_ You were originally built to carry out a specific func
 ##### Specialized Design
 | Specialization | Proficiency | Cantrip | Additional Trait |
 |:--------------:|:-------------:|:-------:|:-----------------|
-| **Acolyte** | Religion | _guidance_ | As a Magic action, you can spend and roll one of your Hit Dice to cause another creature you touch to regain a number of Hit Points equal to the roll. |
-| **Courtier** | Persuasion | _friends_ | You learn one language of your choice, and each time you finish a Long Rest, you can replace this language with another one. |
-| **Infiltrator** | Stealth | _minor illusion_ | Once on each of your turns when you take the Hide action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
-| **Scribe** | History | _dancing lights_ | Once on each of your turns when you take the Study action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
-| **Soldier** | Athletics | _true strike_ | You gain a +1 bonus to your Armor Class. |
-| **Tinker** | An Artisan's Tool of your choice | _mending_ | Once on each of your turns when you take the Utilize action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
+| **Acolyte** | Religion | _Guidance_ | As a Magic action, you can spend and roll one of your Hit Dice to cause another creature you touch to regain a number of Hit Points equal to the roll. |
+| **Courtier** | Persuasion | _Friends_ | You learn one language of your choice, and each time you finish a Long Rest, you can replace this language with another one. |
+| **Infiltrator** | Stealth | _Minor Illusion_ | Once on each of your turns when you take the Hide action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
+| **Scribe** | History | _Dancing Lights_ | Once on each of your turns when you take the Study action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |
+| **Soldier** | Athletics | _True Strike_ | You gain a +1 bonus to your Armor Class. |
+| **Tinker** | An Artisan's Tool of your choice | _Mending_ | Once on each of your turns when you take the Utilize action, you can spend and roll one of your Hit Dice to add the number rolled to the check. |

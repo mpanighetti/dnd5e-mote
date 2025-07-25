@@ -1,7 +1,5 @@
 # [Cetean](https://github.com/mpanighetti/dnd5e-species/blob/main/humanoids/)
 
-## Description
-
 **Ceteans** are a whalefolk species who explore [Mote](../../../ch-1-welcome-to-mote/cosmology/mote.md) and [Fellspace](../../../ch-1-welcome-to-mote/cosmology/fellspace.md) in the pursuit of knowledge and starstuff.
 
 <figure>
@@ -15,17 +13,19 @@ Ceteans originate from distant regions of Fellspace, where they swam through [st
 
 After a massive starstuff asteroid impacted with Esterfell, many cetean pods came to the new land, eventually becoming founding members of the nation of [Xiahulia](../../../ch-2-people-of-mote/societies/xiahulia.md).
 
-Multiple pods of ceteans reside within the [oceans](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell) surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/), with the largest groups settling along the northern coasts of [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/). They mostly stay away from the continent's landbound societies, but occasionally can be found in port cities to engage in trade.
+Multiple pods of ceteans reside within the [oceans](../../../ch-4-esterfell-gazetteer/coasts-of-esterfell) surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/), with the largest groups settling along the northern coasts of [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/). They mostly stay away from the continent's land-bound societies, but occasionally can be found in port cities to engage in trade.
 
 ## Traits
 
 - _**Creature Type:**_ Humanoid
 - _**Size:**_ Medium (6-9 feet tall)
-- _**Speed:**_ 30 feet, swim 30 feet
+- _**Speed:**_ 30 feet, Swim 30 feet
+- _**Senses:**_ Blindsight 30 feet (**Echospeak**)
+- _**Life Span:**_ 200 years on average
 
 As a cetean, you have the following special traits.
 
-_**Echospeak.**_ Without the assistance of magic, the baleen structures in your mouth make it difficult to speak the non-cetean languages you know. Instead, you primarily use a telepathic technique known as Echospeak to convey your thoughts. You can communicate telepathically with willing creatures you can see within 120 feet.
+_**Echospeak.**_ Without the assistance of magic, the baleen structures in your mouth make it difficult to speak the non-cetean languages you know. Instead, you primarily use a telepathic technique known as Echospeak to convey your thoughts. You can communicate telepathically with willing creatures you can see within 120 feet. Additionally, your Echospeak grants you Blindsight within 30 feet.
 
 _**Hold Breath.**_ You can hold your breath for up to 1 hour.
 

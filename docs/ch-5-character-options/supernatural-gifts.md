@@ -10,7 +10,7 @@ _Supernatural Gift (Blessing)_
 
 You are blessed with the ability to tap into the weavings of fate and glimpse future events. This foreknowledge allows you to bend fate slightly, potentially changing the outcome of your personal destiny.
 
-Once per week during a Long Rest, you receive a prophetic vision of future events affecting you and your party in the form of a dream. Roll on the **Clarity** and **Portent** tables to determine the nature and topic of the vision; the DM relays your vision based on these rolls.
+Once per week during a Long Rest, you receive a prophetic vision of future events affecting you and your party in the form of a dream. Roll on the **Clarity** and **Portent** tables to determine the nature and topic of the vision; the GM relays your vision based on these rolls.
 
 This blessing can be transferred to another willing creature by performing a special ceremony using a _wand of secrets_ during certain stellar confluences. Otherwise, this blessing lasts until you die, and as long as you possess it, no other creature can concurrently possess this blessing.
 
