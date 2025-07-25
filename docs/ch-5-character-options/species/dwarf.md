@@ -20,7 +20,7 @@ Burrow dwarves established large settlements in the lava tubes shaped over mille
 - _**Size:**_ Medium (4-5 feet tall)
 - _**Speed:**_ 30 feet, Burrow 30 feet (**Burrow**)
 - _**Resistances:**_ Poison (**Dwarven Resilience**)
-- _**Senses:**_ Blindsight 30 feet, Tremorsense 60 feet
+- _**Senses:**_ Tremorsense 30 feet
 
 As a burrow dwarf, you have the following special traits.
 
