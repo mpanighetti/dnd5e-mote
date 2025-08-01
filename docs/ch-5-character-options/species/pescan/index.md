@@ -20,7 +20,7 @@ Some pescans have wandered inland to the [Esterfell Accord](../../../ch-2-people
 
 - _**Creature Type:**_ Elemental
 - _**Size:**_ Small (2-4 feet tall) or Medium (4-8 feet tall), chosen when you select this species
-- _**Speed:**_ 20 feet, Swim 40 feet
+- _**Speed:**_ 20 feet (Small) or 25 feet (Medium), Swim 40 feet
 - _**Resistances:**_ Cold (**Depth Strider**); Charmed, Frightened (**Abyssal Resilience**)
 - _**Senses:**_ Darkvision 60 feet
 
