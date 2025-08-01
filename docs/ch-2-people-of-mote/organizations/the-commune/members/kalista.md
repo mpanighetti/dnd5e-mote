@@ -1,6 +1,6 @@
 # Kalista
 
-**Kalista** is a member of [Reynard's Den](../../reynards-den/reynards-den.md).
+**Kalista** is a wandering adventurer working with [The Commune](../), while also acting as a field operative for [Reynard's Den](../../reynards-den/reynards-den.md).
 
 ## Information
 
@@ -27,8 +27,8 @@ Kalista grew up among a matriarchal clan of tieflings in the [Esterfell Accord](
 
 ### Adulthood
 
-Kalista and many others from her clan were drawn to a career in the criminal underbelly of the Accord, and she eventually joined [Reynard's Den](../../reynards-den/reynards-den.md) under the watchful eye of [Tybalt](../../reynards-den/members/tybalt.md). The [Ëaruilë](../../../societies/esterfell-accord/earuile.md) chapter of the Den specialized in recruiting tieflings, as Tybalt felt they had been underserved and prejudiced against by people of the Accord.
+Kalista and many others from her clan were drawn to a career in the criminal underbelly of the Accord, and she eventually joined Reynard's Den under the watchful eye of [Tybalt](../../reynards-den/members/tybalt.md). The [Ëaruilë](../../../societies/esterfell-accord/earuile.md) chapter of the Den specialized in recruiting tieflings, as Tybalt felt they had been underserved and prejudiced against by people of the Accord.
 
 Kalista currently acts as a field operative for Reynard's Den. She utilizes a raven named Poe to send and receive messages with other Den members. [Olivash](../../reynards-den/members/olivash.md), another agent operating out of Ëaruilë, typically acts as a central contact for such message relays.
 
-Recently, Kalista joined forces with [The Commune](../), originally drawn together under a common cause of rescuing [Adelia](../../order-of-istus/members/adelia.md) from a group of goblins, and later investigating strange occurrences in [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md).
+Recently, Kalista joined forces with The Commune, originally drawn together under a common cause of rescuing [Adelia](../../order-of-istus/members/adelia.md) from a group of goblins, and later investigating strange occurrences in [Middlestag Forest](../../../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md).
