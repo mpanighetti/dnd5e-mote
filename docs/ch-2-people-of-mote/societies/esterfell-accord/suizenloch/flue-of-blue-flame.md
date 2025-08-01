@@ -4,4 +4,4 @@
 
 ## Information
 
-- proprietor: [Tetsuno Raya](members/tetsuno-raya.md)
+- proprietor: [Tetsuno Raya](../citizenry/tetsuno-raya.md)
