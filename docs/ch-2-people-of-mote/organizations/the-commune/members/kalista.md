@@ -1,6 +1,6 @@
 # Kalista
 
-**Kalista** is a wandering adventurer working with [The Commune](../), while also acting as a field operative for [Reynard's Den](../../reynards-den/reynards-den.md).
+**Kalista** is a wandering adventurer working with [The Commune](../), while also acting as a field operative for [Reynard's Den](../../reynards-den/).
 
 ## Information
 
