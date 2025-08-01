@@ -14,6 +14,6 @@
 ## Agents
 
 - [Drake Olaran](drake-olaran.md): scribe ([Cape Bec](../../../societies/esterfell-accord/cape-luz.md) and Suizenloch)
-- [Kalista](kalista.md): field operative
+- [Kalista](../../the-commune/members/kalista.md): field operative
 - [Olivash](olivash.md): communications officer (Ëaruilë)
 - [S'akmezzi](sakmezzi.md): field operative (Leving and Overseam)
