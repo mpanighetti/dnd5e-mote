@@ -14,7 +14,7 @@ These aquatic beings originally hail from the Elemental Plane of Water. Many pes
 
 Pescans were technically among the earliest immigrants to the continent of [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/), mostly settling on the continental shelf to its north. Eventually they, along with other peaceful seafaring folks, called their growing nation [Xiahulia](../../../ch-2-people-of-mote/societies/xiahulia.md), and it is where most pescans are found today.
 
-Some pescans have wandered inland to the [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/), though their dependence on seawater meant they could never make significant inroads to the inland regions, resulting in most Accord pescans being found in coastal towns such as [Cape Bec](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/), [Cape Luz](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-luz.md), and [Suizenloch](../../../ch-2-people-of-mote/societies/esterfell-accord/suizenloch.md).
+Some pescans have wandered inland to the [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/), though their dependence on seawater meant they could never make significant inroads to the inland regions, resulting in most Accord pescans being found in coastal towns such as [Cape Bec](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/), [Cape Luz](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-luz.md), and [Suizenloch](../../../ch-2-people-of-mote/societies/esterfell-accord/suizenloch/).
 
 ## Traits
 
