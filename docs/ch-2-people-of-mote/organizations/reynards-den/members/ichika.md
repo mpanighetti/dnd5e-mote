@@ -1,6 +1,6 @@
 # Ichika
 
-**Ichika (一千花)** runs the [Suizenloch](../../../societies/esterfell-accord/suizenloch.md) chapter of [Reynard's Den](../).
+**Ichika (一千花)** runs the [Suizenloch](../../../societies/esterfell-accord/suizenloch/) chapter of [Reynard's Den](../).
 
 ## Information
 
