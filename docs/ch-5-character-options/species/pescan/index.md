@@ -28,10 +28,8 @@ As a pescan, you have the following special traits.
 
 _**Abyssal Resilience.**_ Your people have stared into the infinite depths of the Elemental Plane of Water, making their mental reserves similarly deep. You have Resistance to the Charmed and Frightened conditions.
 
-_**Amphibious.**_ You can breathe air and water.
-
 _**Depth Strider.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
 
-_**Water Dependency.**_ If you fail to immerse yourself in water for at least 1 hour during a day, you gain 1 Exhaustion level at the end of that day.
+_**Limited Amphibiousness.**_ You can breathe air and water. You must be submerged in water at least once every day, or you gain 1 Exhaustion level at the end of that day.
 
 _**Water Magic.**_ You know the _Elementalism_ cantrip. When you reach character level 3, you learn the _Create or Destroy Water_ spell, and when you reach character level 5, you learn the _Sleet Storm_ spell. You always have these leveled spells prepared, you can cast them each once without a spell slot, and you regain the ability to cast them in this way when you finish a Long Rest.  You can also use any spell slots you have to cast these spells. Constitution is your spellcasting ability for the spells you cast with this trait.
