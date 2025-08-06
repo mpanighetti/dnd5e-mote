@@ -4,11 +4,11 @@ The **Mote pantheons** are multiple collections of beings of power from across t
 
 The term "god" is often used interchangeably on Mote with beings of "lesser" power, including archfey, celestial beings such as angels, fiends, and kuo-toan protogods. The origin of such beings has little bearing on their capability to ascend to godhood, as long as they carry a sufficient volume of collective worship.
 
-## Ancient Mote Pantheon
+## Classical Mote Pantheon
 
 The people of [Esterfell](../../ch-4-esterfell-gazetteer/esterfell/) are descended from immigrants who traveled to the continent from distant now-forgotten lands. These groups had their own collections of deities, and though not all of them are now worshipped to the same degree as in antiquity, they survive in Esterfell cultures through the names of months in the [Kivan calendar](../../ch-1-welcome-to-mote/timekeeping.md#kivan) and some smaller religious observations.
 
-##### Ancient Deities of Mote
+##### Classical Deities of Mote
 |  Deity   | Alignment | Domains   | Symbol |
 |:---------|:---------:|:----------|:-------|
 | Baylau   |    CG     | Trickery  |        |
@@ -35,13 +35,13 @@ The **Deities of Esterfell** table is a non-exhaustive list of beings with power
 |:-------|:---------------|:---------:|:--------|:-------|
 | Lilith | archfey (medusa) | LG | [Attalya Grove](../../ch-4-esterfell-gazetteer/esterfell/lenya/attalya-grove.md), Nature, Serpents | a winged serpent |
 | [Phygius](phygius.md) | archfey | CN | Cervids, Feywild, [Middlestag Forest](../../ch-4-esterfell-gazetteer/esterfell/lenya/middlestag-forest.md), Nature | antlers with teardrops |
-| Pyr'xhalz | great old one | CE | Mind, Trickery, War |  |
+| Pyr'xhalz | great old one | CE | Mind, War |  |
 | [Ramil](ramil.md) | celestial (deva) | LG | [The Chosen](../../ch-2-people-of-mote/organizations/the-chosen/), Light | crescent with radial triangles |
 | Xagronoth | archdevil | LE | Trickery | pentagram |
 
 ## Borrowed Pantheon
 
-On occasion, deities sourced from entirely different worlds became honorary Esterfell gods, though how they entered the public consciousness to a significant enough degree to find worshippers in a new world is not always well-understood.
+On occasion, deities sourced from entirely different worlds are adopted by the people of Esterfell and worshipped alongside other gods. The process of a god entering the public consciousness to a significant enough degree to find worshippers in a new world is at times poorly understood.
 
 The **Deities of the Multiverse** table is a non-exhaustive list of beings of power sourced from other worlds. The table calls out their origins in the **Pantheon** column.
 
