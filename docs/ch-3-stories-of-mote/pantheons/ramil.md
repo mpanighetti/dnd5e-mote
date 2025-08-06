@@ -26,7 +26,7 @@
 
   - classification: corrupted deva / great old one
   - alignment: Chaotic Evil
-  - domains: The Chosen, Mind, Trickery, War
+  - domains: The Chosen, Mind, War
 
 </details>
 
