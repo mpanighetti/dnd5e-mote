@@ -7,4 +7,4 @@
 - Kyran
 - Pela Pipina
 - S4R4
-- [Twill](twill.md): Academerie representative
+- [Twill](../../baluts-academerie/members/twill.md): [Balut's Academerie](../../baluts-academerie/) representative

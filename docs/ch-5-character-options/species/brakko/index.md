@@ -22,12 +22,10 @@ As a brakko, you have the following special traits.
 
 _**Ambush Predator.**_ You can take the Hide action as a Bonus Action and add a d4 to the check. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
-_**Amphibious.**_ You can breathe air and water.
-
 _**Bite.**_ You have a fanged maw that you can use to make Unarmed Strikes. When you hit with it, the strike deals 1d6 + your Strength modifier Piercing damage, instead of the Bludgeoning damage normal for an Unarmed Strike.
 
 _**Charge.**_ If you move at least 20 feet straight toward a target and then hit them with your Bite attack on the same turn, the target takes an extra 1d6 Piercing damage, and if the target is a creature of the same Size as you or smaller, they are caught in your mouth and have the Grappled condition. While a creature is Grappled in this manner, your Swim Speed is not halved due to dragging or carrying the creature, and you cannot attempt to grapple another creature with your Bite.
 
 _**Depth Strider.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
 
-_**Water Dependency.**_ If you fail to immerse yourself in water for at least 1 hour during a day, you gain 1 Exhaustion level at the end of that day.
+_**Limited Amphibiousness.**_ You can breathe air and water. You must be submerged in water at least once every day, or you gain 1 Exhaustion level at the end of that day.
