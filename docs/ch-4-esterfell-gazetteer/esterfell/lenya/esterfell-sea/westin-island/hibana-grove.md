@@ -10,4 +10,4 @@ Since Ashín was settled in 142 AP, the local population has attempted to preven
 
 ### Etymology
 
-The forest's name comes from a pre-[Esterfell](../../) human language and means "spark".
+The forest's name comes from a pre-[Esterfell](../../) human language (火花) and means "spark".
