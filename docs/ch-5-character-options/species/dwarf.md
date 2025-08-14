@@ -28,7 +28,7 @@ _**Desert Born.**_ Because of your natural adaptations to hot climates, you have
 
 _**Dwarven Resilience.**_ You have Resistance to Poison.
 
-_**Walk Without Rhythm.**_ You can take both the the Dash and Disengage actions as a Bonus Action. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+_**Walk Without Rhythm.**_ You can take both the Dash and Disengage actions as a Bonus Action. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 ### Hill dwarf
 
