@@ -4,7 +4,7 @@
 
 - [Balut](balut.md): headmasterer
 - Z'mara: professor
-- [Twill](../../arcartisans/members/twill.md): gardener
+- [Twill](twill.md): gardener
 
 ## Students
 

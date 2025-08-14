@@ -8,7 +8,7 @@ This section describes some of these other lands of Mote from the perspective of
 
 ## Atæros
 
-- **Demographics:** dragonborn, dwarf (burrow, mountain), gnome (rock), goliath (frost, stone), orc
+- **Demographics:** dragonborn, dwarf (mountain), gnome (rock), goliath (frost, stone), orc
 - **Demonyms:** Atæron
 
 The **Atæron Mining Consortium** was a company formed by multiple wealthy families. The Consortium strip-mined the mountainous region of **Atæros** and traded precious gems and metals to the other nations to build a prosperous empire. All people with full Atæros citizenship, including those born from Atæron parents while out of the country, were considered to be legal stakeholders in the Consortium, granting them an annual dividend paid from the company's profits.

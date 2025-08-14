@@ -14,13 +14,13 @@ These aquatic beings originally hail from the Elemental Plane of Water. Many pes
 
 Pescans were technically among the earliest immigrants to the continent of [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/), mostly settling on the continental shelf to its north. Eventually they, along with other peaceful seafaring folks, called their growing nation [Xiahulia](../../../ch-2-people-of-mote/societies/xiahulia.md), and it is where most pescans are found today.
 
-Some pescans have wandered inland to the [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/), though their dependence on seawater meant they could never make significant inroads to the inland regions, resulting in most Accord pescans being found in coastal towns such as [Cape Bec](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/), [Cape Luz](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-luz.md), and [Suizenloch](../../../ch-2-people-of-mote/societies/esterfell-accord/suizenloch.md).
+Some pescans have wandered inland to the [Esterfell Accord](../../../ch-2-people-of-mote/societies/esterfell-accord/), though their dependence on seawater meant they could never make significant inroads to the inland regions, resulting in most Accord pescans being found in coastal towns such as [Cape Bec](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-bec/), [Cape Luz](../../../ch-2-people-of-mote/societies/esterfell-accord/cape-luz.md), and [Suizenloch](../../../ch-2-people-of-mote/societies/esterfell-accord/suizenloch/).
 
 ## Traits
 
 - _**Creature Type:**_ Elemental
 - _**Size:**_ Small (2-4 feet tall) or Medium (4-8 feet tall), chosen when you select this species
-- _**Speed:**_ 20 feet, Swim 40 feet
+- _**Speed:**_ 20 feet (Small) or 25 feet (Medium), Swim 40 feet
 - _**Resistances:**_ Cold (**Depth Strider**); Charmed, Frightened (**Abyssal Resilience**)
 - _**Senses:**_ Darkvision 60 feet
 
@@ -28,10 +28,8 @@ As a pescan, you have the following special traits.
 
 _**Abyssal Resilience.**_ Your people have stared into the infinite depths of the Elemental Plane of Water, making their mental reserves similarly deep. You have Resistance to the Charmed and Frightened conditions.
 
-_**Amphibious.**_ You can breathe air and water.
-
 _**Depth Strider.**_ Adapted to the frigid ocean depths, you have Resistance to Cold damage.
 
-_**Water Dependency.**_ If you fail to immerse yourself in water for at least 1 hour during a day, you gain 1 Exhaustion level at the end of that day.
+_**Limited Amphibiousness.**_ You can breathe air and water. You must be submerged in water at least once every day, or you gain 1 Exhaustion level at the end of that day.
 
 _**Water Magic.**_ You know the _Elementalism_ cantrip. When you reach character level 3, you learn the _Create or Destroy Water_ spell, and when you reach character level 5, you learn the _Sleet Storm_ spell. You always have these leveled spells prepared, you can cast them each once without a spell slot, and you regain the ability to cast them in this way when you finish a Long Rest.  You can also use any spell slots you have to cast these spells. Constitution is your spellcasting ability for the spells you cast with this trait.

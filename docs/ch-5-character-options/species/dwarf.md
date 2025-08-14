@@ -6,28 +6,6 @@ Dwarves possess a profound connection to the minerals that constitute [Mote](../
 
 ## Dwarven ancestries
 
-### Burrow dwarf
-
-**Burrow dwarves** hail originally from deep underground. Over generations, they lost their Darkvision as they developed a preternatural ability to detect movement through vibrations in the ground, making them well-suited to a subterranean lifestyle. They also developed powerful claws on the outside of their forearms to more efficiently dig through dirt and stone. A lack of regular sun exposure leaves their skin pale and gray.
-
-#### Distribution
-
-Burrow dwarves established large settlements in the lava tubes shaped over millennia by [Mount Hora](../../ch-4-esterfell-gazetteer/esterfell/lenya/mount-hora.md)'s eruptions, eventually expanding them into a great network of interconnected tunnels that grant access to Yggru under the [Lorunian Strait](../../ch-4-esterfell-gazetteer/coasts-of-esterfell/lorunian-strait.md).
-
-#### Traits
-
-- _**Creature Type:**_ Humanoid
-- _**Size:**_ Medium (4-5 feet tall)
-- _**Speed:**_ 30 feet, Burrow 30 feet (**Burrow**)
-- _**Resistances:**_ Poison (**Dwarven Resilience**)
-- _**Senses:**_ Tremorsense 30 feet
-
-As a burrow dwarf, you have the following special traits.
-
-_**Burrow.**_ You have a Burrow Speed equal to your Speed. Additionally, you can burrow through solid rock, treating such spaces as Difficult Terrain and leaving a 5-foot diameter tunnel in your wake.
-
-_**Dwarven Resilience.**_ You have Resistance to Poison.
-
 ### [Desert dwarf](https://github.com/mpanighetti/dnd5e-species/tree/main/humanoids/desert-dwarf.md)
 
 **Desert dwarves** developed many distinct traits that make them comfortable within arid environments. Their wider feet allow them to distribute their weight across the desert sands without sinking. Their impressive beards grow thick and shaggy to insulate them from the unrelenting sun while also trapping body heat at night, and this growth of hair extends around their chests to their backs, providing ample coverage.
@@ -50,7 +28,7 @@ _**Desert Born.**_ Because of your natural adaptations to hot climates, you have
 
 _**Dwarven Resilience.**_ You have Resistance to Poison.
 
-_**Walk Without Rhythm.**_ You can take the Dash action as a Bonus Action. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+_**Walk Without Rhythm.**_ You can take both the the Dash and Disengage actions as a Bonus Action. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 ### Hill dwarf
 
