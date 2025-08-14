@@ -23,7 +23,7 @@ As a spark, you have the following special traits.
 _**Mechanical Nature.**_ Your artificial body grants the following benefits:
 
 - You have resistance to Poison and to the Paralyzed condition.
-- You use your Constitution modifier when determining your Armor Class instead of your Dexterity modifier, unless your Constitution modifier is already being added to your AC by another source, such as a Barbarian's Unarmored Defense.
+- You use your Constitution modifier when determining your Armor Class instead of your Dexterity modifier, unless your Constitution modifier is already being added to your AC by another source.
 - You don't need to eat, drink, or breathe.
 - If the _Mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
