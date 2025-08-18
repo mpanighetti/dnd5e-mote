@@ -14,7 +14,7 @@ There are no larger societal distributions of sparks, as the nature of their cre
 
 - _**Creature Type:**_ Construct
 - _**Size:**_ Tiny (1-2 feet tall), Small (2-4 feet tall), or Medium (4-7 feet tall), chosen when you select this species
-- _**Speed:**_ 30 feet
+- _**Speed:**_ 10 feet (Tiny) or 30 feet (Small or Medium), Fly 25 feet (Tiny)
 - _**Resistances:**_ Poison; Paralyzed (**Mechanical Nature**)
 - _**Life Span:**_ unknown (immune to magical aging effects)
 
