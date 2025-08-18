@@ -2,13 +2,13 @@
 
 ## Description
 
-**Sparks** are constructed beings that have been imbued with sentience through a magical infusion of [starstuff](../../ch-6-mote-treasures/starstuff.md) dust. They have a broad variety of physical builds and appearances, as they were originally purpose-built by Esterfolk tinkerers as laborers.
+**Sparks** are constructed beings that have been imbued with sentience through a magical infusion of [starstuff](../../../ch-6-mote-treasures/starstuff.md) dust. They have a broad variety of physical builds and appearances, as they were originally purpose-built by Esterfolk tinkerers as laborers.
 
-A spark is distinguished from other constructed beings by the gift of sapience granted to them by starstuff, a technique that has thus far only been utilized in a limited capacity due to the rarity of starstuff on [Mote](../../ch-1-welcome-to-mote/cosmology/mote.md) and the poorly understood implications of granting intelligence to artificial beings.
+A spark is distinguished from other constructed beings by the gift of sapience granted to them by starstuff, a technique that has thus far only been utilized in a limited capacity due to the rarity of starstuff on [Mote](../../../ch-1-welcome-to-mote/cosmology/mote.md) and the poorly understood implications of granting intelligence to artificial beings.
 
 ## Distribution
 
-There are no larger societal distributions of sparks, as the nature of their creation and the recency of their invention has not given sufficient time for them to propagate. Most sparks came to sentience at [Balut's Academerie for the Magistically Inclinated](../../ch-2-people-of-mote/organizations/baluts-academerie/) and many still reside at the Academerie or in [Bridgeport](../../ch-2-people-of-mote/societies/esterfell-accord/bridgeport/), but some who sought new destinies beyond their original constructed purposes have ventured to other areas of [Lenya](../../ch-4-esterfell-gazetteer/esterfell/lenya/).
+There are no larger societal distributions of sparks, as the nature of their creation and the recency of their invention has not given sufficient time for them to propagate. Most sparks came to sentience at [Balut's Academerie for the Magistically Inclinated](../../../ch-2-people-of-mote/organizations/baluts-academerie/) and many still reside at the Academerie or in [Bridgeport](../../../ch-2-people-of-mote/societies/esterfell-accord/bridgeport/), but some who sought new destinies beyond their original constructed purposes have ventured to other areas of [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/).
 
 ## Traits
 
