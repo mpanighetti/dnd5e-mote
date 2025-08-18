@@ -1,4 +1,4 @@
-# Gnome
+# Gnomes
 
 ## Description
 
@@ -42,7 +42,7 @@ The temperate forests of Lenya, particularly the [Eastern Forests](../../../ch-4
 
 ### Rock gnome
 
-**Rock gnomes** originated from deep underneath the largest mountains of Mote. In some corners of the world, the existence of rock gnomes only became common knowledge on the surface when [mountain dwarves](../dwarf/index.md#mountain-dwarf) unearthed them during deep mining expeditions. Their magical connection to stone makes them natural masons, and their desire to know everything about how minerals interact leads many of them to tinkering.
+**Rock gnomes** originated from deep underneath the largest mountains of Mote. In some corners of the world, the existence of rock gnomes only became common knowledge on the surface when [mountain dwarves](../dwarves/index.md#mountain-dwarf) unearthed them during deep mining expeditions. Their magical connection to stone makes them natural masons, and their desire to know everything about how minerals interact leads many of them to tinkering.
 
 #### Distribution
 

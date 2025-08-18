@@ -1,4 +1,4 @@
-# Pescan
+# Pescans
 
 **Pescans** are intelligent fishfolk found in the oceans across [Mote](../../../ch-1-welcome-to-mote/cosmology/mote.md).
 

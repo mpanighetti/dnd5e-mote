@@ -11,7 +11,7 @@
 
 ### Physical
 
-- species: [mountain dwarf](../../../../ch-5-character-options/species/dwarf/index.md#mountain-dwarf)
+- species: [mountain dwarf](../../../../ch-5-character-options/species/dwarves/index.md#mountain-dwarf)
 
 ## History
 

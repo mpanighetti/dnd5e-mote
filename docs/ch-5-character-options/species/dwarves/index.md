@@ -1,4 +1,4 @@
-# Dwarf
+# Dwarves
 
 **Dwarves** are short, broad humanoids who immigrated to [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/) in the first few waves of ships. Various groups of dwarves settled across [Lenya](../../../ch-4-esterfell-gazetteer/esterfell/lenya/), [Yggru](../../../ch-4-esterfell-gazetteer/esterfell/yggru/), and [Barria](../../../ch-4-esterfell-gazetteer/esterfell/barria.md), distributing themselves based on traditional trades and environmental preferences carried over from their ancestral lands.
 

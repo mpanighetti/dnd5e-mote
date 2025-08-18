@@ -11,4 +11,4 @@
 
 ### Physical
 
-- species: [forest gnome](../../../ch-5-character-options/species/gnome/index.md#forest-gnome)
+- species: [forest gnome](../../../ch-5-character-options/species/gnomes/index.md#forest-gnome)

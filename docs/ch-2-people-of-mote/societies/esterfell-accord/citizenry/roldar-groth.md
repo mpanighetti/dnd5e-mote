@@ -11,7 +11,7 @@
 
 ### Physical
 
-- species: [hill dwarf](../../../../ch-5-character-options/species/dwarf/index.md#hill-dwarf)
+- species: [hill dwarf](../../../../ch-5-character-options/species/dwarves/index.md#hill-dwarf)
 
 ## Description
 
