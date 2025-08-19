@@ -1,4 +1,4 @@
-# [Dire Clam](https://github.com/mpanighetti/dnd5e-monsters/blob/main/elementals/dire-clam.md)
+# Dire Clam
 
 #### Attributes
 

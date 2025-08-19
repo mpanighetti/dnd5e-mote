@@ -6,7 +6,7 @@
 
 ## Gnomish lineages
 
-### [Dust gnome](https://github.com/mpanighetti/dnd5e-species/tree/main/humanoids/dust-gnome.md)
+### Dust gnome
 
 **Dust gnomes** are a lineage of smallfolk with an innate bond to the elements of earth and fire. Their ears are larger and wider than their gnomish cousins, granting them keen awareness of their surroundings.
 

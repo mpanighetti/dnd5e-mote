@@ -12,7 +12,7 @@ This section contains new spells developed in the world of [Mote](../ch-1-welcom
 
 The spells are presented in alphabetical order.
 
-### [Kyran's Gambit](https://github.com/mpanighetti/dnd5e-spells/blob/main/1st-level/kyrans-gambit.md)
+### Kyran's Gambit
 
 _Level 1 Abjuration_ (Rogue (Arcane Trickster), Warlock)
 
@@ -31,7 +31,7 @@ After the spell ends, or if the spell fails, the target is immune to this spell 
 
 _**Using a Higher-Level Spell Slot.**_ The damage dealt by starting a turn in the demiplane increases by 1d8 for each spell slot level above 1. Additionally, if you use a level 6+ spell slot, the spell doesn't require Concentration.
 
-### [Pass Without Note](https://github.com/mpanighetti/dnd5e-spells/blob/main/2nd-level/pass-without-note.md)
+### Pass Without Note
 
 _Level 2 Enchantment_ (Bard, Sorcerer, Warlock, Wizard)
 

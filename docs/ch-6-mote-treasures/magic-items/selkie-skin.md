@@ -1,4 +1,4 @@
-# [Selkie Skin](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/selkie-skin.md)
+# Selkie Skin
 
 _Wondrous Item, Uncommon_
 

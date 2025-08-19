@@ -6,7 +6,7 @@ Dwarves possess a profound connection to the minerals that constitute [Mote](../
 
 ## Dwarven ancestries
 
-### [Desert dwarf](https://github.com/mpanighetti/dnd5e-species/tree/main/humanoids/desert-dwarf.md)
+### Desert dwarf
 
 **Desert dwarves** developed many distinct traits that make them comfortable within arid environments. Their wider feet allow them to distribute their weight across the desert sands without sinking. Their impressive beards grow thick and shaggy to insulate them from the unrelenting sun while also trapping body heat at night, and this growth of hair extends around their chests to their backs, providing ample coverage.
 

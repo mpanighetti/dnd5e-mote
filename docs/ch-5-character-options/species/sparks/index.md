@@ -1,4 +1,4 @@
-# [Sparks](https://github.com/mpanighetti/dnd5e-species/blob/main/constructs/spark.md)
+# Sparks
 
 ## Description
 
