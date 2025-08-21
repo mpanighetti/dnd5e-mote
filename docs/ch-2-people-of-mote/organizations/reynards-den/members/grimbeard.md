@@ -11,7 +11,7 @@
 
 ### Physical
 
-- species: [duergar](../../../../ch-5-character-options/species/dwarf.md#duergar)
+- species: [sand dwarf](../../../../ch-5-character-options/species/dwarves/index.md#sand-dwarf)
 
 > [!TIP]
 > Grimbeard is inspired by Grimbard the Badger from [Reynard the Fox](https://en.wikipedia.org/wiki/Reynard_the_Fox).

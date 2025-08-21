@@ -1,4 +1,4 @@
-# [Phygius](https://github.com/mpanighetti/dnd5e-monsters/blob/main/fey/phygius.md)
+# Phygius
 
 _Cervid Deity Between Worlds_
 

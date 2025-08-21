@@ -11,7 +11,7 @@
 
 ### Physical
 
-- species: [rock gnome](../../../../ch-5-character-options/species/gnome.md#rock-gnome)
+- species: [rock gnome](../../../../ch-5-character-options/species/gnomes/index.md#rock-gnome)
 
 ## Stat block
 

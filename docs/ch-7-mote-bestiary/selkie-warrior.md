@@ -1,4 +1,4 @@
-# [Selkie Warrior](https://github.com/mpanighetti/dnd5e-monsters/blob/main/fey/selkie-warrior.md)
+# Selkie Warrior
 
 #### Description
 

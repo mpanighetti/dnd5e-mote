@@ -44,7 +44,7 @@ _**Toxic Contact Poison.**_ If a creature that is already Poisoned by murex fail
 
 The following creatures are all based on existing creatures and modified with murexian traits based on their original challenge rating (the murexian squirrel is based on a rat). This can serve as an example of how murex corruption affects a stat block. Note that the addition of Poison immunity, contact Poison effects, and increased damage on attacks may increase a creature's challenge rating; an effort has been made to recalculate challenge ratings accordingly, and some attributes have been adjusted to better match the new challenge rating.
 
-### [Murexian Squirrel](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-squirrel.md)
+### Murexian Squirrel
 
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/murexian-squirrel-tigerlilynoh.png" alt="Drawing of murexian squirrel, depicting a squirrel with fangs, claws, and purple coloration in their eyes and on their neon-striped fur, sitting atop a human skull." />
@@ -89,7 +89,7 @@ _**Contact Poison.**_ If another creature comes into direct contact with the squ
 
 _**Bite.** Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Piercing damage.
 
-### [Murexian Twig Blight](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-twig-blight.md)
+### Murexian Twig Blight
 
 #### Attributes
 
@@ -129,7 +129,7 @@ _**Contact Poison.**_ If another creature comes into direct contact with the twi
 
 _**Claw.** Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Slashing damage.
 
-### [Murexian Giant Boar](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-giant-boar.md)
+### Murexian Giant Boar
 
 #### Attributes
 
@@ -167,7 +167,7 @@ _**Murexian Poison.**_ All of the boar's attacks and traits that deal Poison dam
 
 _**Gore.** Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Piercing damage. If the target is a Large or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing damage and has the Prone condition.
 
-### [Murexian Hellwasp](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-hellwasp.md)
+### Murexian Hellwasp
 
 <figure>
   <img src="https://github.com/mpanighetti/dnd5e-030crc/raw/main/artwork/murexian-hellwasp-tigerlilynoh.png" alt="Drawing of murexian hellwasp, depicting a wasp with purple coloration on their body and wings." />
@@ -218,7 +218,7 @@ _**Sting.** Melee Attack Roll:_ +7, reach 5 ft.. _Hit:_ 8 (1d8 + 4) Piercing dam
 
 _**Sword Talons.** Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 11 (2d6 + 4) Piercing damage plus 3 (1d6) Poison damage.
 
-### [Murexian Tyrannosaurus Rex](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-tyrannosaurus-rex.md)
+### Murexian Tyrannosaurus Rex
 
 #### Attributes
 
@@ -262,7 +262,7 @@ _**Bite.**_ _Melee Attack Roll:_ +11, reach 10 ft. _Hit:_ 33 (4d12 + 7) Piercing
 
 _**Tail.**_ _Melee Attack Roll:_ +11, reach 15 ft. _Hit:_ 25 (4d8 + 7) Bludgeoning damage plus 14 (4d6) Poison damage.  If the target is a Huge or smaller creature, it has the Prone condition.
 
-### [Murexian Beholder](https://github.com/mpanighetti/dnd5e-monsters/blob/main/monstrosities/murexian-beholder.md)
+### Murexian Beholder
 
 It is a strange scenario indeed for a beholder to allow themself to become corrupted by murex. This might occur if the beholder was driven out of their lair and had to flee, finding themself in the Murexian Grove and subsisting on the tainted flesh of the beasts found there to survive. Or it may have been a conscious decision, some play to take in these powerful toxins to use against their real or perceived foes. The ambitions of a beholder are sometimes difficult to predict, and a beholder prefers it this way.
 

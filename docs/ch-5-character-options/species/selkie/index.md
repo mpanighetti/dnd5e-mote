@@ -1,4 +1,4 @@
-# [Selkie](https://github.com/mpanighetti/dnd5e-species/blob/main/fey/selkie.md)
+# Selkie
 
 **Selkie** are intelligent sealfolk who live in the shallow waters surrounding [Esterfell](../../../ch-4-esterfell-gazetteer/esterfell/). For many centuries, their true nature was unknown by land-bound peoples, often being attributed to fish tales passed around by sailors.
 
