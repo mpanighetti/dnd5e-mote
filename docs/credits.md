@@ -4,7 +4,7 @@
 
 **Developers:** Mario Panighetti (lead)
 
-**Interior Illustrators:** Aeden Berman, Dylan Berman, [Haru](https://twitter.com/200dollarHaru), [Nikki Lacey](https://linktr.ee/hollycircling), Mario Panighetti, [TigerLilyNoh](https://tigerlilynoh.tumblr.com)
+**Interior Illustrators:** Aeden, [Danman26](https://github.com/Danman26), [Haru](https://twitter.com/200dollarHaru), [Nikki Lacey](https://linktr.ee/hollycircling), Mario Panighetti, and [TigerLilyNoh](https://tigerlilynoh.tumblr.com)
 
 ## Third-Party Content References
 
