@@ -3,7 +3,7 @@
 **Dex** is a former student of the [Shorsta-Halasma](../../shorsta-halasma/shorsta-halasma,d) who has continued his monk studies independently.
 
 <figure>
-  <img src="dex-monk-5-dylan-berman.png" width="300" alt="Hero Forge 3D model of a male-presenting elf with tan skin, slicked-back red-brown hair, and blue eyes. His facial expression is one of stern determination. He wears leather armor with accents of green and magenta fabric, a yellow cloak, and green trousers. His feet are exposed, and his hands have basic padded wraps for protection. He wields a wooden staff in one hand while raising one foot in a kicking motion." />
+  <img src="dex-monk-5-danman26.png" width="300" alt="Hero Forge 3D model of a male-presenting elf with tan skin, slicked-back red-brown hair, and blue eyes. His facial expression is one of stern determination. He wears leather armor with accents of green and magenta fabric, a yellow cloak, and green trousers. His feet are exposed, and his hands have basic padded wraps for protection. He wields a wooden staff in one hand while raising one foot in a kicking motion." />
   <figcaption>Dex - Monk 5 by [Danman26](https://github.com/Danman26)</figcaption>
 </figure>
 
