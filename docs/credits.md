@@ -1,10 +1,16 @@
 # Credits
 
+## Game Development
+
 **Designers:** [Mario Panighetti](https://mario.panighetti.net) (lead)
 
 **Developers:** Mario Panighetti (lead)
 
-**Interior Illustrators:** Aeden, [Danman26](https://github.com/Danman26), [Haru](https://twitter.com/200dollarHaru), [Nikki Lacey](https://linktr.ee/hollycircling), Mario Panighetti, and [TigerLilyNoh](https://tigerlilynoh.tumblr.com)
+## Artwork
+
+**Interior Illustrators:** [Haru](https://twitter.com/200dollarHaru), [Nikki Lacey](https://linktr.ee/hollycircling), Mario Panighetti, and [TigerLilyNoh](https://tigerlilynoh.tumblr.com)
+
+**Interior 3D Modelers:** [burrrrrman](https://www.instagram.com/burrrrrman) and [Danman26](https://github.com/Danman26). 3D models created using Hero Forge. The characters depicted are owned by their creators, and the 3D models and associated screenshots are the property of Sky Castle Studios, included in this project with permission from Sky Castle Studios for personal, non-commercial use, as laid out in their [terms of service](https://www.heroforge.com/ToS).
 
 ## Third-Party Content References
 
