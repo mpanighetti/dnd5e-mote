@@ -3,7 +3,7 @@
 - [Alden Vacker](alden-vacker.md)
 - Alyseris
 - [Dex](dex.md)
-- Ellie Zap
+- [Ellie Zap](ellie-zap.md)
 - Jedha
 - [Kalista](kalista.md)
 - [Mírial Windstar](mirial-windstar.md)
