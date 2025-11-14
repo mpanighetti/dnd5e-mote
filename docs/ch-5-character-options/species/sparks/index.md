@@ -22,12 +22,11 @@ As a spark, you have the following special traits.
 
 _**Mechanical Nature.**_ Your artificial body grants the following benefits:
 
-- You have resistance to Poison and to the Paralyzed condition.
-- You use your Constitution modifier when determining your Armor Class instead of your Dexterity modifier, unless your Constitution modifier is already being added to your AC by another source.
+- You have Resistance to Poison and to the Paralyzed condition.
 - You don't need to eat, drink, or breathe.
 - If the _Mending_ spell is cast on you, you can spend and roll one of your Hit Dice to regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
 
-_**Power Cycle.**_ As a Magic action, you quickly power down your systems and restart them to refresh your body, regaining a number of Hit Dice equal to your Proficiency Bonus. After you take this action, you regain the ability to do so when you finish a Long Rest.
+_**Power Cycle.**_ You can perform a self-diagnostic for 1 minute, causing you to briefly power down your systems and restart them to refresh your body. At the end of this power cycle, you regain a number of expended Hit Dice equal to your Proficiency Bonus. Once you use this feature, you can't do so again until you finish a Long Rest.
 
 _**Sentry's Rest.**_ When you take a Long Rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you remain conscious.
 
